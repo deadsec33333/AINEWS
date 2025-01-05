@@ -1,0 +1,1533 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>security Archives - AI News</title>
+	<atom:link href="https://www.artificialintelligence-news.com/news/tag/security/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.artificialintelligence-news.com/news/tag/security/</link>
+	<description>Artificial Intelligence News</description>
+	<lastBuildDate>Fri, 03 Jan 2025 08:35:35 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://www.artificialintelligence-news.com/wp-content/uploads/2020/09/ai-icon-60x60.png</url>
+	<title>security Archives - AI News</title>
+	<link>https://www.artificialintelligence-news.com/news/tag/security/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Rethinking video surveillance: The case for smarter, more flexible solutions</title>
+		<link>https://www.artificialintelligence-news.com/news/rethinking-video-surveillance-the-case-for-smarter-more-flexible-solutions/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rethinking-video-surveillance-the-case-for-smarter-more-flexible-solutions</link>
+					<comments>https://www.artificialintelligence-news.com/news/rethinking-video-surveillance-the-case-for-smarter-more-flexible-solutions/#respond</comments>
+		
+		<dc:creator><![CDATA[Margaret Maley]]></dc:creator>
+		<pubDate>Thu, 02 Jan 2025 10:17:18 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[Surveillance]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[applications]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[surveillance]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16758</guid>
+
+					<description><![CDATA[<p>Video surveillance has come a long way from simple CCTV setups. Today&#8217;s businesses demand more – smarter analytics, enhanced security, and seamless scalability. As organisations adopt AI and automation across their operations, video management systems (VMS) face new challenges: These questions are not hypothetical. They represent real obstacles businesses face when managing video surveillance systems.<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/rethinking-video-surveillance-the-case-for-smarter-more-flexible-solutions/" title="ReadRethinking video surveillance: The case for smarter, more flexible solutions">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/rethinking-video-surveillance-the-case-for-smarter-more-flexible-solutions/">Rethinking video surveillance: The case for smarter, more flexible solutions</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Video surveillance has come a long way from simple CCTV setups. Today&#8217;s businesses demand more – smarter analytics, enhanced security, and seamless scalability. As organisations adopt AI and automation across their operations, video management systems (VMS) face new challenges:</p>
+
+
+
+<ul class="wp-block-list">
+<li>How to keep video surveillance scalable and easy to manage?</li>
+
+
+
+<li>Can AI analytics like face recognition or behaviour detection be integrated without breaking the budget?</li>
+
+
+
+<li>Is my current system prepared for modern security risks?</li>
+</ul>
+
+
+
+<p>These questions are not hypothetical. They represent real obstacles businesses face when managing video surveillance systems. Solving them requires innovative thinking, flexible tools, and a smarter approach to how systems are designed and operated.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img fetchpriority="high" decoding="async" width="1024" height="768" src="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-1.jpeg" alt="" class="wp-image-16761" style="width:607px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-1.jpeg 1024w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-1-300x225.jpeg 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-1-768x576.jpeg 768w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-1-267x200.jpeg 267w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-1-380x285.jpeg 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-1-333x250.jpeg 333w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-1-100x75.jpeg 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-1-60x45.jpeg 60w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">The Shift to Smarter Surveillance</h3>
+
+
+
+<p>Traditional video surveillance systems often fail to meet the needs of dynamic, modern environments. Whether it&#8217;s a retail chain looking to analyse customer behaviour or a factory monitoring equipment safety, the tools of yesterday aren&#8217;t enough to address today&#8217;s demands.</p>
+
+
+
+<p>The shift towards smarter surveillance involves integrating modular, AI-driven systems that:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Adapt to your specific needs,</li>
+
+
+
+<li>Automate tedious tasks like footage analysis,</li>
+
+
+
+<li>Offer advanced analytics, like emotion detection or license plate recognition,</li>
+
+
+
+<li>Remain accessible to both tech-savvy professionals and beginners.</li>
+</ul>
+
+
+
+<p>This isn&#8217;t just a technical shift; it&#8217;s a shift in mindset. Businesses now see surveillance not only as a security measure but as a strategic tool for operational insight.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img decoding="async" width="1024" height="454" src="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-2-1024x454.png" alt="" class="wp-image-16762" style="width:598px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-2-1024x454.png 1024w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-2-300x133.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-2-768x341.png 768w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-2-1536x682.png 1536w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-2-380x169.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-2-350x155.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-2-100x44.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-2-60x27.png 60w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-2.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">Meet Xeoma: The modular approach to smarter surveillance</h3>
+
+
+
+<p>At the forefront of this smarter surveillance revolution is<a href="https://felenasoft.com/xeoma/en/?utm_source=ainews&amp;utm_campaign=article"> Xeoma</a>, a modular, AI-powered video surveillance software that provides various solutions to challenges of modern businesses:</p>
+
+
+
+<p>Modularity for customisation.<strong> </strong>Xeoma&#8217;s plug-and-play structure allows businesses to tailor their surveillance systems. Whether you need facial recognition, vehicle detection, or heatmaps of customer activity, Xeoma makes it easy to add or remove modules as needed.</p>
+
+
+
+<p>AI-powered analytics: Xeoma offers<a href="https://felenasoft.com/xeoma/en/articles/additional_modules_xeoma/?utm_source=ainews&amp;utm_campaign=article"> cutting-edge features</a> like:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Object recognition: Detect and classify objects like people, animals, and vehicles,</li>
+
+
+
+<li>Voice-to-text: Transcribe spoken words into text,</li>
+
+
+
+<li>Fire detection: Detect the presence of fire or smoke,</li>
+
+
+
+<li>Licence plate recognition: Automatically read and record vehicle licence plates,</li>
+
+
+
+<li>Age and gender recognition: Determine the age range and gender of individuals.</li>
+</ul>
+
+
+
+<p>Ease of use: Unlike many systems with steep learning curves, Xeoma is designed to be user-friendly. Its intuitive interface ensures that even non-technical users can quickly set up and operate the software.</p>
+
+
+
+<p>Seamless integration: Xeoma integrates with IoT devices, access control systems, and other third-party tools, making it an ideal choice for businesses looking to enhance their existing setups.</p>
+
+
+
+<p>Cost efficiency: With Xeoma, you only pay once thanks to the<a href="https://felenasoft.com/xeoma/en/buy/?utm_source=ainews&amp;utm_campaign=article"> lifetime licences</a>. The pricing structure ensures that businesses of all sizes, from startups to enterprises, can find a solution that fits their budgets.</p>
+
+
+
+<p>Unlimited scalability: Xeoma has no limitations in number of cameras it can work with. Either the system has tens, hundreds or thousands of cameras – Xeoma will handle them all</p>
+
+
+
+<p>Encrypted communication: Xeoma uses secure communication protocols (HTTPS, SSL/TLS) to encrypt data transmitted between the server, cameras, and clients. The prevents unauthorised access during data transmission.</p>
+
+
+
+<p>Xeoma&#8217;s flexible design and robust features allow it to be tailored to a wide range of scenarios, empowering organisations to meet their unique challenges while staying efficient, secure, and scalable.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" width="1024" height="768" src="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-3.jpg" alt="" class="wp-image-16763" style="width:580px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-3.jpg 1024w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-3-300x225.jpg 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-3-768x576.jpg 768w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-3-267x200.jpg 267w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-3-380x285.jpg 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-3-333x250.jpg 333w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-3-100x75.jpg 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-3-60x45.jpg 60w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">How Xeoma benefits your business: Scenarios</h3>
+
+
+
+<p>Xeoma isn&#8217;t just a tool for security – it&#8217;s a versatile platform that<a href="https://felenasoft.com/xeoma/en/application-of-video-surveillance-xeoma/?utm_source=ainews&amp;utm_campaign=article"> adapts to your environment</a>, whether you run a small retail store, manage a factory floor, or oversee an entire urban surveillance network.</p>
+
+
+
+<h4 class="wp-block-heading">Retail: Elevating customer experience</h4>
+
+
+
+<p>Picture this: You manage a busy store where you need to understand peak traffic hours and monitor for shoplifting. With Xeoma one can:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Deploy AI-based &#8216;face recognition&#8217; to discreetly flag known shoplifters or VIP customers to enhance service,</li>
+
+
+
+<li>Use &#8216;visitors counter&#8217; and &#8216;crowd detector&#8217; to identify when foot traffic is highest and allocate staff accordingly,</li>
+
+
+
+<li>Analyse heatmaps to see which areas of the store attract the most attention, optimising product placement,</li>
+
+
+
+<li>Add &#8216;unique visitors counter&#8217; module to your system to group people by frequency of attendance. At the same time, age and gender recognition will assist you in tailoring your promo more accurately,</li>
+
+
+
+<li>Enhance the results of your marketing efforts with eye tracking by getting insights into human psychology.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">Manufacturing: Ensuring workplace safety</h4>
+
+
+
+<p>On a bustling factory floor, every second matters, and safety is critical. Xeoma can help by:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Detecting if workers are in restricted zones using &#8216;cross-line detector,&#8217;</li>
+
+
+
+<li>Monitoring compliance with safety protocols with helmet and mask detectors.</li>
+
+
+
+<li>Sending real-time alerts to supervisors about potential hazards, like machinery malfunctions or unauthorised access, via a plethora of means from push notifications to personalised alerts,</li>
+
+
+
+<li>Elevating trust and satisfaction levels with timelapse and streaming to YouTube.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">Urban surveillance: Protecting communities</h4>
+
+
+
+<p>If you&#8217;re part of a city planning team or law enforcement agency, Xeoma scales effortlessly to monitor entire districts:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Use licence plate recognition to track vehicles entering and exiting restricted areas,</li>
+
+
+
+<li>Automate responses to emergencies, from traffic incidents and rule violations (for example, speeding, passing on red traffic light or illegal parking detectors) to public safety threats,</li>
+
+
+
+<li>Identify suspicious behaviour in crowded public spaces using &#8216;loitering detector,&#8217;</li>
+
+
+
+<li>Detect graffiti and ads that have prohibited words like &#8220;drugs&#8221; with text recognition,</li>
+
+
+
+<li>Recognise faces to find wanted or missing people with face identification.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">Education: Safeguarding schools</h4>
+
+
+
+<p>For schools and universities, safety is a top priority. Xeoma provides:</p>
+
+
+
+<ul class="wp-block-list">
+<li>AI alerts with &#8216;detector of abandoned objects&#8217; and &#8216;sound detector&#8217; for detecting unattended bags or abnormal behaviour, ensuring quick response times,</li>
+
+
+
+<li>Smoke and fire detection that allows you to prevent or promptly respond to the body of fire.</li>
+
+
+
+<li>Smart automated verification with &#8216;smart-card reader&#8217; and &#8216;face ID&#8217; that help to avoid the penetration by unauthorised persons,</li>
+
+
+
+<li>Integration with existing access control systems via API or HTTP protocol for a seamless security solution,</li>
+
+
+
+<li>Live streaming to your educational entity website or YouTube can enhance parental engagement or build a positive image, while eye tracking serves as an effective anti-cheat solution in monitoring systems.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">Hospitality: Enhancing guest experiences</h4>
+
+
+
+<p>In the hospitality industry, guest satisfaction is everything. Xeoma helps you: </p>
+
+
+
+<ul class="wp-block-list">
+<li>Monitor entrances and exits with access control integration for smooth check-ins and check-outs,</li>
+
+
+
+<li>Use &#8217;emotion detector&#8217; to gauge customer satisfaction in common areas,</li>
+
+
+
+<li>Ensure staff compliance with protocols to maintain service quality with &#8216;voice-to-text&#8217; module.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Conclusion: Connecting Xeoma to your vision</h3>
+
+
+
+<p>Every business has its unique challenges, and Xeoma&#8217;s versatility means it can be the solution you need to overcome yours. Imagine running a business where:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Your team has actionable insights at their fingertips,</li>
+
+
+
+<li>Potential threats are flagged before they escalate,</li>
+
+
+
+<li>Your surveillance system doesn&#8217;t just protect – it empowers decision-making and growth.</li>
+</ul>
+
+
+
+<p>Xeoma isn&#8217;t just about surveillance; it&#8217;s about giving you peace of mind, actionable intelligence, and the flexibility to focus on what matters most – your people, your customers, and your vision for the future.</p>
+
+
+
+<p>Whether you&#8217;re securing a retail space, safeguarding a factory, or protecting an entire community, Xeoma&#8217;s modular, AI-powered platform adapts to your goals and grows alongside you.</p>
+
+
+
+<p>Ready to see how Xeoma can transform your video surveillance strategy? Explore a<a href="https://felenasoft.com/xeoma/en/support/activation-issues/get-demo-license/?utm_source=ainews&amp;utm_campaign=article"> free demo</a> and start building your ideal system today.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/rethinking-video-surveillance-the-case-for-smarter-more-flexible-solutions/">Rethinking video surveillance: The case for smarter, more flexible solutions</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/rethinking-video-surveillance-the-case-for-smarter-more-flexible-solutions/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>CrowdStrike: Cybersecurity pros want safer, specialist GenAI tools</title>
+		<link>https://www.artificialintelligence-news.com/news/crowdstrike-cybersecurity-pros-safer-specialist-genai-tools/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=crowdstrike-cybersecurity-pros-safer-specialist-genai-tools</link>
+					<comments>https://www.artificialintelligence-news.com/news/crowdstrike-cybersecurity-pros-safer-specialist-genai-tools/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Tue, 17 Dec 2024 13:00:13 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[cyber security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[infosec]]></category>
+		<category><![CDATA[security]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16724</guid>
+
+					<description><![CDATA[<p>CrowdStrike commissioned a survey of 1,022 cybersecurity professionals worldwide to assess their views on generative AI (GenAI) adoption and its implications. The findings reveal enthusiasm for GenAI’s potential to bolster defences against increasingly sophisticated threats, but also trepidation over risks such as data exposure and attacks on GenAI systems. While much has been speculated about<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/crowdstrike-cybersecurity-pros-safer-specialist-genai-tools/" title="ReadCrowdStrike: Cybersecurity pros want safer, specialist GenAI tools">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/crowdstrike-cybersecurity-pros-safer-specialist-genai-tools/">CrowdStrike: Cybersecurity pros want safer, specialist GenAI tools</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://www.crowdstrike.com/en-gb/">CrowdStrike</a> commissioned a survey of 1,022 cybersecurity professionals worldwide to assess their views on generative AI (GenAI) adoption and its implications.</p>
+
+
+
+<p>The findings reveal enthusiasm for GenAI’s potential to bolster defences against increasingly sophisticated threats, but also trepidation over risks such as data exposure and attacks on GenAI systems.</p>
+
+
+
+<p>While much has been speculated about the transformative impact of GenAI, the survey’s results paint a clearer picture of how practitioners are thinking about its role in cybersecurity.</p>
+
+
+
+<p>According to the report, “We’re entering the era of GenAI in cybersecurity.” However, as organisations adopt this promising technology, their success will hinge on ensuring the safe, responsible, and industry-specific deployment of GenAI tools.</p>
+
+
+
+<p>CrowdStrike’s research reveals five pivotal findings that shape the current state of GenAI in cybersecurity:</p>
+
+
+
+<ol class="wp-block-list">
+<li><strong>Platform-based GenAI is favoured </strong></li>
+</ol>
+
+
+
+<p>80% of respondents indicated a preference for GenAI delivered through integrated cybersecurity platforms rather than standalone tools. Seamless integration is cited as a crucial factor, with many preferring tools that work cohesively with existing systems. “GenAI’s value is linked to how well it works within the broader technology ecosystem,” the report states.&nbsp;</p>
+
+
+
+<p>Moreover, almost two-thirds (63%) of those surveyed expressed willingness to switch security vendors to access GenAI capabilities from competitors. The survey underscores the industry’s readiness for unified platforms that streamline operations and reduce the complexity of adopting new point solutions.</p>
+
+
+
+<ol start="2" class="wp-block-list">
+<li><strong>GenAI built by cybersecurity experts is a must</strong></li>
+</ol>
+
+
+
+<p>Security teams believe GenAI tools should be specifically designed for cybersecurity, not general-purpose systems. 83% of respondents reported they would not trust tools that provide “unsuitable or ill-advised security guidance.”</p>
+
+
+
+<p>Breach prevention remains a key motivator, with 74% stating they had faced breaches within the past 18 months or were concerned about vulnerabilities. Respondents prioritised tools from vendors with proven expertise in cybersecurity, incident response, and threat intelligence over suppliers with broad AI leadership alone.&nbsp;</p>
+
+
+
+<p>As CrowdStrike summarised, “The emphasis on breach prevention and vendor expertise suggests security teams would avoid domain-agnostic GenAI tools.”</p>
+
+
+
+<ol start="3" class="wp-block-list">
+<li><strong>Augmentation, not replacement </strong></li>
+</ol>
+
+
+
+<p>Despite growing fears of automation replacing jobs in many industries, the survey’s findings indicate minimal concerns about job displacement in cybersecurity. Instead, respondents expect GenAI to empower security analysts by automating repetitive tasks, reducing burnout, onboarding new personnel faster, and accelerating decision-making.</p>
+
+
+
+<p>GenAI’s potential for augmenting analysts’ workflows was underscored by its most requested applications: threat intelligence analysis, assistance with investigations, and automated response mechanisms. As noted in the report, “Respondents overwhelmingly believe GenAI will ultimately optimise the analyst experience, not replace human labour.”</p>
+
+
+
+<ol start="4" class="wp-block-list">
+<li><strong>ROI outweighs cost concerns  </strong></li>
+</ol>
+
+
+
+<p>For organisations evaluating GenAI investments, measurable return on investment (ROI) is the paramount concern, ahead of licensing costs or pricing model confusion. Respondents expect platform-led GenAI deployments to deliver faster results, thanks to cost savings from reduced tool management burdens, streamlined training, and fewer security incidents.</p>
+
+
+
+<p>According to the survey data, the expected ROI breakdown includes 31% from cost optimisation and more efficient tools, 30% from fewer incidents, and 26% from reduced management time. Security leaders are clearly focused on ensuring the financial justification for GenAI investments.</p>
+
+
+
+<ol start="5" class="wp-block-list">
+<li><strong>Guardrails and safety are crucial </strong></li>
+</ol>
+
+
+
+<p>GenAI adoption is tempered by concerns around safety and privacy, with 87% of organisations either implementing or planning new security policies to oversee GenAI use. Key risks include exposing sensitive data to large language models (LLMs) and adversarial attacks on GenAI tools. Respondents rank safety and privacy controls among their most desired GenAI features, highlighting the need for responsible implementation.</p>
+
+
+
+<p>Reflecting the cautious optimism of practitioners, only 39% of respondents firmly believed that the rewards of GenAI outweigh its risks. Meanwhile, 40% considered the risks and rewards “comparable.”</p>
+
+
+
+<h3 class="wp-block-heading">Current state of GenAI adoption in cybersecurity</h3>
+
+
+
+<p>GenAI adoption remains in its early stages, but interest is growing. 64% of respondents are actively researching or have already invested in GenAI tools, and 69% of those currently evaluating their options plan to make a purchase within the year.&nbsp;</p>
+
+
+
+<p>Security teams are primarily driven by three concerns: improving attack detection and response, enhancing operational efficiency, and mitigating the impact of staff shortages. Among economic considerations, the top priority is ROI – a sign that security leaders are keen to demonstrate tangible benefits to justify their spending.</p>
+
+
+
+<p>CrowdStrike emphasises the importance of a platform-based approach, where GenAI is integrated into a unified system. Such platforms enable seamless adoption, measurable benefits, and safety guardrails for responsible usage. According to the report, “The future of GenAI in cybersecurity will be defined by tools that not only advance security but also uphold the highest standards of safety and privacy.”</p>
+
+
+
+<p>The CrowdStrike survey concludes by affirming that “GenAI is not a silver bullet” but has tremendous potential to improve cybersecurity outcomes. As organisations evaluate its adoption, they will prioritise tools that integrate seamlessly with existing platforms, deliver faster response times, and ensure safety and privacy compliance.</p>
+
+
+
+<p>With threats becoming more sophisticated, the role of GenAI in enabling security teams to work faster and smarter could prove indispensable. While still in its infancy, GenAI in cybersecurity is poised to shift from early adoption to mainstream deployment, provided organisations and vendors address its risks responsibly.</p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/keys-ai-success-security-sustainability-overcoming-silos/"><strong>Keys to AI success: Security, sustainability, and overcoming silos</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:1203px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/crowdstrike-cybersecurity-pros-safer-specialist-genai-tools/">CrowdStrike: Cybersecurity pros want safer, specialist GenAI tools</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/crowdstrike-cybersecurity-pros-safer-specialist-genai-tools/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NJ cops demand protections against data brokers</title>
+		<link>https://www.artificialintelligence-news.com/news/nj-cops-demand-protections-against-data-brokers/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=nj-cops-demand-protections-against-data-brokers</link>
+					<comments>https://www.artificialintelligence-news.com/news/nj-cops-demand-protections-against-data-brokers/#respond</comments>
+		
+		<dc:creator><![CDATA[Muhammad Zulhusni]]></dc:creator>
+		<pubDate>Mon, 16 Dec 2024 18:25:08 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[security]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16711</guid>
+
+					<description><![CDATA[<p>Privacy laws in the United States are a patchwork at best. More often than not, they miss the mark, leaving most people with little actual privacy. When such laws are enacted, they can seem tailored to protect those in positions of power. Even laws designed to protect crime victims might end up protecting the names<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/nj-cops-demand-protections-against-data-brokers/" title="ReadNJ cops demand protections against data brokers">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/nj-cops-demand-protections-against-data-brokers/">NJ cops demand protections against data brokers</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Privacy laws in the United States are a patchwork at best. More often than not, they miss the mark, leaving most people with little actual privacy. When <a target="_blank" href="https://www.techdirt.com/2024/11/26/nj-cops-are-suing-to-protect-their-exclusive-right-to-keep-their-data-out-of-data-brokers-databases/" rel="noreferrer noopener">such laws are enacted</a>, they can seem tailored to protect those in positions of power.</p>
+
+
+
+<p>Even laws designed to protect crime victims might end up protecting the names of abusive officers by labelling them as victims of crime in cases like resisting arrest or <a target="_blank" href="https://www.techdirt.com/2019/12/24/alabama-lawmakers-think-time-is-right-to-make-assaulting-cop-hate-crime/" rel="noreferrer noopener">assaulting an officer</a>. Such accusations are often used in cases of excessive force, keeping cops’ names out of the spotlight.</p>
+
+
+
+<p>For example, a recent New Jersey law emerged from a tragic event in which a government employee faced violence, sparking a legislative response. Known as “Daniel’s Law,” it was created after the personal information of a federal judge’s family was used by a murderer to track them down. Instead of a broader privacy law that could protect all residents of New Jersey, it focused exclusively on safeguarding certain public employees.</p>
+
+
+
+<p>Under the law, judges, prosecutors, and police officers can request that their personal information (addresses and phone numbers, for example) be scrubbed from public databases. Popular services that people use to look up information, such as Whitepages or Spokeo, must comply. While this sounds like a win for privacy, the protections stop there. The average citizen is still left exposed, with no legal recourse if their personal data is misused or sold.</p>
+
+
+
+<p>At the centre of the debate is a lawyer who’s taken up the cause of protecting cops’ personal data. He’s suing numerous companies for making this type of information accessible. While noble at first glance, a deeper look raises questions.</p>
+
+
+
+<p>It transpires that the lawyer&#8217;s company has previously collected and monetised personal <a target="_blank" href="https://www.artificialintelligence-news.com/news/machine-unlearning-researchers-ai-models-forget-data/" rel="noreferrer noopener">data</a>. And when a data service responded to his demands by freezing access to some of the firm&#8217;s databases, he and his clients cried foul — despite specifically requesting restrictions on how their information could be used.</p>
+
+
+
+<p>It’s also worth noting how unevenly data protection measures are to be applied. Cops, for instance, frequently rely on the same tools and databases they’re now asking to be restricted. These services have long been used by law enforcement for investigations and running background checks. Yet, when law enforcement data appears in such systems, special treatment is required.</p>
+
+
+
+<p>A recent anecdote involved a police union leader who was shown a simple property record pulled from an online database. The record displayed basic details like his home address and his property&#8217;s square footage — information anyone could find with a few clicks. His reaction was one of shock and anger – an obvious disconnect.</p>
+
+
+
+<p>For everyday citizens, this level of data exposure is a given. But for law enforcement, it requires a level of granular exclusion that&#8217;s not practical.</p>
+
+
+
+<p>Perhaps everyone, including law enforcement personnel deserves better safeguards against data harvesting and misuse? But what Daniel&#8217;s law and later events involving police officers point to is the need for the type of improvements to the way data is treated for all, not just one group of society.</p>
+
+
+
+<p>Instead of expanding privacy rights to all New Jersey residents, the law carves out exceptions for the powerful — leaving the rest of the population as vulnerable as ever.</p>
+
+
+
+<p><em>(Photo by<a href="https://unsplash.com/photos/a-police-car-parked-in-the-grass-near-palm-trees-E1lR_C-IGdo?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash"> Unsplash</a>)</em></p>
+
+
+
+<p><strong>See also: <a href="https://www.artificialintelligence-news.com/news/eu-ai-legislation-sparks-controversy-over-data-transparency/">EU AI legislation sparks controversy over data transparency</a></strong></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:1139px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a target="_blank" href="https://www.ai-expo.net/" rel="noreferrer noopener"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a target="_blank" href="https://intelligentautomation-conference.com/northamerica/" rel="noreferrer noopener">Intelligent Automation Conference</a>, <a target="_blank" href="https://www.blockchain-expo.com/" rel="noreferrer noopener">BlockX</a>,<a target="_blank" href="https://digitaltransformation-week.com/" rel="noreferrer noopener"> Digital Transformation Week</a>, and <a target="_blank" href="https://www.cybersecuritycloudexpo.com/" rel="noreferrer noopener">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a target="_blank" href="https://techforge.pub/events/" rel="noreferrer noopener">here</a>.</p>
+
+<p>The post <a href="https://www.artificialintelligence-news.com/news/nj-cops-demand-protections-against-data-brokers/">NJ cops demand protections against data brokers</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/nj-cops-demand-protections-against-data-brokers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Keys to AI success: Security, sustainability, and overcoming silos</title>
+		<link>https://www.artificialintelligence-news.com/news/keys-ai-success-security-sustainability-overcoming-silos/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=keys-ai-success-security-sustainability-overcoming-silos</link>
+					<comments>https://www.artificialintelligence-news.com/news/keys-ai-success-security-sustainability-overcoming-silos/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 12:06:10 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[digital transformation]]></category>
+		<category><![CDATA[enterprise]]></category>
+		<category><![CDATA[environment]]></category>
+		<category><![CDATA[netapp]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[scaling]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[sustainability]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16687</guid>
+
+					<description><![CDATA[<p>NetApp has shed light on the pressing issues faced by organisations globally as they strive to optimise their strategies for AI success. “2025 is shaping up to be a defining year for AI, as organisations transition from experimentation to scaling their AI capabilities,” said Gabie Boko, NetApp’s Chief Marketing Officer. “Businesses are making significant investments<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/keys-ai-success-security-sustainability-overcoming-silos/" title="ReadKeys to AI success: Security, sustainability, and overcoming silos">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/keys-ai-success-security-sustainability-overcoming-silos/">Keys to AI success: Security, sustainability, and overcoming silos</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://www.netapp.com/">NetApp</a> has shed light on the pressing issues faced by organisations globally as they strive to optimise their strategies for AI success.</p>
+
+
+
+<p>“2025 is shaping up to be a defining year for AI, as organisations transition from experimentation to scaling their AI capabilities,” said Gabie Boko, NetApp’s Chief Marketing Officer.</p>
+
+
+
+<p>“Businesses are making significant investments to drive innovation and efficiency, but these efforts will succeed only if global tech executives can address the mounting challenges of data complexity, security, and sustainability.”</p>
+
+
+
+<p>The findings of NetApp’s latest <em>Data Complexity Report</em> paints a detailed picture of where businesses currently stand on their AI journeys and the key trends that will shape the technology’s future.</p>
+
+
+
+<h3 class="wp-block-heading">Cost of transformation</h3>
+
+
+
+<p>Two-thirds of businesses worldwide claim their data is &#8220;fully or mostly optimised&#8221; for AI purposes, highlighting vast improvements in making data accessible, accurate, and well-documented. Yet, the study reveals that the journey towards AI maturity requires further significant investment.</p>
+
+
+
+<p>A striking 40% of global technology executives anticipate “unprecedented investment” will be necessary in 2025 just to enhance AI and data management capabilities.</p>
+
+
+
+<p>While considerable progress has been made, achieving impactful breakthroughs demands an even greater commitment in financial and infrastructural resources. Catching up with AI&#8217;s potential might not come cheap, but leaders prepared to invest could reap significant rewards in innovation and efficiency.</p>
+
+
+
+<h3 class="wp-block-heading">Data silos impede AI success</h3>
+
+
+
+<p>One of the principal barriers identified in the report is the fragmentation of data. An overwhelming 79% of global tech executives state that unifying their data, reducing silos and ensuring smooth interconnectedness, is key to unlocking AI’s full potential.</p>
+
+
+
+<p>Companies that have embraced unified data storage are better placed to overcome this hurdle. By connecting data regardless of its type or location (across hybrid multi-cloud environments,) they ensure constant accessibility and minimise fragmentation.</p>
+
+
+
+<p>The report indicates that organisations prioritising data unification are significantly more likely to meet their AI goals in 2025. Nearly one-third (30%) of businesses failing to prioritise unification foresee missing their targets, compared to just 23% for those placing this at the heart of their strategy.</p>
+
+
+
+<p>Executives have doubled down on data management and infrastructure as top priorities, increasingly recognising that optimising their capacity to gather, store, and process information is essential for AI maturity. Companies refusing to tackle these data challenges risk falling behind in an intensely competitive global market.</p>
+
+
+
+<h3 class="wp-block-heading">Scaling risks of AI</h3>
+
+
+
+<p>As businesses accelerate their AI adoption, the associated risks – particularly around <a href="https://www.artificialintelligence-news.com/categories/ai-security/">security</a> – are becoming more acute. More than two-fifths (41%) of global tech executives predict a stark rise in security threats by 2025 as AI becomes integral to more facets of their operations.</p>
+
+
+
+<p>AI’s rapid rise has expanded attack surfaces, exposing data sets to new vulnerabilities and creating unique challenges such as protecting sensitive AI models. Countries leading the AI race, including India, the US, and Japan, are nearly twice as likely to encounter escalating security concerns compared to less AI-advanced nations like Germany, France, and Spain.</p>
+
+
+
+<p>Increased awareness of AI-driven security challenges is reflected in business priorities. Over half (59%) of global executives name cybersecurity as one of the top stressors confronting organisations today.</p>
+
+
+
+<p>However, progress is being made. Despite elevated concerns, the report suggests that effective security measures are yielding results. Since 2023, the number of executives ranking cybersecurity and ransomware protection as their top priority has fallen by 17%, signalling optimism in combating these risks effectively.</p>
+
+
+
+<h3 class="wp-block-heading">Limiting AI’s environmental costs</h3>
+
+
+
+<p>Beyond security risks, AI’s growth is raising urgent questions of sustainability. Over one-third of global technology executives (34%) predict that AI advancements will drive significant changes to corporate sustainability practices. Meanwhile, 33% foresee new government policies and investments targeting energy usage.</p>
+
+
+
+<p>The infrastructure powering AI and transforming raw data into business value demands significant energy, counteracting organisational sustainability targets. AI-heavy nations often feel the environmental impact more acutely than their less AI-focused counterparts.</p>
+
+
+
+<p>While 72% of businesses still prioritise carbon footprint reduction, the report notes a decline from 84% in 2023, pointing to increasing tension between sustainability commitments and the relentless march of innovation. For organisations to scale AI without causing irreparable damage to the planet, maintaining environmental responsibility alongside technological growth will be paramount in coming years.</p>
+
+
+
+<p>Krish Vitaldevara, SVP and GM at NetApp, commented: “The organisations leading in advanced analytics and AI are those that have unified and well-cataloged data, robust security and compliance for sensitive information, and a clear understanding of how data evolves.</p>
+
+
+
+<p>“By tackling these challenges, they can drive innovation while ensuring resilience, responsibility, and timely insights in the new AI era.”</p>
+
+
+
+<p><em>You can find a full copy of NetApp’s report </em><a href="https://www.netapp.com/pdf.html?item=/media/120560-2024-data-complexity-survey-report.pdf"><em>here</em></a><em> (PDF)</em></p>
+
+
+
+<p>(Photo by <a href="https://unsplash.com/@chunlea?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Chunli Ju</a>)</p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/o1-model-llm-ai-openai-training-research-next-generation/"><strong>New AI training techniques aim to overcome current challenges</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:961px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/keys-ai-success-security-sustainability-overcoming-silos/">Keys to AI success: Security, sustainability, and overcoming silos</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/keys-ai-success-security-sustainability-overcoming-silos/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>UK establishes LASR to counter AI security threats</title>
+		<link>https://www.artificialintelligence-news.com/news/uk-establishes-lasr-counter-ai-security-threats/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=uk-establishes-lasr-counter-ai-security-threats</link>
+					<comments>https://www.artificialintelligence-news.com/news/uk-establishes-lasr-counter-ai-security-threats/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Mon, 25 Nov 2024 11:31:13 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Legislation & Government]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[cyber security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[europe]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[infosec]]></category>
+		<category><![CDATA[nato]]></category>
+		<category><![CDATA[safety]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[threats]]></category>
+		<category><![CDATA[uk]]></category>
+		<category><![CDATA[usa]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16550</guid>
+
+					<description><![CDATA[<p>The UK is establishing the Laboratory for AI Security Research (LASR) to help protect Britain and its allies against emerging threats in what officials describe as an &#8220;AI arms race.&#8221; The laboratory – which will receive an initial government funding of £8.22 million – aims to bring together experts from industry, academia, and government to<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/uk-establishes-lasr-counter-ai-security-threats/" title="ReadUK establishes LASR to counter AI security threats">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/uk-establishes-lasr-counter-ai-security-threats/">UK establishes LASR to counter AI security threats</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The UK is establishing the Laboratory for AI Security Research (LASR) to help protect Britain <a href="https://www.artificialintelligence-news.com/news/president-biden-issues-first-national-security-memorandum-ai/">and its allies</a> against emerging threats in what officials describe as an &#8220;AI arms race.&#8221;</p>
+
+
+
+<p>The laboratory – which will receive an initial government funding of £8.22 million – aims to bring together experts from industry, academia, and government to assess AI&#8217;s impact on national security. The announcement comes as part of a broader strategy to strengthen the UK&#8217;s cyber defence capabilities.</p>
+
+
+
+<p>Speaking at the NATO Cyber Defence Conference at Lancaster House, the Chancellor of the Duchy of Lancaster said: &#8220;NATO needs to continue to adapt to the world of AI, because as the tech evolves, the threat evolves.</p>
+
+
+
+<p>“NATO has stayed relevant over the last seven decades by constantly adapting to new threats. It has navigated the worlds of nuclear proliferation and militant nationalism. The move from cold warfare to drone warfare.”</p>
+
+
+
+<p>The Chancellor painted a stark picture of the current cyber security landscape, stating: &#8220;Cyber war is now a daily reality. One where our defences are constantly being tested. The extent of the threat must be matched by the strength of our resolve to combat it and to protect our citizens and systems.&#8221;</p>
+
+
+
+<p>The new laboratory will operate under a &#8216;catalytic&#8217; model, designed to attract additional investment and collaboration from industry partners.</p>
+
+
+
+<p>Key stakeholders in the new lab include GCHQ, the National Cyber Security Centre, the MOD&#8217;s Defence Science and Technology Laboratory, and prestigious academic institutions such as the University of Oxford and Queen&#8217;s University Belfast.</p>
+
+
+
+<p>In a direct warning about Russia&#8217;s activities, the Chancellor declared: &#8220;Be in no doubt: the United Kingdom and others in this room are watching Russia. We know exactly what they are doing, and we are countering their attacks both publicly and behind the scenes.</p>
+
+
+
+<p>&#8220;We know from history that appeasing dictators engaged in aggression against their neighbours only encourages them. Britain learned long ago the importance of standing strong in the face of such actions.&#8221;</p>
+
+
+
+<p>Reaffirming support for Ukraine, he added, &#8220;Putin is a man who wants destruction, not peace. He is trying to deter our support for Ukraine with his threats. He will not be successful.&#8221;</p>
+
+
+
+<p>The new lab follows recent concerns about state actors using AI to bolster existing security threats.</p>
+
+
+
+<p>&#8220;Last year, we saw the US for the first time publicly call out a state for using AI to aid its malicious cyber activity,&#8221; the Chancellor noted, referring to North Korea&#8217;s attempts to use AI for malware development and vulnerability scanning.</p>
+
+
+
+<p>Stephen Doughty, Minister for Europe, North America and UK Overseas Territories, highlighted the dual nature of AI technology: &#8220;AI has enormous potential. To ensure it remains a force for good in the world, we need to understand its threats and its opportunities.&#8221;</p>
+
+
+
+<p>Alongside LASR, the government announced a new £1 million incident response project to enhance collaborative cyber defence capabilities among allies. The laboratory will prioritise collaboration with Five Eyes countries and NATO allies, building on the UK&#8217;s historical strength in computing, dating back to Alan Turing&#8217;s groundbreaking work.</p>
+
+
+
+<p>The initiative forms part of the government&#8217;s comprehensive approach to cybersecurity, which includes the upcoming <a href="https://www.gov.uk/government/collections/cyber-security-and-resilience-bill">Cyber Security and Resilience Bill</a> and the recent classification of <a href="https://www.artificialintelligence-news.com/news/uk-secures-6-3b-data-infrastructure-investments/">data centres</a> as critical national infrastructure.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@introspectivedsgn?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Erik Mclean</a>)</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/anthropic-urges-ai-regulation-avoid-catastrophes/"><strong>Anthropic urges AI regulation to avoid catastrophes</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:969px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/uk-establishes-lasr-counter-ai-security-threats/">UK establishes LASR to counter AI security threats</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/uk-establishes-lasr-counter-ai-security-threats/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>President Biden issues first National Security Memorandum on AI</title>
+		<link>https://www.artificialintelligence-news.com/news/president-biden-issues-first-national-security-memorandum-ai/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=president-biden-issues-first-national-security-memorandum-ai</link>
+					<comments>https://www.artificialintelligence-news.com/news/president-biden-issues-first-national-security-memorandum-ai/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Fri, 25 Oct 2024 14:45:42 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Legislation & Government]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[biden]]></category>
+		<category><![CDATA[framework]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[memorandum]]></category>
+		<category><![CDATA[nsm]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[usa]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16393</guid>
+
+					<description><![CDATA[<p>President Biden has issued the US&#8217; first-ever National Security Memorandum (NSM) on AI, addressing how the nation approaches the technology from a security perspective. The memorandum, which builds upon Biden&#8217;s earlier executive order on AI, is founded on the premise that cutting-edge AI developments will substantially impact national security and foreign policy in the immediate<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/president-biden-issues-first-national-security-memorandum-ai/" title="ReadPresident Biden issues first National Security Memorandum on AI">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/president-biden-issues-first-national-security-memorandum-ai/">President Biden issues first National Security Memorandum on AI</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>President Biden has <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/24/memorandum-on-advancing-the-united-states-leadership-in-artificial-intelligence-harnessing-artificial-intelligence-to-fulfill-national-security-objectives-and-fostering-the-safety-security/">issued</a> the US&#8217; first-ever National Security Memorandum (NSM) on AI, addressing how the nation approaches the technology from a security perspective.</p>
+
+
+
+<p>The memorandum, which builds upon Biden&#8217;s earlier executive order on AI, is founded on the premise that cutting-edge AI developments will substantially impact national security and foreign policy in the immediate future.</p>
+
+
+
+<p>Security experts suggest the implications are already being felt. &#8220;AI already has implications for national security, as we know that more and more attackers are using AI to create higher volume and more complex attacks, especially in the social engineering and misinformation fronts,&#8221; says Melissa Ruzzi, Director of AI at <a href="https://appomni.com/">AppOmni</a>.</p>
+
+
+
+<p>At its core, the NSM outlines three primary objectives: establishing US leadership in safe AI development, leveraging AI technologies for national security, and fostering international governance frameworks.</p>
+
+
+
+<p>&#8220;Our competitors want to upend US AI leadership and have employed economic and technological espionage in efforts to steal US technology,&#8221; the memorandum states, elevating the protection of American AI innovations to a &#8220;top-tier intelligence priority.&#8221;</p>
+
+
+
+<p>The document formally designates the AI Safety Institute as the primary governmental point of contact for the AI industry. This institute will be staffed with technical experts and will maintain close partnerships with national security agencies, including the intelligence community, Department of Defence, and Department of Energy.</p>
+
+
+
+<p>&#8220;The actions listed in the memo are great starting points to get a good picture of the status quo and obtain enough information to make decisions based on data, instead of jumping to conclusions to make decisions based on vague assumptions,&#8221; Ruzzi explains.</p>
+
+
+
+<p>However, Ruzzi cautions that &#8220;the data that needs to be collected on the actions is not trivial, and even with the data, assumptions and trade-offs will be necessary for final decision making. Making decisions after data gathering is where the big challenge will be.&#8221;</p>
+
+
+
+<p>In a notable move to democratise AI research, the memorandum reinforces support for the National AI Research Resource pilot programme. This initiative aims to extend AI research capabilities beyond major tech firms to universities, civil society organisations, and small businesses.</p>
+
+
+
+<p>The NSM introduces the <a href="https://ai.gov/wp-content/uploads/2024/10/NSM-Framework-to-Advance-AI-Governance-and-Risk-Management-in-National-Security.pdf">Framework to Advance AI Governance and Risk Management in National Security</a> (PDF), which establishes comprehensive guidelines for implementing AI in national security applications. These guidelines mandate rigorous <a href="https://www.developer-tech.com/news/holistic-open-source-tools-counter-ai-development-risks/">risk assessment</a> procedures and safeguards against privacy invasions, bias, discrimination, and human rights violations.</p>
+
+
+
+<p>Security considerations feature prominently in the framework, with Ruzzi emphasising their importance: &#8220;Cybersecurity of AI is crucial – we know that if AI is misconfigured, it can pose risks similar to misconfigurations in SaaS applications that cause confidential data to be exposed.&#8221;</p>
+
+
+
+<p>On the international front, the memorandum builds upon recent <a href="https://www.artificialintelligence-news.com/news/global-ai-security-guidelines-endorsed-by-18-countries/">diplomatic achievements</a>, including the G7&#8217;s International Code of Conduct on AI and agreements reached at the <a href="https://www.artificialintelligence-news.com/news/uk-reveals-ai-safety-summit-opening-day-agenda/">Bletchley</a> and <a href="https://www.artificialintelligence-news.com/news/uk-and-south-korea-cohost-ai-seoul-summit/">Seoul</a> AI Safety Summits. Notably, 56 nations have endorsed the US-led Political Declaration on the Military Use of AI and Autonomy.</p>
+
+
+
+<p>The Biden administration has also secured a diplomatic victory with the passage of the first UN General Assembly Resolution on AI, which garnered unanimous support, including co-sponsorship from China.</p>
+
+
+
+<p>The memorandum emphasises the critical role of <a href="https://www.artificialintelligence-news.com/news/global-semiconductor-shortage-how-us-plans-close-talent-gap/">semiconductor manufacturing</a> in AI development, connecting to Biden&#8217;s earlier CHIPS Act. It directs actions to enhance chip supply chain security and diversity, ensuring American leadership in advanced computing infrastructure.</p>
+
+
+
+<p>This latest initiative forms part of the Biden-Harris Administration&#8217;s broader strategy for responsible innovation in <a href="https://www.artificialintelligence-news.com/news/ai-sector-study-record-growth-masks-serious-challenges/">the AI sector</a>, reinforcing America&#8217;s commitment to maintaining technological leadership while upholding <a href="https://www.artificialintelligence-news.com/news/uk-signs-ai-safety-treaty-to-protect-human-rights-and-democracy/">democratic values and human rights</a>.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@nhuenerfuerst?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Nils Huenerfuerst</a>)</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/eu-ai-act-early-prep-could-give-businesses-competitive-edge/"><strong>EU AI Act: Early prep could give businesses competitive edge</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/president-biden-issues-first-national-security-memorandum-ai/">President Biden issues first National Security Memorandum on AI</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/president-biden-issues-first-national-security-memorandum-ai/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>AI sector study: Record growth masks serious challenges</title>
+		<link>https://www.artificialintelligence-news.com/news/ai-sector-study-record-growth-masks-serious-challenges/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ai-sector-study-record-growth-masks-serious-challenges</link>
+					<comments>https://www.artificialintelligence-news.com/news/ai-sector-study-record-growth-masks-serious-challenges/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Thu, 24 Oct 2024 14:31:34 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Data Center]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Legislation & Government]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[computing]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[europe]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[infrastructure]]></category>
+		<category><![CDATA[investment]]></category>
+		<category><![CDATA[report]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[safety]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[strategy]]></category>
+		<category><![CDATA[study]]></category>
+		<category><![CDATA[supercomputer]]></category>
+		<category><![CDATA[uk]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16382</guid>
+
+					<description><![CDATA[<p>A comprehensive AI sector study – conducted by the Department for Science, Innovation and Technology (DSIT) in collaboration with Perspective Economics, Ipsos, and glass.ai – provides a detailed overview of the industry&#8217;s current state and its future prospects. In this article, we delve deeper into the key findings and implications—drawing on additional sources to enhance<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/ai-sector-study-record-growth-masks-serious-challenges/" title="ReadAI sector study: Record growth masks serious challenges">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ai-sector-study-record-growth-masks-serious-challenges/">AI sector study: Record growth masks serious challenges</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>A comprehensive AI sector study – conducted by the <a href="https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology">Department for Science, Innovation and Technology</a> (DSIT) in collaboration with <a href="https://perspectiveeconomics.com/">Perspective Economics</a>, <a href="https://www.ipsos.com/">Ipsos</a>, and <a href="http://glass.ai">glass.ai</a> – provides a detailed overview of the industry&#8217;s current state and its future prospects.</p>
+
+
+
+<p>In this article, we delve deeper into the key findings and implications—drawing on additional sources to enhance our understanding.</p>
+
+
+
+<h3 class="wp-block-heading">Thriving industry with significant growth</h3>
+
+
+
+<p>The study highlights the remarkable growth of the UK&#8217;s AI sector. With over 3,170 active AI companies, these firms have generated £10.6 billion in AI-related revenues and <a href="https://www.artificialintelligence-news.com/news/the-uk-outpacing-the-us-for-ai-hiring/">employed</a> more than 50,000 people in AI-related roles. This significant contribution to GVA (Gross Value Added) underscores the sector&#8217;s <a href="https://www.artificialintelligence-news.com/news/ai-could-unleash-119-billion-in-uk-productivity/">transformative potential</a> in driving the UK&#8217;s economic growth.</p>
+
+
+
+<p>Mark Boost, CEO of <a href="https://www.civo.com/">Civo</a>, said: &#8220;In a space that&#8217;s been dominated by US companies for too long, it&#8217;s promising to see the government now stepping up to help support the UK AI sector on the global stage.&#8221;</p>
+
+
+
+<p>The study shows that AI activity is dispersed across various regions of the UK, with notable concentrations in London, the South East, and Scotland. This regional dispersion indicates a broad scope for the development of AI technology applications across different sectors and regions.</p>
+
+
+
+<h3 class="wp-block-heading">Investment and funding</h3>
+
+
+
+<p>Investment in the AI sector has been a key driver of growth. In 2022, £18.8 billion was secured in private investment since 2016, with investments made in 52 unique industry sectors compared to 35 sectors in 2016.</p>
+
+
+
+<p>The government&#8217;s commitment to supporting AI is evident through significant investments. In 2022, the UK government unveiled a <a href="https://www.gov.uk/government/publications/national-ai-strategy">National AI Strategy</a> and Action Plan—committing over £1.3 billion in support for the sector, complementing the £2.8 billion already invested.</p>
+
+
+
+<p>However, as Boost cautions, &#8220;Major players like <a href="https://www.artificialintelligence-news.com/news/aws-nvidia-expand-partnership-advance-generative-ai/">AWS</a> are locking AI startups into their ecosystems with offerings like $500k cloud credits, ensuring that emerging companies start their journey reliant on their infrastructure. This not only hinders competition and promotes vendor lock-in but also risks stifling innovation across the broader UK AI ecosystem.&#8221;</p>
+
+
+
+<h3 class="wp-block-heading">Addressing bottlenecks</h3>
+
+
+
+<p>Despite the growth and investment, several bottlenecks must be addressed to fully harness the potential of AI:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Infrastructure:</strong> The UK&#8217;s digital technology infrastructure is less advanced than many other countries. This bottleneck includes inadequate <a href="https://www.artificialintelligence-news.com/news/uk-secures-6-3b-data-infrastructure-investments/">data centre infrastructure</a> and a dependent supply of powerful GPU computer chips. Boost emphasises this concern, stating &#8220;It would be dangerous for the government to ignore the immense compute power that AI relies on. We need to consider where this power is coming from and the impact it&#8217;s having on both the already over-concentrated <a href="https://www.cloudcomputing-news.net/">cloud market</a> and the environment.&#8221;</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Commercial awareness:</strong> Many SMEs lack familiarity with digital technology. Almost a third (31%) of SMEs have yet to adopt the cloud, and nearly half (47%) do not currently use AI tools or applications.</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Skills shortage:</strong> Two-fifths of businesses <a href="https://www.artificialintelligence-news.com/news/93-of-firms-committed-to-ai-but-skills-shortage-posing-problems/">struggle to find staff</a> with good digital skills, including traditional digital roles like data analytics or IT. There is a rising need for workers with new AI-specific skills, such as prompt engineering, that will require retraining and upskilling opportunities.</li>
+</ul>
+
+
+
+<p>To address these bottlenecks, the government has implemented several initiatives:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Private sector investment:</strong> <a href="https://www.artificialintelligence-news.com/categories/ai-companies/microsoft/">Microsoft</a> has announced a £2.5 billion investment in AI skills, security, and data centre infrastructure, aiming to procure more than 20,000 of the most advanced GPUs by 2026.</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Government support:</strong> The government has invested £1.5 billion in <a href="https://www.artificialintelligence-news.com/news/uk-and-canada-sign-ai-compute-agreement/">computing capacity</a> and committed to building three new supercomputers by 2025. This support aims to enhance the UK&#8217;s infrastructure to stay competitive in the AI market.</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Public sector integration:</strong> The UK Government Digital Service (GDS) is working to improve efficiency using predictive algorithms for future pension scheme behaviour. HMRC uses AI to help identify call centre priorities, demonstrating how AI solutions can address complex public sector challenges.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Future prospects and challenges</h3>
+
+
+
+<p>The future of the UK AI sector is both promising and challenging. While significant economic gains are predicted, including boosting GDP by £550 billion by 2035, delays in AI roll-out could cost the UK £150 billion over the same period. Ensuring a balanced approach between innovation and <a href="https://www.artificialintelligence-news.com/news/solarwinds-it-professionals-stronger-ai-regulation/">regulation</a> will be crucial.</p>
+
+
+
+<p>Boost emphasises the importance of data sovereignty and <a href="https://www.artificialintelligence-news.com/categories/privacy/">privacy</a>: &#8220;Businesses have grown increasingly wary of how their data is collected, stored, and used by the likes of ChatGPT. The government has a real opportunity to enable the UK AI sector to offer viable alternatives.</p>
+
+
+
+<p>“The forthcoming AI Action Plan will be another opportunity to identify how AI can drive economic growth and better support the UK tech sector.&#8221;</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>AI Safety Summit:</strong> The <a href="https://www.artificialintelligence-news.com/news/uk-reveals-ai-safety-summit-opening-day-agenda/">AI Safety Summit</a> at Bletchley Park highlighted the need for responsible AI development. The &#8220;Bletchley Declaration on AI Safety&#8221; emphasises the importance of ensuring AI tools are transparent, fair, and free from bias to maintain public trust and realise AI&#8217;s benefits in public services.</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Cybersecurity challenges:</strong> As AI systems handle sensitive or personal information, ensuring their <a href="https://www.artificialintelligence-news.com/categories/ai-security/">security</a> is paramount. This involves protecting against cyber threats, securing algorithms from manipulation, safeguarding data centres and hardware, and ensuring supply chain security.</li>
+</ul>
+
+
+
+<p>The AI sector study underscores a thriving industry with significant growth potential. However, it also highlights several bottlenecks that must be addressed – infrastructure gaps, lack of commercial awareness, and skills shortages – to fully harness the sector&#8217;s potential.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@theonlynoonan?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">John Noonan</a>)</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/eu-ai-act-early-prep-could-give-businesses-competitive-edge/"><strong>EU AI Act: Early prep could give businesses competitive edge</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ai-sector-study-record-growth-masks-serious-challenges/">AI sector study: Record growth masks serious challenges</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/ai-sector-study-record-growth-masks-serious-challenges/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>AI governance gap: 95% of firms haven&#8217;t implemented frameworks</title>
+		<link>https://www.artificialintelligence-news.com/news/ai-governance-gap-95-of-firms-havent-frameworks/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ai-governance-gap-95-of-firms-havent-frameworks</link>
+					<comments>https://www.artificialintelligence-news.com/news/ai-governance-gap-95-of-firms-havent-frameworks/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Thu, 17 Oct 2024 16:38:58 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Legislation & Government]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[enterprise]]></category>
+		<category><![CDATA[ethics]]></category>
+		<category><![CDATA[framework]]></category>
+		<category><![CDATA[governance]]></category>
+		<category><![CDATA[law]]></category>
+		<category><![CDATA[legal]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[report]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[study]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16318</guid>
+
+					<description><![CDATA[<p>Robust governance is essential to mitigate AI risks and maintain responsible systems, but the majority of firms are yet to implement a framework. Commissioned by Prove AI and conducted by Zogby Analytics, the report polled over 600 CEOs, CIOs, and CTOs from large companies across the US, UK, and Germany. The findings show that 96%<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/ai-governance-gap-95-of-firms-havent-frameworks/" title="ReadAI governance gap: 95% of firms haven&#8217;t implemented frameworks">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ai-governance-gap-95-of-firms-havent-frameworks/">AI governance gap: 95% of firms haven&#8217;t implemented frameworks</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Robust governance is essential to mitigate AI risks and maintain responsible systems, but the majority of firms are yet to implement a framework.</p>
+
+
+
+<p>Commissioned by <a href="https://casperlabs.io/products/prove-ai">Prove AI</a> and conducted by <a href="https://zogbyanalytics.com/">Zogby Analytics</a>, the report polled over 600 CEOs, CIOs, and CTOs from large companies across the US, UK, and Germany. The findings show that 96% of organisations are already utilising AI to support business operations, with the same percentage planning to increase their AI budgets in the coming year.</p>
+
+
+
+<p>The primary motivations for AI investment include increasing productivity (82%), improving operational efficiency (73%), enhancing decision-making (65%), and achieving cost savings (60%). The most common AI use cases reported were customer service and support, predictive analytics, and marketing and ad optimisation.</p>
+
+
+
+<p>Despite the surge in AI investments, business leaders are acutely aware of the additional risk exposure that AI brings to their organisations. Data integrity and security emerged as the biggest deterrents to implementing new AI solutions.</p>
+
+
+
+<p>Executives also reported encountering various AI performance issues, including:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Data quality issues</strong> (e.g., inconsistencies or inaccuracies): 41%</li>
+
+
+
+<li><strong>Bias detection and mitigation challenges</strong> in AI algorithms, leading to unfair or discriminatory outcomes: 37%</li>
+
+
+
+<li><strong>Difficulty in quantifying</strong> and measuring the return on investment (ROI) of AI initiatives: 28%</li>
+</ul>
+
+
+
+<p>While 95% of respondents expressed confidence in their organisation&#8217;s current AI risk management practices, the report revealed a significant gap in AI governance implementation.</p>
+
+
+
+<p>Only 5% of executives reported that their organisation has implemented any AI governance framework. However, 82% stated that implementing AI governance solutions is a somewhat or extremely pressing priority, with 85% planning to implement such solutions by summer 2025.</p>
+
+
+
+<p>The report also found that 82% of participants support an AI governance executive order to provide stronger oversight. Additionally, 65% expressed concern about IP infringement and data security.</p>
+
+
+
+<p>Mrinal Manohar, CEO of Prove AI, commented: &#8220;Executives are making themselves clear: AI&#8217;s long-term efficacy, including providing a meaningful return on the massive investments organisations are currently making, is contingent on their ability to develop and refine comprehensive AI governance strategies.</p>
+
+
+
+<p>&#8220;The wave of AI-focused legislation going into effect around the world is only increasing the urgency; for the current wave of innovation to continue responsibly, we need to implement clearer guardrails to manage and monitor the data informing AI systems.&#8221;</p>
+
+
+
+<p>As global regulations like <a href="https://www.artificialintelligence-news.com/news/balancing-innovation-trust-experts-assess-eu-ai-act/">the EU AI Act</a> loom on the horizon, the report underscores the importance of de-risking AI and the work that still needs to be done. Implementing and optimising dedicated AI governance strategies has emerged as a top priority for businesses looking to harness the power of AI while mitigating associated risks.</p>
+
+
+
+<p>The findings of this report serve as a wake-up call for organisations to prioritise AI governance as they continue to invest in and deploy AI technologies. Responsible implementation and robust governance frameworks will be key to unlocking the full potential of AI while maintaining trust and compliance.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@robjoviennawarwick?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Rob Thompson</a>)</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/scoring-ai-models-endor-labs-evaluation-tool/"><strong>Scoring AI models: Endor Labs unveils evaluation tool</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ai-governance-gap-95-of-firms-havent-frameworks/">AI governance gap: 95% of firms haven&#8217;t implemented frameworks</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/ai-governance-gap-95-of-firms-havent-frameworks/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Many organisations unprepared for AI cybersecurity threats</title>
+		<link>https://www.artificialintelligence-news.com/news/many-organisations-unprepared-ai-cybersecurity-threats/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=many-organisations-unprepared-ai-cybersecurity-threats</link>
+					<comments>https://www.artificialintelligence-news.com/news/many-organisations-unprepared-ai-cybersecurity-threats/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Thu, 10 Oct 2024 09:59:12 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[cyber security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[enterprise]]></category>
+		<category><![CDATA[infosec]]></category>
+		<category><![CDATA[report]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[study]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16268</guid>
+
+					<description><![CDATA[<p>While AI improves the detection of cybersecurity threats, it simultaneously ushers in more advanced challenges. Research from Keeper Security finds that, despite the implementation of AI-related policies, many organisations remain inadequately prepared for AI-powered threats. 84% of IT and security leaders find AI-enhanced tools have exacerbated the challenge of detecting phishing and smishing attacks, which<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/many-organisations-unprepared-ai-cybersecurity-threats/" title="ReadMany organisations unprepared for AI cybersecurity threats">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/many-organisations-unprepared-ai-cybersecurity-threats/">Many organisations unprepared for AI cybersecurity threats</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>While AI improves the detection of cybersecurity threats, it simultaneously ushers in more advanced challenges.</p>
+
+
+
+<p>Research from <a href="https://www.keepersecurity.com/en_GB/">Keeper Security</a> finds that, despite the implementation of AI-related policies, many organisations remain inadequately prepared for AI-powered threats.</p>
+
+
+
+<p>84% of IT and security leaders find AI-enhanced tools have exacerbated the challenge of detecting phishing and smishing attacks, which were already significant threats. In response, 81% of organisations have enacted AI usage policies for employees. Confidence in these measures runs high, with 77% of leaders expressing familiarity with best practices for AI security.</p>
+
+
+
+<h3 class="wp-block-heading">Gap between AI cybersecurity policy and threats preparedness</h3>
+
+
+
+<p>More than half (51%) of security leaders view AI-driven attacks as the most severe threat to their organisations. Alarmingly, 35% of respondents feel ill-prepared to address these attacks compared to other cyber threats.</p>
+
+
+
+<p>Organisations are deploying several key strategies to meet these emerging challenges:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Data encryption:</strong> Utilised by 51% of IT leaders, encryption serves as a crucial defence against unauthorised access and is vital against AI-fuelled attacks.</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Employee training and awareness:</strong> With 45% of organisations prioritising enhanced training programmes, there is a focused effort to equip employees to recognise and counter AI-driven phishing and smishing intrusions.</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Advanced threat detection systems:</strong> 41% of organisations are investing in these systems, underscoring the need for improved detection and response to sophisticated AI threats.</li>
+</ul>
+
+
+
+<p>The advent of AI-driven cyber threats undeniably presents new challenges. Nevertheless, fundamental cybersecurity practices – such as data encryption, employee education, and advanced threat detection – continue to be essential. Organisations must ensure these essential measures are consistently re-evaluated and adjusted to counter emerging threats.</p>
+
+
+
+<p>In addition to these core practices, advanced security frameworks like zero trust and Privileged Access Management (PAM) solutions can bolster an organisation&#8217;s resilience.</p>
+
+
+
+<p>Zero trust demands continuous verification of all users, devices, and applications, reducing the risk of unauthorised access and minimising potential damage during an attack. PAM offers targeted security for an organisation’s most sensitive accounts, crucial for defending against complex AI-driven threats that aim at high-level credentials.</p>
+
+
+
+<p>Darren Guccione, CEO and Co-Founder of Keeper Security, commented: &#8220;AI-driven attacks are a formidable challenge, but by reinforcing our cybersecurity fundamentals and adopting advanced security measures, we can build resilient defences against these evolving threats.&#8221;</p>
+
+
+
+<p>Proactivity is also key for organisations—regularly reviewing security policies, performing routine audits, and fostering a culture of cybersecurity awareness are all essential.</p>
+
+
+
+<p>While organisations are advancing, cybersecurity requires perpetual vigilance. Merging traditional practices with modern approaches like zero trust and PAM will empower organisations to maintain an edge over developing AI-powered threats.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@growtika?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Growtika</a>)</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/kings-business-school-ai-transforming-problem-solving/"><strong>King’s Business School: How AI is transforming problem-solving</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/many-organisations-unprepared-ai-cybersecurity-threats/">Many organisations unprepared for AI cybersecurity threats</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/many-organisations-unprepared-ai-cybersecurity-threats/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PSA Certified: AI growth outpacing security measures</title>
+		<link>https://www.artificialintelligence-news.com/news/psa-certified-ai-growth-outpacing-security-measures/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=psa-certified-ai-growth-outpacing-security-measures</link>
+					<comments>https://www.artificialintelligence-news.com/news/psa-certified-ai-growth-outpacing-security-measures/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Thu, 15 Aug 2024 08:20:44 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[cyber security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[edge computing]]></category>
+		<category><![CDATA[enterprise]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[infosec]]></category>
+		<category><![CDATA[psa certified]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[study]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=15750</guid>
+
+					<description><![CDATA[<p>While the industry acknowledges the need for robust security measures, research from PSA Certified suggests that investment and best practices are struggling to keep pace with AI&#8217;s rapid growth. The survey of 1,260 global technology decision-makers revealed that two-thirds (68%) are concerned that the speed of AI advancements is outstripping the industry&#8217;s ability to safeguard<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/psa-certified-ai-growth-outpacing-security-measures/" title="ReadPSA Certified: AI growth outpacing security measures">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/psa-certified-ai-growth-outpacing-security-measures/">PSA Certified: AI growth outpacing security measures</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>While the industry acknowledges the need for robust security measures, research from <a href="https://www.psacertified.org/">PSA Certified</a> suggests that investment and best practices are struggling to keep pace with AI&#8217;s rapid growth.</p>
+
+
+
+<p>The survey of 1,260 global technology decision-makers revealed that two-thirds (68%) are concerned that the speed of AI advancements is outstripping the industry&#8217;s ability to safeguard products, devices, and services. This apprehension is driving a surge in edge computing adoption, with 85% believing that security concerns will push more AI use cases to the edge.</p>
+
+
+
+<p><a href="https://www.edgecomputing-news.com/">Edge computing</a> – which processes data locally on devices instead of relying on centralised cloud systems – offers inherent advantages in efficiency, security, and privacy. However, this shift to the edge necessitates a heightened focus on device security.</p>
+
+
+
+<p>&#8220;There is an important interconnect between AI and security: one doesn’t scale without the other,&#8221; cautions David Maidment, Senior Director, Market Strategy at <a href="https://www.arm.com/">Arm</a> (a PSA Certified co-founder). &#8220;While AI is a huge opportunity, its proliferation also offers that same opportunity to bad actors.&#8221;</p>
+
+
+
+<p>Despite recognising security as paramount, a significant disconnect exists between awareness and action. Only half (50%) of those surveyed believe their current security investments are sufficient.&nbsp; Furthermore, essential security practices, such as independent certifications and threat modelling, are being neglected by a substantial portion of respondents.</p>
+
+
+
+<p>&#8220;It’s more imperative than ever that those in the connected device ecosystem don’t skip best practice security in the hunt for AI features,&#8221; emphasises Maidment. &#8220;The entire value chain needs to take collective responsibility and ensure that consumer trust in AI driven services is maintained.&#8221;</p>
+
+
+
+<p>The report highlights the need for a holistic approach to security, embedded throughout the entire AI lifecycle, from device deployment to the management of AI models operating at the edge. This proactive approach, incorporating security-by-design principles, is deemed essential to building consumer trust and mitigating the escalating security risks.</p>
+
+
+
+<p>Despite the concerns, a sense of optimism prevails within the industry. A majority (67%) of decisionmakers believe their organisations are equipped to handle the potential security risks associated with AI&#8217;s surge. There is a growing recognition of the need to prioritise security investment – 46% are focused on bolstering security, compared to 39% prioritising AI readiness.</p>
+
+
+
+<p>&#8220;Those looking to unleash the full potential of AI must ensure they are taking the right steps to mitigate potential security risks,&#8221; says Maidment. &#8220;As stakeholders in the connected device ecosystem rapidly embrace a new set of AI-enabled use cases, it’s crucial that they do not simply forge ahead with AI regardless of security implications.&#8221;</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@bradencollum?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Braden Collum</a>)</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/the-ai-revolution-reshaping-data-centres-and-the-digital-landscape/"><strong>The AI revolution: Reshaping data centres and the digital landscape</strong></a><strong>&nbsp;</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/psa-certified-ai-growth-outpacing-security-measures/">PSA Certified: AI growth outpacing security measures</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/psa-certified-ai-growth-outpacing-security-measures/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

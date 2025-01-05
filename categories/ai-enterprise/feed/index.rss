@@ -1,0 +1,1469 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AI Enterprise News | Latest AI Enterprise News | AI News</title>
+	<atom:link href="https://www.artificialintelligence-news.com/categories/ai-enterprise/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.artificialintelligence-news.com/categories/ai-enterprise/</link>
+	<description>Artificial Intelligence News</description>
+	<lastBuildDate>Tue, 17 Dec 2024 13:00:15 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://www.artificialintelligence-news.com/wp-content/uploads/2020/09/ai-icon-60x60.png</url>
+	<title>AI Enterprise News | Latest AI Enterprise News | AI News</title>
+	<link>https://www.artificialintelligence-news.com/categories/ai-enterprise/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CrowdStrike: Cybersecurity pros want safer, specialist GenAI tools</title>
+		<link>https://www.artificialintelligence-news.com/news/crowdstrike-cybersecurity-pros-safer-specialist-genai-tools/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=crowdstrike-cybersecurity-pros-safer-specialist-genai-tools</link>
+					<comments>https://www.artificialintelligence-news.com/news/crowdstrike-cybersecurity-pros-safer-specialist-genai-tools/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Tue, 17 Dec 2024 13:00:13 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[cyber security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[infosec]]></category>
+		<category><![CDATA[security]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16724</guid>
+
+					<description><![CDATA[<p>CrowdStrike commissioned a survey of 1,022 cybersecurity professionals worldwide to assess their views on generative AI (GenAI) adoption and its implications. The findings reveal enthusiasm for GenAI’s potential to bolster defences against increasingly sophisticated threats, but also trepidation over risks such as data exposure and attacks on GenAI systems. While much has been speculated about<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/crowdstrike-cybersecurity-pros-safer-specialist-genai-tools/" title="ReadCrowdStrike: Cybersecurity pros want safer, specialist GenAI tools">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/crowdstrike-cybersecurity-pros-safer-specialist-genai-tools/">CrowdStrike: Cybersecurity pros want safer, specialist GenAI tools</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://www.crowdstrike.com/en-gb/">CrowdStrike</a> commissioned a survey of 1,022 cybersecurity professionals worldwide to assess their views on generative AI (GenAI) adoption and its implications.</p>
+
+
+
+<p>The findings reveal enthusiasm for GenAI’s potential to bolster defences against increasingly sophisticated threats, but also trepidation over risks such as data exposure and attacks on GenAI systems.</p>
+
+
+
+<p>While much has been speculated about the transformative impact of GenAI, the survey’s results paint a clearer picture of how practitioners are thinking about its role in cybersecurity.</p>
+
+
+
+<p>According to the report, “We’re entering the era of GenAI in cybersecurity.” However, as organisations adopt this promising technology, their success will hinge on ensuring the safe, responsible, and industry-specific deployment of GenAI tools.</p>
+
+
+
+<p>CrowdStrike’s research reveals five pivotal findings that shape the current state of GenAI in cybersecurity:</p>
+
+
+
+<ol class="wp-block-list">
+<li><strong>Platform-based GenAI is favoured </strong></li>
+</ol>
+
+
+
+<p>80% of respondents indicated a preference for GenAI delivered through integrated cybersecurity platforms rather than standalone tools. Seamless integration is cited as a crucial factor, with many preferring tools that work cohesively with existing systems. “GenAI’s value is linked to how well it works within the broader technology ecosystem,” the report states.&nbsp;</p>
+
+
+
+<p>Moreover, almost two-thirds (63%) of those surveyed expressed willingness to switch security vendors to access GenAI capabilities from competitors. The survey underscores the industry’s readiness for unified platforms that streamline operations and reduce the complexity of adopting new point solutions.</p>
+
+
+
+<ol start="2" class="wp-block-list">
+<li><strong>GenAI built by cybersecurity experts is a must</strong></li>
+</ol>
+
+
+
+<p>Security teams believe GenAI tools should be specifically designed for cybersecurity, not general-purpose systems. 83% of respondents reported they would not trust tools that provide “unsuitable or ill-advised security guidance.”</p>
+
+
+
+<p>Breach prevention remains a key motivator, with 74% stating they had faced breaches within the past 18 months or were concerned about vulnerabilities. Respondents prioritised tools from vendors with proven expertise in cybersecurity, incident response, and threat intelligence over suppliers with broad AI leadership alone.&nbsp;</p>
+
+
+
+<p>As CrowdStrike summarised, “The emphasis on breach prevention and vendor expertise suggests security teams would avoid domain-agnostic GenAI tools.”</p>
+
+
+
+<ol start="3" class="wp-block-list">
+<li><strong>Augmentation, not replacement </strong></li>
+</ol>
+
+
+
+<p>Despite growing fears of automation replacing jobs in many industries, the survey’s findings indicate minimal concerns about job displacement in cybersecurity. Instead, respondents expect GenAI to empower security analysts by automating repetitive tasks, reducing burnout, onboarding new personnel faster, and accelerating decision-making.</p>
+
+
+
+<p>GenAI’s potential for augmenting analysts’ workflows was underscored by its most requested applications: threat intelligence analysis, assistance with investigations, and automated response mechanisms. As noted in the report, “Respondents overwhelmingly believe GenAI will ultimately optimise the analyst experience, not replace human labour.”</p>
+
+
+
+<ol start="4" class="wp-block-list">
+<li><strong>ROI outweighs cost concerns  </strong></li>
+</ol>
+
+
+
+<p>For organisations evaluating GenAI investments, measurable return on investment (ROI) is the paramount concern, ahead of licensing costs or pricing model confusion. Respondents expect platform-led GenAI deployments to deliver faster results, thanks to cost savings from reduced tool management burdens, streamlined training, and fewer security incidents.</p>
+
+
+
+<p>According to the survey data, the expected ROI breakdown includes 31% from cost optimisation and more efficient tools, 30% from fewer incidents, and 26% from reduced management time. Security leaders are clearly focused on ensuring the financial justification for GenAI investments.</p>
+
+
+
+<ol start="5" class="wp-block-list">
+<li><strong>Guardrails and safety are crucial </strong></li>
+</ol>
+
+
+
+<p>GenAI adoption is tempered by concerns around safety and privacy, with 87% of organisations either implementing or planning new security policies to oversee GenAI use. Key risks include exposing sensitive data to large language models (LLMs) and adversarial attacks on GenAI tools. Respondents rank safety and privacy controls among their most desired GenAI features, highlighting the need for responsible implementation.</p>
+
+
+
+<p>Reflecting the cautious optimism of practitioners, only 39% of respondents firmly believed that the rewards of GenAI outweigh its risks. Meanwhile, 40% considered the risks and rewards “comparable.”</p>
+
+
+
+<h3 class="wp-block-heading">Current state of GenAI adoption in cybersecurity</h3>
+
+
+
+<p>GenAI adoption remains in its early stages, but interest is growing. 64% of respondents are actively researching or have already invested in GenAI tools, and 69% of those currently evaluating their options plan to make a purchase within the year.&nbsp;</p>
+
+
+
+<p>Security teams are primarily driven by three concerns: improving attack detection and response, enhancing operational efficiency, and mitigating the impact of staff shortages. Among economic considerations, the top priority is ROI – a sign that security leaders are keen to demonstrate tangible benefits to justify their spending.</p>
+
+
+
+<p>CrowdStrike emphasises the importance of a platform-based approach, where GenAI is integrated into a unified system. Such platforms enable seamless adoption, measurable benefits, and safety guardrails for responsible usage. According to the report, “The future of GenAI in cybersecurity will be defined by tools that not only advance security but also uphold the highest standards of safety and privacy.”</p>
+
+
+
+<p>The CrowdStrike survey concludes by affirming that “GenAI is not a silver bullet” but has tremendous potential to improve cybersecurity outcomes. As organisations evaluate its adoption, they will prioritise tools that integrate seamlessly with existing platforms, deliver faster response times, and ensure safety and privacy compliance.</p>
+
+
+
+<p>With threats becoming more sophisticated, the role of GenAI in enabling security teams to work faster and smarter could prove indispensable. While still in its infancy, GenAI in cybersecurity is poised to shift from early adoption to mainstream deployment, provided organisations and vendors address its risks responsibly.</p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/keys-ai-success-security-sustainability-overcoming-silos/"><strong>Keys to AI success: Security, sustainability, and overcoming silos</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img fetchpriority="high" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:1203px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="(max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/crowdstrike-cybersecurity-pros-safer-specialist-genai-tools/">CrowdStrike: Cybersecurity pros want safer, specialist GenAI tools</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/crowdstrike-cybersecurity-pros-safer-specialist-genai-tools/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New Clarifai tool orchestrates AI across any infrastructure</title>
+		<link>https://www.artificialintelligence-news.com/news/new-clarifai-tool-orchestrates-ai-across-any-infrastructure/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=new-clarifai-tool-orchestrates-ai-across-any-infrastructure</link>
+					<comments>https://www.artificialintelligence-news.com/news/new-clarifai-tool-orchestrates-ai-across-any-infrastructure/#respond</comments>
+		
+		<dc:creator><![CDATA[Dashveenjit Kaur]]></dc:creator>
+		<pubDate>Mon, 16 Dec 2024 09:03:12 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16702</guid>
+
+					<description><![CDATA[<p>Artificial intelligence platform provider Clarifai has unveiled a new compute orchestration capability that promises to help enterprises optimise their AI workloads in any computing environment, reduce costs and avoid vendor lock-in. Announced on December 3, 2024, the public preview release lets organisations orchestrate AI workloads through a unified control plane, whether those workloads are running<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/new-clarifai-tool-orchestrates-ai-across-any-infrastructure/" title="ReadNew Clarifai tool orchestrates AI across any infrastructure">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/new-clarifai-tool-orchestrates-ai-across-any-infrastructure/">New Clarifai tool orchestrates AI across any infrastructure</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Artificial intelligence platform provider Clarifai has unveiled a new compute orchestration capability that promises to help enterprises optimise their AI workloads in any computing environment, reduce costs and avoid vendor lock-in.</p>
+
+
+
+<p>Announced on December 3, 2024, the <a href="https://docs.clarifai.com/sdk/compute-orchestration/">public preview release</a> lets organisations orchestrate AI workloads through a unified control plane, whether those workloads are running on cloud, on-premises, or in air-gapped infrastructure. The platform can work with any AI model and hardware accelerator including GPUs, CPUs, and TPUs.</p>
+
+
+
+<p>&#8220;Clarifai has always been ahead of the curve, with over a decade of experience supporting large enterprise and mission-critical government needs with the full stack of AI tools to create custom AI workloads,&#8221; <a href="https://www.clarifai.com/press-release/clarifai-launches-first-vendor-agnostic-compute-orchestration-capabilities-to-optimize-ai-performance-and-spend">said</a> Matt Zeiler, founder and CEO of Clarifai. &#8220;Now, we&#8217;re opening up capabilities we built internally to optimise our compute costs as we scale to serve millions of models simultaneously.&#8221;</p>
+
+
+
+<p>The company claims its platform can reduce compute usage by 3.7x through model packing optimisations while supporting over 1.6 million inference requests per second with 99.9997% reliability. According to Clarifai, the optimisations can potentially cut costs by 60-90%, depending on configuration.</p>
+
+
+
+<p>Capabilities of the compute orchestration platform include:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Cost optimisation through automated resource management, including model packing, dependency simplification, and customisable auto-scaling options that can scale to zero for model replicas and compute nodes,</li>
+
+
+
+<li>Deployment flexibility on <a href="https://www.artificialintelligence-news.com/news/clarifai-launches-mobile-sdk-help-make-ai-available-devices/">any hardware</a> vendor including cloud, on-premise, air-gapped, and Clarifai SaaS infrastructure,</li>
+
+
+
+<li>Integration with Clarifai&#8217;s AI platform for data labeling, training, evaluation, workflows, and feedback,</li>
+
+
+
+<li>Security features that allow deployment into customer VPCs or on-premise Kubernetes clusters without requiring open inbound ports, VPC peering, or custom IAM roles.</li>
+</ul>
+
+
+
+<p>The platform emerged from Clarifai customers&#8217; issues with AI performance and cost. &#8220;If we had a way to think about it holistically and look at our on-prem costs compared to our cloud costs, and then be able to orchestrate across environments with a cost basis, that would be incredibly valuable,&#8221; noted a customer, as cited in Clarifai&#8217;s announcement.</p>
+
+
+
+<p>The compute orchestration capabilities build on Clarifai&#8217;s existing AI platform that, the company says, has processed over 2 billion operations in computer vision, language, and audio AI. The company reports maintaining 99.99%+ uptime and 24/7 availability for critical applications.</p>
+
+
+
+<p>The compute orchestration capability is currently available in public preview. Organisations interested in testing the platform should contact Clarifai for access.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/new-clarifai-tool-orchestrates-ai-across-any-infrastructure/">New Clarifai tool orchestrates AI across any infrastructure</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/new-clarifai-tool-orchestrates-ai-across-any-infrastructure/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Keys to AI success: Security, sustainability, and overcoming silos</title>
+		<link>https://www.artificialintelligence-news.com/news/keys-ai-success-security-sustainability-overcoming-silos/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=keys-ai-success-security-sustainability-overcoming-silos</link>
+					<comments>https://www.artificialintelligence-news.com/news/keys-ai-success-security-sustainability-overcoming-silos/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 12:06:10 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[digital transformation]]></category>
+		<category><![CDATA[enterprise]]></category>
+		<category><![CDATA[environment]]></category>
+		<category><![CDATA[netapp]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[scaling]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[sustainability]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16687</guid>
+
+					<description><![CDATA[<p>NetApp has shed light on the pressing issues faced by organisations globally as they strive to optimise their strategies for AI success. “2025 is shaping up to be a defining year for AI, as organisations transition from experimentation to scaling their AI capabilities,” said Gabie Boko, NetApp’s Chief Marketing Officer. “Businesses are making significant investments<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/keys-ai-success-security-sustainability-overcoming-silos/" title="ReadKeys to AI success: Security, sustainability, and overcoming silos">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/keys-ai-success-security-sustainability-overcoming-silos/">Keys to AI success: Security, sustainability, and overcoming silos</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://www.netapp.com/">NetApp</a> has shed light on the pressing issues faced by organisations globally as they strive to optimise their strategies for AI success.</p>
+
+
+
+<p>“2025 is shaping up to be a defining year for AI, as organisations transition from experimentation to scaling their AI capabilities,” said Gabie Boko, NetApp’s Chief Marketing Officer.</p>
+
+
+
+<p>“Businesses are making significant investments to drive innovation and efficiency, but these efforts will succeed only if global tech executives can address the mounting challenges of data complexity, security, and sustainability.”</p>
+
+
+
+<p>The findings of NetApp’s latest <em>Data Complexity Report</em> paints a detailed picture of where businesses currently stand on their AI journeys and the key trends that will shape the technology’s future.</p>
+
+
+
+<h3 class="wp-block-heading">Cost of transformation</h3>
+
+
+
+<p>Two-thirds of businesses worldwide claim their data is &#8220;fully or mostly optimised&#8221; for AI purposes, highlighting vast improvements in making data accessible, accurate, and well-documented. Yet, the study reveals that the journey towards AI maturity requires further significant investment.</p>
+
+
+
+<p>A striking 40% of global technology executives anticipate “unprecedented investment” will be necessary in 2025 just to enhance AI and data management capabilities.</p>
+
+
+
+<p>While considerable progress has been made, achieving impactful breakthroughs demands an even greater commitment in financial and infrastructural resources. Catching up with AI&#8217;s potential might not come cheap, but leaders prepared to invest could reap significant rewards in innovation and efficiency.</p>
+
+
+
+<h3 class="wp-block-heading">Data silos impede AI success</h3>
+
+
+
+<p>One of the principal barriers identified in the report is the fragmentation of data. An overwhelming 79% of global tech executives state that unifying their data, reducing silos and ensuring smooth interconnectedness, is key to unlocking AI’s full potential.</p>
+
+
+
+<p>Companies that have embraced unified data storage are better placed to overcome this hurdle. By connecting data regardless of its type or location (across hybrid multi-cloud environments,) they ensure constant accessibility and minimise fragmentation.</p>
+
+
+
+<p>The report indicates that organisations prioritising data unification are significantly more likely to meet their AI goals in 2025. Nearly one-third (30%) of businesses failing to prioritise unification foresee missing their targets, compared to just 23% for those placing this at the heart of their strategy.</p>
+
+
+
+<p>Executives have doubled down on data management and infrastructure as top priorities, increasingly recognising that optimising their capacity to gather, store, and process information is essential for AI maturity. Companies refusing to tackle these data challenges risk falling behind in an intensely competitive global market.</p>
+
+
+
+<h3 class="wp-block-heading">Scaling risks of AI</h3>
+
+
+
+<p>As businesses accelerate their AI adoption, the associated risks – particularly around <a href="https://www.artificialintelligence-news.com/categories/ai-security/">security</a> – are becoming more acute. More than two-fifths (41%) of global tech executives predict a stark rise in security threats by 2025 as AI becomes integral to more facets of their operations.</p>
+
+
+
+<p>AI’s rapid rise has expanded attack surfaces, exposing data sets to new vulnerabilities and creating unique challenges such as protecting sensitive AI models. Countries leading the AI race, including India, the US, and Japan, are nearly twice as likely to encounter escalating security concerns compared to less AI-advanced nations like Germany, France, and Spain.</p>
+
+
+
+<p>Increased awareness of AI-driven security challenges is reflected in business priorities. Over half (59%) of global executives name cybersecurity as one of the top stressors confronting organisations today.</p>
+
+
+
+<p>However, progress is being made. Despite elevated concerns, the report suggests that effective security measures are yielding results. Since 2023, the number of executives ranking cybersecurity and ransomware protection as their top priority has fallen by 17%, signalling optimism in combating these risks effectively.</p>
+
+
+
+<h3 class="wp-block-heading">Limiting AI’s environmental costs</h3>
+
+
+
+<p>Beyond security risks, AI’s growth is raising urgent questions of sustainability. Over one-third of global technology executives (34%) predict that AI advancements will drive significant changes to corporate sustainability practices. Meanwhile, 33% foresee new government policies and investments targeting energy usage.</p>
+
+
+
+<p>The infrastructure powering AI and transforming raw data into business value demands significant energy, counteracting organisational sustainability targets. AI-heavy nations often feel the environmental impact more acutely than their less AI-focused counterparts.</p>
+
+
+
+<p>While 72% of businesses still prioritise carbon footprint reduction, the report notes a decline from 84% in 2023, pointing to increasing tension between sustainability commitments and the relentless march of innovation. For organisations to scale AI without causing irreparable damage to the planet, maintaining environmental responsibility alongside technological growth will be paramount in coming years.</p>
+
+
+
+<p>Krish Vitaldevara, SVP and GM at NetApp, commented: “The organisations leading in advanced analytics and AI are those that have unified and well-cataloged data, robust security and compliance for sensitive information, and a clear understanding of how data evolves.</p>
+
+
+
+<p>“By tackling these challenges, they can drive innovation while ensuring resilience, responsibility, and timely insights in the new AI era.”</p>
+
+
+
+<p><em>You can find a full copy of NetApp’s report </em><a href="https://www.netapp.com/pdf.html?item=/media/120560-2024-data-complexity-survey-report.pdf"><em>here</em></a><em> (PDF)</em></p>
+
+
+
+<p>(Photo by <a href="https://unsplash.com/@chunlea?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Chunli Ju</a>)</p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/o1-model-llm-ai-openai-training-research-next-generation/"><strong>New AI training techniques aim to overcome current challenges</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:961px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="(max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/keys-ai-success-security-sustainability-overcoming-silos/">Keys to AI success: Security, sustainability, and overcoming silos</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/keys-ai-success-security-sustainability-overcoming-silos/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Amazon Bedrock gains new AI models, tools, and features</title>
+		<link>https://www.artificialintelligence-news.com/news/amazon-bedrock-gains-new-ai-models-tools-and-features/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=amazon-bedrock-gains-new-ai-models-tools-and-features</link>
+					<comments>https://www.artificialintelligence-news.com/news/amazon-bedrock-gains-new-ai-models-tools-and-features/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Thu, 05 Dec 2024 15:00:23 +0000</pubDate>
+				<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[amazon web services]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[aws]]></category>
+		<category><![CDATA[bedrock]]></category>
+		<category><![CDATA[models]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16652</guid>
+
+					<description><![CDATA[<p>Amazon Web Services (AWS) has announced improvements to bolster Bedrock, its fully managed generative AI service. The updates include new foundational models from several AI pioneers, enhanced data processing capabilities, and features aimed at improving inference efficiency. Dr Swami Sivasubramanian, VP of AI and Data at AWS, said: “Amazon Bedrock continues to see rapid growth<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/amazon-bedrock-gains-new-ai-models-tools-and-features/" title="ReadAmazon Bedrock gains new AI models, tools, and features">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/amazon-bedrock-gains-new-ai-models-tools-and-features/">Amazon Bedrock gains new AI models, tools, and features</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://aws.amazon.com/">Amazon Web Services</a> (AWS) has announced improvements to bolster Bedrock, its fully managed generative AI service.</p>
+
+
+
+<p>The updates include new foundational models from several AI pioneers, enhanced data processing capabilities, and features aimed at improving inference efficiency.</p>
+
+
+
+<p>Dr Swami Sivasubramanian, VP of AI and Data at AWS, said: “Amazon Bedrock continues to see rapid growth as customers flock to the service for its broad selection of leading models, tools to easily customise with their data, built-in responsible AI features, and capabilities for developing sophisticated agents.</p>
+
+
+
+<p>“With this new set of capabilities, we are empowering customers to develop more intelligent AI applications that will deliver greater value to their end-users.”</p>
+
+
+
+<h3 class="wp-block-heading">Amazon Bedrock expands its model diversity</h3>
+
+
+
+<p>AWS is set to become the first cloud provider to feature models from AI developers Luma AI and poolside, while also incorporating Stability AI’s latest release.</p>
+
+
+
+<p>Through its new <em>Amazon Bedrock Marketplace</em>, customers will have access to over 100 emerging and specialised models from across industries, ensuring they can select the most appropriate tools for their unique needs.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Luma AI’s Ray 2</strong> </li>
+</ul>
+
+
+
+<p>Luma AI, known for advancing generative AI in video content creation, brings its next-generation Ray 2 model to Amazon Bedrock. This model generates high-quality, lifelike video outputs from text or image inputs and allows organisations to create detailed outputs in fields such as fashion, architecture, and graphic design. AWS’s presence as the first provider for this model ensures businesses can experiment with new camera angles, cinematographic styles, and consistent characters with a frictionless workflow.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>poolside’s </strong><strong><em>malibu</em></strong><strong> and </strong><strong><em>point</em></strong></li>
+</ul>
+
+
+
+<p>Designed to address challenges in modern software engineering, poolside’s models – <em>malibu</em> and <em>point</em> – specialise in code generation, testing, documentation, and real-time code completion. Importantly, developers can securely fine-tune these models using their private datasets. Accompanied by Assistant – an integration for development environments – poolside’s tools allow engineering teams to accelerate productivity, ship projects faster, and increase accuracy.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Stability AI’s Stable Diffusion 3.5 Large  </strong></li>
+</ul>
+
+
+
+<p>Amazon Bedrock customers will soon gain access to Stability AI’s text-to-image model <a href="https://www.artificialintelligence-news.com/news/stability-ai-releases-most-powerful-image-generation-models-date/">Stable Diffusion 3.5 Large</a>. This addition supports businesses in creating high-quality visual media for use cases in areas like gaming, advertising, and retail.&nbsp;&nbsp;</p>
+
+
+
+<p>Through the Bedrock Marketplace, AWS also enables access to over 100 specialised models. These include solutions tailored to fields such as biology (EvolutionaryScale’s ESM3 generative model), financial data (Writer’s Palmyra-Fin), and media (Camb.ai’s text-to-audio MARS6).</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="692" src="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/amazon-bedrock-model-marketplace-catalog-ai-artificial-intelligence-1024x692.jpg" alt="Image showing the expanded AI model catalog in the Amazon Bedrock Marketplace." class="wp-image-16656" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/amazon-bedrock-model-marketplace-catalog-ai-artificial-intelligence-1024x692.jpg 1024w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/amazon-bedrock-model-marketplace-catalog-ai-artificial-intelligence-300x203.jpg 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/amazon-bedrock-model-marketplace-catalog-ai-artificial-intelligence-768x519.jpg 768w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/amazon-bedrock-model-marketplace-catalog-ai-artificial-intelligence-296x200.jpg 296w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/amazon-bedrock-model-marketplace-catalog-ai-artificial-intelligence-380x257.jpg 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/amazon-bedrock-model-marketplace-catalog-ai-artificial-intelligence-350x237.jpg 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/amazon-bedrock-model-marketplace-catalog-ai-artificial-intelligence-100x68.jpg 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/amazon-bedrock-model-marketplace-catalog-ai-artificial-intelligence-60x41.jpg 60w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/amazon-bedrock-model-marketplace-catalog-ai-artificial-intelligence.jpg 1294w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Zendesk, a global customer service software firm, leverages Bedrock’s marketplace to personalise support across email and social channels using AI-driven localisation and sentiment analysis tools. For example, they use models like Widn.AI to tailor responses based on real-time sentiment in customers’ native languages.</p>
+
+
+
+<h3 class="wp-block-heading">Scaling inference with new Amazon Bedrock features</h3>
+
+
+
+<p>Large-scale generative AI applications require balancing the cost, latency, and accuracy of inference processes. AWS is addressing this challenge with two new Amazon Bedrock features:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Prompt Caching</strong></li>
+</ul>
+
+
+
+<p>The new caching capability reduces redundant processing of prompts by securely storing frequently used queries, saving on both time and costs. This feature can lead to up to a 90% reduction in costs and an 85% decrease in latency. For example, Adobe incorporated Prompt Caching into its Acrobat AI Assistant to summarise documents and answer questions, achieving a 72% reduction in response times during initial testing.&nbsp;&nbsp;</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Intelligent Prompt Routing</strong></li>
+</ul>
+
+
+
+<p>This feature dynamically directs prompts to the most suitable foundation model within a family, optimising results for both cost and quality. Customers such as Argo Labs, which builds conversational voice AI solutions for restaurants, have already benefited. While simpler queries (like booking tables) are handled by smaller models, more nuanced requests (e.g., dietary-specific menu questions) are intelligently routed to larger models. Argo Labs’ usage of intelligent Prompt Routing has not only improved response quality but also reduced costs by up to 30%.</p>
+
+
+
+<h3 class="wp-block-heading">Data utilisation: Knowledge bases and automation</h3>
+
+
+
+<p>A key attraction of generative AI lies in its ability to extract value from data. AWS is enhancing its Amazon Bedrock Knowledge Bases to ensure organisations can deploy their unique datasets for richer AI-powered user experiences.&nbsp;&nbsp;</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Using structured data </strong></li>
+</ul>
+
+
+
+<p>AWS has introduced capabilities for structured data retrieval within Knowledge Bases. This enhancement allows customers to query data stored across Amazon services like SageMaker Lakehouse and Redshift through natural-language prompts, with results translated back into SQL queries. Octus, a credit intelligence firm, plans to use this capability to provide clients with dynamic, natural-language reports on its structured financial data.&nbsp;&nbsp;</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>GraphRAG integration </strong></li>
+</ul>
+
+
+
+<p>By incorporating automated graph modelling (powered by Amazon Neptune), customers can now generate and connect relational data for stronger AI applications. BMW Group, for instance, will use GraphRAG to augment its virtual assistant MAIA. This assistant taps into BMW’s wealth of internal data to deliver comprehensive responses and premium user experiences.</p>
+
+
+
+<p>Separately, AWS has unveiled Amazon Bedrock Data Automation, a tool that transforms unstructured content (e.g., documents, video, and audio) into structured formats for analytics or retrieval-augmented generation (RAG). Companies like Symbeo (automated claims processing) and Tenovos (digital asset management) are already piloting the tool to improve operational efficiency and data reuse.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Amazon Bedrock Data Automation Overview | Amazon Web Services" width="1200" height="675" src="https://www.youtube.com/embed/s54hx76QD5k?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>The expansion of Amazon Bedrock’s ecosystem reflects its growing popularity, with the service recording a 4.7x increase in its customer base over the last year. Industry leaders like Adobe, BMW, Zendesk, and Tenovos have all embraced AWS’s latest innovations to improve their generative AI capabilities.&nbsp;&nbsp;</p>
+
+
+
+<p>Most of the newly announced tools – such as inference management, Knowledge Bases with structured data retrieval, and GraphRAG – are currently in preview, while notable model releases from Luma AI, poolside, and Stability AI are expected soon.</p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/alibaba-cloud-overhauls-ai-partner-initiative/"><strong>Alibaba Cloud overhauls AI partner initiative</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:1009px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/amazon-bedrock-gains-new-ai-models-tools-and-features/">Amazon Bedrock gains new AI models, tools, and features</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/amazon-bedrock-gains-new-ai-models-tools-and-features/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Google launches Veo and Imagen 3 generative AI models</title>
+		<link>https://www.artificialintelligence-news.com/news/google-launches-veo-and-imagen-3-generative-ai-models/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=google-launches-veo-and-imagen-3-generative-ai-models</link>
+					<comments>https://www.artificialintelligence-news.com/news/google-launches-veo-and-imagen-3-generative-ai-models/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Tue, 03 Dec 2024 14:30:05 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[genai]]></category>
+		<category><![CDATA[generative ai]]></category>
+		<category><![CDATA[imagen]]></category>
+		<category><![CDATA[models]]></category>
+		<category><![CDATA[veo]]></category>
+		<category><![CDATA[vertex ai]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16626</guid>
+
+					<description><![CDATA[<p>Google Cloud has launched two generative AI models on its Vertex AI platform, Veo and Imagen 3, amid reports of surging revenue growth among enterprises leveraging the technology. According to Google Cloud&#8217;s data, 86% of enterprise companies currently using generative AI in production environments have witnessed increased revenue, with an estimated average growth of 6%.&#160;<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/google-launches-veo-and-imagen-3-generative-ai-models/" title="ReadGoogle launches Veo and Imagen 3 generative AI models">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/google-launches-veo-and-imagen-3-generative-ai-models/">Google launches Veo and Imagen 3 generative AI models</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Google Cloud has launched two generative AI models on its <a href="https://cloud.google.com/vertex-ai">Vertex AI</a> platform, Veo and Imagen 3, amid reports of surging revenue growth among enterprises leveraging the technology.</p>
+
+
+
+<p>According to Google Cloud&#8217;s data, 86% of enterprise companies currently using generative AI in production environments have witnessed increased revenue, with an estimated average growth of 6%.&nbsp;</p>
+
+
+
+<p>This metric has driven the tech giant&#8217;s latest innovation push, resulting in the introduction of Veo – its most sophisticated video generation model to date – and Imagen 3, an advanced text-to-image generation system.</p>
+
+
+
+<h3 class="wp-block-heading">Breaking ground</h3>
+
+
+
+<p><a href="https://deepmind.google/technologies/veo/">Veo</a>, now available in private preview on Vertex AI, represents a milestone as Google becomes the first hyperscaler to offer an image-to-video model. The technology enables businesses to generate high-quality videos from simple text or image prompts, potentially revolutionising video production workflows across industries.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Filmmaking with Donald Glover and his creative studio, Gilga | Veo" width="1200" height="675" src="https://www.youtube.com/embed/dKAVFLB75xs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p><a href="https://deepmind.google/technologies/imagen-3/">Imagen 3</a> – scheduled for release to all Vertex AI customers next week – promises unprecedented realism in generated images, with marked improvements in detail, lighting, and artifact reduction. The model includes new features for enterprise customers on an allowlist, including advanced editing capabilities and brand customisation options.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="614" src="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/google-imagen-2-generative-ai-model-image-artificial-intelligence-vertex-1024x614.jpg" alt="Example images generated by the Imagen 3 generative AI (GenAI) model by Google, available on its Vertex AI platform." class="wp-image-16627" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/google-imagen-2-generative-ai-model-image-artificial-intelligence-vertex-1024x614.jpg 1024w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/google-imagen-2-generative-ai-model-image-artificial-intelligence-vertex-300x180.jpg 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/google-imagen-2-generative-ai-model-image-artificial-intelligence-vertex-768x461.jpg 768w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/google-imagen-2-generative-ai-model-image-artificial-intelligence-vertex-333x200.jpg 333w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/google-imagen-2-generative-ai-model-image-artificial-intelligence-vertex-380x228.jpg 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/google-imagen-2-generative-ai-model-image-artificial-intelligence-vertex-350x210.jpg 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/google-imagen-2-generative-ai-model-image-artificial-intelligence-vertex-100x60.jpg 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/google-imagen-2-generative-ai-model-image-artificial-intelligence-vertex-60x36.jpg 60w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/google-imagen-2-generative-ai-model-image-artificial-intelligence-vertex.jpg 1400w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h3 class="wp-block-heading">Transforming operations</h3>
+
+
+
+<p>Several major firms have begun implementing these technologies into their operations.</p>
+
+
+
+<p>Mondelez International, the company behind brands such as Oreo, Cadbury, and Chips Ahoy!, is using the technology to accelerate campaign content creation across its global portfolio of brands.</p>
+
+
+
+<p>Jon Halvorson, SVP of Consumer Experience &amp; Digital Commerce at Mondelez International, explained: &#8220;Our collaboration with Google Cloud has been instrumental in harnessing the power of generative AI, notably through Imagen 3, to revolutionise content production.</p>
+
+
+
+<p>“This technology has enabled us to produce hundreds of thousands of customised assets, enhancing creative quality while significantly reducing both time to market and costs.&#8221;</p>
+
+
+
+<p>Knowledge sharing platform Quora has developed <a href="https://poe.com/">Poe</a>, a platform that enables users to interact with generative AI models. Veo and Imagen are now integrated with Poe.</p>
+
+
+
+<p>Spencer Chan, Product Lead for Poe at Quora, commented: “We created Poe to democratise access to the world&#8217;s best gen AI models. With Veo, we&#8217;re now enabling millions of users to bring their ideas to life through stunning, high-quality generative video.&#8221;</p>
+
+
+
+<h3 class="wp-block-heading">Safety and security</h3>
+
+
+
+<p>In response to growing concerns about AI-generated content, <a href="https://www.artificialintelligence-news.com/categories/ai-companies/google/">Google</a> has implemented robust safety features in both models. These include:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Digital watermarking</strong> through Google DeepMind&#8217;s SynthID.</li>
+
+
+
+<li><strong>Built-in safety filters</strong> to prevent harmful content creation.</li>
+
+
+
+<li><strong>Strict data governance policies</strong> ensure customer data protection.</li>
+
+
+
+<li><strong>Industry-first copyright indemnity</strong> for generative AI services.</li>
+</ul>
+
+
+
+<p>The launch of these new models signals Google&#8217;s growing influence in the enterprise AI space and suggests a shift toward more sophisticated, integrated AI solutions for business applications.</p>
+
+
+
+<p><em>(Imagery Credit: <a href="https://cloud.google.com/">Google Cloud</a>)</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/alibaba-marco-o1-advancing-llm-reasoning-capabilities/"><strong>Alibaba Marco-o1: Advancing LLM reasoning capabilities</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:969px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out <a href="https://www.ai-expo.net/">AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/google-launches-veo-and-imagen-3-generative-ai-models/">Google launches Veo and Imagen 3 generative AI models</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/google-launches-veo-and-imagen-3-generative-ai-models/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Salesforce: UK set to lead agentic AI revolution</title>
+		<link>https://www.artificialintelligence-news.com/news/salesforce-uk-set-lead-agentic-ai-revolution/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=salesforce-uk-set-lead-agentic-ai-revolution</link>
+					<comments>https://www.artificialintelligence-news.com/news/salesforce-uk-set-lead-agentic-ai-revolution/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Mon, 02 Dec 2024 13:24:31 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Industries]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Virtual Assistants]]></category>
+		<category><![CDATA[adoption]]></category>
+		<category><![CDATA[agentic ai]]></category>
+		<category><![CDATA[agents]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[Business]]></category>
+		<category><![CDATA[enterprise]]></category>
+		<category><![CDATA[europe]]></category>
+		<category><![CDATA[productivity]]></category>
+		<category><![CDATA[report]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[salesforce]]></category>
+		<category><![CDATA[study]]></category>
+		<category><![CDATA[uk]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16601</guid>
+
+					<description><![CDATA[<p>Salesforce has unveiled the findings of its UK AI Readiness Index, signalling the nation is in a position to spearhead the next wave of AI innovation, also known as agentic AI. The report places the UK ahead of its G7 counterparts in terms of AI adoption but also underscores areas ripe for improvement, such as<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/salesforce-uk-set-lead-agentic-ai-revolution/" title="ReadSalesforce: UK set to lead agentic AI revolution">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/salesforce-uk-set-lead-agentic-ai-revolution/">Salesforce: UK set to lead agentic AI revolution</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Salesforce has unveiled the findings of its <a href="https://www.salesforce.com/uk/news/wp-content/uploads/sites/5/2024/12/Salesforce-UK-AI-Readiness-Index.pdf">UK AI Readiness Index</a>, signalling the nation is in a position to spearhead the next wave of AI innovation, also known as agentic AI.</p>
+
+
+
+<p>The report places the UK ahead of its G7 counterparts in terms of AI adoption but also underscores areas ripe for improvement, such as support for SMEs, fostering cross-sector partnerships, and investing in talent development.</p>
+
+
+
+<p>Zahra Bahrololoumi CBE, UKI CEO at Salesforce, commented: “Agentic AI is revolutionising enterprise software by enabling humans and agents to collaborate seamlessly and drive customer success.</p>
+
+
+
+<p>“The UK AI Readiness Index positively highlights that the UK has both the vision and infrastructure to be a powerhouse globally in AI, and lead the current third wave of agentic AI.”</p>
+
+
+
+<h3 class="wp-block-heading">UK AI adoption sets the stage for agentic revolution</h3>
+
+
+
+<p>The Index details how both the public and private sectors in the UK have embraced AI&#8217;s transformative potential. With a readiness score of 65.5, surpassing the G7 average of 61.2, the UK is establishing itself as a hub for large-scale AI projects, driven by a robust innovation culture and pragmatic regulatory approaches.</p>
+
+
+
+<p>The government has played its part in maintaining a stable and secure environment for tech investment. Initiatives such as the <a href="https://www.artificialintelligence-news.com/news/uk-reveals-ai-safety-summit-opening-day-agenda/">AI Safety Summit</a> at Bletchley Park and risk-oriented AI legislation showcase Britain&#8217;s leadership on critical AI issues like transparency and privacy.</p>
+
+
+
+<p>Business readiness is equally impressive, with UK industries scoring 52, well above the G7 average of 47.8. SMEs in the UK are increasingly prioritising AI adoption, further bolstering the nation&#8217;s stance in the international AI arena.</p>
+
+
+
+<p>Adam Evans, EVP &amp; GM of Salesforce AI Platform, is optimistic about the evolution of agentic AI. Evans foresees that, by 2025, these agents will become business-aware—expertly navigating industry-specific challenges to execute meaningful tasks and decisions.</p>
+
+
+
+<h3 class="wp-block-heading">Investments fuelling AI growth</h3>
+
+
+
+<p>Salesforce is committing $4 billion to the UK’s AI ecosystem over the next five years. Since establishing its UK AI Centre in London, Salesforce says it has engaged over 3,000 stakeholders in AI training and workshops.</p>
+
+
+
+<p>Key investment focuses include creating a regulatory bridge between the EU’s <a href="https://www.artificialintelligence-news.com/news/balancing-innovation-trust-experts-assess-eu-ai-act/">rules-based approach</a> and the more relaxed US approach, and ensuring SMEs have the resources to integrate AI. A strong emphasis also lies on enhancing digital skills and centralising training to support the AI workforce of the future.</p>
+
+
+
+<p>Feryal Clark, Minister for AI and Digital Government, said: &#8220;These findings are further proof the UK is in prime position to take advantage of AI, and highlight our strength in spurring innovation, investment, and collaboration across the public and private sector.</p>
+
+
+
+<p>“There is a global race for AI and we’ll be setting out plans for how the UK can use the technology to ramp-up adoption across the economy, kickstart growth, and build an AI sector which can scale and compete on the global stage.”</p>
+
+
+
+<p>Antony Walker, Deputy CEO at techUK, added: “To build this progress, government and industry must collaborate to foster innovation, support SMEs, invest in skills, and ensure flexible regulation, cementing the UK’s leadership in the global AI economy.”</p>
+
+
+
+<h3 class="wp-block-heading">Agentic AI boosting UK business productivity&nbsp;</h3>
+
+
+
+<p>Capita, Secret Escapes, Heathrow, and Bionic are among the organisations that have adopted Salesforce’s Agentforce to boost their productivity.</p>
+
+
+
+<p>Adolfo Hernandez, CEO of Capita, said: &#8220;We want to transform Capita’s recruitment process into a fast, seamless and autonomous experience that benefits candidates, our people, and our clients.</p>
+
+
+
+<p>“With autonomous agents providing 24/7 support, our goal is to enable candidates to complete the entire recruitment journey within days as opposed to what has historically taken weeks.</p>
+
+
+
+<p>Secret Escapes, a curator of luxury travel deals, finds autonomous agents crucial for personalising services to its 60 million European members.</p>
+
+
+
+<p>Kate Donaghy, Head of Business Technology at Secret Escapes, added: “Agentforce uses our unified data to automate routine tasks like processing cancellations, updating booking information, or even answering common travel questions about luggage, flight information, and much more—freeing up our customer service agents to handle more complex and last-minute travel needs to better serve our members.”</p>
+
+
+
+<p>The UK’s AI readiness is testament to the synergy between government, business, and academia. To maintain its leadership, the UK must sustain its focus on collaboration, skills development, and innovation.&nbsp;</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@matthewjkwiebe?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Matthew Wiebe</a>)</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/generative-ai-use-soars-among-brits-but-is-it-sustainable/"><strong>Generative AI use soars among Brits, but is it sustainable?</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:969px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/salesforce-uk-set-lead-agentic-ai-revolution/">Salesforce: UK set to lead agentic AI revolution</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/salesforce-uk-set-lead-agentic-ai-revolution/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Samsung unveils Gauss2 AI model at SDC24 Korea</title>
+		<link>https://www.artificialintelligence-news.com/news/samsung-unveils-gauss2-ai-model-sdc24-korea/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=samsung-unveils-gauss2-ai-model-sdc24-korea</link>
+					<comments>https://www.artificialintelligence-news.com/news/samsung-unveils-gauss2-ai-model-sdc24-korea/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Thu, 21 Nov 2024 17:03:38 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[gauss2]]></category>
+		<category><![CDATA[models]]></category>
+		<category><![CDATA[multimodal]]></category>
+		<category><![CDATA[Samsung]]></category>
+		<category><![CDATA[samsung developers conference]]></category>
+		<category><![CDATA[sdc24]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16532</guid>
+
+					<description><![CDATA[<p>Samsung has revealed Gauss2, the second-generation proprietary AI model set to significantly enhance user experiences. Paul Kyungwhoon Cheun, President and CTO of the Device eXperience (DX) Division, commented: “Samsung Electronics is committed to developing cutting-edge software, including AI and data analytics, to enhance user experiences. “With three distinct models, Samsung Gauss2 is already boosting our<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/samsung-unveils-gauss2-ai-model-sdc24-korea/" title="ReadSamsung unveils Gauss2 AI model at SDC24 Korea">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/samsung-unveils-gauss2-ai-model-sdc24-korea/">Samsung unveils Gauss2 AI model at SDC24 Korea</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Samsung has revealed Gauss2, the second-generation proprietary AI model set to significantly enhance user experiences.</p>
+
+
+
+<p>Paul Kyungwhoon Cheun, President and CTO of the Device eXperience (DX) Division, commented: “Samsung Electronics is committed to developing cutting-edge software, including AI and data analytics, to enhance user experiences.</p>
+
+
+
+<p>“With three distinct models, Samsung Gauss2 is already boosting our internal productivity, and we plan to integrate it into products to deliver higher levels of convenience and personalisation.”</p>
+
+
+
+<h3 class="wp-block-heading">Samsung Gauss2: Multimodal AI</h3>
+
+
+
+<p>Gauss2 builds upon last year’s internal generative AI model, showcasing advancements in handling language, code, and images. It comes in three variants: Compact, Balanced, and Supreme, tailored to different computational needs.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Compact:</strong> Optimised for environments with limited computing resources, ensuring effective performance even on-device.</li>
+
+
+
+<li><strong>Balanced:</strong> Strikes a balance among performance, speed, and efficiency; suitable for a variety of tasks.</li>
+
+
+
+<li><strong>Supreme:</strong> Incorporates Mixture of Experts (MoE) technology to minimise computational costs while maximising efficiency and performance.</li>
+</ul>
+
+
+
+<p>Gauss2 is designed to support between nine and fourteen languages, depending on the model, and a range of programming languages.</p>
+
+
+
+<p>Samsung&#8217;s custom training techniques and tokeniser aim to deliver peak efficiency across supported languages. The new models promise response generation speeds 1.5 to 3 times faster than leading open-source alternatives, facilitating prompt AI interaction and minimising wait times.</p>
+
+
+
+<h3 class="wp-block-heading">Customisation and deployment</h3>
+
+
+
+<p>Samsung&#8217;s in-house generative AI model allows easier customisation for specific applications.</p>
+
+
+
+<p>Gauss2 supports diverse productivity tasks, with widespread adoption among Samsung developers. The coding assistant &#8216;code.i&#8217; – enhanced by Gauss2 – is utilised extensively within the DX Division and by international research teams, with up to 60% of developers now engaging regularly.</p>
+
+
+
+<p>The Gauss Portal, another Gauss-powered AI service, enhances productivity through features such as document summarisation and translation. Since its launch, this AI service has expanded internationally, aiding various office tasks. As of August, call centre operations also benefit from AI-driven categorisation and summarisation.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1000" height="666" src="https://www.artificialintelligence-news.com/wp-content/uploads/2024/11/samsung-gauss2-ai-model-data-analytics.jpg" alt="Samsung SDC24 Korea Gauss2 presentation on AI and data analytics." class="wp-image-16533" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2024/11/samsung-gauss2-ai-model-data-analytics.jpg 1000w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/11/samsung-gauss2-ai-model-data-analytics-300x200.jpg 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/11/samsung-gauss2-ai-model-data-analytics-768x511.jpg 768w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/11/samsung-gauss2-ai-model-data-analytics-380x253.jpg 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/11/samsung-gauss2-ai-model-data-analytics-350x233.jpg 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/11/samsung-gauss2-ai-model-data-analytics-100x67.jpg 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/11/samsung-gauss2-ai-model-data-analytics-60x40.jpg 60w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></figure>
+
+
+
+<p>Going forward, Samsung aims to further boost internal productivity, improving services like code.i and enhancing the Gauss Portal&#8217;s natural language question-and-answer capabilities. Future functionalities will include multimodal operations, like chart analysis and image creation.</p>
+
+
+
+<h3 class="wp-block-heading">‘AI for All’</h3>
+
+
+
+<p>Samsung&#8217;s strategy, &#8220;AI for All,&#8221; envisions widespread incorporation of AI-based services across its product lines. By combining AI with knowledge graph technology, Samsung anticipates delivering even greater personalisation.</p>
+
+
+
+<p>Besides Gauss2, the conference featured presentations on software development, including the SmartThings platform&#8217;s customer experience improvements.</p>
+
+
+
+<p>Attendees engaged in 29 technical sessions covering:</p>
+
+
+
+<ul class="wp-block-list">
+<li>The future of healthcare developments within Samsung’s health ecosystem.</li>
+
+
+
+<li>Enhancements in <a href="https://iottechnews.com/news/samsung-breathes-life-into-existing-appliances-with-smart-forward/">the SmartThings experience</a> through generative AI.</li>
+
+
+
+<li>Insights into the code.i AI coding assistant.</li>
+
+
+
+<li>Lifestyle content innovations for TV.</li>
+
+
+
+<li>AI solutions for Samsung’s home appliances.</li>
+</ul>
+
+
+
+<p>SDC24 Korea underscored Samsung’s vision to integrate AI <a href="https://www.artificialintelligence-news.com/news/samsung-enhances-ai-features-latest-foldables-wearables/">across its ecosystem</a>.</p>
+
+
+
+<p><em>(Image Credit: </em><a href="https://www.samsung.com/"><em>Samsung</em></a><em>)</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/eu-introduces-draft-regulatory-guidance-for-ai-models/"><strong>EU introduces draft regulatory guidance for AI models</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:1291px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+
+
+
+<p></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/samsung-unveils-gauss2-ai-model-sdc24-korea/">Samsung unveils Gauss2 AI model at SDC24 Korea</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/samsung-unveils-gauss2-ai-model-sdc24-korea/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Generative AI: Disparities between C-suite and practitioners</title>
+		<link>https://www.artificialintelligence-news.com/news/generative-ai-disparities-c-suite-and-practitioners/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=generative-ai-disparities-c-suite-and-practitioners</link>
+					<comments>https://www.artificialintelligence-news.com/news/generative-ai-disparities-c-suite-and-practitioners/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Tue, 19 Nov 2024 12:31:35 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[enterprise]]></category>
+		<category><![CDATA[genai]]></category>
+		<category><![CDATA[generative ai]]></category>
+		<category><![CDATA[report]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[study]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16515</guid>
+
+					<description><![CDATA[<p>A report by Publicis Sapient sheds light on the disparities between the C-suite and practitioners, dubbed the &#8220;V-suite,&#8221; in their perceptions and adoption of generative AI. The report reveals a stark contrast in how the C-suite and V-suite view the potential of generative AI. While the C-suite focuses on visible use cases such as customer<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/generative-ai-disparities-c-suite-and-practitioners/" title="ReadGenerative AI: Disparities between C-suite and practitioners">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/generative-ai-disparities-c-suite-and-practitioners/">Generative AI: Disparities between C-suite and practitioners</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>A report by <a href="https://www.publicissapient.com/">Publicis Sapient</a> sheds light on the disparities between the C-suite and practitioners, dubbed the &#8220;V-suite,&#8221; in their perceptions and adoption of generative AI.</p>
+
+
+
+<p>The report reveals a stark contrast in how the C-suite and V-suite view the potential of generative AI. While the C-suite focuses on visible use cases such as customer experience, service, and sales, the V-suite sees opportunities across various functional areas, including operations, HR, and finance.</p>
+
+
+
+<h3 class="wp-block-heading">Risk perception</h3>
+
+
+
+<p>The divide extends to risk perception as well. Fifty-one percent of C-level respondents expressed more concern about the risk and ethics of generative AI than other emerging technologies. In contrast, only 23 percent of the V-suite shared these worries.</p>
+
+
+
+<p>Simon James, Managing Director of Data &amp; AI at Publicis Sapient, said: “It’s likely the C-suite is more worried about abstract, big-picture dangers – such as Hollywood-style scenarios of a rapidly-evolving superintelligence – than the V-suite.”</p>
+
+
+
+<p>The report also highlights the uncertainty surrounding generative AI maturity. Organisations can be at various stages of maturity simultaneously, with many struggling to define what success looks like. More than two-thirds of respondents lack a way to measure the success of their generative AI projects.</p>
+
+
+
+<h3 class="wp-block-heading">Navigating the generative AI landscape</h3>
+
+
+
+<p>Despite the C-suite&#8217;s focus on high-visibility use cases, generative AI is quietly transforming back-office functions. More than half of the V-suite respondents ranked generative AI as extremely important in areas like finance and operations over the next three years, compared to a smaller percentage of the C-suite.</p>
+
+
+
+<p>To harness the full potential of generative AI, the report recommends a portfolio approach to innovation projects. Leaders should focus on delivering projects, controlling shadow IT, avoiding duplication, empowering domain experts, connecting business units with the CIO&#8217;s office, and engaging the risk office early and often.</p>
+
+
+
+<p>Daniel Liebermann, Managing Director at Publicis Sapient, commented: &#8220;It&#8217;s as hard for leaders to learn how individuals within their organisation are using ChatGPT or Microsoft Copilot as it is to understand how they&#8217;re using the internet.&#8221;</p>
+
+
+
+<h3 class="wp-block-heading">The path forward</h3>
+
+
+
+<p>The report concludes with five steps to maximise innovation: adopting a portfolio approach, improving communication between the CIO&#8217;s office and the risk office, seeking out innovators within the organisation, using generative AI to manage information, and empowering team members through company culture and upskilling.</p>
+
+
+
+<p>As generative AI continues to evolve, organisations must bridge the gap between the C-suite and V-suite to unlock its full potential. The future of business transformation lies in harnessing the power of a decentralised, bottom-up approach to innovation.</p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/eu-introduces-draft-regulatory-guidance-for-ai-models/"><strong>EU introduces draft regulatory guidance for AI models</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:957px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/generative-ai-disparities-c-suite-and-practitioners/">Generative AI: Disparities between C-suite and practitioners</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/generative-ai-disparities-c-suite-and-practitioners/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>AI is helping brands avoid controversial influencer partnerships  </title>
+		<link>https://www.artificialintelligence-news.com/news/ai-is-helping-brands-avoid-controversial-influencer-partnerships/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ai-is-helping-brands-avoid-controversial-influencer-partnerships</link>
+					<comments>https://www.artificialintelligence-news.com/news/ai-is-helping-brands-avoid-controversial-influencer-partnerships/#respond</comments>
+		
+		<dc:creator><![CDATA[AI News]]></dc:creator>
+		<pubDate>Fri, 25 Oct 2024 07:20:40 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Industries]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16378</guid>
+
+					<description><![CDATA[<p>Influencer partnerships can be great for brands looking to pump out content that promotes their products and services in an authentic way. These types of engagements can yield significant brand awareness and brand sentiment lift, but they can be risky too. Social media stars are unpredictable at the best of times, with many deliberately chasing<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/ai-is-helping-brands-avoid-controversial-influencer-partnerships/" title="ReadAI is helping brands avoid controversial influencer partnerships  ">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ai-is-helping-brands-avoid-controversial-influencer-partnerships/">AI is helping brands avoid controversial influencer partnerships  </a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Influencer partnerships can be great for brands looking to pump out content that promotes their products and services in an authentic way. These types of engagements can yield significant brand awareness and brand sentiment lift, but they can be risky too. Social media stars are unpredictable at the best of times, with many deliberately chasing controversy to increase their fame.&nbsp;</p>
+
+
+
+<p>These antics don&#8217;t always reflect well on the brands that collaborate with especially attention-hungry influencers, leaving marketers no choice but to conduct careful due diligence on the individuals they work with. Luckily, that task can be made much easier thanks to <a href="https://www.artificialintelligence-news.com/news/innovative-machine-learning-uses-transforming-business-applications/" target="_blank" rel="noreferrer noopener">the evolving utility of AI</a>.&nbsp;&nbsp;</p>
+
+
+
+<p><a href="https://www.lightricks.com/" target="_blank" rel="noreferrer noopener">Lightricks</a>, a software company best known for its AI-powered video and image editing tools, is once again expanding the AI capabilities of its suite with this week’s announcement of SafeCollab. An AI-powered influencer vetting module that lives within the company’s Popular Pays creator collaboration platform, SafeCollab is a new tool for marketers that automates the vetting process.&nbsp;&nbsp;</p>
+
+
+
+<p>Traditionally, marketers have had no choice but to spend hours researching the backgrounds of influencers, looking through years’ worth of video uploads and social media posts. It’s a lengthy, manual process that can only be automated with intelligent tools.&nbsp;</p>
+
+
+
+<p>SafeCollab provides that intelligence with its underlying large language models, which do the job of investigating influencers to ensure the image they portray is consistent with brand values. The LLMs perform what amounts to a risk assessment of creators’ content across multiple social media channels in minutes, searching through hours of videos, audio uploads, images and text.&nbsp;&nbsp;</p>
+
+
+
+<p>In doing this, SafeCollab significantly reduces the time it takes for brand marketers to perform due diligence on the social media influencers they’re considering partnering with. Likewise, when creators opt in to SafeCollab, they make it easier for marketers to understand the brand safety implications of working together, reducing friction from campaign lifecycles.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">Brands can’t take chances&nbsp;</h2>
+
+
+
+<p>The idea here is to empower brand marketers to avoid working with creators whose content is not aligned with the brand’s values – as well as those who have a tendency to kick up a storm.&nbsp;&nbsp;</p>
+
+
+
+<p>Such due diligence is vital, for even the most innocuous influencers can have some skeletons in their closets. A case in point is the popular lifestyle influencer Brooke Schofield, who has more than 2.2 million followers on TikTok and co-hosts the “Canceled” podcast on YouTube. With her large following, good looks and keen sense of fashion, Schofield looked like a great fit for the clothing brand Boys Lie, which collaborated with her on an exclusive capsule collection called “Bless His Heart.”&nbsp;</p>
+
+
+
+<p>However, Boys Lie quickly came to regret its collaboration with Schofield when a <a href="https://www.nbcnews.com/pop-culture/brooke-schofield-influencer-apology-black-creators-response-rcna165544" target="_blank" rel="noreferrer noopener">scandal erupted</a> in April after fans unearthed a number of years-old social media posts where she expressed racist views.&nbsp;&nbsp;</p>
+
+
+
+<p>The posts, which were uploaded on X between 2012 and 2015 when Schofield was a teenager, contained a string of racist profanities and insulting jokes about Black people’s hairstyles. In one post, she vigorously defended George Zimmerman, a white American who was controversially acquitted of the murder of the Black teenager Trayvon Martin.&nbsp;&nbsp;</p>
+
+
+
+<p>Schofield apologized profusely for her posts, admitting that they were “very hurtful” while stressing that she’s a changed person, having had time to “learn and grow and formulate my own opinions.”&nbsp;&nbsp;</p>
+
+
+
+<p>However, Boys Lie decided it had no option but to drop its association with Schofield. After a statement on Instagram saying it’s “working on a solution,” the company followed by quietly withdrawing the clothing collection they had previously collaborated on.&nbsp;&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">Accelerating due diligence&nbsp;&nbsp;</h2>
+
+
+
+<p>If the marketing team at Boys Lie had access to a tool like SafeCollab, they likely would have uncovered Schofield’s controversial posts long before commissioning the collaboration. The tool, which is a part of Lightricks’ influencer marketing platform Popular Pays, is all about helping brands to automate their due diligence processes when working with social media creators.&nbsp;&nbsp;</p>
+
+
+
+<p>By analyzing years of creators’ histories of posts across platforms like Instagram, TikTok, and YouTube, it can check everything they’ve posted online to make sure there’s nothing that might reflect badly on a brand.&nbsp;&nbsp;</p>
+
+
+
+<p>Brands can define their risk parameters, and the tool will quickly generate an accurate risk assessment evaluation, so they can confidently choose the influencers they want to work with, safe in the knowledge that their partnerships are unlikely to spark any backlash.&nbsp;&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="744" src="https://www.artificialintelligence-news.com/wp-content/uploads/2024/10/image-1024x744.png" alt="" class="wp-image-16379" style="width:512px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2024/10/image-1024x744.png 1024w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/10/image-300x218.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/10/image-768x558.png 768w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/10/image-275x200.png 275w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/10/image-380x276.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/10/image-344x250.png 344w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/10/image-100x73.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/10/image-60x44.png 60w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/10/image.png 1051w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Without a platform like SafeCollab, the task of performing all of this due diligence falls on the shoulders of marketers, and that means spending hours trawling through each influencer’s profiles, checking everything and anything they’ve ever said or done to ensure there’s nothing in their past that the brand would rather not be associated with.&nbsp;&nbsp;</p>
+
+
+
+<p>When we consider that the scope of work might include audio voiceovers, extensive comment threads and frame-by-frame analyses of video content, it’s a painstaking process that never really ends. After all, the top influencers have a habit of churning out fresh content every day. Careful marketers have no choice but to continuously monitor what they’re posting.&nbsp;&nbsp;</p>
+
+
+
+<p>Beyond initial history scans, SafeCollab’s real-time monitoring algorithms assume full responsibility, generating instant alerts to any problematic content, such as posts that contain graphic language, inappropriate images, promote violence or drug and alcohol use, mention violence, or whatever else the brand deems to be unsavory.&nbsp;&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">AI’s expanding applications&nbsp;</h2>
+
+
+
+<p>With the launch of SafeCollab, Lightricks is demonstrating yet another use case for generative AI. The company first made a name for itself as a developer of AI-powered video and image editing apps, including Photoleap, Facetune and Videoleap.&nbsp;&nbsp;</p>
+
+
+
+<p>The latter app incorporates AI-powered video filters and text-to-video generative AI functionalities. It also boasts an AI Effects feature, where users can apply specialized AI art styles to achieve the desired vibe for each video they create.&nbsp;&nbsp;</p>
+
+
+
+<p><a href="https://siliconangle.com/2024/02/28/lightricks-launches-ltx-studio-advance-realism-text-video-generation/" target="_blank" rel="noreferrer noopener">Lightricks is also the company behind LTX Studio</a>, which is a comprehensive platform that helps advertising production firms and filmmakers to create storyboards and asset-rich pitch decks for their video projects using text-to-video generative AI.&nbsp;&nbsp;</p>
+
+
+
+<p>With all of Lightricks’ AI apps, the primary benefit is that they save users time by automating manual work and bringing creative visions to life, and SafeCollab is a great example of that. By automating the due diligence process from start to finish, marketers can quickly identify controversial influencers they’d rather steer clear of, without spending hours conducting exhaustive research.&nbsp;&nbsp;</p>
+
+
+
+<p></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ai-is-helping-brands-avoid-controversial-influencer-partnerships/">AI is helping brands avoid controversial influencer partnerships  </a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/ai-is-helping-brands-avoid-controversial-influencer-partnerships/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>AI sector study: Record growth masks serious challenges</title>
+		<link>https://www.artificialintelligence-news.com/news/ai-sector-study-record-growth-masks-serious-challenges/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ai-sector-study-record-growth-masks-serious-challenges</link>
+					<comments>https://www.artificialintelligence-news.com/news/ai-sector-study-record-growth-masks-serious-challenges/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Thu, 24 Oct 2024 14:31:34 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Data Center]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Legislation & Government]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[computing]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[europe]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[infrastructure]]></category>
+		<category><![CDATA[investment]]></category>
+		<category><![CDATA[report]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[safety]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[strategy]]></category>
+		<category><![CDATA[study]]></category>
+		<category><![CDATA[supercomputer]]></category>
+		<category><![CDATA[uk]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16382</guid>
+
+					<description><![CDATA[<p>A comprehensive AI sector study – conducted by the Department for Science, Innovation and Technology (DSIT) in collaboration with Perspective Economics, Ipsos, and glass.ai – provides a detailed overview of the industry&#8217;s current state and its future prospects. In this article, we delve deeper into the key findings and implications—drawing on additional sources to enhance<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/ai-sector-study-record-growth-masks-serious-challenges/" title="ReadAI sector study: Record growth masks serious challenges">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ai-sector-study-record-growth-masks-serious-challenges/">AI sector study: Record growth masks serious challenges</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>A comprehensive AI sector study – conducted by the <a href="https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology">Department for Science, Innovation and Technology</a> (DSIT) in collaboration with <a href="https://perspectiveeconomics.com/">Perspective Economics</a>, <a href="https://www.ipsos.com/">Ipsos</a>, and <a href="http://glass.ai">glass.ai</a> – provides a detailed overview of the industry&#8217;s current state and its future prospects.</p>
+
+
+
+<p>In this article, we delve deeper into the key findings and implications—drawing on additional sources to enhance our understanding.</p>
+
+
+
+<h3 class="wp-block-heading">Thriving industry with significant growth</h3>
+
+
+
+<p>The study highlights the remarkable growth of the UK&#8217;s AI sector. With over 3,170 active AI companies, these firms have generated £10.6 billion in AI-related revenues and <a href="https://www.artificialintelligence-news.com/news/the-uk-outpacing-the-us-for-ai-hiring/">employed</a> more than 50,000 people in AI-related roles. This significant contribution to GVA (Gross Value Added) underscores the sector&#8217;s <a href="https://www.artificialintelligence-news.com/news/ai-could-unleash-119-billion-in-uk-productivity/">transformative potential</a> in driving the UK&#8217;s economic growth.</p>
+
+
+
+<p>Mark Boost, CEO of <a href="https://www.civo.com/">Civo</a>, said: &#8220;In a space that&#8217;s been dominated by US companies for too long, it&#8217;s promising to see the government now stepping up to help support the UK AI sector on the global stage.&#8221;</p>
+
+
+
+<p>The study shows that AI activity is dispersed across various regions of the UK, with notable concentrations in London, the South East, and Scotland. This regional dispersion indicates a broad scope for the development of AI technology applications across different sectors and regions.</p>
+
+
+
+<h3 class="wp-block-heading">Investment and funding</h3>
+
+
+
+<p>Investment in the AI sector has been a key driver of growth. In 2022, £18.8 billion was secured in private investment since 2016, with investments made in 52 unique industry sectors compared to 35 sectors in 2016.</p>
+
+
+
+<p>The government&#8217;s commitment to supporting AI is evident through significant investments. In 2022, the UK government unveiled a <a href="https://www.gov.uk/government/publications/national-ai-strategy">National AI Strategy</a> and Action Plan—committing over £1.3 billion in support for the sector, complementing the £2.8 billion already invested.</p>
+
+
+
+<p>However, as Boost cautions, &#8220;Major players like <a href="https://www.artificialintelligence-news.com/news/aws-nvidia-expand-partnership-advance-generative-ai/">AWS</a> are locking AI startups into their ecosystems with offerings like $500k cloud credits, ensuring that emerging companies start their journey reliant on their infrastructure. This not only hinders competition and promotes vendor lock-in but also risks stifling innovation across the broader UK AI ecosystem.&#8221;</p>
+
+
+
+<h3 class="wp-block-heading">Addressing bottlenecks</h3>
+
+
+
+<p>Despite the growth and investment, several bottlenecks must be addressed to fully harness the potential of AI:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Infrastructure:</strong> The UK&#8217;s digital technology infrastructure is less advanced than many other countries. This bottleneck includes inadequate <a href="https://www.artificialintelligence-news.com/news/uk-secures-6-3b-data-infrastructure-investments/">data centre infrastructure</a> and a dependent supply of powerful GPU computer chips. Boost emphasises this concern, stating &#8220;It would be dangerous for the government to ignore the immense compute power that AI relies on. We need to consider where this power is coming from and the impact it&#8217;s having on both the already over-concentrated <a href="https://www.cloudcomputing-news.net/">cloud market</a> and the environment.&#8221;</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Commercial awareness:</strong> Many SMEs lack familiarity with digital technology. Almost a third (31%) of SMEs have yet to adopt the cloud, and nearly half (47%) do not currently use AI tools or applications.</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Skills shortage:</strong> Two-fifths of businesses <a href="https://www.artificialintelligence-news.com/news/93-of-firms-committed-to-ai-but-skills-shortage-posing-problems/">struggle to find staff</a> with good digital skills, including traditional digital roles like data analytics or IT. There is a rising need for workers with new AI-specific skills, such as prompt engineering, that will require retraining and upskilling opportunities.</li>
+</ul>
+
+
+
+<p>To address these bottlenecks, the government has implemented several initiatives:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Private sector investment:</strong> <a href="https://www.artificialintelligence-news.com/categories/ai-companies/microsoft/">Microsoft</a> has announced a £2.5 billion investment in AI skills, security, and data centre infrastructure, aiming to procure more than 20,000 of the most advanced GPUs by 2026.</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Government support:</strong> The government has invested £1.5 billion in <a href="https://www.artificialintelligence-news.com/news/uk-and-canada-sign-ai-compute-agreement/">computing capacity</a> and committed to building three new supercomputers by 2025. This support aims to enhance the UK&#8217;s infrastructure to stay competitive in the AI market.</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Public sector integration:</strong> The UK Government Digital Service (GDS) is working to improve efficiency using predictive algorithms for future pension scheme behaviour. HMRC uses AI to help identify call centre priorities, demonstrating how AI solutions can address complex public sector challenges.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Future prospects and challenges</h3>
+
+
+
+<p>The future of the UK AI sector is both promising and challenging. While significant economic gains are predicted, including boosting GDP by £550 billion by 2035, delays in AI roll-out could cost the UK £150 billion over the same period. Ensuring a balanced approach between innovation and <a href="https://www.artificialintelligence-news.com/news/solarwinds-it-professionals-stronger-ai-regulation/">regulation</a> will be crucial.</p>
+
+
+
+<p>Boost emphasises the importance of data sovereignty and <a href="https://www.artificialintelligence-news.com/categories/privacy/">privacy</a>: &#8220;Businesses have grown increasingly wary of how their data is collected, stored, and used by the likes of ChatGPT. The government has a real opportunity to enable the UK AI sector to offer viable alternatives.</p>
+
+
+
+<p>“The forthcoming AI Action Plan will be another opportunity to identify how AI can drive economic growth and better support the UK tech sector.&#8221;</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>AI Safety Summit:</strong> The <a href="https://www.artificialintelligence-news.com/news/uk-reveals-ai-safety-summit-opening-day-agenda/">AI Safety Summit</a> at Bletchley Park highlighted the need for responsible AI development. The &#8220;Bletchley Declaration on AI Safety&#8221; emphasises the importance of ensuring AI tools are transparent, fair, and free from bias to maintain public trust and realise AI&#8217;s benefits in public services.</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Cybersecurity challenges:</strong> As AI systems handle sensitive or personal information, ensuring their <a href="https://www.artificialintelligence-news.com/categories/ai-security/">security</a> is paramount. This involves protecting against cyber threats, securing algorithms from manipulation, safeguarding data centres and hardware, and ensuring supply chain security.</li>
+</ul>
+
+
+
+<p>The AI sector study underscores a thriving industry with significant growth potential. However, it also highlights several bottlenecks that must be addressed – infrastructure gaps, lack of commercial awareness, and skills shortages – to fully harness the sector&#8217;s potential.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@theonlynoonan?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">John Noonan</a>)</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/eu-ai-act-early-prep-could-give-businesses-competitive-edge/"><strong>EU AI Act: Early prep could give businesses competitive edge</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ai-sector-study-record-growth-masks-serious-challenges/">AI sector study: Record growth masks serious challenges</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/ai-sector-study-record-growth-masks-serious-challenges/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

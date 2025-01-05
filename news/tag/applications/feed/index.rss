@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>applications Archives - AI News</title>
+	<atom:link href="https://www.artificialintelligence-news.com/news/tag/applications/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.artificialintelligence-news.com/news/tag/applications/</link>
+	<description>Artificial Intelligence News</description>
+	<lastBuildDate>Fri, 03 Jan 2025 08:35:35 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://www.artificialintelligence-news.com/wp-content/uploads/2020/09/ai-icon-60x60.png</url>
+	<title>applications Archives - AI News</title>
+	<link>https://www.artificialintelligence-news.com/news/tag/applications/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Rethinking video surveillance: The case for smarter, more flexible solutions</title>
+		<link>https://www.artificialintelligence-news.com/news/rethinking-video-surveillance-the-case-for-smarter-more-flexible-solutions/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rethinking-video-surveillance-the-case-for-smarter-more-flexible-solutions</link>
+					<comments>https://www.artificialintelligence-news.com/news/rethinking-video-surveillance-the-case-for-smarter-more-flexible-solutions/#respond</comments>
+		
+		<dc:creator><![CDATA[Margaret Maley]]></dc:creator>
+		<pubDate>Thu, 02 Jan 2025 10:17:18 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[Surveillance]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[applications]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[surveillance]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16758</guid>
+
+					<description><![CDATA[<p>Video surveillance has come a long way from simple CCTV setups. Today&#8217;s businesses demand more – smarter analytics, enhanced security, and seamless scalability. As organisations adopt AI and automation across their operations, video management systems (VMS) face new challenges: These questions are not hypothetical. They represent real obstacles businesses face when managing video surveillance systems.<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/rethinking-video-surveillance-the-case-for-smarter-more-flexible-solutions/" title="ReadRethinking video surveillance: The case for smarter, more flexible solutions">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/rethinking-video-surveillance-the-case-for-smarter-more-flexible-solutions/">Rethinking video surveillance: The case for smarter, more flexible solutions</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Video surveillance has come a long way from simple CCTV setups. Today&#8217;s businesses demand more – smarter analytics, enhanced security, and seamless scalability. As organisations adopt AI and automation across their operations, video management systems (VMS) face new challenges:</p>
+
+
+
+<ul class="wp-block-list">
+<li>How to keep video surveillance scalable and easy to manage?</li>
+
+
+
+<li>Can AI analytics like face recognition or behaviour detection be integrated without breaking the budget?</li>
+
+
+
+<li>Is my current system prepared for modern security risks?</li>
+</ul>
+
+
+
+<p>These questions are not hypothetical. They represent real obstacles businesses face when managing video surveillance systems. Solving them requires innovative thinking, flexible tools, and a smarter approach to how systems are designed and operated.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img fetchpriority="high" decoding="async" width="1024" height="768" src="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-1.jpeg" alt="" class="wp-image-16761" style="width:607px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-1.jpeg 1024w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-1-300x225.jpeg 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-1-768x576.jpeg 768w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-1-267x200.jpeg 267w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-1-380x285.jpeg 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-1-333x250.jpeg 333w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-1-100x75.jpeg 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-1-60x45.jpeg 60w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">The Shift to Smarter Surveillance</h3>
+
+
+
+<p>Traditional video surveillance systems often fail to meet the needs of dynamic, modern environments. Whether it&#8217;s a retail chain looking to analyse customer behaviour or a factory monitoring equipment safety, the tools of yesterday aren&#8217;t enough to address today&#8217;s demands.</p>
+
+
+
+<p>The shift towards smarter surveillance involves integrating modular, AI-driven systems that:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Adapt to your specific needs,</li>
+
+
+
+<li>Automate tedious tasks like footage analysis,</li>
+
+
+
+<li>Offer advanced analytics, like emotion detection or license plate recognition,</li>
+
+
+
+<li>Remain accessible to both tech-savvy professionals and beginners.</li>
+</ul>
+
+
+
+<p>This isn&#8217;t just a technical shift; it&#8217;s a shift in mindset. Businesses now see surveillance not only as a security measure but as a strategic tool for operational insight.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img decoding="async" width="1024" height="454" src="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-2-1024x454.png" alt="" class="wp-image-16762" style="width:598px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-2-1024x454.png 1024w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-2-300x133.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-2-768x341.png 768w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-2-1536x682.png 1536w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-2-380x169.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-2-350x155.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-2-100x44.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-2-60x27.png 60w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-2.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">Meet Xeoma: The modular approach to smarter surveillance</h3>
+
+
+
+<p>At the forefront of this smarter surveillance revolution is<a href="https://felenasoft.com/xeoma/en/?utm_source=ainews&amp;utm_campaign=article"> Xeoma</a>, a modular, AI-powered video surveillance software that provides various solutions to challenges of modern businesses:</p>
+
+
+
+<p>Modularity for customisation.<strong> </strong>Xeoma&#8217;s plug-and-play structure allows businesses to tailor their surveillance systems. Whether you need facial recognition, vehicle detection, or heatmaps of customer activity, Xeoma makes it easy to add or remove modules as needed.</p>
+
+
+
+<p>AI-powered analytics: Xeoma offers<a href="https://felenasoft.com/xeoma/en/articles/additional_modules_xeoma/?utm_source=ainews&amp;utm_campaign=article"> cutting-edge features</a> like:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Object recognition: Detect and classify objects like people, animals, and vehicles,</li>
+
+
+
+<li>Voice-to-text: Transcribe spoken words into text,</li>
+
+
+
+<li>Fire detection: Detect the presence of fire or smoke,</li>
+
+
+
+<li>Licence plate recognition: Automatically read and record vehicle licence plates,</li>
+
+
+
+<li>Age and gender recognition: Determine the age range and gender of individuals.</li>
+</ul>
+
+
+
+<p>Ease of use: Unlike many systems with steep learning curves, Xeoma is designed to be user-friendly. Its intuitive interface ensures that even non-technical users can quickly set up and operate the software.</p>
+
+
+
+<p>Seamless integration: Xeoma integrates with IoT devices, access control systems, and other third-party tools, making it an ideal choice for businesses looking to enhance their existing setups.</p>
+
+
+
+<p>Cost efficiency: With Xeoma, you only pay once thanks to the<a href="https://felenasoft.com/xeoma/en/buy/?utm_source=ainews&amp;utm_campaign=article"> lifetime licences</a>. The pricing structure ensures that businesses of all sizes, from startups to enterprises, can find a solution that fits their budgets.</p>
+
+
+
+<p>Unlimited scalability: Xeoma has no limitations in number of cameras it can work with. Either the system has tens, hundreds or thousands of cameras – Xeoma will handle them all</p>
+
+
+
+<p>Encrypted communication: Xeoma uses secure communication protocols (HTTPS, SSL/TLS) to encrypt data transmitted between the server, cameras, and clients. The prevents unauthorised access during data transmission.</p>
+
+
+
+<p>Xeoma&#8217;s flexible design and robust features allow it to be tailored to a wide range of scenarios, empowering organisations to meet their unique challenges while staying efficient, secure, and scalable.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" width="1024" height="768" src="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-3.jpg" alt="" class="wp-image-16763" style="width:580px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-3.jpg 1024w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-3-300x225.jpg 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-3-768x576.jpg 768w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-3-267x200.jpg 267w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-3-380x285.jpg 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-3-333x250.jpg 333w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-3-100x75.jpg 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-3-60x45.jpg 60w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">How Xeoma benefits your business: Scenarios</h3>
+
+
+
+<p>Xeoma isn&#8217;t just a tool for security – it&#8217;s a versatile platform that<a href="https://felenasoft.com/xeoma/en/application-of-video-surveillance-xeoma/?utm_source=ainews&amp;utm_campaign=article"> adapts to your environment</a>, whether you run a small retail store, manage a factory floor, or oversee an entire urban surveillance network.</p>
+
+
+
+<h4 class="wp-block-heading">Retail: Elevating customer experience</h4>
+
+
+
+<p>Picture this: You manage a busy store where you need to understand peak traffic hours and monitor for shoplifting. With Xeoma one can:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Deploy AI-based &#8216;face recognition&#8217; to discreetly flag known shoplifters or VIP customers to enhance service,</li>
+
+
+
+<li>Use &#8216;visitors counter&#8217; and &#8216;crowd detector&#8217; to identify when foot traffic is highest and allocate staff accordingly,</li>
+
+
+
+<li>Analyse heatmaps to see which areas of the store attract the most attention, optimising product placement,</li>
+
+
+
+<li>Add &#8216;unique visitors counter&#8217; module to your system to group people by frequency of attendance. At the same time, age and gender recognition will assist you in tailoring your promo more accurately,</li>
+
+
+
+<li>Enhance the results of your marketing efforts with eye tracking by getting insights into human psychology.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">Manufacturing: Ensuring workplace safety</h4>
+
+
+
+<p>On a bustling factory floor, every second matters, and safety is critical. Xeoma can help by:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Detecting if workers are in restricted zones using &#8216;cross-line detector,&#8217;</li>
+
+
+
+<li>Monitoring compliance with safety protocols with helmet and mask detectors.</li>
+
+
+
+<li>Sending real-time alerts to supervisors about potential hazards, like machinery malfunctions or unauthorised access, via a plethora of means from push notifications to personalised alerts,</li>
+
+
+
+<li>Elevating trust and satisfaction levels with timelapse and streaming to YouTube.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">Urban surveillance: Protecting communities</h4>
+
+
+
+<p>If you&#8217;re part of a city planning team or law enforcement agency, Xeoma scales effortlessly to monitor entire districts:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Use licence plate recognition to track vehicles entering and exiting restricted areas,</li>
+
+
+
+<li>Automate responses to emergencies, from traffic incidents and rule violations (for example, speeding, passing on red traffic light or illegal parking detectors) to public safety threats,</li>
+
+
+
+<li>Identify suspicious behaviour in crowded public spaces using &#8216;loitering detector,&#8217;</li>
+
+
+
+<li>Detect graffiti and ads that have prohibited words like &#8220;drugs&#8221; with text recognition,</li>
+
+
+
+<li>Recognise faces to find wanted or missing people with face identification.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">Education: Safeguarding schools</h4>
+
+
+
+<p>For schools and universities, safety is a top priority. Xeoma provides:</p>
+
+
+
+<ul class="wp-block-list">
+<li>AI alerts with &#8216;detector of abandoned objects&#8217; and &#8216;sound detector&#8217; for detecting unattended bags or abnormal behaviour, ensuring quick response times,</li>
+
+
+
+<li>Smoke and fire detection that allows you to prevent or promptly respond to the body of fire.</li>
+
+
+
+<li>Smart automated verification with &#8216;smart-card reader&#8217; and &#8216;face ID&#8217; that help to avoid the penetration by unauthorised persons,</li>
+
+
+
+<li>Integration with existing access control systems via API or HTTP protocol for a seamless security solution,</li>
+
+
+
+<li>Live streaming to your educational entity website or YouTube can enhance parental engagement or build a positive image, while eye tracking serves as an effective anti-cheat solution in monitoring systems.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">Hospitality: Enhancing guest experiences</h4>
+
+
+
+<p>In the hospitality industry, guest satisfaction is everything. Xeoma helps you: </p>
+
+
+
+<ul class="wp-block-list">
+<li>Monitor entrances and exits with access control integration for smooth check-ins and check-outs,</li>
+
+
+
+<li>Use &#8217;emotion detector&#8217; to gauge customer satisfaction in common areas,</li>
+
+
+
+<li>Ensure staff compliance with protocols to maintain service quality with &#8216;voice-to-text&#8217; module.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Conclusion: Connecting Xeoma to your vision</h3>
+
+
+
+<p>Every business has its unique challenges, and Xeoma&#8217;s versatility means it can be the solution you need to overcome yours. Imagine running a business where:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Your team has actionable insights at their fingertips,</li>
+
+
+
+<li>Potential threats are flagged before they escalate,</li>
+
+
+
+<li>Your surveillance system doesn&#8217;t just protect – it empowers decision-making and growth.</li>
+</ul>
+
+
+
+<p>Xeoma isn&#8217;t just about surveillance; it&#8217;s about giving you peace of mind, actionable intelligence, and the flexibility to focus on what matters most – your people, your customers, and your vision for the future.</p>
+
+
+
+<p>Whether you&#8217;re securing a retail space, safeguarding a factory, or protecting an entire community, Xeoma&#8217;s modular, AI-powered platform adapts to your goals and grows alongside you.</p>
+
+
+
+<p>Ready to see how Xeoma can transform your video surveillance strategy? Explore a<a href="https://felenasoft.com/xeoma/en/support/activation-issues/get-demo-license/?utm_source=ainews&amp;utm_campaign=article"> free demo</a> and start building your ideal system today.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/rethinking-video-surveillance-the-case-for-smarter-more-flexible-solutions/">Rethinking video surveillance: The case for smarter, more flexible solutions</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/rethinking-video-surveillance-the-case-for-smarter-more-flexible-solutions/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>EU clears $19.7B Microsoft-Nuance deal without any small print</title>
+		<link>https://www.artificialintelligence-news.com/news/eu-clears-19-7b-microsoft-nuance-deal-without-small-print/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=eu-clears-19-7b-microsoft-nuance-deal-without-small-print</link>
+					<comments>https://www.artificialintelligence-news.com/news/eu-clears-19-7b-microsoft-nuance-deal-without-small-print/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Wed, 22 Dec 2021 12:27:33 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Healthcare]]></category>
+		<category><![CDATA[Legislation & Government]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Voice Recognition]]></category>
+		<category><![CDATA[acquisition]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[applications]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[competition]]></category>
+		<category><![CDATA[deal]]></category>
+		<category><![CDATA[eu]]></category>
+		<category><![CDATA[europe]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[investigation]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[nuance]]></category>
+		<category><![CDATA[regulation]]></category>
+		<category><![CDATA[regulator]]></category>
+		<category><![CDATA[speech recognition]]></category>
+		<category><![CDATA[voice recognition]]></category>
+		<guid isPermaLink="false">https://artificialintelligence-news.com/?p=11543</guid>
+
+					<description><![CDATA[<p>The EU has concluded Microsoft’s $19.7 billion acquisition of Nuance doesn’t pose competition concerns. Nuance gained renown for originally creating the backend of that little old virtual assistant called Siri (you might have heard of it?) The company has since continued to focus on building its speech recognition capabilities and has a number of solutions<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/eu-clears-19-7b-microsoft-nuance-deal-without-small-print/" title="ReadEU clears $19.7B Microsoft-Nuance deal without any small print">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/eu-clears-19-7b-microsoft-nuance-deal-without-small-print/">EU clears $19.7B Microsoft-Nuance deal without any small print</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The EU has <a href="https://ec.europa.eu/commission/presscorner/detail/en/ip_21_7067">concluded</a> Microsoft’s $19.7 billion acquisition of Nuance doesn’t pose competition concerns.</p>
+
+
+
+<p>Nuance gained renown for originally creating the backend of that little old virtual assistant called Siri (you might have heard of it?)</p>
+
+
+
+<p>The company has since continued to focus on building its speech recognition capabilities and has a number of solutions which span particular industries such as healthcare to general omni-channel customer experience services.</p>
+
+
+
+<p>Earlier this year, Microsoft decided Nuance is worth coughing up $19.7 billion for.</p>
+
+
+
+<p>As such large deals often do, the proposed acquisition caught the eyes of several global regulators. In the case of the EU, it was referred to the Commission’s regulators on 16 November.</p>
+
+
+
+<p>The regulator said on Tuesday that the proposed acquisition “would raise no competition concerns” within the bloc and that “Microsoft and Nuance offer very different products” after looking at potential horizontal overlaps between the companies’ transcription solutions.</p>
+
+
+
+<p>Vertical links in the healthcare space were also analysed but it was determined that “competing transcription service providers in healthcare do not depend on Microsoft for cloud computing services” and that “transcription service providers in the healthcare sector are not particularly important users of cloud computing services”.</p>
+
+
+
+<p>Furthermore, the regulator concluded:</p>
+
+
+
+<ul class="wp-block-list"><li>Microsoft-Nuance will continue to face stiff competition from rivals in the future.</li><li>There’d be no ability/incentive to foreclose existing market solutions.</li><li>Nuance can only use the data it collects for its own services.</li><li>The data will not provide Microsoft with an advantage to shut out competing software providers.</li></ul>
+
+
+
+<p>The EU’s decision mirrors that of regulators in the US and Australia. However, the UK’s Competition and Markets Authority (CMA) announced <a href="https://www.gov.uk/cma-cases/microsoft-corporation-slash-nuance-communications-inc-merger-inquiry">its own investigation</a> earlier this month.</p>
+
+
+
+<p>When it announced the deal, Microsoft said that it aims to complete its acquisition by the end of 2021. The CMA is accepting comments until 10 January 2022 so it seems that Microsoft may have to hold out a bit longer.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@anniespratt?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Annie Spratt</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>)</em></p>
+
+
+
+<div class="wp-block-image"><figure class="alignleft size-full"><img loading="lazy" decoding="async" width="204" height="64" src="http://artificialintelligence-news.com/wp-content/uploads/sites/9/2021/12/ai-big-data-expo-no-series.jpg" alt="" class="wp-image-11490" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2021/12/ai-big-data-expo-no-series.jpg 204w, https://www.artificialintelligence-news.com/wp-content/uploads/2021/12/ai-big-data-expo-no-series-100x31.jpg 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2021/12/ai-big-data-expo-no-series-60x19.jpg 60w" sizes="auto, (max-width: 204px) 100vw, 204px" /></figure></div>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out <a href="https://www.ai-expo.net/northamerica/">AI &amp; Big Data Expo</a>. The next events in the series will be held in Santa Clara on 11-12 May 2022, Amsterdam on 20-21 September 2022, and London on 1-2 December 2022.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/eu-clears-19-7b-microsoft-nuance-deal-without-small-print/">EU clears $19.7B Microsoft-Nuance deal without any small print</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/eu-clears-19-7b-microsoft-nuance-deal-without-small-print/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Twitter turns to HackerOne community to help fix its AI biases</title>
+		<link>https://www.artificialintelligence-news.com/news/twitter-turns-hackerone-community-help-fix-ai-biases/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=twitter-turns-hackerone-community-help-fix-ai-biases</link>
+					<comments>https://www.artificialintelligence-news.com/news/twitter-turns-hackerone-community-help-fix-ai-biases/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Mon, 02 Aug 2021 17:04:36 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Face Recognition]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[algorithm]]></category>
+		<category><![CDATA[applications]]></category>
+		<category><![CDATA[ethics]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[hackerone]]></category>
+		<category><![CDATA[image cropping]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[ml]]></category>
+		<category><![CDATA[Society]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<guid isPermaLink="false">http://artificialintelligence-news.com/?p=10816</guid>
+
+					<description><![CDATA[<p>Twitter is recruiting the help of the HackerOne community to try and fix troubling biases with its AI models. The image-cropping algorithm used by Twitter was intended to keep the most interesting parts of an image in the preview crop in people’s timelines. That’s all good, until users found last year that it favoured lighter<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/twitter-turns-hackerone-community-help-fix-ai-biases/" title="ReadTwitter turns to HackerOne community to help fix its AI biases">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/twitter-turns-hackerone-community-help-fix-ai-biases/">Twitter turns to HackerOne community to help fix its AI biases</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://twitter.com/?lang=en-gb">Twitter</a> is recruiting the help of the HackerOne community to try and fix troubling biases with its AI models.</p>
+
+
+
+<p>The image-cropping algorithm used by Twitter was intended to keep the most interesting parts of an image in the preview crop in people’s timelines. That’s all good, until users found last year that it favoured lighter skin colours over dark and the breasts and legs of women over their faces.</p>
+
+
+
+<p>When researchers fed a picture of a black man and a white woman into the system, the algorithm displayed the white woman 64 percent of the time and the black man just 36 percent of the time. For images of a white woman and a black woman, the algorithm displayed the white woman 57 percent of the time.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Trying a horrible experiment&#8230;<br><br>Which will the Twitter algorithm pick: Mitch McConnell or Barack Obama? <a href="https://t.co/bR1GRyCkia">pic.twitter.com/bR1GRyCkia</a></p>&mdash; Tony “Abolish ICE” Arcieri 🦀 (@bascule) <a href="https://twitter.com/bascule/status/1307440596668182528?ref_src=twsrc%5Etfw">September 19, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">I wonder if Twitter does this to fictional characters too.<br><br>              Lenny                                              Carl <a href="https://t.co/fmJMWkkYEf">pic.twitter.com/fmJMWkkYEf</a></p>&mdash; Jordan Simonovski (@_jsimonovski) <a href="https://twitter.com/_jsimonovski/status/1307542747197239296?ref_src=twsrc%5Etfw">September 20, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Twitter has offered bounties ranging between $500 and $3500 to anyone who finds evidence of harmful bias in their algorithms. Anyone successful will also be invited to <a href="https://defcon.org/">DEF CON</a>, a major hacker convention.</p>
+
+
+
+<p>Rumman Chowdhury, Director of Software Engineering at Twitter, and Jutta Williams, Product Manager, wrote in a blog post:</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><em>“We want to take this work a step further by inviting and incentivizing the community to help identify potential harms of this algorithm beyond what we identified ourselves.”</em></p></blockquote>
+
+
+
+<p>After initially denying the problem, it’s good to see Twitter taking responsibility and attempting to fix the issue. By doing so, the company says it wants to “set a precedent at Twitter, and in the industry, for proactive and collective identification of algorithmic harms.”</p>
+
+
+
+<p>Three staffers from Twitter’s Machine Learning Ethics, Transparency, and Accountability department found biases in their own tests and claim the algorithm is, on average, around four percent more likely to display people with lighter skin compared to darker and eight percent more likely to display women compared to men.</p>
+
+
+
+<p>However, the staffers found no evidence that certain parts of people’s bodies were more likely to be displayed than others.</p>
+
+
+
+<p>“We found that no more than 3 out of 100 images per gender have the crop not on the head,” they explained in a <a href="https://arxiv.org/abs/2105.08667">paper</a> that was published on arXiv.</p>
+
+
+
+<p>Twitter has gradually ditched its problematic image-cropping algorithm and doesn’t seem to be in a rush to reinstate it anytime soon:</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">A lot has changed in 5 years. Also, we&#39;re getting out of the business of cropping most photos. This isn&#39;t a problem that needs a ML solution.</p>&mdash; Dantley Davis (@dantley) <a href="https://twitter.com/dantley/status/1369716572957204485?ref_src=twsrc%5Etfw">March 10, 2021</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>In its place, Twitter has been rolling out the ability for users to control how their images are cropped.</p>
+
+
+
+<p>“We considered the trade-offs between the speed and consistency of automated cropping with the potential risks we saw in this research,” wrote Chowdhury in <a href="https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html">a blog post</a> in May.</p>
+
+
+
+<p>“One of our conclusions is that not everything on Twitter is a good candidate for an algorithm, and in this case, how to crop an image is a decision best made by people.”</p>
+
+
+
+<p><em>The HackerOne page for the challenge can be found </em><a href="https://hackerone.com/twitter-algorithmic-bias?type=team"><em>here</em></a><em>.</em></p>
+
+
+
+<p>(Photo by&nbsp;<a href="https://unsplash.com/@ymoran?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Edgar MORAN</a>&nbsp;on&nbsp;<a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>)</p>
+
+
+
+<div class="wp-block-image"><figure class="alignleft size-full is-resized"><img loading="lazy" decoding="async" src="http://artificialintelligence-news.com/wp-content/uploads/sites/9/2021/06/Digital-Transformation.png" alt="" class="wp-image-10660" width="180" height="47" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2021/06/Digital-Transformation.png 369w, https://www.artificialintelligence-news.com/wp-content/uploads/2021/06/Digital-Transformation-300x78.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2021/06/Digital-Transformation-350x91.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2021/06/Digital-Transformation-100x26.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2021/06/Digital-Transformation-60x16.png 60w" sizes="auto, (max-width: 180px) 100vw, 180px" /></figure></div>
+
+
+
+<p><strong></strong><strong>Find out more about </strong><a href="https://digitaltransformation-week.com/northamerica/"><strong>Digital Transformation Week</strong></a><strong> North America, taking place on November 9-10 2021, a virtual event and conference exploring advanced DTX strategies for a &#8216;digital everything&#8217; world.</strong></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/twitter-turns-hackerone-community-help-fix-ai-biases/">Twitter turns to HackerOne community to help fix its AI biases</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/twitter-turns-hackerone-community-help-fix-ai-biases/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Apple considers using ML to make augmented reality more useful</title>
+		<link>https://www.artificialintelligence-news.com/news/apple-considers-using-ml-to-make-augmented-reality-more-useful/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=apple-considers-using-ml-to-make-augmented-reality-more-useful</link>
+					<comments>https://www.artificialintelligence-news.com/news/apple-considers-using-ml-to-make-augmented-reality-more-useful/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Thu, 22 Jul 2021 14:39:31 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[applications]]></category>
+		<category><![CDATA[augmented reality]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[measure]]></category>
+		<category><![CDATA[ml]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[neural network]]></category>
+		<guid isPermaLink="false">http://artificialintelligence-news.com/?p=10792</guid>
+
+					<description><![CDATA[<p>A patent from Apple suggests the company is considering how machine learning can make augmented reality (AR) more useful. Most current AR applications are somewhat gimmicky, with barely a handful that have achieved any form of mass adoption. Apple’s decision to introduce LiDAR in its recent devices has given AR a boost but it’s clear<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/apple-considers-using-ml-to-make-augmented-reality-more-useful/" title="ReadApple considers using ML to make augmented reality more useful">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/apple-considers-using-ml-to-make-augmented-reality-more-useful/">Apple considers using ML to make augmented reality more useful</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>A <a href="https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&amp;r=26&amp;p=1&amp;f=G&amp;l=50&amp;d=PG01&amp;S1=(apple.AANM.+AND+20210722.PD.)&amp;OS=aanm/apple+and+pd/7/22/2021&amp;RS=(AANM/apple+AND+PD/20210722)">patent</a> from <a href="https://www.apple.com/uk/">Apple</a> suggests the company is considering how machine learning can make augmented reality (AR) more useful.</p>
+
+
+
+<p>Most current AR applications are somewhat gimmicky, with barely a handful that have achieved any form of mass adoption. Apple’s decision to introduce LiDAR in its recent devices has given AR a boost but it’s clear that more needs to be done to make applications more useful.</p>
+
+
+
+<p>A newly filed patent suggests that Apple is exploring how machine learning can be used to automatically (or “automagically,” the company would probably say) detect objects in AR.</p>
+
+
+
+<p>The first proposed use of the technology would be for Apple’s own Measure app.</p>
+
+
+
+<p>Measure’s previously dubious accuracy improved greatly after Apple introduced LiDAR but most people probably just grabbed an actual tape measure unless they were truly stuck without one available.</p>
+
+
+
+<p>The patent suggests machine learning could be used for object recognition in Measure to help users simply point their devices at an object and have its measurements automatically presented in AR.</p>
+
+
+
+<p>Specifically, Apple’s patent suggests displaying a “measurement of the object determined using one of a plurality of class-specific neural networks selected based on the classifying of the object.”</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="766" src="http://artificialintelligence-news.com/wp-content/uploads/sites/9/2021/07/apple-patent-measure-1024x766.jpg" alt="" class="wp-image-10793" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2021/07/apple-patent-measure-1024x766.jpg 1024w, https://www.artificialintelligence-news.com/wp-content/uploads/2021/07/apple-patent-measure-300x224.jpg 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2021/07/apple-patent-measure-768x574.jpg 768w, https://www.artificialintelligence-news.com/wp-content/uploads/2021/07/apple-patent-measure-268x200.jpg 268w, https://www.artificialintelligence-news.com/wp-content/uploads/2021/07/apple-patent-measure-380x285.jpg 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2021/07/apple-patent-measure-334x250.jpg 334w, https://www.artificialintelligence-news.com/wp-content/uploads/2021/07/apple-patent-measure-100x75.jpg 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2021/07/apple-patent-measure-60x45.jpg 60w, https://www.artificialintelligence-news.com/wp-content/uploads/2021/07/apple-patent-measure.jpg 1280w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>This simplicity benefit over a traditional tape measure would likely drive greater adoption.</p>
+
+
+
+<p>Machine learning is already used for a number of object recognition and labelling tasks within Apple’s ecosystem. Image editor Pixelmator Pro, for example, uses it to automatically label layers.</p>
+
+
+
+<p>Apple’s implementation suggests an object is measured “by first generating a 3D bounding box for the object based on the depth data&#8221;. This boundary box is then refined “using various neural networks and refining algorithms described herein.&#8221;</p>
+
+
+
+<p>Not all objects are measured the same so Apple suggests that a neural network could also step in here to determine what could be useful for the user. For example, “a seat height for chairs, a display diameter for TVs, a table diameter for round tables, a table length for rectangular tables, and the like.”</p>
+
+
+
+<p>To accomplish what Apple envisions here, a lot of models will need to be trained for all objects. However, there are many of the more everyday items that could be supported early on—with more added over time.</p>
+
+
+
+<p>“One model may be trained and used to determine measurements for chair type objects (e.g., determining a seat height, arm length, etc.),&#8221; Apple wrote, &#8220;and another model may be trained and used to determine measurements for TV type objects (e.g., determining a diagonal screen size, greatest TV depth, etc.)&#8221;</p>
+
+
+
+<p>Five inventors are credited with the patent: Amit Jain, Aditya Sankar; Qi Shan, Alexandre Da Veiga, and Shreyas V Joshi.</p>
+
+
+
+<p>Apple’s patent is another example of how machine learning can be combined with other technologies to add real utility and ultimately improve lives. There’s no telling when, or even if, Apple will release an updated Measure app based on this patent—but it seems more plausible in the not-so-distant future than many of the company’s patents.</p>
+
+
+
+<p><em>(Image Credit: <a href="https://www.apple.com/uk/">Apple</a>)</em></p>
+
+
+
+<div class="wp-block-image"><figure class="alignleft size-full is-resized"><img loading="lazy" decoding="async" src="http://artificialintelligence-news.com/wp-content/uploads/sites/9/2021/06/Digital-Transformation.png" alt="" class="wp-image-10660" width="193" height="50" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2021/06/Digital-Transformation.png 369w, https://www.artificialintelligence-news.com/wp-content/uploads/2021/06/Digital-Transformation-300x78.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2021/06/Digital-Transformation-350x91.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2021/06/Digital-Transformation-100x26.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2021/06/Digital-Transformation-60x16.png 60w" sizes="auto, (max-width: 193px) 100vw, 193px" /></figure></div>
+
+
+
+<p><strong></strong><strong>Find out more about </strong><a href="https://digitaltransformation-week.com/northamerica/"><strong>Digital Transformation Week</strong></a><strong> North America, taking place on November 9-10 2021, a virtual event and conference exploring advanced DTX strategies for a &#8216;digital everything&#8217; world.</strong></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/apple-considers-using-ml-to-make-augmented-reality-more-useful/">Apple considers using ML to make augmented reality more useful</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/apple-considers-using-ml-to-make-augmented-reality-more-useful/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How custom algorithms will shape the future of media buying</title>
+		<link>https://www.artificialintelligence-news.com/news/how-custom-algorithms-will-shape-the-future-of-media-buying/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-custom-algorithms-will-shape-the-future-of-media-buying</link>
+					<comments>https://www.artificialintelligence-news.com/news/how-custom-algorithms-will-shape-the-future-of-media-buying/#respond</comments>
+		
+		<dc:creator><![CDATA[John Wittesaele]]></dc:creator>
+		<pubDate>Wed, 14 Jul 2021 10:06:36 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[algorithm]]></category>
+		<category><![CDATA[applications]]></category>
+		<category><![CDATA[custom algorithms]]></category>
+		<category><![CDATA[marketing]]></category>
+		<category><![CDATA[media buying]]></category>
+		<guid isPermaLink="false">http://artificialintelligence-news.com/?p=10776</guid>
+
+					<description><![CDATA[<p>The digital advertising industry ingests and processes millions of data signals per second, generating immense volumes of data. While the industry is hyper-focused on the cookie deprecation, the third-party cookie is actually only one marketing input, there are many other data signals, both on and offline, available to optimise media buying. Algorithms based on artificial-intelligence<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/how-custom-algorithms-will-shape-the-future-of-media-buying/" title="ReadHow custom algorithms will shape the future of media buying">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/how-custom-algorithms-will-shape-the-future-of-media-buying/">How custom algorithms will shape the future of media buying</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The digital advertising industry ingests and processes millions of data signals per second, generating immense volumes of data. While the industry is hyper-focused on the cookie deprecation, the third-party cookie is actually only one marketing input, there are many other data signals, both on and offline, available to optimise media buying.</p>
+
+
+
+<p>Algorithms based on artificial-intelligence (AI) can be tailored to brands’ unique goals, allowing marketers to find pockets of performance within vast amounts of data and optimise media buying to drive real business outcomes. By combining custom AI approaches that integrate a brand’s key performance indicators (KPIs), and shaking off our third-party cookie dependence, we can welcome a new era of transparent and effective programmatic media.</p>
+
+
+
+<p><strong>User matching via first-party data signals</strong></p>
+
+
+
+<p>One way AI and custom algorithms will shape media buying, is by matching converted consumers with prospects that have similar digital patterns. Rather than focussing on who consumers are – their age and gender, or where they live – AI looks beyond basic characteristics to focus on the most important behavioural signals of a likely customer. Two consumers can have completely different profiles but ultimately want the same thing. Where traditional audience targeting would miss this opportunity, algorithmic matching enables brands to identify and take advantage of these similar needs. </p>
+
+
+
+<p>Algorithmic consumer matching is currently based on first-party data signals, from retailers, brands or publishers. Moving forward, an explosion in new types of data is expected from connected cars and homes, internet-of-things devices, virtual and augmented reality, and biometrics, which will all feed into this process. AI will be vital to manage this data, and there must always be an emphasis on balancing the relationship between AI and ethics to ensure advertising works better for everyone while individual identities are protected. </p>
+
+
+
+<p><strong>Aligning media buying with brand objectives</strong></p>
+
+
+
+<p>A second way tailored algorithms will make media buying more effective is by aligning activity with brand objectives to deliver real business performance. Brands decide on the outcomes they want to achieve, allowing multi-metric KPIs and offline data inputs to be integrated into customised algorithms and ensure media buying is focussed on attaining those goals. </p>
+
+
+
+<p>AI can increase efficiency by automatically directing spend towards areas of strong performance. The technology constantly checks itself to shift delivery and improve execution. Algorithms can predict which impressions will perform well, based on a huge variety of factors such as the length of time since a user visited an advertiser’s website, and generate far better conversion rates than can be achieved though manual optimisation. </p>
+
+
+
+<p>In addition, once desired outcomes are established, custom algorithms can run thousands of real-time tests to determine the exact bid required to win media placements in an ad exchange. The performance of media buys can be continually measured, with results fed back into algorithms to create a closed loop of optimisation. </p>
+
+
+
+<p>While AI is vital to enhance and streamline digital media buying, it doesn’t remove people from the process by any means. Success relies on the initial input and continuous management of campaigns by highly skilled people from data scientists to media planners. Algorithmic success is about finding harmony between man and machine by optimising towards goals set and overseen by real people to ensure ethical application of technology. </p>
+
+
+
+<p><strong>Dynamically optimising creative for performance </strong></p>
+
+
+
+<p>The role of custom algorithms doesn’t end with buying the right impression at the right price, it also includes ad execution, and specifically optimising ad creative to maximise the chances of conversion. Sophisticated algorithms are used to select the most relevant and effective creative elements, according to a variety of data points, and to assemble ads that appeal to individuals at different stages of the purchase journey. </p>
+
+
+
+<p>Volvo, for instance, recently used AI to generate cost-effective conversions from a digital advertising campaign in Norway. Custom algorithms were used to test creative elements such as logos, layouts, and messaging at scale to determine which creative versioning drove the most conversions at the lowest cost. As a result, Volvo saw a 440% increase in audiences configuring new cars and booking test-drives and made more efficient use of its marketing budget with a 66% reduction in cost-per-acquisition (CPA). </p>
+
+
+
+<p>As technologies evolve and volumes of data increase in digital advertising, the creative applications of custom algorithms will continue to grow in ways we may not be able to imagine yet. What we can be sure of, is that AI will be a necessary component in the toolbox of any marketer looking to optimise media buying, and better deliver business outcomes.</p>
+
+
+
+<div class="wp-block-image"><figure class="alignleft is-resized"><img loading="lazy" decoding="async" src="http://artificialintelligence-news.com/wp-content/uploads/sites/9/2021/06/Digital-Transformation.png" alt="" class="wp-image-10660" width="210" height="55" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2021/06/Digital-Transformation.png 369w, https://www.artificialintelligence-news.com/wp-content/uploads/2021/06/Digital-Transformation-300x78.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2021/06/Digital-Transformation-350x91.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2021/06/Digital-Transformation-100x26.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2021/06/Digital-Transformation-60x16.png 60w" sizes="auto, (max-width: 210px) 100vw, 210px" /></figure></div>
+
+
+
+<p><strong>Find out more about&nbsp;</strong><a href="https://digitaltransformation-week.com/northamerica/"><strong>Digital Transformation Week</strong></a><strong>&nbsp;North America, taking place on November 9-10 2021, a virtual event and conference exploring advanced DTX strategies for a ‘digital everything’ world.</strong></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/how-custom-algorithms-will-shape-the-future-of-media-buying/">How custom algorithms will shape the future of media buying</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/how-custom-algorithms-will-shape-the-future-of-media-buying/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Applause’s new AI solution helps tackle bias and sources data at scale</title>
+		<link>https://www.artificialintelligence-news.com/news/applause-ai-tackle-bias-sources-data-scale/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=applause-ai-tackle-bias-sources-data-scale</link>
+					<comments>https://www.artificialintelligence-news.com/news/applause-ai-tackle-bias-sources-data-scale/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Wed, 06 Nov 2019 14:00:44 +0000</pubDate>
+				<category><![CDATA[Deep & Reinforcement Learning]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Face Recognition]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[ai expo]]></category>
+		<category><![CDATA[applause]]></category>
+		<category><![CDATA[applications]]></category>
+		<category><![CDATA[apps]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[data sets]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[testing]]></category>
+		<guid isPermaLink="false">https://d3c9z94rlb3c1a.cloudfront.net/?p=6164</guid>
+
+					<description><![CDATA[<p>Testing specialists Applause have debuted an AI solution promising to help tackle algorithmic bias while providing the scale of data needed for robust training. Applause has built a vast global community of testers for its app testing solution which is trusted by brands including Google, Uber, PayPal, and more. The company is leveraging this relatively<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/applause-ai-tackle-bias-sources-data-scale/" title="ReadApplause’s new AI solution helps tackle bias and sources data at scale">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/applause-ai-tackle-bias-sources-data-scale/">Applause’s new AI solution helps tackle bias and sources data at scale</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Testing specialists <a href="http://applause.com">Applause</a> have debuted an AI solution promising to help tackle algorithmic bias while providing the scale of data needed for robust training.</p>
+
+
+
+<p>Applause has built a vast global community of testers for its app testing solution which is trusted by brands including Google, Uber, PayPal, and more. The company is leveraging this relatively unique asset to help overcome some of the biggest hurdles facing AI development.</p>
+
+
+
+<p>AI News spoke with Kristin Simonini, VP of Product at Applause, about the company’s new solution and what it means for the industry ahead of her keynote at AI Expo North America later this month.</p>
+
+
+
+<p>“Our customers have been needing additional support from us in the area of data collection to support their AI developments, train their system, and then test the functionality,” explains Simonini. “That latter part being more in-line with what they traditionally expect from us.”</p>
+
+
+
+<p>Applause has worked predominantly with companies in the voice space but also their increasing expansion into things such as gathering and labelling images and running documents through OCR.</p>
+
+
+
+<p>This existing breadth of experience in areas where AI is most commonly applied today puts the company and its testers in a good position to offer truly useful feedback on where improvements can be made.</p>
+
+
+
+<p>Specifically, Applause’s new solution operates across five unique types of AI engagements:</p>
+
+
+
+<ul class="wp-block-list"><li>Voice: Source utterances to train voice-enabled devices, and test those devices to ensure they understand and respond accurately.</li><li>OCR (Optimized Character Recognition): Provide documents and corresponding text to train algorithms to recognize text, and compare printed docs and the recognized text for accuracy.</li><li>Image Recognition: Deliver photos taken of predefined objects and locations, and ensure objects are being recognized and identified correctly.</li><li>Biometrics: Source biometric inputs like faces and fingerprints, and test whether those inputs result in an experience that’s easy to use and actually works</li><li>Chatbots: Give sample questions and varying intents for chatbots to answer, and interact with chatbots to ensure they understand and respond accurately in a human-like way.</li></ul>
+
+
+
+<p>“We have this ready global community that’s in a position to pull together whatever information an organisation might be looking for, do it at scale, and do it with that breadth and depth – in terms of locations, genders, races, devices, and all types of conditions – that make it possible to pull in a very diverse set of data to train an AI system.”</p>
+
+
+
+<p>Some examples Simonini provides of the types of training data which Applause’s global testers can supply includes voice utterances, specific documents, and images which meet set criteria like “street corners” or “cats”. A lack of such niche data sets with the diversity necessary is one of the biggest obstacles faced today and one which Applause hopes to help overcome.</p>
+
+
+
+<p><strong>A significant responsibility</strong></p>
+
+
+
+<p>Everyone involved in developing emerging technologies carries a significant responsibility. AI is particularly sensitive because everyone knows it will have a huge impact across most parts of societies around the world, but no-one can <em>really </em>predict how.</p>
+
+
+
+<p>How many jobs will AI replace? Will it be used for killer robots? Will it make decisions on whether to launch a missile? To what extent will facial recognition be used across society? These are important questions that no-one can give a guaranteed answer, but it’s certainly on the minds of a public that’s grown up around things like 1984 and Terminator.</p>
+
+
+
+<p>One of the main concerns about AI is bias. Fantastic <a href="https://d3c9z94rlb3c1a.cloudfront.net/2019/01/24/joy-buolamwini-algorithmic-bias-priority/">work</a> by the likes of the Algorithmic Justice League has uncovered gross disparities between the effectiveness of facial recognition algorithms dependent on the race and gender of each individual. For example, IBM’s facial recognition algorithm was 99.7 percent accurate when used on lighter-skinned males compared to just 65.3 percent on darker-skinned females.</p>
+
+
+
+<p>Simonini highlights another study she read recently where voice accuracy for white males was over 90 percent. However, for African-American females, it was more like 30 percent.</p>
+
+
+
+<p>Addressing such disparities is not only necessary to prevent things such as inadvertently automating racial profiling or giving some parts of society an advantage over others, but also to allow AI to reach its full potential.</p>
+
+
+
+<p>While there are many concerns, AI has a huge amount of power for good as long as it’s developed responsibly. AI can drive efficiencies to reduce our environmental impact, free up more time to spend with loved ones, and radically improve the lives of people with disabilities.</p>
+
+
+
+<p>A failure of companies to take responsibility for their developments will lead to overregulation, and overregulation leads to reduced innovation. We asked Simonini whether she believes robust testing will reduce the likelihood of overregulation.</p>
+
+
+
+<p>“I think it&#8217;s certainly improved the situation. I think that there&#8217;s always going to probably be some situations where people attempt to regulate, but if you can really show that effort has been put forward to get to a high level of accuracy and depth then I think it would be less likely.”</p>
+
+
+
+<p><strong>Human testing remains essential</strong></p>
+
+
+
+<p>Applause is not the only company working to reduce bias in algorithms. IBM, for example, has a tool called Fairness 360 which is essentially an AI itself used to scan other algorithms for signs of bias. We asked Simonini why Applause believes human testing is still necessary.</p>
+
+
+
+<p>“Humans are unpredictable in how they’re going to react to something and in what manner they’re going to do it, how they choose to engage with these devices and applications,” comments Simonini. “We haven’t yet seen an advent of being able to effectively do that without the human element.”</p>
+
+
+
+<p>An often highlighted challenge with voice recognition is the wide variety of languages spoken and their regional dialects. Many American voice recognition systems even struggle with my accent from the South West of England.</p>
+
+
+
+<p>Simonini adds in another consideration about slang words and the need for voice services to keep up-to-date with changing vocabularies.</p>
+
+
+
+<p>“Teenagers today like to, when something is hot or cool, say it’s “fire” [“lit” I believe is another one, just to prove I’m still down with the kids],” explains Simonini. “We were able to get these devices into homes and really try to understand some of those nuances.”</p>
+
+
+
+<p>Simonini then further explains the challenge of understanding the context of these nuances. In her “fire” example, there’s a very clear need to understand when there’s a literal fire and when someone is just saying that something is cool.</p>
+
+
+
+<p>“How do you distinguish between this being a real emergency? My volume and my tone and everything else about how I’ve used that same voice command is going to be different.”</p>
+
+
+
+<p><strong>The growth of AI apps and services</strong></p>
+
+
+
+<p>Applause established its business in traditional app testing. Given the expected growth in AI apps and services, we asked Simonini whether Applause believes its AI testing solution will become as big – or perhaps even bigger – than its current app testing business.</p>
+
+
+
+<p>“We do talk about that; you know, how fast is this going to grow?” says Simonini. “I don’t want to keep talking about voice, but if you look statistically at the growth of the voice market vis-à-vis the growth and adoption of mobile; it’s happening at a much faster pace.”</p>
+
+
+
+<p>“I think that it’s going to be a growing portion of our business but I don’t think it necessarily is going to replace anything given that those channels [such as mobile and desktop apps] will still be alive and complementary to one another.”</p>
+
+
+
+<p>Simonini will be speaking at AI Expo North America on November 13th in a keynote titled <a href="https://www.ai-expo.net/northamerica/talk/human-element-in-ai/">Why The Human Element Remains Essential In Applied AI</a>. We asked what attendees can expect from her talk.</p>
+
+
+
+<p>“The angle that we chose to sort of speak about is really this intersection of the human and the AI and why we – given that it’s the business we’re in and what we see day-in, day-out – don’t believe that it becomes the replacement of but how it can work and complement one another.”</p>
+
+
+
+<p>“It’s really a bit of where we landed when we went out to figure out whether you can replace an army of people with an army of robots and get the same results. And basically that no, there are still very human-focused needs from a testing perspective.”</p>
+
+
+
+<div class="wp-block-image"><figure class="alignleft"><img loading="lazy" decoding="async" width="241" height="80" src="https://d3c9z94rlb3c1a.cloudfront.net/wp-content/uploads/sites/9/2019/08/co-located-grey-small.png" alt="" class="wp-image-5949" /></figure></div>
+
+
+
+<p> <strong>Interested in hearing industry leaders discuss subjects like this?</strong> Attend the co-located <a href="https://5gexpo.net/northamerica/">5G Expo</a>, <a href="https://www.iottechexpo.com/">IoT Tech Expo</a>, <a href="http://blockchain-expo.com/">Blockchain Expo</a>, <a href="https://www.ai-expo.net/">AI &amp; Big Data Expo</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo World Series</a> with upcoming events in Silicon Valley, London, and Amsterdam.<br></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/applause-ai-tackle-bias-sources-data-scale/">Applause’s new AI solution helps tackle bias and sources data at scale</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/applause-ai-tackle-bias-sources-data-scale/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

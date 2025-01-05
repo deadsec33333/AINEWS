@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AI Meta News | Latest AI Developments at Meta | AI News</title>
+	<atom:link href="https://www.artificialintelligence-news.com/categories/ai-companies/meta-facebook/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.artificialintelligence-news.com/categories/ai-companies/meta-facebook/</link>
+	<description>Artificial Intelligence News</description>
+	<lastBuildDate>Wed, 09 Oct 2024 09:55:29 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://www.artificialintelligence-news.com/wp-content/uploads/2020/09/ai-icon-60x60.png</url>
+	<title>AI Meta News | Latest AI Developments at Meta | AI News</title>
+	<link>https://www.artificialintelligence-news.com/categories/ai-companies/meta-facebook/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The risks behind the generative AI craze: Why caution is growing</title>
+		<link>https://www.artificialintelligence-news.com/news/the-risks-behind-the-generative-ai-craze-why-caution-is-growing/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-risks-behind-the-generative-ai-craze-why-caution-is-growing</link>
+					<comments>https://www.artificialintelligence-news.com/news/the-risks-behind-the-generative-ai-craze-why-caution-is-growing/#respond</comments>
+		
+		<dc:creator><![CDATA[Muhammad Zulhusni]]></dc:creator>
+		<pubDate>Wed, 09 Oct 2024 09:55:20 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Meta (Facebook)]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[llm]]></category>
+		<category><![CDATA[meta]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[Nvidia]]></category>
+		<category><![CDATA[openai]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16260</guid>
+
+					<description><![CDATA[<p>In the near future, Silicon Valley might look back at recent events as the point where the generative AI craze went too far. This past summer, investors questioned whether top AI stocks could sustain their sky-high valuations, given the lack of returns on massive AI spending. As Autumn approaches, major AI sectors—such as chips, LLMs,<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/the-risks-behind-the-generative-ai-craze-why-caution-is-growing/" title="ReadThe risks behind the generative AI craze: Why caution is growing">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/the-risks-behind-the-generative-ai-craze-why-caution-is-growing/">The risks behind the generative AI craze: Why caution is growing</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>In the near future, Silicon Valley might look back at recent events as the point where the generative AI craze went too far.</p>
+
+
+
+<p>This past summer, investors questioned whether top AI stocks could sustain their sky-high valuations, given the lack of returns on massive AI spending. As Autumn approaches, major AI sectors—such as chips, LLMs, and AI devices—received renewed confidence. Nonetheless, there are an increasing number of reasons to be cautious.</p>
+
+
+
+<p><strong>Cerebras: A chip contender with a major risk</strong></p>
+
+
+
+<p>Chip startup Cerebras is challenging Nvidia&#8217;s dominance by developing processors designed to power smarter LLMs. <a href="https://www.artificialintelligence-news.com/news/nvidia-share-price-nosedives-antitrust-clouds-gather/" target="_blank" rel="noreferrer noopener">Nvidia</a>, a major player in the AI boom, has seen its market cap skyrocket from $364 billion at the start of 2023 to over $3 trillion.</p>
+
+
+
+<p>Cerebras, however, relies heavily on a single customer: the Abu Dhabi-based AI firm G42. In 2023, G42 accounted for 83% of Cerebras&#8217; revenue, and in the first half of 2024, that figure increased to 87%. While G42 is backed by major players like Microsoft and Silver Lake, its dependency poses a risk. Even though Cerebras has signed a deal with Saudi Aramco, its reliance on one client may cause concerns as it seeks a $7-8 billion valuation for its IPO.</p>
+
+
+
+<p><strong>OpenAI&#8217;s record-breaking funding – but with strings attached</strong></p>
+
+
+
+<p>OpenAI made the news when it raised $6.6 billion at a $157 billion valuation, becoming the largest investment round in Silicon Valley history. However, the company has <a target="_blank" href="https://www.ft.com/content/66e0653e-c446-47b2-8a7f-baa54ccbfb9a?accessToken=zwAAAZJOTf4Kkc9m4GU-xEZHstOKf7qlTMv7mg.MEUCIEJBi-VbRpNb9MIo2y24cDg8XwZ1lH2wIV_Kc-UGHtCBAiEA8JUYYonEqynzl_Wyz-3pPnT4q23D5MCTtg0M0CZ25ak&amp;segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&amp;shareType=enterprise&amp;shareId=b484077e-9f3e-4aef-a08b-93a56609306a" rel="noreferrer noopener">urged its investors</a> not to back competitors such as Anthropic and Elon Musk&#8217;s xAI—an unusual request in the world of venture capital, where spread betting is common. Critics, including Gary Marcus, have described this approach as &#8220;running scared.&#8221;</p>
+
+
+
+<p>OpenAI&#8217;s backers also include &#8220;bubble chasers&#8221; such as SoftBank and Tiger Global, firms known for investing in companies at their peak, which frequently results in huge losses. With top executives such as CTO Mira Murati departing and predicted losses of $5 billion this year despite rising revenues, OpenAI faces significant challenges.</p>
+
+
+
+<p><strong>Meta&#8217;s big bet on AI wearables</strong></p>
+
+
+
+<p>Meta entered the AI race by unveiling Orion, its augmented reality glasses. The wearables promise to integrate AI into daily life, with Nvidia&#8217;s CEO Jensen Huang endorsing the product. However, at a production cost of $10,000 per unit, the price is a major obstacle.</p>
+
+
+
+<p>Meta will need to reduce costs and overcome consumer hesitation, as previous attempts at AI-powered wearables—such as Snapchat&#8217;s glasses,  Google Glass, and the Humane AI pin—have struggled to gain traction.</p>
+
+
+
+<p><strong>The road ahead</strong></p>
+
+
+
+<p>What&#8217;s next for AI? OpenAI must prove it can justify a $157 billion valuation while operating at a loss. Cerebras needs to reassure investors that relying on one client isn&#8217;t a dealbreaker. And Meta must convince consumers to adopt a completely new way of interacting with AI.</p>
+
+
+
+<p>If these companies succeed, this moment could mark a turning point in the AI revolution. However, as tech history shows, high-stakes markets are rarely easy to win.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@growtika?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Growtika</a>)</em></p>
+
+
+
+<p><strong>See also: <a target="_blank" href="https://www.artificialintelligence-news.com/news/ethical-trust-and-skill-barriers-hold-back-generative-ai-progress-in-emea/" rel="noreferrer noopener">Ethical, trust and skill barriers hold back generative AI progress in EMEA</a></strong></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img fetchpriority="high" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="(max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/the-risks-behind-the-generative-ai-craze-why-caution-is-growing/">The risks behind the generative AI craze: Why caution is growing</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/the-risks-behind-the-generative-ai-craze-why-caution-is-growing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tech industry giants urge EU to streamline AI regulations</title>
+		<link>https://www.artificialintelligence-news.com/news/tech-industry-giants-urge-eu-streamline-ai-regulations/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tech-industry-giants-urge-eu-streamline-ai-regulations</link>
+					<comments>https://www.artificialintelligence-news.com/news/tech-industry-giants-urge-eu-streamline-ai-regulations/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Thu, 19 Sep 2024 15:20:55 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Legislation & Government]]></category>
+		<category><![CDATA[Meta (Facebook)]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[ethics]]></category>
+		<category><![CDATA[eu]]></category>
+		<category><![CDATA[europe]]></category>
+		<category><![CDATA[european union]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[law]]></category>
+		<category><![CDATA[legal]]></category>
+		<category><![CDATA[regulation]]></category>
+		<category><![CDATA[Society]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16117</guid>
+
+					<description><![CDATA[<p>Meta has spearheaded an open letter calling for urgent reform of AI regulations in the EU. The letter, which garnered support from over 50 prominent companies – including Ericsson, SAP, and Spotify – was published as an advert in the Financial Times. The collective voice of these industry leaders highlights a pressing issue: Europe&#8217;s bureaucratic<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/tech-industry-giants-urge-eu-streamline-ai-regulations/" title="ReadTech industry giants urge EU to streamline AI regulations">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/tech-industry-giants-urge-eu-streamline-ai-regulations/">Tech industry giants urge EU to streamline AI regulations</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://www.artificialintelligence-news.com/news/metas-ai-strategy-building-for-tomorrow-not-immediate-profits/">Meta</a> has spearheaded an open letter calling for urgent reform of AI regulations in the EU. The letter, which garnered support from over 50 prominent companies – including <a href="https://www.telecomstechnews.com/news/ai-ran-collaboration-advance-mobile-networks/">Ericsson</a>, <a href="https://www.artificialintelligence-news.com/news/sap-taps-microsoft-generative-ai-technologies/">SAP</a>, and Spotify – was published as an advert in the <a href="https://www.artificialintelligence-news.com/news/ft-and-openai-ink-partnership-web-scraping-criticism/">Financial Times</a>.</p>
+
+
+
+<p>The collective voice of these industry leaders highlights a pressing issue: Europe&#8217;s bureaucratic approach to AI regulation may be stifling innovation and causing the region to lag behind its global counterparts.</p>
+
+
+
+<p>&#8220;Europe has become less competitive and less innovative compared to other regions and it now risks falling further behind in the AI era due to inconsistent regulatory decision making,&#8221; the letter states, painting a stark picture of the continent&#8217;s current position in the AI race.</p>
+
+
+
+<p>The signatories emphasise two key areas of concern. Firstly, they point to the development of &#8216;open&#8217; models, which are freely available for use, modification, and further development. These models are lauded for their potential to &#8220;multiply the benefits and spread social and economic opportunity&#8221; while simultaneously bolstering sovereignty and control.</p>
+
+
+
+<p>Secondly, the letter underscores the importance of &#8216;multimodal&#8217; models, which integrate text, images, and speech capabilities. The signatories argue that the leap from text-only to multimodal models is akin to &#8220;the difference between having only one sense and having all five of them&#8221;. They assert that these advanced models could significantly boost productivity, drive scientific research, and inject hundreds of billions of euros into the European economy.</p>
+
+
+
+<p>However, the crux of the matter lies in the regulatory landscape. The letter expresses frustration with the uncertainty surrounding data usage for AI model training, stemming from interventions by European Data Protection Authorities. This ambiguity, they argue, could result in Large Language Models (LLMs) lacking crucial Europe-specific training data.</p>
+
+
+
+<p>To address these challenges, the signatories call for &#8220;harmonised, consistent, quick and clear decisions under EU data regulations that enable European data to be used in AI training for the benefit of Europeans&#8221;. They stress the need for &#8220;decisive action&#8221; to unlock Europe&#8217;s potential for creativity, ingenuity, and entrepreneurship, which they believe is essential for the region&#8217;s prosperity and technological leadership.</p>
+
+
+
+<p>A copy of the letter can be found below:</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="636" height="1024" src="https://www.artificialintelligence-news.com/wp-content/uploads/2024/09/meta-eu-ai-regulation-letter-artificial-intelligence-european-union-politics-law-legal-636x1024.jpg" alt="" class="wp-image-16118" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2024/09/meta-eu-ai-regulation-letter-artificial-intelligence-european-union-politics-law-legal-636x1024.jpg 636w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/09/meta-eu-ai-regulation-letter-artificial-intelligence-european-union-politics-law-legal-186x300.jpg 186w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/09/meta-eu-ai-regulation-letter-artificial-intelligence-european-union-politics-law-legal-768x1236.jpg 768w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/09/meta-eu-ai-regulation-letter-artificial-intelligence-european-union-politics-law-legal-954x1536.jpg 954w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/09/meta-eu-ai-regulation-letter-artificial-intelligence-european-union-politics-law-legal-124x200.jpg 124w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/09/meta-eu-ai-regulation-letter-artificial-intelligence-european-union-politics-law-legal-177x285.jpg 177w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/09/meta-eu-ai-regulation-letter-artificial-intelligence-european-union-politics-law-legal-155x250.jpg 155w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/09/meta-eu-ai-regulation-letter-artificial-intelligence-european-union-politics-law-legal-62x100.jpg 62w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/09/meta-eu-ai-regulation-letter-artificial-intelligence-european-union-politics-law-legal-37x60.jpg 37w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/09/meta-eu-ai-regulation-letter-artificial-intelligence-european-union-politics-law-legal.jpg 1200w" sizes="(max-width: 636px) 100vw, 636px" /></figure>
+
+
+
+<p>While the letter acknowledges the importance of consumer protection, it also highlights the delicate balance regulators must strike to avoid hindering commercial progress. The European Commission&#8217;s approach to regulation has often been criticised for its perceived heavy-handedness, and this latest appeal from industry leaders adds weight to growing concerns about the region&#8217;s global competitiveness in the AI sector.</p>
+
+
+
+<p>The pressure is rapidly mounting on European policymakers to <a href="https://www.artificialintelligence-news.com/news/balancing-innovation-trust-experts-assess-eu-ai-act/">create a regulatory environment</a> that fosters innovation while maintaining <a href="https://www.artificialintelligence-news.com/news/uk-signs-ai-safety-treaty-to-protect-human-rights-and-democracy/">appropriate safeguards</a>. The coming months will likely see intensified dialogue between industry stakeholders and regulators as they grapple with these complex issues that will shape the future of AI development in Europe.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@stereophototyp?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Sara Kurfeß</a>)</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/solarwinds-it-professionals-stronger-ai-regulation/"><strong>SolarWinds: IT professionals want stronger AI regulation</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="(max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/tech-industry-giants-urge-eu-streamline-ai-regulations/">Tech industry giants urge EU to streamline AI regulations</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/tech-industry-giants-urge-eu-streamline-ai-regulations/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Use of AI for business governance must improve at the board level</title>
+		<link>https://www.artificialintelligence-news.com/news/use-ai-business-governance-must-improve-at-board-level/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=use-ai-business-governance-must-improve-at-board-level</link>
+					<comments>https://www.artificialintelligence-news.com/news/use-ai-business-governance-must-improve-at-board-level/#respond</comments>
+		
+		<dc:creator><![CDATA[Muhammad Zulhusni]]></dc:creator>
+		<pubDate>Tue, 20 Aug 2024 16:58:43 +0000</pubDate>
+				<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Legislation & Government]]></category>
+		<category><![CDATA[Meta (Facebook)]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[ethics]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=15781</guid>
+
+					<description><![CDATA[<p>According to Carine Smith Ihenacho, chief governance and compliance officer of Norway&#8217;s $1.7 trillion sovereign wealth fund, boards need to be proficient with the use of AI and take control of its application in businesses to mitigate risks. The Norges Bank Investment Fund, which holds considerable shares in almost 9,000 companies worldwide — accounting for<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/use-ai-business-governance-must-improve-at-board-level/" title="ReadUse of AI for business governance must improve at the board level">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/use-ai-business-governance-must-improve-at-board-level/">Use of AI for business governance must improve at the board level</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>According to Carine Smith Ihenacho, chief governance and compliance officer of Norway&#8217;s $1.7 trillion sovereign wealth fund, boards <a href="https://www.reuters.com/technology/artificial-intelligence/companies-need-more-ai-competency-board-level-norways-wealth-fund-says-2024-08-16/">need to be proficient</a> with the use of AI and take control of its application in businesses to mitigate risks.</p>
+
+
+
+<p>The Norges Bank Investment Fund, which holds considerable shares in almost 9,000 companies worldwide — accounting for 1.5% of all listed stocks — has become a trailblazer in environmental, social, and corporate governance issues. About a year ago, the fund also provided its invested companies with recommendations on integrating responsible AI to improve economic outcomes.</p>
+
+
+
+<p>Several companies still have a lot of ground to cover. Specifically, when stating that &#8220;Overall, a lot of competence building needs to be done at the board level,&#8221; Smith Ihenacho clarified that this does not mean every board should have an AI specialist. Instead, boards need to collectively understand how AI matters in their business and have policies in place.</p>
+
+
+
+<p>&#8220;They should know: &#8216;What&#8217;s our policy on AI? Are we high risk or low risk? Where does AI meet customers? Are we transparent around it?&#8217; It&#8217;s a big-picture question they should be able to answer,&#8221; Smith Ihenacho added, highlighting the breadth of understanding required at the board level.</p>
+
+
+
+<p>The fund has shared its perspective on AI with the boards of its 60 largest portfolio companies, as reported in its 2023 responsible investment report. It is particularly focused on AI use in the healthcare sector due to its substantial impact on consumers, and is closely monitoring Big Tech companies that develop AI-based products.</p>
+
+
+
+<p>In its engagement with tech firms, the fund emphasises the importance of robust governance structures to manage AI-related risks. &#8220;We focus more on the governance structure,&#8221; Smith Ihenacho explained. &#8220;Is the board involved? Do you have a proper policy on AI?&#8221;</p>
+
+
+
+<p>The fund&#8217;s emphasis on AI governance is particularly relevant, given that nine of the ten largest positions in its equity holdings are tech companies. Leading among them are names such as Microsoft, Apple, Amazon, and Meta Platforms. Investments in these companies contributed to a 12.5% growth in the fund&#8217;s stock portfolio in the first half of 2024. The overall exposure to the tech sector increased from 21% to 26% over the past year, now comprising a quarter of the stock portfolio. This underscores the significant role that technology and AI play in the world today.</p>
+
+
+
+<p>Though the fund favours AI innovation for its potential to boost efficiency and productivity, Smith Ihenacho has emphasised the importance of responsible use. She is quoted as saying, &#8220;It is fantastic what AI may be able to do to support innovation, efficiency, and productivity&#8230; we support that.&#8221; However, she also stressed the need to be responsible in how we manage the risks.</p>
+
+
+
+<p>The fund&#8217;s adoption of AI governance aligns with rising global concerns about the ethical implications and potential dangers of these technologies. AI is increasingly utilised across various sectors, from finance to healthcare, and the need for governance frameworks has never been greater. The Norwegian sovereign wealth fund maintains a standard that requires companies to develop comprehensive AI policies at the board level, fostering the adoption of responsible AI practices across its large portfolio.</p>
+
+
+
+<p>This initiative by one of the world&#8217;s largest investors could have far-reaching implications for corporate governance practices globally. As companies seek to harness the power of AI while navigating its complexities, the guidance provided by influential investors like Norges Bank Investment Fund may serve as a blueprint for responsible AI implementation and governance in the corporate world.</p>
+
+
+
+<p><strong>See also: <a target="_blank" href="https://www.artificialintelligence-news.com/news/x-agrees-halt-use-certain-eu-data-ai-chatbot-training/" rel="noreferrer noopener">X agrees to halt use of certain EU data for AI chatbot training</a></strong></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/use-ai-business-governance-must-improve-at-board-level/">Use of AI for business governance must improve at the board level</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/use-ai-business-governance-must-improve-at-board-level/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Meta&#8217;s AI strategy: Building for tomorrow, not immediate profits</title>
+		<link>https://www.artificialintelligence-news.com/news/metas-ai-strategy-building-for-tomorrow-not-immediate-profits/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=metas-ai-strategy-building-for-tomorrow-not-immediate-profits</link>
+					<comments>https://www.artificialintelligence-news.com/news/metas-ai-strategy-building-for-tomorrow-not-immediate-profits/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Thu, 01 Aug 2024 15:49:28 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Meta (Facebook)]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[llama]]></category>
+		<category><![CDATA[mark zuckerberg]]></category>
+		<category><![CDATA[meta]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=15599</guid>
+
+					<description><![CDATA[<p>Meta has signalled a long-term AI strategy that prioritises substantial investments over immediate revenue generation. During the company&#8217;s Q2 earnings call, CEO and founder Mark Zuckerberg outlined Meta&#8217;s vision for the future and emphasised the need for extensive computational resources to support their AI initiatives. Zuckerberg revealed that Meta is &#8220;planning for the compute clusters<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/metas-ai-strategy-building-for-tomorrow-not-immediate-profits/" title="ReadMeta&#8217;s AI strategy: Building for tomorrow, not immediate profits">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/metas-ai-strategy-building-for-tomorrow-not-immediate-profits/">Meta&#8217;s AI strategy: Building for tomorrow, not immediate profits</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://investor.fb.com/home/default.aspx">Meta</a> has signalled a long-term AI strategy that prioritises substantial investments over immediate revenue generation. During the company&#8217;s Q2 earnings call, CEO and founder Mark Zuckerberg outlined Meta&#8217;s vision for the future and emphasised the need for extensive computational resources to support their AI initiatives.</p>
+
+
+
+<p>Zuckerberg revealed that Meta is &#8220;planning for the compute clusters and data we&#8217;ll need for the next several years,&#8221; with a particular focus on their next AI model, Llama 4.</p>
+
+
+
+<p>The company anticipates that training Llama 4 will require &#8220;almost 10x more&#8221; computing power than its predecessor, <a href="https://www.artificialintelligence-news.com/news/meta-advances-open-source-ai-frontier-level-llama-3-1/">Llama 3</a>, which is believed to have used 16,000 GPUs. Zuckerberg expressed his goal for Llama 4 &#8220;to be the most advanced [model] in the industry next year.&#8221;</p>
+
+
+
+<p>Meta&#8217;s financial commitment to AI development is substantial, with the company projecting capital expenditures between $37 and $40 billion for the full year, an increase of $2 billion from previous estimates. Investors were cautioned to expect &#8220;significant&#8221; increases in capital expenditures next year as well.</p>
+
+
+
+<p>Despite these massive investments, Meta CFO Susan Li acknowledged that the company does not expect to generate revenue from generative AI this year.</p>
+
+
+
+<p>Li emphasised the company&#8217;s strategy of building AI infrastructure with flexibility in mind, allowing for capacity adjustments based on optimal use cases. She explained that the hardware used for AI model training can also be utilised for inferencing and, with modifications, for ranking and recommendations.</p>
+
+
+
+<p>Meta&#8217;s current AI efforts, dubbed &#8220;Core AI,&#8221; are already showing positive results in improving user engagement on Facebook and Instagram. Zuckerberg highlighted the success of a recently implemented unified video recommendation tool for Facebook, which has &#8220;already increased engagement on Facebook Reels more than our initial move from CPUs to GPUs did.&#8221;</p>
+
+
+
+<p>Looking ahead, Zuckerberg envisions AI playing a crucial role in revolutionising Meta&#8217;s advertising business. He predicted that in the coming years, AI would take over ad copy creation and personalisation, potentially allowing advertisers to simply provide a business objective and budget, with Meta&#8217;s AI handling the rest.</p>
+
+
+
+<p>While Meta&#8217;s AI investments are substantial, the company remains in a strong financial position. Q2 results showed revenue of $39 billion and net income of $13.5 billion, representing year-over-year increases of $7 billion and $5.7 billion, respectively. Meta&#8217;s user base continues to grow, with over 3.2 billion people using a Meta app daily, and its X competitor Threads is now approaching 200 million active monthly users.</p>
+
+
+
+<p>As Meta charts its course in the AI landscape, the company&#8217;s strategy reflects a long-term vision that prioritises technological advancement and infrastructure development over immediate financial returns.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@joshuaearle?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Joshua Earle</a>)</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/nvidia-and-meta-ceo-every-business-will-have-an-ai/"><strong>NVIDIA and Meta CEOs: Every business will ‘have an AI’</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/metas-ai-strategy-building-for-tomorrow-not-immediate-profits/">Meta&#8217;s AI strategy: Building for tomorrow, not immediate profits</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/metas-ai-strategy-building-for-tomorrow-not-immediate-profits/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NVIDIA and Meta CEOs: Every business will ‘have an AI’</title>
+		<link>https://www.artificialintelligence-news.com/news/nvidia-and-meta-ceo-every-business-will-have-an-ai/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=nvidia-and-meta-ceo-every-business-will-have-an-ai</link>
+					<comments>https://www.artificialintelligence-news.com/news/nvidia-and-meta-ceo-every-business-will-have-an-ai/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Tue, 30 Jul 2024 15:30:43 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Chatbots]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Meta (Facebook)]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<category><![CDATA[Virtual Assistants]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[ai studio]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[digital human]]></category>
+		<category><![CDATA[jensen huang]]></category>
+		<category><![CDATA[llama]]></category>
+		<category><![CDATA[mark zuckerberg]]></category>
+		<category><![CDATA[meta]]></category>
+		<category><![CDATA[Nvidia]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[siggraph]]></category>
+		<category><![CDATA[virtual assistant]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=15557</guid>
+
+					<description><![CDATA[<p>In a fireside chat at SIGGRAPH 2024, NVIDIA founder and CEO Jensen Huang and Meta founder and CEO Mark Zuckerberg shared their insights on the potential of open source AI and virtual assistants. The conversation began with Zuckerberg announcing the launch of AI Studio, a new platform designed to democratise AI creation. This tool allows<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/nvidia-and-meta-ceo-every-business-will-have-an-ai/" title="ReadNVIDIA and Meta CEOs: Every business will ‘have an AI’">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/nvidia-and-meta-ceo-every-business-will-have-an-ai/">NVIDIA and Meta CEOs: Every business will ‘have an AI’</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>In a fireside chat at <a href="https://s2024.siggraph.org/">SIGGRAPH 2024</a>, NVIDIA founder and CEO Jensen Huang and Meta founder and CEO Mark Zuckerberg shared their insights on the potential of open source AI and virtual assistants.</p>
+
+
+
+<p>The conversation began with Zuckerberg announcing the launch of <a href="https://about.fb.com/news/2024/07/create-your-own-custom-ai-with-ai-studio/">AI Studio</a>, a new platform designed to democratise AI creation. This tool allows users to create, share, and discover AI characters, potentially opening up AI development to millions of creators and small businesses.</p>
+
+
+
+<p>Huang emphasised the ubiquity of AI in the future, stating, &#8220;Every single restaurant, every single website will probably, in the future, have these AIs …&#8221;</p>
+
+
+
+<p>Zuckerberg concurred, adding, &#8220;…just like every business has an email address and a website and a social media account, I think, in the future, every business is going to have an AI.&#8221;</p>
+
+
+
+<p>This vision aligns with NVIDIA&#8217;s recent developments showcased at SIGGRAPH. The company previewed &#8220;James,&#8221; an interactive digital human based on the <a href="https://developer.nvidia.com/ace">NVIDIA ACE</a> (Avatar Cloud Engine) reference design. <a href="https://blogs.nvidia.com/blog/digital-humans-siggraph-2024/">James</a> – a virtual assistant capable of providing contextually accurate responses – demonstrates the potential for businesses to create custom, hyperrealistic avatars for customer interactions.</p>
+
+
+
+<p>The discussion highlighted Meta&#8217;s significant contributions to AI development. Huang praised Meta&#8217;s work, saying, &#8220;You guys have done amazing AI work,&#8221; and cited advancements in computer vision, language models, and real-time translation. He also acknowledged the widespread use of <a href="https://pytorch.org/">PyTorch</a>, an open-source machine learning framework developed by Meta.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="AI and The Next Computing Platforms With Jensen Huang and Mark Zuckerberg" width="1200" height="675" src="https://www.youtube.com/embed/w-cmMcMZoZ4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Both CEOs stressed the importance of open source in advancing AI. Meta has positioned itself as a leader in this field, implementing AI across its platforms and releasing open-source models like <a href="https://www.artificialintelligence-news.com/news/meta-advances-open-source-ai-frontier-level-llama-3-1/">Llama 3.1</a>. This latest model, with 405 billion parameters, required training on over 16,000 NVIDIA H100 GPUs, representing a substantial investment in resources.</p>
+
+
+
+<p>Zuckerberg shared his vision for more integrated AI models, saying, &#8220;I kind of dream of one day like you can almost imagine all of Facebook or Instagram being like a single AI model that has unified all these different content types and systems together.&#8221; He believes that collaboration is crucial for further advancements in AI.</p>
+
+
+
+<p>The conversation touched on the potential of AI to enhance human productivity. Huang described a future where AI could generate images in real-time as users type, allowing for fluid collaboration between humans and AI assistants. This concept is reflected in NVIDIA&#8217;s latest advancements to the <a href="https://developer.nvidia.com/maxine">NVIDIA Maxine AI</a> platform, including Maxine 3D and Audio2Face-2D, which aim to create immersive telepresence experiences.</p>
+
+
+
+<p>Looking ahead, Zuckerberg expressed enthusiasm about combining AI with augmented reality eyewear, mentioning Meta&#8217;s collaboration with eyewear maker Luxottica. He envisions this technology transforming education, entertainment, and work.</p>
+
+
+
+<p>Huang discussed the evolution of AI interactions, moving beyond turn-based conversations to more complex, multi-option simulations. &#8220;Today&#8217;s AI is kind of turn-based. You say something, it says something back to you,&#8221; Huang explained. &#8220;In the future, AI could contemplate multiple options, or come up with a tree of options and simulate outcomes, making it much more powerful.&#8221;</p>
+
+
+
+<p>The importance of this evolution is evident in the adoption of NVIDIA&#8217;s technologies by companies across industries. HTC, Looking Glass, Reply, and UneeQ are among the latest firms using NVIDIA ACE and Maxine for applications ranging from customer service agents to telepresence experiences in entertainment, retail, and hospitality.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="UneeQ and NVIDIA showcase next-generation digital humans driven by Synanim and Audio2Face" width="1200" height="675" src="https://www.youtube.com/embed/LD4ak_O0oLk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>As AI continues to evolve and integrate into various aspects of our lives, the insights shared by these industry leaders provide a glimpse into a future where AI assistants are as commonplace as websites and social media accounts.</p>
+
+
+
+<p>The developments showcased at SIGGRAPH 2024 by both NVIDIA and other companies demonstrate that this future is rapidly approaching, with digital humans becoming increasingly sophisticated and capable of natural, engaging interactions.</p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/amazon-strives-outpace-nvidia-cheaper-faster-ai-chips/"><strong>Amazon strives to outpace Nvidia with cheaper, faster AI chips</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/nvidia-and-meta-ceo-every-business-will-have-an-ai/">NVIDIA and Meta CEOs: Every business will ‘have an AI’</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/nvidia-and-meta-ceo-every-business-will-have-an-ai/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The exponential expenses of AI development</title>
+		<link>https://www.artificialintelligence-news.com/news/the-exponential-expenses-of-ai-development/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-exponential-expenses-of-ai-development</link>
+					<comments>https://www.artificialintelligence-news.com/news/the-exponential-expenses-of-ai-development/#respond</comments>
+		
+		<dc:creator><![CDATA[Dashveenjit Kaur]]></dc:creator>
+		<pubDate>Mon, 29 Jul 2024 12:40:13 +0000</pubDate>
+				<category><![CDATA[AGI]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Meta (Facebook)]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=15538</guid>
+
+					<description><![CDATA[<p>Tech giants like Microsoft, Alphabet, and Meta are riding high on a wave of revenue from AI-driven cloud services, yet simultaneously drowning in the substantial costs of pushing AI&#8217;s boundaries. Recent financial reports paint a picture of a double-edged sword: on one side, impressive gains; on the other, staggering expenses.  This dichotomy has led&#160;Bloomberg&#160;to aptly<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/the-exponential-expenses-of-ai-development/" title="ReadThe exponential expenses of AI development">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/the-exponential-expenses-of-ai-development/">The exponential expenses of AI development</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Tech giants like Microsoft, Alphabet, and Meta are riding high on a wave of revenue from AI-driven cloud services, yet simultaneously drowning in the substantial costs of pushing AI&#8217;s boundaries. Recent financial reports paint a picture of a double-edged sword: on one side, impressive gains; on the other, staggering expenses. </p>
+
+
+
+<p>This dichotomy has led&nbsp;<em><a target="_blank" href="https://www.bloomberg.com/news/articles/2024-04-30/why-artificial-intelligence-is-so-expensive?srnd=technology-vp&amp;sref=QqWIvTvt" rel="noreferrer noopener">Bloomberg</a></em>&nbsp;to aptly dub AI development a &#8220;huge money pit,&#8221; highlighting the complex economic reality behind today&#8217;s AI revolution. At the heart of this financial problem lies a relentless push for bigger, more sophisticated AI models. The quest for artificial general intelligence (AGI) has led companies to develop increasingly complex systems, exemplified by large language models like GPT-4. These models require vast computational power, driving up hardware costs to unprecedented levels.</p>
+
+
+
+<p>To top it off, the demand for specialised AI chips, mainly graphics processing units (GPUs), has skyrocketed. Nvidia, <a href="https://www.artificialintelligence-news.com/news/nvidia-worlds-most-valuable-company-under-french-antitrust-fire/">the leading manufacturer in this space</a>, has seen its market value soar as tech companies scramble to secure these essential components. Its H100 graphics chip, the gold standard for training AI models, has sold for an estimated $30,000 — with some resellers offering them for multiple times that amount. </p>
+
+
+
+<p>The global chip shortage has only exacerbated this issue, with some firms waiting months to acquire the necessary hardware. Meta Chief Executive Officer Zuckerberg&nbsp;<a target="_blank" href="https://www.instagram.com/reel/C2QARHJR1sZ/?hl=en" rel="noreferrer noopener">previously said</a>&nbsp;that his company planned to acquire 350,000 H100 chips by the end of this year to support its AI research efforts. Even if he gets a bulk-buying discount, that quickly adds to billions of dollars.</p>
+
+
+
+<p>On the other hand, the <a href="https://www.artificialintelligence-news.com/news/nvidia-presents-latest-advancements-visual-ai/">push for more advanced</a> AI has also sparked an arms race in chip design. Companies like Google and Amazon invest heavily in developing their AI-specific processors, aiming to gain a competitive edge and reduce reliance on third-party suppliers. This trend towards custom silicon adds another layer of complexity and cost to the AI development process.</p>
+
+
+
+<p>But the hardware challenge extends beyond just procuring chips. The scale of modern AI models necessitates massive data centres, which come with their technological hurdles. These facilities must be designed to handle extreme computational loads while managing heat dissipation and energy consumption efficiently. As models grow larger, so do the power requirements, significantly increasing operational costs and environmental impact.</p>
+
+
+
+<p>In a&nbsp;<a target="_blank" href="https://www.nytimes.com/2024/04/12/podcasts/transcript-ezra-klein-interviews-dario-amodei.html" rel="noreferrer noopener">podcast interview</a>&nbsp;in early April, Dario Amodei, the chief executive officer of OpenAI-rival Anthropic, said the current crop of AI models on the market cost around $100 million to train. &#8220;The models that are in training now and that will come out at various times later this year or early next year are closer in cost to $1 billion,&#8221; he said. &#8220;And then I think in 2025 and 2026, we&#8217;ll get more towards $5 or $10 billion.&#8221;</p>
+
+
+
+<p>Then, there is data, the lifeblood of AI systems, presenting its own technological challenges. The need for vast, high-quality datasets has led companies to invest heavily in data collection, cleaning, and annotation technologies. Some firms are developing sophisticated synthetic data generation tools to supplement real-world data, further driving up research and development costs.</p>
+
+
+
+<p>The rapid pace of AI innovation also means that infrastructure and tools quickly become obsolete. Companies must continuously upgrade their systems and retrain their models to stay competitive, creating a constant cycle of investment and obsolescence.</p>
+
+
+
+<p>&#8220;On April 25, Microsoft said it spent $14 billion on capital expenditures in the most recent quarter and expects those costs to &#8220;increase materially,&#8221; driven partly by AI infrastructure investments. That was a 79% increase from the year-earlier quarter. Alphabet said it spent $12 billion during the quarter, a 91% increase from a year earlier, and expects the rest of the year to be &#8220;at or above&#8221; that level as it focuses on AI opportunities,&#8221; the article by Bloomberg reads.</p>
+
+
+
+<p>Bloomberg also noted that Meta, meanwhile, raised its estimates for investments for the year and now believes capital expenditures will be $35 billion to $40 billion, which would be a 42% increase at the high end of the range. &#8220;It cited aggressive investment in AI research and product development,&#8221;&nbsp;<em>Bloomberg</em>&nbsp;wrote.</p>
+
+
+
+<p>Interestingly, Bloomberg&#8217;s article also points out that despite these enormous costs, tech giants are proving that AI can be a real revenue driver. Microsoft and Alphabet reported significant growth in their cloud businesses, mainly attributed to increased demand for AI services. This suggests that while the initial investment in AI technology is staggering, the potential returns are compelling enough to justify the expense.</p>
+
+
+
+<p>However, the high costs of AI development raise concerns about market concentration. As noted in the article, the expenses associated with cutting-edge AI research may limit innovation to a handful of well-funded companies, potentially stifling competition and diversity in the field. Looking ahead, the industry is focusing on developing more efficient AI technologies to address these cost challenges.&nbsp;</p>
+
+
+
+<p>Research into techniques like few-shot learning, transfer learning, and more energy-efficient model architectures aims to reduce the computational resources required for AI development and deployment. Moreover, the push towards edge AI &#8211; running AI models on local devices rather than in the cloud &#8211; could help distribute computational loads and reduce the strain on centralised data centres. </p>
+
+
+
+<p>This shift, however, requires its own set of technological innovations in chip design and software optimisation. Overall, it is clear that the future of AI will be shaped not just by breakthroughs in algorithms and model design but also by our ability to overcome the immense technological and financial hurdles that come with scaling AI systems. Companies that can navigate these challenges effectively will likely emerge as the leaders in the next phase of the AI revolution.</p>
+
+
+
+<p><em>(Image by <a href="https://unsplash.com/@omilaev">Igor Omilaev</a><em style="font-size: revert;">)</em></em></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/the-exponential-expenses-of-ai-development/">The exponential expenses of AI development</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/the-exponential-expenses-of-ai-development/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Meta advances open source AI with ‘frontier-level’ Llama 3.1</title>
+		<link>https://www.artificialintelligence-news.com/news/meta-advances-open-source-ai-frontier-level-llama-3-1/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=meta-advances-open-source-ai-frontier-level-llama-3-1</link>
+					<comments>https://www.artificialintelligence-news.com/news/meta-advances-open-source-ai-frontier-level-llama-3-1/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Wed, 24 Jul 2024 12:39:45 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Meta (Facebook)]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[development]]></category>
+		<category><![CDATA[llama]]></category>
+		<category><![CDATA[llama 3.1]]></category>
+		<category><![CDATA[mark zuckerberg]]></category>
+		<category><![CDATA[meta]]></category>
+		<category><![CDATA[open source]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=15518</guid>
+
+					<description><![CDATA[<p>Meta has unveiled Llama 3.1, marking a significant milestone in the company&#8217;s commitment to open source AI. This release, which Meta CEO Mark Zuckerberg calls &#8220;the first frontier-level open source AI model,&#8221; aims to challenge the dominance of closed AI systems and democratise access to advanced AI technology. The Llama 3.1 release includes three models:<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/meta-advances-open-source-ai-frontier-level-llama-3-1/" title="ReadMeta advances open source AI with ‘frontier-level’ Llama 3.1">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/meta-advances-open-source-ai-frontier-level-llama-3-1/">Meta advances open source AI with ‘frontier-level’ Llama 3.1</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Meta has unveiled <a href="http://llama.meta.com/">Llama 3.1</a>, marking a significant milestone in the company&#8217;s commitment to open source AI. This release, which Meta CEO Mark Zuckerberg calls &#8220;the first frontier-level open source AI model,&#8221; aims to challenge the dominance of closed AI systems and democratise access to advanced AI technology.</p>
+
+
+
+<p>The Llama 3.1 release includes three models: 405B, 70B, and 8B. Zuckerberg asserts that the 405B model competes with the most advanced closed models while offering better cost-efficiency.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Starting today, open source is leading the way. Introducing Llama 3.1: Our most capable models yet.<br><br>Today we’re releasing a collection of new Llama 3.1 models including our long awaited 405B. These models deliver improved reasoning capabilities, a larger 128K token context… <a href="https://t.co/1iKpBJuReD">pic.twitter.com/1iKpBJuReD</a></p>&mdash; AI at Meta (@AIatMeta) <a href="https://twitter.com/AIatMeta/status/1815766327463907421?ref_src=twsrc%5Etfw">July 23, 2024</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>&#8220;Starting next year, we expect future Llama models to become the most advanced in the industry,&#8221; Zuckerberg predicts.</p>
+
+
+
+<p>Zuckerberg draws parallels between the evolution of AI and the historical shift from closed Unix systems to open source Linux. He argues that open source AI will follow a similar trajectory, eventually becoming the industry standard due to its adaptability, cost-effectiveness, and broad ecosystem support.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">You can start building with Llama 3.1 starting right now. Figuring out which provider to choose? Here’s a rundown of all current pricing as of this afternoon.<br><br>We’re keeping this updated here with a matrix of available features &amp; a quick start guide: <a href="https://t.co/lGNIfLUR0T">https://t.co/lGNIfLUR0T</a> <a href="https://t.co/blIIMvWUZO">pic.twitter.com/blIIMvWUZO</a></p>&mdash; Ahmad Al-Dahle (@Ahmad_Al_Dahle) <a href="https://twitter.com/Ahmad_Al_Dahle/status/1815860645184860515?ref_src=twsrc%5Etfw">July 23, 2024</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Zuckerberg emphasises several key advantages of open source AI:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Customisation:</strong> Organisations can train and fine-tune models with their specific data.</li>
+
+
+
+<li><strong>Independence:</strong> Avoids lock-in to closed vendors or specific cloud providers.</li>
+
+
+
+<li><strong>Data security:</strong> Allows for local model deployment, enhancing data protection.</li>
+
+
+
+<li><strong>Cost-efficiency:</strong> Llama 3.1 405B can be run at roughly half the cost of closed models like GPT-4.</li>
+
+
+
+<li><strong>Ecosystem growth:</strong> Encourages innovation and collaboration across the industry.</li>
+</ul>
+
+
+
+<p>Addressing safety concerns, Zuckerberg argues that open source AI is inherently safer due to increased transparency and scrutiny. He states, &#8220;Open source should be significantly safer since the systems are more transparent and can be widely scrutinised.&#8221;</p>
+
+
+
+<p>To support the open source AI ecosystem, Meta is partnering with major tech companies like Amazon, Databricks, and NVIDIA to provide development services. The models will be available across major cloud platforms, with companies such as Scale.AI, Dell, and Deloitte ready to assist in enterprise adoption.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">🦙 The new <a href="https://twitter.com/AIatMeta?ref_src=twsrc%5Etfw">@AIatMeta</a> Llama 3.1 models plus our new NVIDIA NeMo Retriever NIMs create a powerful <a href="https://twitter.com/hashtag/generativeai?src=hash&amp;ref_src=twsrc%5Etfw">#generativeai</a> duo 🙌 <br><br>➡️ Technical deep dive on how to build an agentic RAG pipeline by the newest NeMo Retriever embedding and reraking NIM microservices. <a href="https://t.co/OjQN8rcHi0">https://t.co/OjQN8rcHi0</a> ✨</p>&mdash; NVIDIA AI Developer (@NVIDIAAIDev) <a href="https://twitter.com/NVIDIAAIDev/status/1815854650546888947?ref_src=twsrc%5Etfw">July 23, 2024</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>&#8220;Open source will ensure that more people around the world have access to the benefits and opportunities of AI, that power isn&#8217;t concentrated in the hands of a small number of companies, and that the technology can be deployed more evenly and safely across society,&#8221; Zuckerberg claims.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="qht" dir="ltr"><a href="https://twitter.com/hashtag/Openalwayswins?src=hash&amp;ref_src=twsrc%5Etfw">#Openalwayswins</a> <a href="https://t.co/vqr32G2SGe">https://t.co/vqr32G2SGe</a></p>&mdash; Yann LeCun (@ylecun) <a href="https://twitter.com/ylecun/status/1816063454840512940?ref_src=twsrc%5Etfw">July 24, 2024</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>The CEO views this release as a turning point, predicting that most developers will shift towards primarily using open source AI models. He invites the tech community to join Meta in &#8220;this journey to bring the benefits of AI to everyone in the world.&#8221;</p>
+
+
+
+<p><em>The Llama 3.1 models are now accessible at </em><a href="http://llama.meta.com"><em>llama.meta.com</em></a><em>.</em></p>
+
+
+
+<p>(Photo by <a href="https://unsplash.com/@solomin_d?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Dima Solomin</a>)</p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/meta-joins-apple-withholding-ai-models-eu-users/"><strong>Meta joins Apple in withholding AI models from EU users</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/upcoming-events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/meta-advances-open-source-ai-frontier-level-llama-3-1/">Meta advances open source AI with ‘frontier-level’ Llama 3.1</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/meta-advances-open-source-ai-frontier-level-llama-3-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Meta joins Apple in withholding AI models from EU users</title>
+		<link>https://www.artificialintelligence-news.com/news/meta-joins-apple-withholding-ai-models-eu-users/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=meta-joins-apple-withholding-ai-models-eu-users</link>
+					<comments>https://www.artificialintelligence-news.com/news/meta-joins-apple-withholding-ai-models-eu-users/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Thu, 18 Jul 2024 14:10:21 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Legislation & Government]]></category>
+		<category><![CDATA[Meta (Facebook)]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[ai act]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[eu]]></category>
+		<category><![CDATA[europe]]></category>
+		<category><![CDATA[european union]]></category>
+		<category><![CDATA[meta]]></category>
+		<category><![CDATA[regulation]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=15450</guid>
+
+					<description><![CDATA[<p>Meta has announced it will not be launching its upcoming multimodal AI model in the European Union due to regulatory concerns. This decision from Meta comes on the heels of Apple&#8217;s similar move to exclude the EU from its Apple Intelligence rollout, signalling a growing trend of tech giants hesitating to introduce advanced AI technologies<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/meta-joins-apple-withholding-ai-models-eu-users/" title="ReadMeta joins Apple in withholding AI models from EU users">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/meta-joins-apple-withholding-ai-models-eu-users/">Meta joins Apple in withholding AI models from EU users</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://about.meta.com/%20meta/">Meta</a> has announced it will not be launching its upcoming multimodal AI model in the European Union due to regulatory concerns.</p>
+
+
+
+<p>This decision from Meta comes on the heels of Apple&#8217;s similar move <a href="https://www.artificialintelligence-news.com/news/apple-eu-ai-delay-innovation-vs-regulation/">to exclude the EU</a> from its Apple Intelligence rollout, signalling a growing trend of tech giants hesitating to introduce advanced AI technologies in the region.</p>
+
+
+
+<p>Meta’s latest multimodal AI model – capable of handling video, audio, images, and text – was set to be released under an open license. However, Meta&#8217;s decision will prevent European companies from utilising this technology, potentially putting them at a disadvantage in the global AI race.</p>
+
+
+
+<p>&#8220;We will release a multimodal Llama model over the coming months, but not in the EU due to the unpredictable nature of the European regulatory environment,&#8221; a Meta spokesperson stated.</p>
+
+
+
+<p>A text-only version of Meta&#8217;s Llama 3 model is still expected to launch in the EU.</p>
+
+
+
+<p>Meta’s announcement comes just days after the EU finalised compliance deadlines for its new <a href="https://www.artificialintelligence-news.com/news/eu-launches-office-implement-ai-act-foster-innovation/">AI Act</a>. Tech companies operating in the EU will have until August 2026 to comply with rules surrounding copyright, transparency, and specific AI applications like predictive policing.</p>
+
+
+
+<p>The withholding of these advanced AI models from the EU market creates a challenging situation for companies outside the region. Those hoping to provide products and services utilising these models will be unable to offer them in one of the world&#8217;s largest economic markets.</p>
+
+
+
+<p>Meta plans to integrate its multimodal AI models into products like the Meta Ray-Ban smart glasses. The company&#8217;s EU exclusion will extend to future multimodal AI model releases as well.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Meta will *not* release the multimodal versions of its AI products and models in the EU because of an unpredictable regulatory environment. <br>This means that EU users of Ray-Ban Meta won&#39;t be able to use the image understanding features.<br>It also means that the EU industry will not…</p>&mdash; Yann LeCun (@ylecun) <a href="https://twitter.com/ylecun/status/1814308324038381618?ref_src=twsrc%5Etfw">July 19, 2024</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>As more tech giants potentially follow suit, the EU may face challenges in maintaining its position as a leader in technological innovation while balancing concerns about AI&#8217;s societal impacts.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@enginakyurt?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">engin akyurt</a>)</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/ai-could-unleash-119-billion-in-uk-productivity/"><strong>AI could unleash £119 billion in UK productivity</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/upcoming-events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/meta-joins-apple-withholding-ai-models-eu-users/">Meta joins Apple in withholding AI models from EU users</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/meta-joins-apple-withholding-ai-models-eu-users/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Could an Apple-Meta partnership redefine the AI landscape?</title>
+		<link>https://www.artificialintelligence-news.com/news/could-apple-meta-partnership-redefine-ai-landscape/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=could-apple-meta-partnership-redefine-ai-landscape</link>
+					<comments>https://www.artificialintelligence-news.com/news/could-apple-meta-partnership-redefine-ai-landscape/#respond</comments>
+		
+		<dc:creator><![CDATA[Dashveenjit Kaur]]></dc:creator>
+		<pubDate>Tue, 25 Jun 2024 10:38:08 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Meta (Facebook)]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[apple ai]]></category>
+		<category><![CDATA[apple intelligence]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=15107</guid>
+
+					<description><![CDATA[<p>Apple has reportedly entered into discussions with Meta to integrate the latter&#8217;s generative AI model into its newly unveiled personalised AI system, Apple Intelligence. Sources familiar with the talks have revealed that Apple has also been considering partnerships with startups Anthropic and Perplexity to integrate their generative AI technologies. This coming together of major players in the<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/could-apple-meta-partnership-redefine-ai-landscape/" title="ReadCould an Apple-Meta partnership redefine the AI landscape?">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/could-apple-meta-partnership-redefine-ai-landscape/">Could an Apple-Meta partnership redefine the AI landscape?</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Apple has <a href="https://www.reuters.com/technology/apple-meta-have-discussed-an-ai-partnership-wsj-reports-2024-06-23/" target="_blank" rel="noreferrer noopener">reportedly</a> entered into discussions with Meta to integrate the latter&#8217;s generative AI model into its newly unveiled personalised AI system, <a href="https://www.artificialintelligence-news.com/2024/06/24/apple-eu-ai-delay-innovation-vs-regulation/">Apple Intelligence</a>.</p>
+
+
+
+<p>Sources familiar with the talks have revealed that Apple has also been considering partnerships with startups Anthropic and Perplexity to integrate their generative AI technologies. This coming together of major players in the tech industry and groundbreaking startups signifies a pivotal moment in AI. </p>
+
+
+
+<p>For years, we&#8217;ve watched tech behemoths like Apple, Google, and Meta (formerly Facebook) fiercely guard their technological advancements, treating their innovations as closely held trade secrets. This approach has driven competition and spurred rapid progress but has also led to fragmentation and inefficiencies in the broader tech ecosystem.</p>
+
+
+
+<p>As we embark on the next generation of AI technologies, these tech giants are starting to see that there is much more to gain from collaborating. Given their intense rivalry and divergent philosophies about user privacy and data use, the hypothetical Apple-Meta partnership is notable.</p>
+
+
+
+<p>This unexpected alliance begs the question: What has changed? The answer lies in the breathtaking pace of AI advancement and the realisation that no single company can go alone in this new frontier, no matter how large or innovative. Generative AI, in particular, represents a paradigm shift in computing, fundamentally reimagining our interaction with technology. Its vast implications and numerous applications push tech giants beyond their comfort zones.</p>
+
+
+
+<p>By potentially integrating Meta&#8217;s generative AI into Apple Intelligence, Apple acknowledges that hardware and traditional software expertise alone can&#8217;t secure AI leadership. Meta&#8217;s openness to sharing its AI with a competitor suggests it values widespread adoption over exclusivity.</p>
+
+
+
+<p>For consumers, this collaboration promises a new era of intelligent digital interactions. Imagine an AI system that responds to your needs with unprecedented accuracy and anticipates and adapts to your preferences. This integration could transform user engagement, making technology an even more intuitive part of daily life.</p>
+
+
+
+<p>Notably, Apple&#8217;s commitment to privacy adds a layer of trust to these advancements, addressing a key concern in today&#8217;s digital landscape. In short, users can expect sophisticated AI features without compromising their personal information. The inclusion of AI startups like Anthropic and Perplexity in these discussions is equally significant.&nbsp;</p>
+
+
+
+<p>It demonstrates that innovative ideas and cutting-edge research are not the sole domain of established tech giants in the rapidly evolving field of AI. These startups bring fresh perspectives and specialised expertise that could prove crucial in developing more advanced and ethically sound AI systems.</p>
+
+
+
+<p>This open approach may drive AI development and deployment faster in places we have never seen before. Imagine Siri understanding and speaking multiple languages simultaneously with the power of Apple&#8217;s natural language processing software, Meta&#8217;s billions of users&#8217; social interactions data, Anthropic&#8217;s AI safety lens and frankly unbeatable problem solving through Perplexity.&nbsp;</p>
+
+
+
+<p>This might lead to an AI assistant that is not only more powerful&nbsp;&#8211; is not just&nbsp;more advanced and capacious as a system,&nbsp;but also&nbsp;one that has depth, ethics,&nbsp;high fidelity&nbsp;model inferences about human needs.</p>
+
+
+
+<h4 class="wp-block-heading"><strong>What about ethical considerations and regulatory challenges</strong>?</h4>
+
+
+
+<p>The integration of powerful generative AI models into widely used platforms like Apple’s raises important ethical and regulatory questions. Issues such as data privacy, algorithmic bias, and the potential misuse of AI-generated content need careful consideration. Will this further centralise tech power among the existing few,&nbsp;or open new doors for startups and other smaller players? Most&nbsp;important of all, how do we proceed with the development and deployment of these AI systems responsibly, with&nbsp;built in mechanisms to safely&nbsp;guard against misuse?</p>
+
+
+
+<p>As we attempt to do so in uncharted waters, it&#8217;s increasingly obvious that regulators and policymakers will have a major role&nbsp;to play in having to weigh&nbsp;incentives for innovation against public interests. Perhaps,&nbsp;it may even require creating new data sharing structures, AI governance practices and ways for companies to work together&nbsp;&#8211;&nbsp;that which reside beyond today&#8217;s antitrust and data protection laws.</p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/2023/06/09/mark-zuckerberg-ai-built-into-all-meta-products/"><strong>Mark Zuckerberg: AI will be built into all of Meta’s products</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/could-apple-meta-partnership-redefine-ai-landscape/">Could an Apple-Meta partnership redefine the AI landscape?</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/could-apple-meta-partnership-redefine-ai-landscape/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Meta unveils five AI models for multi-modal processing, music generation, and more</title>
+		<link>https://www.artificialintelligence-news.com/news/meta-unveils-ai-models-multi-modal-processing-music-generation-more/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=meta-unveils-ai-models-multi-modal-processing-music-generation-more</link>
+					<comments>https://www.artificialintelligence-news.com/news/meta-unveils-ai-models-multi-modal-processing-music-generation-more/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Wed, 19 Jun 2024 15:40:48 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Meta (Facebook)]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[audioseal]]></category>
+		<category><![CDATA[chameleon]]></category>
+		<category><![CDATA[fair]]></category>
+		<category><![CDATA[jasco]]></category>
+		<category><![CDATA[meta]]></category>
+		<category><![CDATA[meta ai]]></category>
+		<category><![CDATA[models]]></category>
+		<category><![CDATA[music generation]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[text-to-image]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=15062</guid>
+
+					<description><![CDATA[<p>Meta has unveiled five major new AI models and research, including multi-modal systems that can process both text and images, next-gen language models, music generation, AI speech detection, and efforts to improve diversity in AI systems. The releases come from Meta&#8217;s Fundamental AI Research (FAIR) team which has focused on advancing AI through open research<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/meta-unveils-ai-models-multi-modal-processing-music-generation-more/" title="ReadMeta unveils five AI models for multi-modal processing, music generation, and more">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/meta-unveils-ai-models-multi-modal-processing-music-generation-more/">Meta unveils five AI models for multi-modal processing, music generation, and more</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Meta has <a href="https://about.fb.com/news/2024/06/releasing-new-ai-research-models-to-accelerate-innovation-at-scale/">unveiled</a> five major new AI models and research, including multi-modal systems that can process both text and images, next-gen language models, music generation, AI speech detection, and efforts to improve diversity in AI systems.</p>
+
+
+
+<p>The releases come from Meta&#8217;s Fundamental AI Research (FAIR) team which has focused on advancing AI through open research and collaboration for over a decade. As AI rapidly innovates, Meta believes working with the global community is crucial.</p>
+
+
+
+<p>&#8220;By publicly sharing this research, we hope to inspire iterations and ultimately help advance AI in a responsible way,&#8221; said Meta.</p>
+
+
+
+<h4 class="wp-block-heading">Chameleon: Multi-modal text and image processing</h4>
+
+
+
+<p>Among the releases are key components of Meta&#8217;s &#8216;Chameleon&#8217; models under a research license. Chameleon is a family of multi-modal models that can understand and generate both text and images simultaneously—unlike most large language models which are typically unimodal.</p>
+
+
+
+<p>&#8220;Just as humans can process the words and images simultaneously, Chameleon can process and deliver both image and text at the same time,&#8221; explained Meta. &#8220;Chameleon can take any combination of text and images as input and also output any combination of text and images.&#8221;</p>
+
+
+
+<p>Potential use cases are virtually limitless from generating creative captions to prompting new scenes with text and images.</p>
+
+
+
+<h4 class="wp-block-heading">Multi-token prediction for faster language model training</h4>
+
+
+
+<p>Meta has also released pretrained models for code completion that use &#8216;multi-token prediction&#8217; under a non-commercial research license. Traditional language model training is inefficient by predicting just the next word. Multi-token models can predict multiple future words simultaneously to train faster.</p>
+
+
+
+<p>&#8220;While [the one-word] approach is simple and scalable, it&#8217;s also inefficient. It requires several orders of magnitude more text than what children need to learn the same degree of language fluency,&#8221; said Meta.</p>
+
+
+
+<h4 class="wp-block-heading">JASCO: Enhanced text-to-music model</h4>
+
+
+
+<p>On the creative side, Meta&#8217;s JASCO allows generating music clips from text while affording more control by accepting inputs like chords and beats.</p>
+
+
+
+<p>&#8220;While existing text-to-music models like MusicGen rely mainly on text inputs for music generation, our new model, JASCO, is capable of accepting various inputs, such as chords or beat, to improve control over generated music outputs,&#8221; explained Meta.</p>
+
+
+
+<h4 class="wp-block-heading">AudioSeal: Detecting AI-generated speech</h4>
+
+
+
+<p>Meta claims AudioSeal is the first audio watermarking system designed to detect AI-generated speech. It can pinpoint the specific segments generated by AI within larger audio clips up to 485x faster than previous methods.</p>
+
+
+
+<p>&#8220;AudioSeal is being released under a commercial license. It&#8217;s just one of several lines of responsible research we have shared to help prevent the misuse of generative AI tools,&#8221; said Meta.</p>
+
+
+
+<h4 class="wp-block-heading">Improving text-to-image diversity</h4>
+
+
+
+<p>Another important release aims to improve the diversity of text-to-image models which can often exhibit geographical and cultural biases.</p>
+
+
+
+<p>Meta developed automatic indicators to evaluate potential geographical disparities and conducted a large 65,000+ annotation study to understand how people globally perceive geographic representation.</p>
+
+
+
+<p>&#8220;This enables more diversity and better representation in AI-generated images,&#8221; said Meta. The relevant code and annotations have been released to help improve diversity across generative models.</p>
+
+
+
+<p>By publicly sharing these groundbreaking models, Meta says it hopes to foster collaboration and drive innovation within the AI community.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@solomin_d?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Dima Solomin</a>)</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/2024/06/17/nvidia-presents-latest-advancements-visual-ai/"><strong>NVIDIA presents latest advancements in visual AI</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/upcoming-events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/meta-unveils-ai-models-multi-modal-processing-music-generation-more/">Meta unveils five AI models for multi-modal processing, music generation, and more</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/meta-unveils-ai-models-multi-modal-processing-music-generation-more/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

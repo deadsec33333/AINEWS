@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AI NVIDIA News | Latest AI Developments at NVIDIA | AI News</title>
+	<atom:link href="https://www.artificialintelligence-news.com/categories/ai-companies/nvidia/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.artificialintelligence-news.com/categories/ai-companies/nvidia/</link>
+	<description>Artificial Intelligence News</description>
+	<lastBuildDate>Thu, 28 Nov 2024 12:44:04 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://www.artificialintelligence-news.com/wp-content/uploads/2020/09/ai-icon-60x60.png</url>
+	<title>AI NVIDIA News | Latest AI Developments at NVIDIA | AI News</title>
+	<link>https://www.artificialintelligence-news.com/categories/ai-companies/nvidia/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>New AI training techniques aim to overcome current challenges</title>
+		<link>https://www.artificialintelligence-news.com/news/o1-model-llm-ai-openai-training-research-next-generation/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=o1-model-llm-ai-openai-training-research-next-generation</link>
+					<comments>https://www.artificialintelligence-news.com/news/o1-model-llm-ai-openai-training-research-next-generation/#respond</comments>
+		
+		<dc:creator><![CDATA[Joe Green]]></dc:creator>
+		<pubDate>Thu, 28 Nov 2024 11:58:28 +0000</pubDate>
+				<category><![CDATA[Deep & Reinforcement Learning]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[models]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16574</guid>
+
+					<description><![CDATA[<p>OpenAI and other leading AI companies are developing new training techniques to overcome limitations of current methods. Addressing unexpected delays and complications in the development of larger, more powerful language models, these fresh techniques focus on human-like behaviour to teach algorithms to &#8216;think. Reportedly led by a dozen AI researchers, scientists, and investors, the new<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/o1-model-llm-ai-openai-training-research-next-generation/" title="ReadNew AI training techniques aim to overcome current challenges">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/o1-model-llm-ai-openai-training-research-next-generation/">New AI training techniques aim to overcome current challenges</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>OpenAI and other leading AI companies are developing new training techniques to overcome limitations of current methods. Addressing unexpected delays and complications in the development of larger, more powerful language models, these fresh techniques focus on human-like behaviour to teach algorithms to &#8216;think.</p>
+
+
+
+<p>Reportedly led by a dozen AI researchers, scientists, and investors, the new training techniques, which underpin OpenAI&#8217;s recent <a href="https://openai.com/o1/">&#8216;o1&#8217; model</a> (formerly Q* and Strawberry), have the potential to transform the landscape of AI development. The reported advances may influence the types or quantities of resources AI companies need continuously, including specialised hardware and energy to aid the development of AI models.</p>
+
+
+
+<p>The o1 model is designed to approach problems in a way that mimics human reasoning and thinking, breaking down numerous tasks into steps. The model also utilises specialised data and feedback provided by experts in the AI industry to enhance its performance.</p>
+
+
+
+<p>Since ChatGPT was unveiled by OpenAI in 2022, there has been a surge in AI innovation, and many technology companies claim existing AI models require expansion, be it through greater quantities of data or improved computing resources. Only then can AI models consistently improve.</p>
+
+
+
+<p>Now, AI experts have reported limitations in scaling up AI models. The 2010s were a revolutionary period for scaling, but Ilya Sutskever, co-founder of AI labs Safe Superintelligence (SSI) and OpenAI, says that the training of AI models, particularly in the understanding language structures and patterns, has levelled off.</p>
+
+
+
+<p>&#8220;The 2010s were the age of scaling, now we&#8217;re back in the age of wonder and discovery once again. Scaling the right thing matters more now,&#8221; they said.</p>
+
+
+
+<p>In recent times, AI lab researchers have experienced delays in and challenges to developing and releasing large language models (LLM) that are more powerful than OpenAI&#8217;s GPT-4 model.</p>
+
+
+
+<p>First, there is the cost of training large models, often running into tens of millions of dollars. And, due to complications that arise, like hardware failing due to system complexity, a final analysis of how these models run can take months.</p>
+
+
+
+<p>In addition to these challenges, training runs require substantial amounts of energy, often resulting in power shortages that can disrupt processes and impact the wider electriciy grid. Another issue is the colossal amount of data large language models use, so much so that AI models have reportedly used up all accessible data worldwide.</p>
+
+
+
+<p>Researchers are exploring a technique known as &#8216;test-time compute&#8217; to improve current AI models when being trained or during inference phases. The method can involve the generation of multiple answers in real-time to decide on a range of best solutions. Therefore, the model can allocate greater processing resources to difficult tasks that require human-like decision-making and reasoning. The aim &#8211; to make the model more accurate and capable.</p>
+
+
+
+<p>Noam Brown, a researcher at OpenAI who helped develop the o1 model, shared an example of how a new approach can achieve surprising results. At the TED AI conference in San Francisco last month, Brown explained that &#8220;having a bot think for just 20 seconds in a hand of poker got the same boosting performance as scaling up the model by 100,000x and training it for 100,000 times longer.&#8221;</p>
+
+
+
+<p>Rather than simply increasing the model size and training time, this can change how AI models process information and lead to more powerful, efficient systems.</p>
+
+
+
+<p>It is reported that other AI labs have been developing versions of the o1 technique. The include <a href="https://x.ai/">xAI</a>, <a href="https://deepmind.google/">Google DeepMind</a>, and <a href="https://www.anthropic.com/">Anthropic</a>. Competition in the AI world is nothing new, but we could see a significant impact on the AI hardware market as a result of new techniques. Companies like <a href="https://www.nvidia.com/en-gb/">Nvidia</a>, which currently dominates the supply of AI chips due to the high demand for their products, may be particularly affected by updated AI training techniques.</p>
+
+
+
+<p>Nvidia became the world&#8217;s most valuable company in October, and its rise in fortunes can be largely attributed to its chips&#8217; use in AI arrays. New techniques may impact Nvidia&#8217;s market position, forcing the company to adapt its products to meet the evolving AI hardware demand. Potentially, this could open more avenues for new competitors in the inference market.</p>
+
+
+
+<p>A new age of AI development may be on the horizon, driven by evolving hardware demands and more efficient training methods such as those deployed in the o1 model. The future of both AI models and the companies behind them could be reshaped, unlocking unprecedented possibilities and greater competition.</p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/anthropic-urges-ai-regulation-avoid-catastrophes/"><strong>Anthropic urges AI regulation to avoid catastrophes</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img fetchpriority="high" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:2239px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="(max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, a</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/o1-model-llm-ai-openai-training-research-next-generation/">New AI training techniques aim to overcome current challenges</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/o1-model-llm-ai-openai-training-research-next-generation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NVIDIA AI Summit Japan: NVIDIA’s role in Japan’s big AI ambitions</title>
+		<link>https://www.artificialintelligence-news.com/news/nvidia-ai-summit-japan-nvidia-role-in-japans-big-ai-ambitions/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=nvidia-ai-summit-japan-nvidia-role-in-japans-big-ai-ambitions</link>
+					<comments>https://www.artificialintelligence-news.com/news/nvidia-ai-summit-japan-nvidia-role-in-japans-big-ai-ambitions/#respond</comments>
+		
+		<dc:creator><![CDATA[Muhammad Zulhusni]]></dc:creator>
+		<pubDate>Wed, 13 Nov 2024 09:01:41 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[Nvidia]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16475</guid>
+
+					<description><![CDATA[<p>Japan is on a mission to become a global AI powerhouse, and it’s starting with some impressive advances in AI-driven language models. Japanese technology experts are developing advanced models that grasp the unique nuances of the Japanese language and culture—essential for industries such as healthcare, finance, and manufacturing – where precision is key. But this<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/nvidia-ai-summit-japan-nvidia-role-in-japans-big-ai-ambitions/" title="ReadNVIDIA AI Summit Japan: NVIDIA’s role in Japan’s big AI ambitions">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/nvidia-ai-summit-japan-nvidia-role-in-japans-big-ai-ambitions/">NVIDIA AI Summit Japan: NVIDIA’s role in Japan’s big AI ambitions</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Japan is on a mission to become a global AI powerhouse, and it’s starting with some impressive advances in AI-driven language models. </p>
+
+
+
+<p>Japanese technology experts are developing advanced models that grasp the unique nuances of the Japanese language and culture—essential for industries such as healthcare, finance, and manufacturing – where precision is key.</p>
+
+
+
+<p>But this effort isn’t Japan’s alone. Consulting giants like Accenture, Deloitte, EY Japan, FPT, Kyndryl, and TCS Japan are partnering with NVIDIA to create AI innovation hubs across the country. The centres are using NVIDIA’s AI software and specialised Japanese language models to build tailored AI solutions, helping industries boost productivity in a digital workforce. The goal? To get Japanese companies fully on board with enterprise and physical AI.</p>
+
+
+
+<p>One standout technology supporting the drive is NVIDIA’s Omniverse platform. With Omniverse, Japanese companies can create digital twins—virtual replicas of real-world assets—and test complex AI systems safely before implementing them. This is a game-changer for industries such as manufacturing and robotics, allowing businesses to fine-tune processes without the risk of real-world trial and error. This use of AI is more than just innovation; it represents Japan’s plan for addressing some major challenges ahead.</p>
+
+
+
+<p>Japan faces a shrinking workforce presence as its population ages. With its strengths in robotics and automation, Japan is well-positioned to use AI solutions to bridge the gap. In fact, Japan’s government recently shared its vision of becoming “the world’s most AI-friendly country,” underscoring the perceived role AI will play in the nation’s future.</p>
+
+
+
+<p>Supporting this commitment, Japan’s AI market hit $5.9 billion in value this year; a 31.2% growth rate according to IDC. New AI-focused consulting centres in Tokyo and Kansai give Japanese businesses hands-on access to NVIDIA’s latest technologies, equipping them to solve social challenges and aid economic growth.</p>
+
+
+
+<p>Top cloud providers like SoftBank, GMO Internet Group, KDDI, Highreso, Rutilea, and SAKURA Internet are also involved, working with NVIDIA to build AI infrastructure. Backed by Japan’s Ministry of Economy, Trade and Industry, they’re establishing AI data centres across Japan to accelerate growth in robotics, automotive, healthcare, and telecoms.</p>
+
+
+
+<p>NVIDIA and SoftBank have also formed a remarkable partnership to build Japan’s most powerful AI supercomputer using <a href="https://www.nvidia.com/en-us/data-center/technologies/blackwell-architecture/" target="_blank" rel="noreferrer noopener">NVIDIA’s Blackwell platform</a>. Additionally, SoftBank has tested the world’s first AI and 5G hybrid telecoms network with NVIDIA’s AI Aerial platform, allowing Japan to set a worldwide standard. With these developments, Japan is taking big strides toward establishing itself as a leader in the AI-powered industrial revolution.</p>
+
+
+
+<p>(Photo by <a href="https://unsplash.com/@zelebb?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Andrey Matveev</a>)</p>
+
+
+
+<p><strong>See also: <a target="_blank" href="https://www.artificialintelligence-news.com/news/nvidia-share-price-nosedives-antitrust-clouds-gather/" rel="noreferrer noopener">NVIDIA&#8217;s share price nosedives as antitrust clouds gather</a></strong></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="(max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/nvidia-ai-summit-japan-nvidia-role-in-japans-big-ai-ambitions/">NVIDIA AI Summit Japan: NVIDIA’s role in Japan’s big AI ambitions</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/nvidia-ai-summit-japan-nvidia-role-in-japans-big-ai-ambitions/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>China Telecom trains AI model with 1 trillion parameters on domestic chips</title>
+		<link>https://www.artificialintelligence-news.com/news/china-telecom-trains-ai-model-with-1-trillion-parameters-on-domestic-chips/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=china-telecom-trains-ai-model-with-1-trillion-parameters-on-domestic-chips</link>
+					<comments>https://www.artificialintelligence-news.com/news/china-telecom-trains-ai-model-with-1-trillion-parameters-on-domestic-chips/#respond</comments>
+		
+		<dc:creator><![CDATA[Muhammad Zulhusni]]></dc:creator>
+		<pubDate>Thu, 10 Oct 2024 13:32:31 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[Legislation & Government]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<category><![CDATA[Telecoms]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[chip]]></category>
+		<category><![CDATA[huawei]]></category>
+		<category><![CDATA[llm]]></category>
+		<category><![CDATA[Nvidia]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16265</guid>
+
+					<description><![CDATA[<p>China Telecom, one of the country&#8217;s state-owned telecom giants, has created two LLMs that were trained solely on domestically-produced chips. This breakthrough represents a significant step in China&#8217;s ongoing efforts to become self-reliant in AI technology, especially in light of escalating US limitations on access to advanced semiconductors for its competitors. According to the company&#8217;s<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/china-telecom-trains-ai-model-with-1-trillion-parameters-on-domestic-chips/" title="ReadChina Telecom trains AI model with 1 trillion parameters on domestic chips">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/china-telecom-trains-ai-model-with-1-trillion-parameters-on-domestic-chips/">China Telecom trains AI model with 1 trillion parameters on domestic chips</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>China Telecom, one of the country&#8217;s state-owned telecom giants, has created two LLMs that were trained solely on domestically-produced chips.</p>
+
+
+
+<p>This breakthrough represents a significant step in China&#8217;s ongoing efforts to become self-reliant in AI technology, especially in light of escalating US limitations on access to advanced semiconductors for its competitors.</p>
+
+
+
+<p>According to the company&#8217;s Institute of AI, one of the models, TeleChat2-115B and another unnamed model were trained on tens of thousands of Chinese-made chips. This achievement is especially noteworthy given the tighter US export rules that have limited China&#8217;s ability to purchase high-end processors from <a href="https://www.artificialintelligence-news.com/news/nvidia-share-price-nosedives-antitrust-clouds-gather/" target="_blank" rel="noreferrer noopener">Nvidia</a> and other foreign companies. In a statement shared on WeChat, the AI institute claimed that this accomplishment demonstrated China&#8217;s capability to independently train LLMs and signals a new era of innovation and self-reliance in AI technology.</p>
+
+
+
+<p>The scale of these models is remarkable. China Telecom stated that the unnamed LLM has one trillion parameters. In AI terminology, parameters are the variables that help the model in learning during training. The more parameters there are, the more complicated and powerful the AI becomes.</p>
+
+
+
+<p>Chinese companies are striving to keep pace with global leaders in AI based outside the country. Washington&#8217;s export restrictions on Nvidia&#8217;s latest AI chips such as the A100 and H100, have compelled China to seek alternatives. As a result, Chinese companies have developed their own processors to reduce reliance on Western technologies. For instance, the TeleChat2-115B model has approximately 100 billion parameters, and therefore can perform as well as mainstream platforms.</p>
+
+
+
+<p>China Telecom did not specify which company supplied the domestically-designed chips used to train its models. However, as previously discussed on these pages,  <a href="https://www.scmp.com/knowledge/companies/huawei?module=inline&amp;pgtype=article" target="_blank" rel="noreferrer noopener">Huawei&#8217;s Ascend chips</a> play a key part in the country&#8217;s AI plans.</p>
+
+
+
+<p>Huawei, which has faced US penalties in recent years, is also increasing its efforts in the artificial intelligence field. The company has recently started testing its latest AI processor, the Ascend 910C, with potential clients waiting in the domestic market. Large Chinese server companies, as well as internet giants that have previously used Nvidia chips, are apparently testing the new chip&#8217;s performance. Huawei&#8217;s Ascend processors, as one of the few viable alternatives to Nvidia hardware, are viewed as a key component of China&#8217;s strategy that will lessen its reliance on foreign technology.</p>
+
+
+
+<p>In addition to Huawei, China Telecom is collaborating with other domestic chipmakers such as Cambricon, a Chinese start-up specialising in AI processors. The partnerships reflect a broader tendency in China&#8217;s tech industry to build a homegrown ecosystem of AI solutions, further shielding the country from the effects of US export controls.</p>
+
+
+
+<p>By developing its own AI chips and technology, China is gradually reducing its dependence on foreign-made hardware, especially Nvidia&#8217;s highly sought-after and therefore expensive GPUs. While US sanctions make it difficult for Chinese companies to obtain the latest Nvidia hardware, a black market for foreign chips has emerged. Rather than risk operating in the grey market, many Chinese companies prefer to purchase lower-powered alternatives such as previous-gen models to maintain access to Nvidia&#8217;s official support and services.</p>
+
+
+
+<p>China&#8217;s achievement reflects a broader shift in its approach to AI and semiconductor technology, emphasising self-sufficiency and resilience in an increasingly competitive global economy and in face of American protectionist trade policies.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@markkuiper?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Mark Kuiper</a>)</em></p>
+
+
+
+<p><strong>See also: <a target="_blank" href="https://www.artificialintelligence-news.com/news/has-huawei-outsmarted-apple-in-ai-race/" rel="noreferrer noopener">Has Huawei outsmarted Apple in the AI race?</a></strong></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="(max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/china-telecom-trains-ai-model-with-1-trillion-parameters-on-domestic-chips/">China Telecom trains AI model with 1 trillion parameters on domestic chips</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/china-telecom-trains-ai-model-with-1-trillion-parameters-on-domestic-chips/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The risks behind the generative AI craze: Why caution is growing</title>
+		<link>https://www.artificialintelligence-news.com/news/the-risks-behind-the-generative-ai-craze-why-caution-is-growing/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-risks-behind-the-generative-ai-craze-why-caution-is-growing</link>
+					<comments>https://www.artificialintelligence-news.com/news/the-risks-behind-the-generative-ai-craze-why-caution-is-growing/#respond</comments>
+		
+		<dc:creator><![CDATA[Muhammad Zulhusni]]></dc:creator>
+		<pubDate>Wed, 09 Oct 2024 09:55:20 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Meta (Facebook)]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[llm]]></category>
+		<category><![CDATA[meta]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[Nvidia]]></category>
+		<category><![CDATA[openai]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16260</guid>
+
+					<description><![CDATA[<p>In the near future, Silicon Valley might look back at recent events as the point where the generative AI craze went too far. This past summer, investors questioned whether top AI stocks could sustain their sky-high valuations, given the lack of returns on massive AI spending. As Autumn approaches, major AI sectors—such as chips, LLMs,<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/the-risks-behind-the-generative-ai-craze-why-caution-is-growing/" title="ReadThe risks behind the generative AI craze: Why caution is growing">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/the-risks-behind-the-generative-ai-craze-why-caution-is-growing/">The risks behind the generative AI craze: Why caution is growing</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>In the near future, Silicon Valley might look back at recent events as the point where the generative AI craze went too far.</p>
+
+
+
+<p>This past summer, investors questioned whether top AI stocks could sustain their sky-high valuations, given the lack of returns on massive AI spending. As Autumn approaches, major AI sectors—such as chips, LLMs, and AI devices—received renewed confidence. Nonetheless, there are an increasing number of reasons to be cautious.</p>
+
+
+
+<p><strong>Cerebras: A chip contender with a major risk</strong></p>
+
+
+
+<p>Chip startup Cerebras is challenging Nvidia&#8217;s dominance by developing processors designed to power smarter LLMs. <a href="https://www.artificialintelligence-news.com/news/nvidia-share-price-nosedives-antitrust-clouds-gather/" target="_blank" rel="noreferrer noopener">Nvidia</a>, a major player in the AI boom, has seen its market cap skyrocket from $364 billion at the start of 2023 to over $3 trillion.</p>
+
+
+
+<p>Cerebras, however, relies heavily on a single customer: the Abu Dhabi-based AI firm G42. In 2023, G42 accounted for 83% of Cerebras&#8217; revenue, and in the first half of 2024, that figure increased to 87%. While G42 is backed by major players like Microsoft and Silver Lake, its dependency poses a risk. Even though Cerebras has signed a deal with Saudi Aramco, its reliance on one client may cause concerns as it seeks a $7-8 billion valuation for its IPO.</p>
+
+
+
+<p><strong>OpenAI&#8217;s record-breaking funding – but with strings attached</strong></p>
+
+
+
+<p>OpenAI made the news when it raised $6.6 billion at a $157 billion valuation, becoming the largest investment round in Silicon Valley history. However, the company has <a target="_blank" href="https://www.ft.com/content/66e0653e-c446-47b2-8a7f-baa54ccbfb9a?accessToken=zwAAAZJOTf4Kkc9m4GU-xEZHstOKf7qlTMv7mg.MEUCIEJBi-VbRpNb9MIo2y24cDg8XwZ1lH2wIV_Kc-UGHtCBAiEA8JUYYonEqynzl_Wyz-3pPnT4q23D5MCTtg0M0CZ25ak&amp;segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&amp;shareType=enterprise&amp;shareId=b484077e-9f3e-4aef-a08b-93a56609306a" rel="noreferrer noopener">urged its investors</a> not to back competitors such as Anthropic and Elon Musk&#8217;s xAI—an unusual request in the world of venture capital, where spread betting is common. Critics, including Gary Marcus, have described this approach as &#8220;running scared.&#8221;</p>
+
+
+
+<p>OpenAI&#8217;s backers also include &#8220;bubble chasers&#8221; such as SoftBank and Tiger Global, firms known for investing in companies at their peak, which frequently results in huge losses. With top executives such as CTO Mira Murati departing and predicted losses of $5 billion this year despite rising revenues, OpenAI faces significant challenges.</p>
+
+
+
+<p><strong>Meta&#8217;s big bet on AI wearables</strong></p>
+
+
+
+<p>Meta entered the AI race by unveiling Orion, its augmented reality glasses. The wearables promise to integrate AI into daily life, with Nvidia&#8217;s CEO Jensen Huang endorsing the product. However, at a production cost of $10,000 per unit, the price is a major obstacle.</p>
+
+
+
+<p>Meta will need to reduce costs and overcome consumer hesitation, as previous attempts at AI-powered wearables—such as Snapchat&#8217;s glasses,  Google Glass, and the Humane AI pin—have struggled to gain traction.</p>
+
+
+
+<p><strong>The road ahead</strong></p>
+
+
+
+<p>What&#8217;s next for AI? OpenAI must prove it can justify a $157 billion valuation while operating at a loss. Cerebras needs to reassure investors that relying on one client isn&#8217;t a dealbreaker. And Meta must convince consumers to adopt a completely new way of interacting with AI.</p>
+
+
+
+<p>If these companies succeed, this moment could mark a turning point in the AI revolution. However, as tech history shows, high-stakes markets are rarely easy to win.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@growtika?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Growtika</a>)</em></p>
+
+
+
+<p><strong>See also: <a target="_blank" href="https://www.artificialintelligence-news.com/news/ethical-trust-and-skill-barriers-hold-back-generative-ai-progress-in-emea/" rel="noreferrer noopener">Ethical, trust and skill barriers hold back generative AI progress in EMEA</a></strong></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/the-risks-behind-the-generative-ai-craze-why-caution-is-growing/">The risks behind the generative AI craze: Why caution is growing</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/the-risks-behind-the-generative-ai-craze-why-caution-is-growing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NVIDIA&#8217;s share price nosedives as antitrust clouds gather</title>
+		<link>https://www.artificialintelligence-news.com/news/nvidia-share-price-nosedives-antitrust-clouds-gather/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=nvidia-share-price-nosedives-antitrust-clouds-gather</link>
+					<comments>https://www.artificialintelligence-news.com/news/nvidia-share-price-nosedives-antitrust-clouds-gather/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Wed, 04 Sep 2024 16:04:19 +0000</pubDate>
+				<category><![CDATA[Companies]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[antitrust]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[blackwell]]></category>
+		<category><![CDATA[chip]]></category>
+		<category><![CDATA[competition]]></category>
+		<category><![CDATA[finance]]></category>
+		<category><![CDATA[hardware]]></category>
+		<category><![CDATA[law]]></category>
+		<category><![CDATA[legal]]></category>
+		<category><![CDATA[Nvidia]]></category>
+		<category><![CDATA[shares]]></category>
+		<category><![CDATA[stocks]]></category>
+		<category><![CDATA[subpoena]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=15970</guid>
+
+					<description><![CDATA[<p>NVIDIA has seen its share price plummet following a report of intensified scrutiny from US authorities over potential breaches of competition law. During the regular trading session on Tuesday, NVIDIA’s share price experienced a near-10% drop. The fall wiped £212 billion from its market value, marking the largest single-day loss for a US company in<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/nvidia-share-price-nosedives-antitrust-clouds-gather/" title="ReadNVIDIA&#8217;s share price nosedives as antitrust clouds gather">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/nvidia-share-price-nosedives-antitrust-clouds-gather/">NVIDIA&#8217;s share price nosedives as antitrust clouds gather</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://www.nvidia.com/">NVIDIA</a> has seen its share price plummet following a report of intensified scrutiny from US authorities over potential breaches of competition law.</p>
+
+
+
+<p>During the regular trading session on Tuesday, NVIDIA’s share price experienced a near-10% drop. The fall wiped £212 billion from its market value, marking the largest single-day loss for a US company in history.</p>
+
+
+
+<p>While the wider market experienced a sell-off fueled by concerns over weak US manufacturing data, NVIDIA was hit particularly hard after <a href="https://www.bloomberg.com/news/articles/2024-09-03/nvidia-gets-doj-subpoena-in-escalating-antitrust-investigation">Bloomberg</a> reported that the US Department of Justice issued subpoenas to NVIDIA and other tech firms.&nbsp;</p>
+
+
+
+<p>Officials are reportedly concerned that NVIDIA&#8217;s business practices may be hindering client flexibility in switching to alternative semiconductor suppliers. Additionally, there are concerns about potential penalties imposed on buyers who opt not to exclusively utilise NVIDIA&#8217;s AI chips. Such actions would represent an escalation of the ongoing US antitrust investigation, bringing the government a step closer to formally charging NVIDIA.</p>
+
+
+
+<p>In response, NVIDIA asserted its belief that its success is based &#8220;on merit, as reflected in our benchmark results and value to customers, who can choose whatever solution is best for them.&#8221;&nbsp;</p>
+
+
+
+<p>This latest downturn adds to the recent volatility experienced by NVIDIA and other AI-related stocks, such as Google, Apple, and Amazon. Investors are grappling with uncertainty surrounding the timeline for tangible benefits and concrete returns from the much-touted AI revolution.</p>
+
+
+
+<p>Analysts suggest that investors are seeking greater clarity on the trajectory of gross margins as production of NVIDIA’s new <a href="https://www.artificialintelligence-news.com/news/nvidia-unveils-blackwell-architecture-power-next-genai-wave/">Blackwell</a> chip increases. Furthermore, they are eager for more concrete evidence that AI is delivering tangible returns for customers.</p>
+
+
+
+<p>After a 9.5% decline on Tuesday alone and a 14% drop since last week&#8217;s earnings report, NVIDIA&#8217;s stock has shown marginal signs of recovery in today&#8217;s trading session, registering a modest 0.64% increase at the time of writing.</p>
+
+
+
+<p>Looking ahead, NVIDIA will need to convince investors of its growth potential not only for 2025 but also for 2026. While Wall Street currently focuses on Blackwell chip shipments, there is increasing interest in the company&#8217;s next-generation chip offering.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@sebamolinafotografia?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Sebastian Molina</a>)</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/xai-breaks-records-colossus-ai-training-system/"><strong>xAI breaks records with ‘Colossus’ AI training system</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/nvidia-share-price-nosedives-antitrust-clouds-gather/">NVIDIA&#8217;s share price nosedives as antitrust clouds gather</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/nvidia-share-price-nosedives-antitrust-clouds-gather/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>xAI breaks records with &#8216;Colossus&#8217; AI training system</title>
+		<link>https://www.artificialintelligence-news.com/news/xai-breaks-records-colossus-ai-training-system/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=xai-breaks-records-colossus-ai-training-system</link>
+					<comments>https://www.artificialintelligence-news.com/news/xai-breaks-records-colossus-ai-training-system/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Tue, 03 Sep 2024 13:29:42 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[blackwell]]></category>
+		<category><![CDATA[colossus]]></category>
+		<category><![CDATA[elon musk]]></category>
+		<category><![CDATA[h100]]></category>
+		<category><![CDATA[h200]]></category>
+		<category><![CDATA[Nvidia]]></category>
+		<category><![CDATA[training]]></category>
+		<category><![CDATA[xai]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=15954</guid>
+
+					<description><![CDATA[<p>Elon Musk&#8217;s xAI has unveiled its record-breaking AI training system, dubbed &#8216;Colossus&#8217;. Musk revealed that the xAI team had successfully brought the Colossus 100k H100 training cluster online after a 122-day process. Not content with its existing capabilities, Musk stated, &#8220;over the next couple of months, it will double in size, bringing it to 200k<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/xai-breaks-records-colossus-ai-training-system/" title="ReadxAI breaks records with &#8216;Colossus&#8217; AI training system">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/xai-breaks-records-colossus-ai-training-system/">xAI breaks records with &#8216;Colossus&#8217; AI training system</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Elon Musk&#8217;s <a href="https://x.ai/">xAI</a> has unveiled its record-breaking AI training system, dubbed &#8216;Colossus&#8217;.</p>
+
+
+
+<p>Musk revealed that the xAI team had successfully brought the Colossus 100k H100 training cluster online after a 122-day process. Not content with its existing capabilities, Musk stated, &#8220;over the next couple of months, it will double in size, bringing it to 200k (50k H200s).&#8221;</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">This weekend, the <a href="https://twitter.com/xai?ref_src=twsrc%5Etfw">@xAI</a> team brought our Colossus 100k H100 training cluster online. From start to finish, it was done in 122 days. <br><br>Colossus is the most powerful AI training system in the world. Moreover, it will double in size to 200k (50k H200s) in a few months. <br><br>Excellent…</p>&mdash; Elon Musk (@elonmusk) <a href="https://twitter.com/elonmusk/status/1830650370336473253?ref_src=twsrc%5Etfw">September 2, 2024</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>The scale of Colossus is unprecedented, surpassing every other cluster to date. For context, Google uses 90,000 GPUs while OpenAI utilises 80,000 GPUs—both of which have been surpassed by xAI&#8217;s creation, even prior to Colossus’ doubling in size over the coming months.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Here is a comparison chart to help everyone understand the magnitude of this. <a href="https://t.co/PJys0XlvYo">pic.twitter.com/PJys0XlvYo</a></p>&mdash; Anthony Everywhere (@AnthonyEveryWhr) <a href="https://twitter.com/AnthonyEveryWhr/status/1830680977103794177?ref_src=twsrc%5Etfw">September 2, 2024</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Developed in partnership with Nvidia, Colossus leverages some of the most advanced GPU technology on the market. The system initially employs Nvidia&#8217;s <a href="https://www.nvidia.com/en-gb/data-center/h100/">H100</a> chips, with plans to incorporate the newer <a href="https://www.nvidia.com/en-gb/data-center/h200/">H200</a> model in its expansion. This vast array of processing power positions Colossus as the most formidable AI training system currently available.</p>
+
+
+
+<p>The H200, while recently superseded by Nvidia&#8217;s Blackwell chip <a href="https://www.artificialintelligence-news.com/news/nvidia-unveils-blackwell-architecture-power-next-genai-wave/">unveiled</a> in March 2024, remains a highly sought-after component in the AI industry. It boasts impressive specifications, including 141 GB of HBM3E memory and 4.8 TB/sec of bandwidth. However, the Blackwell chip raises the bar even further, with top-end capacity 36.2% higher than the H200 and a 66.7% increase in total bandwidth.</p>
+
+
+
+<p>Nvidia&#8217;s response to the Colossus unveiling was one of enthusiasm and support. The company congratulated Musk and the xAI team on their achievement, highlighting that Colossus will not only be the most powerful system of its kind but will also deliver &#8220;exceptional gains&#8221; in energy efficiency.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Exciting to see Colossus, the world’s largest GPU <a href="https://twitter.com/hashtag/supercomputer?src=hash&amp;ref_src=twsrc%5Etfw">#supercomputer</a>, come online in record time. Colossus is powered by <a href="https://twitter.com/nvidia?ref_src=twsrc%5Etfw">@nvidia</a>&#39;s <a href="https://twitter.com/hashtag/acceleratedcomputing?src=hash&amp;ref_src=twsrc%5Etfw">#acceleratedcomputing</a> platform, delivering breakthrough performance with exceptional gains in <a href="https://twitter.com/hashtag/energyefficiency?src=hash&amp;ref_src=twsrc%5Etfw">#energyefficiency</a>.<br><br>Congratulations to the entire team! <a href="https://t.co/UXHtPCELly">https://t.co/UXHtPCELly</a></p>&mdash; NVIDIA Data Center (@NVIDIADC) <a href="https://twitter.com/NVIDIADC/status/1830687084736348231?ref_src=twsrc%5Etfw">September 2, 2024</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Colossus’ processing power could potentially accelerate breakthroughs in various AI applications, from natural language processing to complex problem-solving algorithms. However, the unveiling of Colossus also reignites discussions about the concentration of AI power among a handful of tech giants and well-funded startups.</p>
+
+
+
+<p>As companies like xAI push the boundaries of what&#8217;s possible in AI training, concerns about the accessibility of such advanced technologies to smaller organisations and researchers may come to the forefront.</p>
+
+
+
+<p>As the AI arms race continues to heat up, all eyes will be on xAI and its competitors to see how they leverage these increasingly powerful systems. With Colossus, Musk and his team have thrown down the gauntlet and issued a challenge to rivals to match or exceed their efforts.</p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/amazon-partners-anthropic-enhance-alexa/"><strong>Amazon partners with Anthropic to enhance Alexa</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/xai-breaks-records-colossus-ai-training-system/">xAI breaks records with &#8216;Colossus&#8217; AI training system</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/xai-breaks-records-colossus-ai-training-system/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cerebras vs Nvidia: New inference tool promises higher performance</title>
+		<link>https://www.artificialintelligence-news.com/news/cerebras-vs-nvidia-inference-tool-promises-higher-performance/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cerebras-vs-nvidia-inference-tool-promises-higher-performance</link>
+					<comments>https://www.artificialintelligence-news.com/news/cerebras-vs-nvidia-inference-tool-promises-higher-performance/#respond</comments>
+		
+		<dc:creator><![CDATA[Muhammad Zulhusni]]></dc:creator>
+		<pubDate>Thu, 29 Aug 2024 09:42:34 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[cerebras]]></category>
+		<category><![CDATA[gpu]]></category>
+		<category><![CDATA[inference]]></category>
+		<category><![CDATA[llama]]></category>
+		<category><![CDATA[Nvidia]]></category>
+		<category><![CDATA[tools]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=15882</guid>
+
+					<description><![CDATA[<p>AI hardware startup Cerebras has created a new AI inference solution that could potentially rival Nvidia&#8217;s GPU offerings for enterprises. The Cerebras Inference tool is based on the company&#8217;s Wafer-Scale Engine and promises to deliver staggering performance. According to sources, the tool has achieved speeds of 1,800 tokens per second for Llama 3.1 8B, and<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/cerebras-vs-nvidia-inference-tool-promises-higher-performance/" title="ReadCerebras vs Nvidia: New inference tool promises higher performance">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/cerebras-vs-nvidia-inference-tool-promises-higher-performance/">Cerebras vs Nvidia: New inference tool promises higher performance</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>AI hardware startup <a href="https://cerebras.ai/">Cerebras</a> has created a new AI inference solution that could potentially rival Nvidia&#8217;s GPU offerings for enterprises.</p>
+
+
+
+<p>The Cerebras Inference tool is based on the company&#8217;s Wafer-Scale Engine and promises to deliver staggering performance. According to sources, the tool has achieved speeds of 1,800 tokens per second for Llama 3.1 8B, and 450 tokens per second for Llama 3.1 70B. Cerebras claims that these speeds are not only faster than the usual hyperscale cloud products required to generate these systems by Nvidia&#8217;s GPUs, but they are also more cost-efficient.</p>
+
+
+
+<p>This is a major shift tapping into the <a target="_blank" href="https://www.techtarget.com/searchenterpriseai/news/366609279/Cerebras-inference-tool-challenges-Nvidia-but-comes-with-hurdles" rel="noreferrer noopener">generative AI market</a>, as Gartner analyst Arun Chandrasekaran put it. While this market&#8217;s focus had previously been on training, it is currently shifting to the cost and speed of inferencing. This shift is due to the growth of AI use cases within enterprise settings and provides a great opportunity for vendors like Cerebras of AI products and services to compete based on performance.</p>
+
+
+
+<p>As Micah Hill-Smith, co-founder and CEO of Artificial Analysis, says, Cerebras really shined in their AI inference benchmarks. The company&#8217;s measurements reached over 1,800 output tokens per second on Llama 3.1 8B, and the output on Llama 3.1 70B was over 446 output tokens per second. In this way, they set new records in both benchmarks.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="663" src="https://www.artificialintelligence-news.com/wp-content/uploads/2024/08/Cerebras_20x_Hyperscaler_70B-1024x663.jpg" alt="Cerebras introduces AI inference tool with 20x speed at a fraction of GPU cost" class="wp-image-15883"/><figcaption class="wp-element-caption"><em>Cerebras introduces AI inference tool with 20x speed at a fraction of GPU cost.</em></figcaption></figure>
+
+
+
+<p>However, despite the potential performance advantages, Cerebras faces significant challenges in the enterprise market. Nvidia&#8217;s software and hardware stack dominates the industry and is widely adopted by enterprises. David Nicholson, an analyst at Futurum Group, points out that while Cerebras&#8217; wafer-scale system can deliver high performance at a lower cost than Nvidia, the key question is whether enterprises are willing to adapt their engineering processes to work with Cerebras&#8217; system.</p>
+
+
+
+<p>The choice between Nvidia and alternatives such as Cerebras depends on several factors, including the scale of operations and available capital. Smaller firms are likely to choose Nvidia since it offers already-established solutions. At the same time, larger businesses with more capital may opt for the latter to increase efficiency and save on costs.</p>
+
+
+
+<p>As the AI hardware market continues to evolve, Cerebras will also face competition from specialised cloud providers, hyperscalers like Microsoft, AWS, and Google, and dedicated inferencing providers such as Groq. The balance between performance, cost, and ease of implementation will likely shape enterprise decisions in adopting new inference technologies.</p>
+
+
+
+<p>The emergence of high-speed AI inference, capable of exceeding 1,000 tokens per second, is equivalent to the development of broadband internet, which could open a new frontier for AI applications. Cerebras&#8217; 16-bit accuracy and faster inference capabilities may enable the creation of future AI applications where entire AI agents must operate rapidly, repeatedly, and in real-time.</p>
+
+
+
+<p>With the growth of the AI field, the market for AI inference hardware is also expanding. Accounting for around 40% of the total AI hardware market, this segment is becoming an increasingly lucrative target within the broader AI hardware industry. Given that more prominent companies occupy the majority of this segment, many newcomers should carefully consider important aspects of this competitive landscape, considering the competitive nature and significant resources required to navigate the enterprise space.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@timothycdykes?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Timothy Dykes</a>)</em></p>
+
+
+
+<p><strong>See also: <a target="_blank" href="https://www.artificialintelligence-news.com/news/sovereign-ai-gets-boost-new-nvidia-microservices/" rel="noreferrer noopener">Sovereign AI gets boost from new NVIDIA microservices</a></strong></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/cerebras-vs-nvidia-inference-tool-promises-higher-performance/">Cerebras vs Nvidia: New inference tool promises higher performance</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/cerebras-vs-nvidia-inference-tool-promises-higher-performance/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chinese firms use cloud loophole to access US AI tech</title>
+		<link>https://www.artificialintelligence-news.com/news/chinese-firms-cloud-loophole-access-us-ai-tech/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=chinese-firms-cloud-loophole-access-us-ai-tech</link>
+					<comments>https://www.artificialintelligence-news.com/news/chinese-firms-cloud-loophole-access-us-ai-tech/#respond</comments>
+		
+		<dc:creator><![CDATA[Dashveenjit Kaur]]></dc:creator>
+		<pubDate>Wed, 28 Aug 2024 13:40:22 +0000</pubDate>
+				<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[law]]></category>
+		<category><![CDATA[Politics]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=15851</guid>
+
+					<description><![CDATA[<p>Chinese organisations are utilising cloud services from Amazon and its competitors to gain access to advanced US AI chips and capabilities that they cannot otherwise obtain, according to a Reuters report based on public tender documents. In a comprehensive investigation, Reuters revealed how Chinese cloud access to US AI chips is facilitated through intermediaries. Over<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/chinese-firms-cloud-loophole-access-us-ai-tech/" title="ReadChinese firms use cloud loophole to access US AI tech">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/chinese-firms-cloud-loophole-access-us-ai-tech/">Chinese firms use cloud loophole to access US AI tech</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Chinese organisations are utilising cloud services from Amazon and its competitors to gain access to advanced US AI chips and capabilities that they cannot otherwise obtain, according to a Reuters <a href="https://www.reuters.com/technology/chinese-entities-turn-amazon-cloud-its-rivals-access-high-end-us-chips-ai-2024-08-23/">report</a> based on public tender documents.</p>
+
+
+
+<p>In a comprehensive investigation, Reuters revealed how Chinese cloud access to US AI chips is facilitated through intermediaries. Over 50 tender documents posted in the past year revealed that at least 11 Chinese entities have sought access to restricted US technologies or cloud services. Four of these explicitly named Amazon Web Services (AWS) as a cloud service provider, though accessed through Chinese intermediaries rather than directly from AWS.</p>
+
+
+
+<p>&#8220;AWS complies with all applicable US laws, including trade laws, regarding the provision of AWS services inside and outside of China,&#8221; an AWS spokesperson told Reuters.</p>
+
+
+
+<p>The report highlights that while the US government has restricted the export of high-end AI chips to China, providing access to such chips or advanced AI models through the cloud is not a violation of US regulations. This loophole has raised concerns among US officials and lawmakers.</p>
+
+
+
+<p>One example cited in the report involves Shenzhen University, which spent 200,000 yuan (£21,925) on an AWS account to access cloud servers powered by Nvidia A100 and H100 chips for an unspecified project. The university obtained this service via an intermediary, Yunda Technology Ltd Co. Neither Shenzhen University nor Yunda Technology responded to Reuters&#8217; requests for comment.</p>
+
+
+
+<p>The investigation also revealed that Zhejiang Lab, a research institute developing its own large language model called GeoGPT, stated in a tender document that it intended to spend 184,000 yuan to purchase AWS cloud computing services. The institute claimed that its AI model could not get enough computing power from homegrown Alibaba cloud services.</p>
+
+
+
+<p>Michael McCaul, chair of the US House of Representatives Foreign Affairs Committee, told <em>Reuters</em>: &#8220;This loophole has been a concern of mine for years, and we are long overdue to address it.&#8221;</p>
+
+
+
+<p>In response to these concerns, the US Commerce Department is tightening rules. A government spokeswoman told Reuters that they are &#8220;seeking additional resources to strengthen our existing controls that restrict PRC companies from accessing advanced AI chips through remote access to cloud computing capability.&#8221;</p>
+
+
+
+<p>The Commerce Department has also proposed a rule that would require US cloud computing firms to verify large AI model users and notify authorities when they use US cloud computing services to train large AI models capable of &#8220;malicious cyber-enabled activity.&#8221;</p>
+
+
+
+<p>The study also found that Chinese companies are seeking access to Microsoft&#8217;s cloud services. For example, Sichuan University stated in a tender filing that it was developing a generative AI platform and would purchase 40 million Microsoft Azure OpenAI tokens to help with project delivery.</p>
+
+
+
+<p>Reuters’ report also indicated that Amazon has provided Chinese businesses with access to modern AI chips as well as advanced AI models such as Anthropic&#8217;s Claude, which they would not otherwise have had. This was demonstrated by public postings, tenders, and marketing materials evaluated by the news organisation.</p>
+
+
+
+<p>Chu Ruisong, President of AWS Greater China, stated during a generative AI-themed conference in Shanghai in May that &#8220;Bedrock provides a selection of leading LLMs, including prominent closed-source models such as Anthropic&#8217;s Claude 3.&#8221;</p>
+
+
+
+<p>The report overall emphasises the difficulty of regulating access to advanced computing resources in an increasingly interconnected global technological ecosystem. It focuses on the intricate relationship between US export laws, cloud service providers, and Chinese enterprises looking to improve their AI capabilities.</p>
+
+
+
+<p>As the US government works to close this gap, the scenario raises concerns about the efficacy of present export controls and the potential need for more comprehensive laws that cover cloud-based access to banned technologies.</p>
+
+
+
+<p>The findings of this paper are likely to feed ongoing discussions about technology transfer, national security, and the global AI race. As politicians and industry leaders analyse these findings, they may spark fresh discussions about how to balance technological cooperation with national security concerns in an era of rapid AI growth.</p>
+
+
+
+<p><strong>See also: <a href="https://www.artificialintelligence-news.com/news/globaldata-china-is-ahead-of-global-rivals-for-ai-unicorns/">GlobalData: China is ahead of global rivals for AI ‘unicorns’</a></strong></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/chinese-firms-cloud-loophole-access-us-ai-tech/">Chinese firms use cloud loophole to access US AI tech</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/chinese-firms-cloud-loophole-access-us-ai-tech/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sovereign AI gets boost from new NVIDIA microservices</title>
+		<link>https://www.artificialintelligence-news.com/news/sovereign-ai-gets-boost-new-nvidia-microservices/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sovereign-ai-gets-boost-new-nvidia-microservices</link>
+					<comments>https://www.artificialintelligence-news.com/news/sovereign-ai-gets-boost-new-nvidia-microservices/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Tue, 27 Aug 2024 14:32:43 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[development]]></category>
+		<category><![CDATA[llm]]></category>
+		<category><![CDATA[microservices]]></category>
+		<category><![CDATA[nim]]></category>
+		<category><![CDATA[Nvidia]]></category>
+		<category><![CDATA[sovereign ai]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=15842</guid>
+
+					<description><![CDATA[<p>To ensure AI systems reflect local values and regulations, nations are increasingly pursuing sovereign AI strategies; developing AI utilising their own infrastructure, data, and expertise. NVIDIA is lending its support to this movement with the launch of four new NVIDIA NIMs. These microservices are designed to simplify the creation and deployment of generative AI applications,<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/sovereign-ai-gets-boost-new-nvidia-microservices/" title="ReadSovereign AI gets boost from new NVIDIA microservices">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/sovereign-ai-gets-boost-new-nvidia-microservices/">Sovereign AI gets boost from new NVIDIA microservices</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>To ensure AI systems reflect local values and regulations, nations are increasingly pursuing sovereign AI strategies; developing AI utilising their own infrastructure, data, and expertise. NVIDIA is lending its support to this movement with the launch of four new NVIDIA <a href="https://www.nvidia.com/en-us/ai/">NIMs</a>.</p>
+
+
+
+<p>These microservices are designed to simplify the creation and deployment of generative AI applications, supporting regionally-tailored community models. They promise deeper user engagement through an enhanced understanding of local languages and cultural nuances, leading to more accurate and relevant responses.</p>
+
+
+
+<p>This move comes amidst an anticipated boom in the Asia-Pacific generative AI software market. ABI Research <a href="https://www.abiresearch.com/market-research/product/market-data/MD-AISG/">forecasts</a> a surge in revenue from $5 billion this year to a staggering $48 billion by 2030.</p>
+
+
+
+<p>Among the new offerings are two regional language models: Llama-3-Swallow-70B, trained on Japanese data, and Llama-3-Taiwan-70B, optimised for Mandarin. These models are designed to possess a more thorough grasp of local laws, regulations, and cultural intricacies.</p>
+
+
+
+<p>Further bolstering the Japanese language offering is the RakutenAI 7B model family. Built upon Mistral-7B and trained on both English and Japanese datasets, they are available as two distinct NIM microservices for Chat and Instruct functions. Notably, Rakuten’s models have achieved impressive results in the LM Evaluation Harness benchmark, securing the highest average score among open Japanese large language models between January and March 2024.</p>
+
+
+
+<p>Training LLMs on regional languages is crucial for enhancing output efficacy. By accurately reflecting cultural and linguistic subtleties, these models facilitate more precise and nuanced communication.&nbsp; Compared to base models like Llama 3, these regional variants demonstrate superior performance in understanding Japanese and Mandarin, handling regional legal tasks, answering questions, and translating and summarising text.</p>
+
+
+
+<p>This global push for sovereign AI infrastructure is evident in significant investments from nations like Singapore, UAE, South Korea, Sweden, France, Italy, and India.&nbsp;&nbsp;</p>
+
+
+
+<p>&#8220;LLMs are not mechanical tools that provide the same benefit for everyone. They are rather intellectual tools that interact with human culture and creativity. The influence is mutual where not only are the models affected by the data we train on, but also our culture and the data we generate will be influenced by LLMs,” said Rio Yokota, professor at the Global Scientific Information and Computing Center at the Tokyo Institute of Technology.</p>
+
+
+
+<p>“Therefore, it is of paramount importance to develop sovereign AI models that adhere to our cultural norms. The availability of Llama-3-Swallow as an NVIDIA NIM microservice will allow developers to easily access and deploy the model for Japanese applications across various industries.”</p>
+
+
+
+<p>NVIDIA’s NIM microservices enable businesses, government bodies, and universities to host native LLMs within their own environments. Developers benefit from the ability to create sophisticated copilots, chatbots, and AI assistants. Available with NVIDIA AI Enterprise, these microservices are optimised for inference using the open-source NVIDIA TensorRT-LLM library, promising enhanced performance and deployment speed.&nbsp;</p>
+
+
+
+<p>Performance gains are evident with the Llama 3 70B microservices, (the base for the new Llama–3-Swallow-70B and Llama-3-Taiwan-70B offerings), which boast up to 5x higher throughput. This translates into reduced operational costs and improved user experiences through minimised latency.&nbsp;</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@boliviainteligente?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">BoliviaInteligente</a>)</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/openai-delivers-gpt-4o-fine-tuning/"><strong>OpenAI delivers GPT-4o fine-tuning</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/sovereign-ai-gets-boost-new-nvidia-microservices/">Sovereign AI gets boost from new NVIDIA microservices</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/sovereign-ai-gets-boost-new-nvidia-microservices/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Apple opts for Google chips in AI infrastructure, sidestepping Nvidia</title>
+		<link>https://www.artificialintelligence-news.com/news/apple-opts-google-chips-ai-infrastructure-sidestepping-nvidia/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=apple-opts-google-chips-ai-infrastructure-sidestepping-nvidia</link>
+					<comments>https://www.artificialintelligence-news.com/news/apple-opts-google-chips-ai-infrastructure-sidestepping-nvidia/#respond</comments>
+		
+		<dc:creator><![CDATA[Muhammad Zulhusni]]></dc:creator>
+		<pubDate>Wed, 31 Jul 2024 11:16:34 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[Nvidia]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=15561</guid>
+
+					<description><![CDATA[<p>In a report published on Monday, it was disclosed that Apple sidestepped industry leader Nvidia in favour of chips designed by Google. Instead of employing Nvidia&#8217;s GPUs for its artificial intelligence software infrastructure, Apple will use Google chips as the cornerstone of AI-related features and tools set to launch soon. The fact that Apple chose<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/apple-opts-google-chips-ai-infrastructure-sidestepping-nvidia/" title="ReadApple opts for Google chips in AI infrastructure, sidestepping Nvidia">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/apple-opts-google-chips-ai-infrastructure-sidestepping-nvidia/">Apple opts for Google chips in AI infrastructure, sidestepping Nvidia</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>In a <a href="https://www.reuters.com/technology/apple-says-it-uses-no-nvidia-gpus-train-its-ai-models-2024-07-29/">report</a> published on Monday, it was disclosed that Apple sidestepped industry leader Nvidia in favour of chips designed by Google.</p>
+
+
+
+<p>Instead of employing Nvidia&#8217;s GPUs for its artificial intelligence software infrastructure, Apple will use Google chips as the cornerstone of AI-related features and tools set to launch soon.</p>
+
+
+
+<p>The fact that Apple chose to use Google&#8217;s cloud infrastructure is quite interesting because Nvidia has already captured this market, bringing Google, Amazon.com, and other cloud computing companies to 80% of the overall share. Therefore, it seems to be a smart strategic move by Apple to use an alternative source to minimise its hardware dependency.</p>
+
+
+
+<p>Apple has never revealed that it is avoiding Nvidia chips in any way. However, a statement in a research paper detailing the hardware and software infrastructure powering the company&#8217;s AI tools and features is raising eyebrows. This description conspicuously lacks any reference to Nvidia chips. When asked about this, Apple chose not to respond, leaving industry analysts to make educated guesses.</p>
+
+
+
+<p>According to the paper, Apple&#8217;s AI model training process leverages two distinct varieties of Google&#8217;s tensor processing units (TPUs), organised in expansive clusters of chips. When the tech giant Google prepared to build its new AI model, designed to operate on iPhones and other products offered by the company, it began deploying no fewer than 2,048 of its advanced TPUv5p chips. An even more significant part of developing the server-side for this model involved no fewer than 8,192 TPUv4 processors.</p>
+
+
+
+<p>Google&#8217;s decision to use TPUs contrasts with Nvidia&#8217;s focus on GPUs, which are now practically synonymous with machine learning development. Making the choice even more interesting, Google&#8217;s TPUs are not only different by design, but also by access. Unlike Nvidia&#8217;s products – which are available independently of other providers – Google only leases TPUs through the Google Cloud Platform, forcing customers to develop their software with the help of Google&#8217;s cloud to take advantage of them.</p>
+
+
+
+<p>Apple revealed this information just as it started rolling out its <a href="https://finance.yahoo.com/news/apple-gives-developers-first-taste-of-apple-intelligence-with-ios-181-developer-beta-171201605.html" target="_blank" rel="noreferrer noopener">Apple Intelligence abilities to beta users</a>. Currently, its developer beta program – which gives app creators an early preview of future software versions – incorporates a variety of AI-powered features. First and foremost, the use of its Writing Tools is now enhanced. Users may find an improved iteration of Siri, which now understands text as well as voice. AI alternatives can also be used for Mail and Smart Replies, thanks to email summarisation. As a bonus, beta testers can now transcribe their dictations with the assistance of AI.</p>
+
+
+
+<p>Based on real-world usage and feedback, Apple will be able to improve its AI features – such as ChatGPT integration – as well as expand the functionality of Siri to interact with third-party apps. Allowing users to familiarise themselves with the AI and provide feedback, this strategy will enable the corporation to make an optimal general release in the fall.</p>
+
+
+
+<p>Even though Reuters reported in June about Apple using TPU chips, the full scope of the use of Google hardware by the company would have remained unknown were it not for Monday&#8217;s detailed research. Furthermore, it is noteworthy that Apple&#8217;s engineers claimed to have the potential to develop even more significant and complex models with Google&#8217;s chips—suggesting that the current implementation is only the beginning of Apple&#8217;s AI projects.</p>
+
+
+
+<p>This news comes a week after Apple held its annual developer conference in June, where the firm revealed a range of new AI capabilities, including the incorporation of OpenAI&#8217;s ChatGPT technology into the Apple software ecosystem. There was widespread euphoria in the tech space, with some seeing it as proof positive of Apple&#8217;s commitment to the future, blending ambiance with the latest technological trends.</p>
+
+
+
+<p>Despite the significance of this news, Apple&#8217;s stock showed only a marginal reaction, ticking down 0.1% to $218.24 in regular trading on Monday. This muted response may indicate that investors are taking a wait-and-see approach to Apple&#8217;s AI strategy, particularly given the company&#8217;s historical tendency to enter new technological landscape deliberately, and with polished offerings.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@medhatdawoud?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Medhat Dawoud</a>)</em></p>
+
+
+
+<p><strong>See also: <a href="https://www.artificialintelligence-news.com/news/nvidia-and-meta-ceo-every-business-will-have-an-ai/">NVIDIA and Meta CEOs: Every business will ‘have an AI’</a></strong></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/apple-opts-google-chips-ai-infrastructure-sidestepping-nvidia/">Apple opts for Google chips in AI infrastructure, sidestepping Nvidia</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/apple-opts-google-chips-ai-infrastructure-sidestepping-nvidia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

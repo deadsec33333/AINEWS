@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ethical AI Archives - AI News</title>
+	<atom:link href="https://www.artificialintelligence-news.com/news/tag/ethical-ai/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.artificialintelligence-news.com/news/tag/ethical-ai/</link>
+	<description>Artificial Intelligence News</description>
+	<lastBuildDate>Mon, 23 Dec 2024 14:09:30 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://www.artificialintelligence-news.com/wp-content/uploads/2020/09/ai-icon-60x60.png</url>
+	<title>ethical AI Archives - AI News</title>
+	<link>https://www.artificialintelligence-news.com/news/tag/ethical-ai/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>OpenAI funds $1 million study on AI and morality at Duke University</title>
+		<link>https://www.artificialintelligence-news.com/news/openai-funds-1-million-study-on-ai-and-morality-at-duke-university/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=openai-funds-1-million-study-on-ai-and-morality-at-duke-university</link>
+					<comments>https://www.artificialintelligence-news.com/news/openai-funds-1-million-study-on-ai-and-morality-at-duke-university/#respond</comments>
+		
+		<dc:creator><![CDATA[Muhammad Zulhusni]]></dc:creator>
+		<pubDate>Mon, 23 Dec 2024 14:09:26 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Industries]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[ethical AI]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16784</guid>
+
+					<description><![CDATA[<p>OpenAI is awarding a $1 million grant to a Duke University research team to look at how AI could predict human moral judgments. The initiative highlights the growing focus on the intersection of technology and ethics, and raises critical questions: Can AI handle the complexities of morality, or should ethical decisions remain the domain of<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/openai-funds-1-million-study-on-ai-and-morality-at-duke-university/" title="ReadOpenAI funds $1 million study on AI and morality at Duke University">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/openai-funds-1-million-study-on-ai-and-morality-at-duke-university/">OpenAI funds $1 million study on AI and morality at Duke University</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>OpenAI is awarding a $1 million grant to a Duke University research team to look at how AI could predict human moral judgments.</p>
+
+
+
+<p>The <a href="https://www.eweek.com/news/openai-funding-ai-morality-research/" target="_blank" rel="noreferrer noopener">initiative</a> highlights the growing focus on the intersection of technology and ethics, and raises critical questions: Can AI handle the complexities of morality, or should ethical decisions remain the domain of humans?</p>
+
+
+
+<p>Duke University’s Moral Attitudes and Decisions Lab (MADLAB), led by ethics professor Walter Sinnott-Armstrong and co-investigator Jana Schaich Borg, is in charge of the “Making Moral AI” project. The team envisions a “moral GPS,” a tool that could guide ethical decision-making.</p>
+
+
+
+<p>Its research spans diverse fields, including computer science, philosophy, psychology, and neuroscience, to understand how moral attitudes and decisions are formed and how AI can contribute to the process.</p>
+
+
+
+<h3 class="wp-block-heading">The role of AI in morality</h3>
+
+
+
+<p>MADLAB’s work examines how AI might predict or influence moral judgments. Imagine an algorithm assessing ethical dilemmas, such as deciding between two unfavourable outcomes in autonomous vehicles or providing guidance on ethical business practices. Such scenarios underscore AI’s potential but also raise fundamental questions: Who determines the moral framework guiding these types of tools, and should AI be trusted to make decisions with ethical implications?</p>
+
+
+
+<h3 class="wp-block-heading">OpenAI’s vision</h3>
+
+
+
+<p>The grant supports the development of algorithms that forecast human moral judgments in areas such as medical, law, and business, which frequently involve complex ethical trade-offs. While promising, AI still struggles to grasp the emotional and cultural nuances of morality. Current systems excel at recognising patterns but lack the deeper understanding required for ethical reasoning.</p>
+
+
+
+<p>Another concern is how this technology might be applied. While AI could assist in life-saving decisions, its use in defence strategies or surveillance introduces moral dilemmas. Can unethical AI actions be justified if they serve national interests or align with societal goals? These questions emphasise the difficulties of embedding morality into AI systems.</p>
+
+
+
+<h3 class="wp-block-heading">Challenges and opportunities</h3>
+
+
+
+<p>Integrating ethics into AI is a formidable challenge that requires collaboration across disciplines. Morality is not universal; it is shaped by cultural, personal, and societal values, making it difficult to encode into algorithms. Additionally, without safeguards such as transparency and accountability, there is a risk of perpetuating biases or enabling harmful applications.</p>
+
+
+
+<p>OpenAI’s investment in Duke’s research marks at step toward understanding the role of AI in ethical decision-making. However, the journey is far from over. Developers and policymakers must work together to ensure that AI tools align with social values, and emphasise fairness and inclusivity while addressing biases and unintended consequences.</p>
+
+
+
+<p>As AI becomes more integral to decision-making, its ethical implications demand attention. Projects like “Making Moral AI” offer a starting point for navigating a complex landscape, balancing innovation with responsibility in order to shape a future where technology serves the greater good.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/photos/a-cell-phone-sitting-on-top-of-a-laptop-computer-7q-kE4SZzvQ?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a>)</em></p>
+
+
+
+<p><strong>See also: <a target="_blank" href="https://www.artificialintelligence-news.com/news/ai-governance-analysing-emerging-global-regulations/" rel="noreferrer noopener">AI governance: Analysing emerging global regulations</a></strong></p>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a target="_blank" href="https://www.ai-expo.net/" rel="noreferrer noopener"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a target="_blank" href="https://intelligentautomation-conference.com/northamerica/" rel="noreferrer noopener">Intelligent Automation Conference</a>, <a target="_blank" href="https://www.blockchain-expo.com/" rel="noreferrer noopener">BlockX</a>,<a target="_blank" href="https://digitaltransformation-week.com/" rel="noreferrer noopener"> Digital Transformation Week</a>, and <a target="_blank" href="https://www.cybersecuritycloudexpo.com/" rel="noreferrer noopener">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a target="_blank" href="https://techforge.pub/events/" rel="noreferrer noopener">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/openai-funds-1-million-study-on-ai-and-morality-at-duke-university/">OpenAI funds $1 million study on AI and morality at Duke University</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/openai-funds-1-million-study-on-ai-and-morality-at-duke-university/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>&#8216;Information gap&#8217; between AI creators and policymakers needs to be resolved &#8211; report</title>
+		<link>https://www.artificialintelligence-news.com/news/information-gap-between-ai-creators-and-policymakers-needs-to-be-resolved-report/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=information-gap-between-ai-creators-and-policymakers-needs-to-be-resolved-report</link>
+					<comments>https://www.artificialintelligence-news.com/news/information-gap-between-ai-creators-and-policymakers-needs-to-be-resolved-report/#respond</comments>
+		
+		<dc:creator><![CDATA[James Bourne]]></dc:creator>
+		<pubDate>Tue, 23 Feb 2021 16:47:37 +0000</pubDate>
+				<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[ethical AI]]></category>
+		<category><![CDATA[ethics]]></category>
+		<category><![CDATA[google ethical principles]]></category>
+		<category><![CDATA[wef]]></category>
+		<category><![CDATA[world economic forum]]></category>
+		<guid isPermaLink="false">http://artificialintelligence-news.com/?p=10304</guid>
+
+					<description><![CDATA[<p>An article posted by the World Economic Forum (WEF) has argued there is a &#8216;huge gap in understanding&#8217; between policymakers and AI creators. The report, authored by Adriana Bora, AI policy researcher and project manager at The Future Society, and David Alexandru Timis, outgoing curator at Brussels Hub, explores how to resolve accountability and trust-building<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/information-gap-between-ai-creators-and-policymakers-needs-to-be-resolved-report/" title="Read&#8216;Information gap&#8217; between AI creators and policymakers needs to be resolved &#8211; report">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/information-gap-between-ai-creators-and-policymakers-needs-to-be-resolved-report/">&#8216;Information gap&#8217; between AI creators and policymakers needs to be resolved &#8211; report</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>An article posted by the World Economic Forum (WEF) has argued there is a &#8216;huge gap in understanding&#8217; between policymakers and AI creators.</p>
+
+
+
+<p>The <a href="https://www.weforum.org/agenda/2021/02/we-need-to-talk-about-artificial-intelligence/">report</a>, authored by Adriana Bora, AI policy researcher and project manager at The Future Society, and David Alexandru Timis, outgoing curator at Brussels Hub, explores how to resolve accountability and trust-building issues with AI technology.</p>
+
+
+
+<p>Bora and Timis note there is &#8220;a need for sound mechanisms that will generate a comprehensive and collectively shared understanding of AI&#8217;s development and deployment cycle.&#8221; As a result, the two add, this governance &#8220;needs to be designed under continuous dialogue utilising multi-stakeholder and interdisciplinary methodologies and skills.&#8221;</p>
+
+
+
+<p>In plain language, both sides need to speak the same language. Yet while AI creators have the information and understanding, this does not extend to regulators, the authors note.</p>
+
+
+
+<p>&#8220;There is a limited number of policy experts who truly understand the full cycle of AI technology,&#8221; the article noted. &#8220;On the other hand, the technology providers lack clarity, and at times interest, in shaping AI policy with integrity by implementing ethics in their technological designs.&#8221;</p>
+
+
+
+<p>Examples of unethical AI practice, or where inherent bias is built into systems, are legion. In July, <a href="http://artificialintelligence-news.com/2020/07/02/mit-removed-dataset-misogynistic-racist-ai-models/">MIT apologised for</a>, and took offline, a dataset which trained AI models with misogynistic and racist tendencies. <a href="http://artificialintelligence-news.com/2020/09/21/google-human-youtube-moderators-ai-errors/">Google</a> and <a href="http://artificialintelligence-news.com/2020/06/10/microsoft-ai-editor-publishes-stories-racist-error/">Microsoft</a> have also fessed up to errors with YouTube moderation and MSN News respectively.</p>
+
+
+
+<p>Artificial intelligence technology in law enforcement has also been questioned. More than 1,000 researchers, academics and experts <a href="http://artificialintelligence-news.com/2020/06/24/over-1000-researchers-sign-letter-crime-predicting-ai/">signed an open letter</a> in June to question an upcoming paper which claimed to be able to predict criminality based on automated facial recognition. Separately, in the same month, the <a href="http://artificialintelligence-news.com/2020/06/30/detroit-police-chief-ai-face-recognition/">chief of Detroit Police admitted</a> its AI-powered face recognition did not work the vast majority of the time.</p>
+
+
+
+<p>Google has been under fire of late, with the firing of Margaret Mitchell last week, who co-led the company&#8217;s ethical AI team, adding to the negative publicity. Mitchell confirmed her dismissal <a href="https://twitter.com/mmitchell_ai/status/1362885356127801345">on Twitter</a>. A statement from Google to <em>Reuters</em> said the firing followed an investigation which found Mitchell moved electronic files outside of the company.</p>
+
+
+
+<p>In December, Google <a href="http://artificialintelligence-news.com/2020/12/04/google-fires-ethical-ai-researcher-timnit-gebru-email/">fired Timnit Gebru</a>, another leading figure in ethical AI development, who claimed she was fired over an unpublished paper and sending an email critical of the company&#8217;s practices. Mitchell had <a href="https://twitter.com/mmitchell_ai/status/1357819673455202304">previously written an open letter</a> detailing &#8216;concern&#8217; over the firing. <a href="https://www.axios.com/google-tweaks-diversity-research-policies-following-inquiry-8baa6346-d2a2-456f-9743-7912e4659ca2.html">Per an <em>Axios</em> report</a>, the company made changes into &#8216;how it handles issues around research, diversity and employee exits&#8217;, following Gebru&#8217;s dismissal. <a href="http://artificialintelligence-news.com/2021/02/05/google-leaking-ai-talent-following-ethicist-controversial-firing/">As this publication reported</a>, Gebru&#8217;s departure forced other employees to leave; software engineer Vinesh Kannan and engineering director David Baker.</p>
+
+
+
+<p>Bora and Timis emphasised the need for &#8216;ethics literacy&#8217; and a &#8216;commitment to multidisciplinary research&#8217; from the technology providers&#8217; perspective.</p>
+
+
+
+<p>&#8220;Through their training and during their careers, the technical teams behind AI developments are not methodically educated about the complexity of human social systems, how their products could negatively impact society, and how to embed ethics in their designs,&#8221; the article noted.</p>
+
+
+
+<p>&#8220;The process of understanding and acknowledging the social and cultural context in which AI technologies are deployed, sometimes with high stakes for humanity, requires patience and time,&#8221; Bora and Timis added. &#8220;With increased investments in AI, technology companies are encouraged to identify the ethical consideration relevant to their products and transparently implement solutions before deploying them.&#8221;</p>
+
+
+
+<p>This could theoretically take care of hasty withdrawals and fulsome apologies when models behave unethically. Yet the researchers also noted how policymakers need to step up.</p>
+
+
+
+<p>&#8220;It is only by familiarising themselves with AI and its potential benefits and risks that policymakers can draft sensible regulation that balances the development of AI within legal and ethical boundaries while leveraging its tremendous potential,&#8221; the article noted. &#8220;Knowledge building is critical both for developing smarter regulations when it comes to AI, for enabling policymakers to engage in dialogue with technology companies on an equal footing, and together set a framework of ethics and norms in which AI can innovate safely.&#8221;</p>
+
+
+
+<p>Innovation is taking place with regard to solving algorithmic bias. In the UK, as this publication reported <a href="http://artificialintelligence-news.com/2020/11/27/cdei-launches-roadmap-tackling-algorithmic-bias/">in November</a>, the Centre for Data Ethics and Innovation (CDEI) has created a &#8216;roadmap&#8217; to tackle the issue. The CDEI report focused on policing, recruitment, financial services and local government, and makes cross-cutting recommendations that aim to help build the right systems so that algorithms improve, rather than worsen, decision-making.</p>
+
+
+
+<p>You can read the full WEF article <a href="https://www.weforum.org/agenda/2021/02/we-need-to-talk-about-artificial-intelligence/">here</a>.</p>
+
+
+
+<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img decoding="async" src="https://lh4.googleusercontent.com/ZT_SFVdPnZYXBplGhYkrjJp4lOH8bIwJIDRgS7RZSD2nw-yXuUP6LjqTWx9oXPI6ftOVNGViYy3hPKE92Bfxy7Z_-KqODw5qsQEB_ewZboyo4_m-dlJUL8BDvsrlGET1O7bp1fjl" alt="" width="250" height="83"/></figure></div>
+
+
+
+<p><strong>Interested in hearing industry leaders discuss subjects like this?</strong>&nbsp;Attend the co-located&nbsp;<a href="https://5gexpo.net/northamerica/">5G Expo</a>,&nbsp;<a href="https://www.iottechexpo.com/">IoT Tech Expo</a>,&nbsp;<a href="http://blockchain-expo.com/">Blockchain Expo</a>,&nbsp;<a href="https://www.ai-expo.net/">AI &amp; Big Data Expo</a>, and&nbsp;<a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo World Series</a>&nbsp;with upcoming events in Silicon Valley, London, and Amsterdam.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/information-gap-between-ai-creators-and-policymakers-needs-to-be-resolved-report/">&#8216;Information gap&#8217; between AI creators and policymakers needs to be resolved &#8211; report</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/information-gap-between-ai-creators-and-policymakers-needs-to-be-resolved-report/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,1134 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AI Robotics News | Latest Robotics in AI Developments | AI News</title>
+	<atom:link href="https://www.artificialintelligence-news.com/categories/ai-robotics/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.artificialintelligence-news.com/categories/ai-robotics/</link>
+	<description>Artificial Intelligence News</description>
+	<lastBuildDate>Mon, 28 Oct 2024 16:43:59 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://www.artificialintelligence-news.com/wp-content/uploads/2020/09/ai-icon-60x60.png</url>
+	<title>AI Robotics News | Latest Robotics in AI Developments | AI News</title>
+	<link>https://www.artificialintelligence-news.com/categories/ai-robotics/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>MIT breakthrough could transform robot training</title>
+		<link>https://www.artificialintelligence-news.com/news/mit-breakthrough-could-transform-robot-training/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mit-breakthrough-could-transform-robot-training</link>
+					<comments>https://www.artificialintelligence-news.com/news/mit-breakthrough-could-transform-robot-training/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Mon, 28 Oct 2024 16:43:57 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[Heterogeneous Pretrained Transformers]]></category>
+		<category><![CDATA[hpt]]></category>
+		<category><![CDATA[mit]]></category>
+		<category><![CDATA[robot training]]></category>
+		<category><![CDATA[robotics]]></category>
+		<category><![CDATA[robots]]></category>
+		<category><![CDATA[training]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16403</guid>
+
+					<description><![CDATA[<p>MIT researchers have developed a robot training method that reduces time and cost while improving adaptability to new tasks and environments. The approach – called Heterogeneous Pretrained Transformers (HPT) – combines vast amounts of diverse data from multiple sources into a unified system, effectively creating a shared language that generative AI models can process. This<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/mit-breakthrough-could-transform-robot-training/" title="ReadMIT breakthrough could transform robot training">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/mit-breakthrough-could-transform-robot-training/">MIT breakthrough could transform robot training</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://www.artificialintelligence-news.com/news/mit-publishes-white-papers-guide-ai-governance/">MIT</a> researchers have developed a robot training method that reduces time and cost while improving adaptability to new tasks and environments.</p>
+
+
+
+<p>The approach – called Heterogeneous Pretrained Transformers (HPT) – combines vast amounts of diverse data from multiple sources into a unified system, effectively creating a shared language that generative AI models can process. This method marks a significant departure from traditional robot training, where engineers typically collect specific data for individual robots and tasks in controlled environments.</p>
+
+
+
+<p>Lead researcher Lirui Wang – an electrical engineering and computer science graduate student at MIT – believes that while many cite insufficient training data as a key challenge in <a href="https://www.artificialintelligence-news.com/categories/ai-robotics/">robotics</a>, a bigger issue lies in the vast array of different domains, modalities, and robot hardware. Their work demonstrates how to effectively combine and utilise all these diverse elements.</p>
+
+
+
+<p>The research team developed an architecture that unifies various data types, including camera images, language instructions, and depth maps. HPT utilises a transformer model, similar to those powering advanced language models, to process visual and proprioceptive inputs.</p>
+
+
+
+<p>In practical tests, the system demonstrated remarkable results—outperforming traditional training methods by more than 20 per cent in both simulated and real-world scenarios. This improvement held true even when robots encountered tasks significantly different from their training data.</p>
+
+
+
+<p>The researchers assembled an impressive dataset for pretraining, comprising 52 datasets with over 200,000 robot trajectories across four categories. This approach allows robots to learn from a wealth of experiences, including human demonstrations and simulations.</p>
+
+
+
+<p>One of the system&#8217;s key innovations lies in its handling of proprioception (the robot&#8217;s awareness of its position and movement.) The team designed the architecture to place equal importance on proprioception and vision, enabling more sophisticated dexterous motions.</p>
+
+
+
+<p>Looking ahead, the team aims to enhance HPT&#8217;s capabilities to process unlabelled data, similar to advanced language models. Their ultimate vision involves creating a universal robot brain that could be downloaded and used for any robot without additional training.</p>
+
+
+
+<p>While acknowledging they are in the early stages, the team remains optimistic that scaling could lead to breakthrough developments in robotic policies, similar to the advances seen in large language models.</p>
+
+
+
+<p><em>You can find a copy of the researchers’ paper </em><a href="https://arxiv.org/pdf/2409.20537"><em>here</em></a><em> (PDF)</em></p>
+
+
+
+<p>(Photo by <a href="https://unsplash.com/@possessedphotography?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Possessed Photography</a>)</p>
+
+
+
+<p><strong>See also: </strong><a href="https://iottechnews.com/news/jailbreaking-ai-robots-researchers-alarm-security-flaws/"><strong>Jailbreaking AI robots: Researchers sound alarm over security flaws</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img fetchpriority="high" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="(max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/mit-breakthrough-could-transform-robot-training/">MIT breakthrough could transform robot training</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/mit-breakthrough-could-transform-robot-training/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>AI-powered underwater vehicle transforms offshore wind inspections</title>
+		<link>https://www.artificialintelligence-news.com/news/ai-underwater-vehicle-offshore-wind-inspections/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ai-underwater-vehicle-offshore-wind-inspections</link>
+					<comments>https://www.artificialintelligence-news.com/news/ai-underwater-vehicle-offshore-wind-inspections/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Tue, 24 Sep 2024 09:32:46 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Energy]]></category>
+		<category><![CDATA[Industries]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[autonomous vehicle]]></category>
+		<category><![CDATA[beam]]></category>
+		<category><![CDATA[energy]]></category>
+		<category><![CDATA[environment]]></category>
+		<category><![CDATA[offshore wind]]></category>
+		<category><![CDATA[robotics]]></category>
+		<category><![CDATA[seagreen]]></category>
+		<category><![CDATA[sustainability]]></category>
+		<category><![CDATA[wind farm]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16150</guid>
+
+					<description><![CDATA[<p>Beam has deployed the world&#8217;s first AI-driven autonomous underwater vehicle for offshore wind farm inspections. The technology has already proved its mettle by inspecting jacket structures at Scotland&#8217;s largest offshore wind farm, Seagreen—a joint venture between SSE Renewables, TotalEnergies, and PTTEP. The AI-powered vehicle represents a significant leap forward in marine technology and underwater robotics.<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/ai-underwater-vehicle-offshore-wind-inspections/" title="ReadAI-powered underwater vehicle transforms offshore wind inspections">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ai-underwater-vehicle-offshore-wind-inspections/">AI-powered underwater vehicle transforms offshore wind inspections</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://beam.global/">Beam </a>has deployed the world&#8217;s first AI-driven autonomous underwater vehicle for offshore wind farm inspections. The technology has already proved its mettle by inspecting jacket structures at Scotland&#8217;s largest offshore wind farm, <a href="https://www.seagreenwindenergy.com/">Seagreen</a>—a joint venture between SSE Renewables, TotalEnergies, and PTTEP.</p>
+
+
+
+<p>The AI-powered vehicle represents a significant leap forward in marine technology and underwater robotics. Capable of conducting complex underwater inspections without human intervention, it promises to dramatically enhance efficiency and slash costs associated with underwater surveys and inspections.</p>
+
+
+
+<p>Traditionally, offshore wind site inspections have been manual, labour-intensive processes. Beam&#8217;s autonomous solution offers a radical departure from this approach, enabling data to be streamed directly back to shore. This shift allows offshore workers to concentrate on more intricate tasks while reducing inspection timelines by up to 50%, resulting in substantial operational cost savings.</p>
+
+
+
+<p>Brian Allen, CEO of Beam, said: &#8220;We are very proud to have succeeded in deploying the world&#8217;s first autonomous underwater vehicle driven by AI. Automation can revolutionise how we carry out inspection and maintenance of offshore wind farms, helping to reduce both costs and timelines.&#8221;</p>
+
+
+
+<p>Beyond improved efficiency, Beam&#8217;s technology elevates the quality of inspection data and facilitates the creation of 3D reconstructions of assets alongside visual data. This deployment marks a crucial step in Beam&#8217;s roadmap for autonomous technology, with plans to extend this AI-driven solution across its fleet of DP2 vessels, ROVs, and autonomous underwater vehicles (AUVs) throughout 2025 and 2026.</p>
+
+
+
+<p>&#8220;Looking ahead to the future, the potential of this technology is huge for the industry, and success in these initial projects is vital for us to progress and realise this vision. This wouldn&#8217;t be possible without forward-thinking customers like SSE Renewables who are willing to go on the journey with us,&#8221; explained Allen.</p>
+
+
+
+<p>The Seagreen wind farm, operational since October 2023, is the world&#8217;s deepest fixed-bottom offshore wind farm. Beam&#8217;s project at Seagreen has provided crucial insights into the potential of autonomous technology for large offshore wind superstructures. The data collected by the AI-driven vehicle will support ongoing operational reliability at the site, offering valuable information on areas such as marine growth and potential erosion at the foundations.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="The world’s first AI-driven autonomous subsea inspection | Beam" width="1200" height="675" src="https://www.youtube.com/embed/4zGpSt9oW_I?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Matthew Henderson, Technical Asset Manager – Substructure and Asset Lifecycle at SSE Renewables, commented: &#8220;At SSE, we have a mantra that &#8216;if it&#8217;s not safe, we don&#8217;t do it.&#8217; Beam&#8217;s technology demonstrates that autonomous inspections can reduce the personnel we need to send offshore for planned inspections, while speeding up planned works and collecting rich data-sets to inform asset integrity planning.</p>
+
+
+
+<p>&#8220;As we move further offshore, and into deeper waters, the ability to collect high-quality inspection data in a low-risk manner is imperative to us delivering our Net Zero Acceleration Programme.&#8221;</p>
+
+
+
+<p>As Beam prepares to roll out its AI-driven inspection technology across its fleet in 2025 and 2026, this deployment aligns with the company&#8217;s mission to revolutionise offshore wind operations by making them more efficient and cost-effective—further supporting the global energy transition.</p>
+
+
+
+<p>The success of this AI-powered underwater vehicle at Seagreen wind farm not only demonstrates the potential of autonomous technology in offshore wind inspections but also sets a new standard for safety, efficiency, and data quality in the industry. Such innovations will play a crucial role in ensuring the sustainability and cost-effectiveness of offshore wind energy.</p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/hugging-face-launching-open-robotics-project/"><strong>Hugging Face is launching an open robotics project</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="(max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ai-underwater-vehicle-offshore-wind-inspections/">AI-powered underwater vehicle transforms offshore wind inspections</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/ai-underwater-vehicle-offshore-wind-inspections/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Stanhope raises £2.3m for AI that teaches machines to &#8216;make human-like decisions&#8217;</title>
+		<link>https://www.artificialintelligence-news.com/news/stanhope-raises-2-3m-for-ai-that-teaches-machines-to-make-human-like-decisions/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=stanhope-raises-2-3m-for-ai-that-teaches-machines-to-make-human-like-decisions</link>
+					<comments>https://www.artificialintelligence-news.com/news/stanhope-raises-2-3m-for-ai-that-teaches-machines-to-make-human-like-decisions/#respond</comments>
+		
+		<dc:creator><![CDATA[Duncan MacRae]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2024 10:40:00 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Industries]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Military]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[decision making]]></category>
+		<category><![CDATA[llm]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=14604</guid>
+
+					<description><![CDATA[<p>Stanhope AI – a company applying decades of neuroscience research to teach machines how to make human-like decisions in the real world – has raised £2.3m in seed funding led by the UCL Technology Fund. Creator Fund also participated, along with, MMC Ventures, Moonfire Ventures and Rockmount Capital and leading angel investors.  Stanhope AI was<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/stanhope-raises-2-3m-for-ai-that-teaches-machines-to-make-human-like-decisions/" title="ReadStanhope raises £2.3m for AI that teaches machines to &#8216;make human-like decisions&#8217;">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/stanhope-raises-2-3m-for-ai-that-teaches-machines-to-make-human-like-decisions/">Stanhope raises £2.3m for AI that teaches machines to &#8216;make human-like decisions&#8217;</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Stanhope AI – a company applying decades of neuroscience research to teach machines how to make human-like decisions in the real world – has raised £2.3m in seed funding led by the UCL Technology Fund. </p>
+
+
+
+<p>Creator Fund also participated, along with, MMC Ventures, Moonfire Ventures and Rockmount Capital and leading angel investors. </p>
+
+
+
+<p>Stanhope AI was founded as a spinout from University College London, supported by UCL Business, by three of the most eminent names in neuroscience and AI research – CEO Professor Rosalyn Moran (former Deputy Director of King’s Institute for Artificial Intelligence), Director Karl Friston, Professor at the UCL Queen Square Institute of Neurology and Technical Advisor Dr Biswa Sengupta (MD of AI and Cloud products at JP Morgan Chase).&nbsp;</p>
+
+
+
+<p>By using key neuroscience principles and applying them to AI and mathematics, Stanhope AI is at the forefront of the new generation of AI technology known as &#8216;agentic&#8217; AI.  The team has built algorithms that, like the human brain, are always trying to guess what will happen next; learning from any discrepancies between predicted and actual events to continuously update their “internal models of the world.” Instead of training vast LLMs to make decisions based on seen data, Stanhope agentic AI’s models are in charge of their own learning. They autonomously decode their environments and rebuild and refine their “world models” using real-time data, continuously fed to them via onboard sensors.  </p>
+
+
+
+<p><strong>The rise of agentic AI</strong></p>
+
+
+
+<p>This approach, and Stanhope AI’s technology, are based on the neuroscience principle of Active Inference – the idea that our brains, in order to minimise free energy, are constantly making predictions about incoming sensory data around us. As this data changes, our brains adapt and update our predictions in response to rebuild and refine our world view.&nbsp;</p>
+
+
+
+<p>This is very different to the traditional machine learning methods used to train today’s AI systems such as LLMs. Today’s models can only operate within the realms of the training they are given, and can only make best-guess decisions based on the information they have. They can’t learn on the go. They require extreme amounts of processing power and energy to train and run, as well as vast amounts of seen data.&nbsp;&nbsp;</p>
+
+
+
+<p>By contrast, Stanhope AI’s Active Inference models are truly autonomous. They can constantly rebuild and refine their predictions. Uncertainty is minimised by default, which removes the risk of hallucinations about what the AI <em>thinks is true</em>, and this moves Stanhope’s unique models towards reasoning and human-like decision-making. What’s more, by drastically reducing the size and energy required to run the models and the machines, Stanhope AI’s models can operate on small devices such as drones and similar.&nbsp;&nbsp;</p>
+
+
+
+<p><strong>“The most all-encompassing idea since natural selection”</strong></p>
+
+
+
+<p>Stanhope AI’s approach is possible because of its founding team’s extensive research into the neuroscience principles of Active Inference, as well as free energy. Director Indeed Professor Friston, a world-renowned neuroscientist at UCL whose work has been cited twice as many times as Albert Einstein, is the inventor of the Free Energy Theory Principle.&nbsp;</p>
+
+
+
+<p>Friston’s principle theory centres on how our brains minimise surprise and uncertainty. It explains that all living things are driven to minimise free energy, and thus the energy needed to predict and perceive the world. Such is its impact, the Free Energy Theory Principle has been described as the “most all-encompassing idea since the theory of natural selection.” Active Inference sits within this theory to explain the process our brains use in order to minimise this energy. This idea infuses Stanhope AI’s work, led by Professor Moran, a specialist in Active Inference and its application through AI; and Dr Biswa Sengupta, whose doctoral research was in dynamical systems, optimisation and energy efficiency from the University of Cambridge.&nbsp;</p>
+
+
+
+<p><strong>Real-world application</strong></p>
+
+
+
+<p>In the immediate term, the technology is being tested with delivery drones and autonomous machines used by partners including Germany’s Federal Agency for Disruptive Innovation and the Royal Navy. In the long term, the technology holds huge promise in the realms of manufacturing, industrial robotics and embodied AI. The investment will be used to further the company’s development of its agentic AI models and the practical application of its research.&nbsp;&nbsp;</p>
+
+
+
+<p>Professor Rosalyn Moran, CEO and co-founder of Stanhope AI, said: &#8220;Our mission at Stanhope AI is to bridge the gap between neuroscience and artificial intelligence, creating a new generation of AI systems that can think, adapt, and decide like humans. We believe this technology will transform the capabilities of AI and robotics and make them more impactful in real-world scenarios. We trust the math and we’re delighted to have the backing of investors like UCL Technology Fund who deeply understand the science behind this technology and their support will be significant on our journey to revolutionise AI technology.&#8221;</p>
+
+
+
+<p>David Grimm, partner UCL Technology Fund, said: &#8220;AI startups may be some of the hottest investments right now but few have the calibre and deep scientific and technical know-how as the Stanhope AI team. This is emblematic of their unique approach, combining neuroscience insights with advanced AI, which presents a groundbreaking opportunity to advance the field and address some of the most challenging problems in AI today. We can’t wait to see what this team achieves.” </p>
+
+
+
+<p>Marina Santilli, sasociate director UCL Business, added “The promise offered by Stanhope AI’s approach to Artificial Intelligence is hugely exciting, providing hope for powerful whilst energy-light models. UCLB is delighted to have been able to support the formation of a company built on the decades of fundamental research at UCL led by Professor Friston, developing the Free Energy Principle.” </p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2023/10/image.png" alt="" class="wp-image-13755" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2023/10/image.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/10/image-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/10/image-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/10/image-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/10/image-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/10/image-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong>&nbsp;Check out<a href="https://www.ai-expo.net/">&nbsp;AI &amp; Big Data Expo</a>&nbsp;taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including&nbsp;<a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/">&nbsp;Digital Transformation Week</a>, and&nbsp;<a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge&nbsp;<a href="https://techforge.pub/upcoming-events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/stanhope-raises-2-3m-for-ai-that-teaches-machines-to-make-human-like-decisions/">Stanhope raises £2.3m for AI that teaches machines to &#8216;make human-like decisions&#8217;</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/stanhope-raises-2-3m-for-ai-that-teaches-machines-to-make-human-like-decisions/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hugging Face is launching an open robotics project</title>
+		<link>https://www.artificialintelligence-news.com/news/hugging-face-launching-open-robotics-project/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=hugging-face-launching-open-robotics-project</link>
+					<comments>https://www.artificialintelligence-news.com/news/hugging-face-launching-open-robotics-project/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Fri, 08 Mar 2024 17:37:22 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[hugging face]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[open-source]]></category>
+		<category><![CDATA[remi cadene]]></category>
+		<category><![CDATA[robotics]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=14519</guid>
+
+					<description><![CDATA[<p>Hugging Face, the startup behind the popular open source machine learning codebase and ChatGPT rival Hugging Chat, is venturing into new territory with the launch of an open robotics project. The ambitious expansion was announced by former Tesla staff scientist Remi Cadene in a post on X: In keeping with Hugging Face&#8217;s ethos of open<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/hugging-face-launching-open-robotics-project/" title="ReadHugging Face is launching an open robotics project">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/hugging-face-launching-open-robotics-project/">Hugging Face is launching an open robotics project</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://huggingface.co/">Hugging Face</a>, the startup behind the popular open source machine learning codebase and ChatGPT rival Hugging Chat, is venturing into new territory with the launch of an open robotics project.</p>
+
+
+
+<p>The ambitious expansion was announced by former Tesla staff scientist Remi Cadene in a post on X:</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">After 3 years <a href="https://twitter.com/Tesla?ref_src=twsrc%5Etfw">@tesla</a> and Optimus, I am thrilled to announce that I joined Hugging Face to start an ambitious open robotics project! (open as in open-source, not as in Open AI) Looking for engineers to build real robots in Paris 🇫🇷 <a href="https://t.co/cFuNL4PVI4">https://t.co/cFuNL4PVI4</a> 🤖🤗 <a href="https://t.co/7IkunPXOpX">pic.twitter.com/7IkunPXOpX</a></p>&mdash; Remi Cadene (@RemiCadene) <a href="https://twitter.com/RemiCadene/status/1765715921388056904?ref_src=twsrc%5Etfw">March 7, 2024</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>In keeping with Hugging Face&#8217;s ethos of open source, Cadene stated the robot project would be &#8220;open-source, not as in Open AI&#8221; in reference to OpenAI’s <a href="https://www.artificialintelligence-news.com/2024/03/06/openai-musk-wanted-merge-tesla-or-take-full-control/">legal battle</a> with Cadene&#8217;s former boss, Elon Musk.</p>
+
+
+
+<p>Cadene – who will be leading the robotics initiative – revealed that Hugging Face is hiring robotics engineers in Paris, France.</p>
+
+
+
+<p>A <a href="https://apply.workable.com/huggingface/j/F612A84F16/">job listing</a> for an &#8220;Embodied Robotics Engineer&#8221; sheds light on the project&#8217;s goals, which include &#8220;designing, building, and maintaining open-source and low cost robotic systems that integrate AI technologies, specifically in deep learning and embodied AI.&#8221;</p>
+
+
+
+<p>The role involves collaborating with ML engineers, researchers, and product teams to develop innovative robotics solutions that &#8220;push the boundaries of what&#8217;s possible in robotics and AI.&#8221; Key responsibilities range from building low-cost robots using off-the-shelf components and 3D-printed parts to integrating deep learning and embodied AI technologies into robotic systems.</p>
+
+
+
+<p>Until now, Hugging Face has primarily focused on software offerings like its machine learning codebase and open-source chatbot. The robotics project marks a significant departure into the hardware realm as the startup aims to bring AI into the physical world through open and affordable robotic platforms.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@possessedphotography?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Possessed Photography</a> on <a href="https://unsplash.com/photos/closeup-photo-of-white-robot-arm-jIBMSMs4_kA?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a>)</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/2024/03/07/google-engineer-stole-ai-tech-for-chinese-firms/"><strong>Google engineer stole AI tech for Chinese firms</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/upcoming-events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/hugging-face-launching-open-robotics-project/">Hugging Face is launching an open robotics project</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/hugging-face-launching-open-robotics-project/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>AUKUS trial advances AI for military operations </title>
+		<link>https://www.artificialintelligence-news.com/news/aukus-trial-advances-ai-for-military-operations/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=aukus-trial-advances-ai-for-military-operations</link>
+					<comments>https://www.artificialintelligence-news.com/news/aukus-trial-advances-ai-for-military-operations/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Mon, 05 Feb 2024 16:29:13 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Industries]]></category>
+		<category><![CDATA[Military]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[america]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[aukus]]></category>
+		<category><![CDATA[Australia]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[military]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[robotics]]></category>
+		<category><![CDATA[torvice]]></category>
+		<category><![CDATA[uk]]></category>
+		<category><![CDATA[usa]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=14324</guid>
+
+					<description><![CDATA[<p>The UK armed forces and Defence Science and Technology Laboratory (Dstl) recently collaborated with the militaries of Australia and the US as part of the AUKUS partnership in a landmark trial focused on AI and autonomous systems.  The trial, called Trusted Operation of Robotic Vehicles in Contested Environments (TORVICE), was held in Australia under the<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/aukus-trial-advances-ai-for-military-operations/" title="ReadAUKUS trial advances AI for military operations ">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/aukus-trial-advances-ai-for-military-operations/">AUKUS trial advances AI for military operations </a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The UK armed forces and <a href="https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory">Defence Science and Technology Laboratory</a> (Dstl) recently collaborated with the militaries of Australia and the US as part of the AUKUS partnership in a landmark trial focused on AI and autonomous systems. </p>
+
+
+
+<p>The trial, called Trusted Operation of Robotic Vehicles in Contested Environments (TORVICE), was held in Australia under the AUKUS partnership formed last year between the three countries. It aimed to test robotic vehicles and sensors in situations involving electronic attacks, GPS disruption, and other threats to evaluate the resilience of autonomous systems expected to play a major role in future military operations.</p>
+
+
+
+<p>Understanding how to ensure these AI systems can operate reliably in the face of modern electronic warfare and cyber threats will be critical before the technology can be more widely adopted.&nbsp;&nbsp;</p>
+
+
+
+<p>The TORVICE trial featured US and British autonomous vehicles carrying out reconnaissance missions while Australia units simulated battlefield electronic attacks on their systems. Analysis of the performance data will help strengthen protections and safeguards needed to prevent system failures or disruptions.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="TORVICE AI Trial" width="1200" height="675" src="https://www.youtube.com/embed/9lS1H3jjWkY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Guy Powell, Dstl’s technical authority for the trial, said: “The TORVICE trial aims to understand the capabilities of robotic and autonomous systems to operate in contested environments. We need to understand how robust these systems are when subject to attack.</p>
+
+
+
+<p>“Robotic and autonomous systems are a transformational capability that we are introducing to armies across all three nations.”&nbsp;</p>
+
+
+
+<p>This builds on the first AUKUS autonomous systems trial held in April 2023 in the UK. It also represents a step forward following the AUKUS defense ministers&#8217; December announcement that Resilient and Autonomous Artificial Intelligence Technologies (RAAIT) would be integrated into the three countries&#8217; military forces beginning in 2024.</p>
+
+
+
+<p>Dstl military advisor Lt Col Russ Atherton says that successfully harnessing AI and autonomy promises to &#8220;be an absolute game-changer&#8221; that reduces the risk to soldiers. The technology could carry out key tasks like sensor operation and logistics over wider areas.</p>
+
+
+
+<p>“The ability to deploy different payloads such as sensors and logistics across a larger battlespace will give commanders greater options than currently exist,” explained Lt Atherton.</p>
+
+
+
+<p>By collaborating, the AUKUS allies aim to accelerate development in this crucial new area of warfare, improving interoperability between their forces, maximising their expertise, and strengthening deterrence in the Indo-Pacific region.</p>
+
+
+
+<p>As AUKUS continues to deepen cooperation on cutting-edge military technologies, this collaborative effort will significantly enhance military capabilities while reducing risks for warfighters.</p>
+
+
+
+<p><em>(Image Credit: </em><a href="https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory"><em>Dstl</em></a><em>)</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/2024/02/01/experts-from-30-nations-contribute-global-ai-safety-report/"><strong>Experts from 30 nations will contribute to global AI safety report</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a> and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/upcoming-events/">here.</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/aukus-trial-advances-ai-for-military-operations/">AUKUS trial advances AI for military operations </a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/aukus-trial-advances-ai-for-military-operations/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>AWS and NVIDIA expand partnership to advance generative AI</title>
+		<link>https://www.artificialintelligence-news.com/news/aws-nvidia-expand-partnership-advance-generative-ai/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=aws-nvidia-expand-partnership-advance-generative-ai</link>
+					<comments>https://www.artificialintelligence-news.com/news/aws-nvidia-expand-partnership-advance-generative-ai/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Wed, 29 Nov 2023 14:30:14 +0000</pubDate>
+				<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[amazon web services]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[aws]]></category>
+		<category><![CDATA[dgx cloud]]></category>
+		<category><![CDATA[generative ai]]></category>
+		<category><![CDATA[gh200]]></category>
+		<category><![CDATA[large language model]]></category>
+		<category><![CDATA[Nvidia]]></category>
+		<category><![CDATA[omniverse]]></category>
+		<category><![CDATA[project ceiba]]></category>
+		<category><![CDATA[re:invent]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=13962</guid>
+
+					<description><![CDATA[<p>Amazon Web Services (AWS) and NVIDIA have announced a significant expansion of their strategic collaboration at AWS re:Invent. The collaboration aims to provide customers with state-of-the-art infrastructure, software, and services to fuel generative AI innovations. The collaboration brings together the strengths of both companies, integrating NVIDIA&#8217;s latest multi-node systems with next-generation GPUs, CPUs, and AI<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/aws-nvidia-expand-partnership-advance-generative-ai/" title="ReadAWS and NVIDIA expand partnership to advance generative AI">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/aws-nvidia-expand-partnership-advance-generative-ai/">AWS and NVIDIA expand partnership to advance generative AI</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://aws.amazon.com/">Amazon Web Services</a> (AWS) and <a href="https://www.nvidia.com/">NVIDIA</a> have announced a significant expansion of their strategic collaboration at AWS re:Invent. The collaboration aims to provide customers with state-of-the-art infrastructure, software, and services to fuel generative AI innovations.</p>
+
+
+
+<p>The collaboration brings together the strengths of both companies, integrating NVIDIA&#8217;s latest multi-node systems with next-generation GPUs, CPUs, and AI software, along with AWS technologies such as Nitro System advanced virtualisation, Elastic Fabric Adapter (EFA) interconnect, and UltraCluster scalability.</p>
+
+
+
+<p>Key highlights of the expanded collaboration include:</p>
+
+
+
+<ol class="wp-block-list">
+<li>Introduction of NVIDIA GH200 Grace Hopper Superchips on AWS:
+<ul class="wp-block-list">
+<li>AWS becomes the first cloud provider to offer NVIDIA GH200 Grace Hopper Superchips with new multi-node NVLink technology.</li>
+
+
+
+<li>The NVIDIA GH200 NVL32 multi-node platform enables joint customers to scale to thousands of GH200 Superchips, providing supercomputer-class performance.</li>
+</ul>
+</li>
+
+
+
+<li>Hosting NVIDIA DGX Cloud on AWS:
+<ul class="wp-block-list">
+<li>Collaboration to host NVIDIA DGX Cloud, an AI-training-as-a-service, on AWS, featuring GH200 NVL32 for accelerated training of generative AI and large language models.</li>
+</ul>
+</li>
+
+
+
+<li>Project Ceiba supercomputer:
+<ul class="wp-block-list">
+<li>Collaboration on Project Ceiba, aiming to design the world&#8217;s fastest GPU-powered AI supercomputer with 16,384 NVIDIA GH200 Superchips and processing capability of 65 exaflops.</li>
+</ul>
+</li>
+
+
+
+<li>Introduction of new Amazon EC2 instances:
+<ul class="wp-block-list">
+<li>AWS introduces three new Amazon EC2 instances, including P5e instances powered by NVIDIA H200 Tensor Core GPUs for large-scale generative AI and HPC workloads.</li>
+</ul>
+</li>
+
+
+
+<li>Software innovations:
+<ul class="wp-block-list">
+<li>NVIDIA introduces software on AWS, such as NeMo Retriever microservice for chatbots and summarisation tools, and BioNeMo to speed up drug discovery for pharmaceutical companies.</li>
+</ul>
+</li>
+</ol>
+
+
+
+<p>This collaboration signifies a joint commitment to advancing the field of generative AI, offering customers access to cutting-edge technologies and resources.</p>
+
+
+
+<p>Internally, Amazon robotics and fulfilment teams already employ NVIDIA&#8217;s Omniverse platform to optimise warehouses in virtual environments first before real-world deployment.</p>
+
+
+
+<p>The integration of NVIDIA and AWS technologies will accelerate the development, training, and inference of large language models and generative AI applications across various industries.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@lanirudhreddy?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">ANIRUDH</a> on <a href="https://unsplash.com/photos/two-boxes-of-amazon-are-stacked-on-top-of-each-other-wKeZstqxKTQ?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a>)</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/2023/11/23/inflection-2-beats-google-palm-2-across-common-benchmarks/"><strong>Inflection-2 beats Google’s PaLM 2 across common benchmarks</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with<a href="https://www.cybersecuritycloudexpo.com/"> Cyber Security &amp; Cloud Expo</a> and<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/upcoming-events/">here.</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/aws-nvidia-expand-partnership-advance-generative-ai/">AWS and NVIDIA expand partnership to advance generative AI</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/aws-nvidia-expand-partnership-advance-generative-ai/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Open X-Embodiment dataset and RT-X model aim to revolutionise robotics</title>
+		<link>https://www.artificialintelligence-news.com/news/open-x-embodiment-dataset-rt-x-model-aim-revolutionise-robotics/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=open-x-embodiment-dataset-rt-x-model-aim-revolutionise-robotics</link>
+					<comments>https://www.artificialintelligence-news.com/news/open-x-embodiment-dataset-rt-x-model-aim-revolutionise-robotics/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Wed, 04 Oct 2023 14:36:10 +0000</pubDate>
+				<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[open x-embodiment]]></category>
+		<category><![CDATA[robot]]></category>
+		<category><![CDATA[robotics]]></category>
+		<category><![CDATA[rt-1-x]]></category>
+		<category><![CDATA[rt-2-x]]></category>
+		<category><![CDATA[rt-x]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=13674</guid>
+
+					<description><![CDATA[<p>In a collaboration between 33 academic labs worldwide, a consortium of researchers has unveiled a revolutionary approach to robotics. Traditionally, robots have excelled in specific tasks but struggled with versatility, requiring individual training for each unique job. However, this limitation might soon be a thing of the past. Open X-Embodiment: The gateway to generalist robots<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/open-x-embodiment-dataset-rt-x-model-aim-revolutionise-robotics/" title="ReadOpen X-Embodiment dataset and RT-X model aim to revolutionise robotics">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/open-x-embodiment-dataset-rt-x-model-aim-revolutionise-robotics/">Open X-Embodiment dataset and RT-X model aim to revolutionise robotics</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>In a <a href="https://www.deepmind.com/blog/scaling-up-learning-across-many-different-robot-types">collaboration</a> between 33 academic labs worldwide, a consortium of researchers has unveiled a revolutionary approach to robotics.</p>
+
+
+
+<p>Traditionally, robots have excelled in specific tasks but struggled with versatility, requiring individual training for each unique job. However, this limitation might soon be a thing of the past.</p>
+
+
+
+<h4 class="wp-block-heading">Open X-Embodiment: The gateway to generalist robots</h4>
+
+
+
+<p>At the heart of this transformation lies the Open X-Embodiment dataset, a monumental effort pooling data from 22 distinct robot types.</p>
+
+
+
+<p>With the contributions of over 20 research institutions, this dataset comprises over 500 skills, encompassing a staggering 150,000 tasks across more than a million episodes.</p>
+
+
+
+<p>This treasure trove of diverse robotic demonstrations represents a significant leap towards training a universal robotic model capable of multifaceted tasks.</p>
+
+
+
+<h4 class="wp-block-heading">RT-1-X: A general-purpose robotics model</h4>
+
+
+
+<p>Accompanying this dataset is RT-1-X, a product of meticulous training on RT-1 – a real-world robotic control model – and RT-2, a vision-language-action model. This fusion resulted in RT-1-X, exhibiting exceptional skills transferability across various robot embodiments.</p>
+
+
+
+<p>In rigorous testing across five research labs, RT-1-X outperformed its counterparts by an average of 50 percent.</p>
+
+
+
+<p>The success of RT-1-X signifies a paradigm shift, demonstrating that training a single model with diverse, cross-embodiment data dramatically enhances its performance on various robots.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="RT-X Animation" width="1200" height="675" src="https://www.youtube.com/embed/xVJjbQ-TS-U?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h4 class="wp-block-heading">Emergent skills: Leaping into the future</h4>
+
+
+
+<p>The experimentation did not stop there. Researchers explored emergent skills, delving into uncharted territories of robotic capabilities.</p>
+
+
+
+<p>RT-2-X, an advanced version of the vision-language-action model, exhibited remarkable spatial understanding and problem-solving abilities. By incorporating data from different robots, RT-2-X demonstrated an expanded repertoire of tasks, showcasing the potential of shared learning in the robotic realm.</p>
+
+
+
+<h4 class="wp-block-heading">A responsible approach</h4>
+
+
+
+<p>Crucially, this research emphasises a responsible approach to the advancement of robotics.&nbsp;</p>
+
+
+
+<p>By openly sharing data and models, the global community can collectively elevate the field—transcending individual limitations and fostering an environment of shared knowledge and progress.</p>
+
+
+
+<p>The future of robotics lies in mutual learning, where robots teach each other, and researchers learn from one another. The momentous achievement unveiled this week paves the way for a future where robots seamlessly adapt to diverse tasks, heralding a new era of innovation and efficiency.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@brett_jordan?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Brett Jordan</a> on <a href="https://unsplash.com/photos/5L0R8ZqPZHk?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a>)</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/2023/09/25/amazon-invests-4b-anthropic-boost-ai-capabilities/"><strong>Amazon invests $4B in Anthropic to boost AI capabilities</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out <a href="https://www.ai-expo.net/">AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with <a href="https://digitaltransformation-week.com/">Digital Transformation Week</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/upcoming-events/">here.</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/open-x-embodiment-dataset-rt-x-model-aim-revolutionise-robotics/">Open X-Embodiment dataset and RT-X model aim to revolutionise robotics</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/open-x-embodiment-dataset-rt-x-model-aim-revolutionise-robotics/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>UK commits £13M to cutting-edge AI healthcare research</title>
+		<link>https://www.artificialintelligence-news.com/news/uk-commits-13m-cutting-edge-ai-healthcare-research/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=uk-commits-13m-cutting-edge-ai-healthcare-research</link>
+					<comments>https://www.artificialintelligence-news.com/news/uk-commits-13m-cutting-edge-ai-healthcare-research/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Thu, 10 Aug 2023 14:51:26 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Healthcare]]></category>
+		<category><![CDATA[Legislation & Government]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[health]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[robotics]]></category>
+		<category><![CDATA[uk]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=13457</guid>
+
+					<description><![CDATA[<p>The UK has announced a £13 million investment in cutting-edge AI research within the healthcare sector. The announcement, made by Technology Secretary Michelle Donelan, marks a major step forward in harnessing the potential of AI in revolutionising healthcare. The investment will empower 22 winning projects across universities and NHS trusts, from Edinburgh to Surrey, to<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/uk-commits-13m-cutting-edge-ai-healthcare-research/" title="ReadUK commits £13M to cutting-edge AI healthcare research">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/uk-commits-13m-cutting-edge-ai-healthcare-research/">UK commits £13M to cutting-edge AI healthcare research</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The UK has announced a £13 million investment in cutting-edge AI research within the healthcare sector.</p>
+
+
+
+<p>The announcement, made by Technology Secretary Michelle Donelan, marks a major step forward in harnessing the potential of AI in revolutionising healthcare. The investment will empower 22 winning projects across universities and NHS trusts, from Edinburgh to Surrey, to drive innovation and transform patient care.</p>
+
+
+
+<p>Dr Antonio Espingardeiro, <a href="https://www.ieee.org/">IEEE</a> member and software and robotics expert, comments:</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><em>“As it becomes more sophisticated, AI can efficiently conduct tasks traditionally undertaken by humans. The potential for the technology within the medical field is huge—it can analyse vast quantities of information and, when coupled with machine learning, search through records and infer patterns or anomalies in data, that would otherwise take decades for humans to analyse.</em></p>
+
+
+
+<p><em>We are just starting to see the beginning of a new era where machine learning could bring substantial value and transform the traditional role of the doctor. The true capabilities of this technology as an aide to the healthcare sector are yet to be fully realised. In the future, we may even be able to solve of some of the biggest challenges and issues of our time.</em></p>
+</blockquote>
+
+
+
+<p>One of the standout projects receiving funding is the University College London&#8217;s <a href="https://www.ucl.ac.uk/interventional-surgical-sciences/wellcome-epsrc-centre-interventional-and-surgical-sciences-weiss">Centre for Interventional and Surgical Sciences</a>. With a grant exceeding £500,000, researchers aim to develop a semi-autonomous surgical robotics platform designed to enhance the removal of brain tumours. This pioneering technology promises to elevate surgical outcomes, minimise complications, and expedite patient recovery times.</p>
+
+
+
+<p>“With the increased adoption of AI and robotics, we will soon be able to deliver the scalability that the healthcare sector needs and establish more proactive care delivery,” added Espingardeiro.</p>
+
+
+
+<p>University of Sheffield&#8217;s project, backed by £463,000, is focused on a crucial aspect of healthcare – chronic nerve pain. Their innovative approach aims to widen and improve treatments for this condition, which affects one in ten adults over 30.</p>
+
+
+
+<p>The University of Oxford&#8217;s project, bolstered by £640,000, seeks to expedite research into a foundational AI model for clinical risk prediction. By analysing an individual&#8217;s existing health conditions, this AI model could accurately forecast the likelihood of future health problems and revolutionise early intervention strategies.</p>
+
+
+
+<p>Meanwhile, Heriot-Watt University in Edinburgh has secured £644,000 to develop a groundbreaking system that offers real-time feedback to trainee surgeons practising laparoscopy procedures, also known as keyhole surgeries. This technology promises to enhance the proficiency of aspiring surgeons and elevate the overall quality of healthcare.</p>
+
+
+
+<p>Finally, the University of Surrey&#8217;s project – backed by £456,000 – will collaborate closely with radiologists to develop AI capable of enhancing mammogram analysis. By streamlining and improving this critical diagnostic process, AI could contribute to earlier cancer detection.</p>
+
+
+
+<p>Ayesha Iqbal, IEEE senior member and engineering trainer at the <a href="https://the-amtc.co.uk/">Advanced Manufacturing Training Centre</a>, said:</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><em>“The emergence of AI in healthcare has completely reshaped the way we diagnose, treat, and monitor patients.</em></p>
+
+
+
+<p><em>Applications of AI in healthcare include finding new links between genetic codes, performing robot-assisted surgeries, improving medical imaging methods, automating administrative tasks, personalising treatment options, producing more accurate diagnoses and treatment plans, enhancing preventive care and quality of life, predicting and tracking the spread of infectious diseases, and helping combat epidemics and pandemics.”</em></p>
+</blockquote>
+
+
+
+<p>With the UK healthcare sector already witnessing AI applications in improving stroke diagnosis, heart attack risk assessment, and more, the £13 million investment is poised to further accelerate transformative healthcare breakthroughs.</p>
+
+
+
+<p>Health and Social Care Secretary Steve Barclay commented:</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><em>“AI can help the NHS improve outcomes for patients, with breakthroughs leading to earlier diagnosis, more effective treatments, and faster recovery. It’s already being used in the NHS in a number of areas, from improving diagnosis and treatment for stroke patients to identifying those most at risk of a heart attack.</em></p>
+
+
+
+<p><em>This funding is yet another boost to help the UK lead the way in healthcare research. It comes on top of the £21 million we recently announced for trusts to roll out the latest AI diagnostic tools and £123 million invested in 86 promising tech through our AI in Health and Care Awards.”</em></p>
+</blockquote>
+
+
+
+<p>However, the announcement was made the same week as NHS waiting lists hit <a href="https://news.sky.com/video/nhs-data-waiting-list-hits-record-high-of-7-6-million-in-england-12937175">a record high</a>. Prime Minister Rishi Sunak made reducing waiting lists one of his <a href="https://www.gov.uk/government/news/prime-minister-outlines-his-five-key-priorities-for-2023">five key priorities for 2023</a> on which to hold him “to account directly for whether it is delivered.” Hope is being pinned on technologies like AI to help tackle waiting lists.</p>
+
+
+
+<p>This pivotal move is accompanied by the nation&#8217;s preparations <a href="https://www.artificialintelligence-news.com/2023/06/08/uk-host-global-ai-summit-address-potential-risks/">to host</a> the world&#8217;s first major international summit on AI safety, underscoring its commitment to responsible AI development.</p>
+
+
+
+<p>Scheduled for later this year, the AI safety summit will provide a platform for international stakeholders to collaboratively address AI&#8217;s risks and opportunities.</p>
+
+
+
+<p>As Europe’s AI leader, and the third-ranking globally behind the USA and China, the UK is well-positioned to lead these discussions and champion the responsible advancement of AI technology.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@nci?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">National Cancer Institute</a> on <a href="https://unsplash.com/photos/L8tWZT4CcVQ?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>)</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/2023/08/02/bsi-publishes-guidance-boost-trust-ai-healthcare/"><strong>BSI publishes guidance to boost trust in AI for healthcare</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out <a href="https://www.ai-expo.net/">AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The event is co-located with <a href="https://digitaltransformation-week.com/">Digital Transformation Week</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/upcoming-events/">here.</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/uk-commits-13m-cutting-edge-ai-healthcare-research/">UK commits £13M to cutting-edge AI healthcare research</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/uk-commits-13m-cutting-edge-ai-healthcare-research/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>SK Telecom outlines its plans with AI partners</title>
+		<link>https://www.artificialintelligence-news.com/news/sk-telecom-outlines-its-plans-with-ai-partners/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sk-telecom-outlines-its-plans-with-ai-partners</link>
+					<comments>https://www.artificialintelligence-news.com/news/sk-telecom-outlines-its-plans-with-ai-partners/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Tue, 20 Jun 2023 16:37:32 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Industries]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[sk telecom]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=13203</guid>
+
+					<description><![CDATA[<p>SK Telecom (SKT) is taking significant steps to solidify its position in the global AI ecosystem.  The company recently held a meeting at its Silicon Valley headquarters with CEOs from four new AI partners – CMES, MakinaRocks, Scatter Lab, and FriendliAI – to discuss business cooperation and forge a path towards leadership in the AI<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/sk-telecom-outlines-its-plans-with-ai-partners/" title="ReadSK Telecom outlines its plans with AI partners">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/sk-telecom-outlines-its-plans-with-ai-partners/">SK Telecom outlines its plans with AI partners</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://www.sktelecom.com/index_en.html">SK Telecom</a> (SKT) is taking significant steps to solidify its position in the global AI ecosystem. </p>
+
+
+
+<p>The company recently held a meeting at its Silicon Valley headquarters with CEOs from four new AI partners – CMES, MakinaRocks, Scatter Lab, and FriendliAI – to discuss business cooperation and forge a path towards leadership in the AI industry.</p>
+
+
+
+<p>SKT has been actively promoting AI transformation through strategic partnerships and collaborations with various AI companies. During MWC 2023, the company announced partnerships with seven AI companies: SAPEON, Bespin Global, Moloco, Konan Technology, Swit, Phantom AI, and Tuat.</p>
+
+
+
+<p>During the meeting, SKT&#8217;s CEO Ryu Young-sang outlined the company&#8217;s AI vision and discussed its business plans with the AI partners. The executives from SKT and its AI partners engaged in in-depth discussions on major global AI trends, the latest technological achievements, ongoing R&amp;D projects, and global business and investment opportunities.</p>
+
+
+
+<p>One of the notable discussions took place between SKT and CMES, an AI-powered robotics company.</p>
+
+
+
+<p>SKT and CMES exchanged views and ideas on the development of pricing plans for &#8220;Robot as a Service (RaaS)&#8221; and subscription-based business models for AI-driven RaaS tailored for enterprises.</p>
+
+
+
+<p>RaaS is gaining attention as a cost-effective alternative to additional manpower or infrastructure investment for automation. The demand for RaaS is expected to grow rapidly in sectors such as logistics, delivery, construction, and healthcare.</p>
+
+
+
+<p>Furthermore, SKT aims to collaborate with Scatter Lab, a renowned AI startup known for its Lee Lu-da chatbot. The company plans to integrate an emotional AI agent into its AI service, &#8216;A.&#8217;</p>
+
+
+
+<p>Additionally, SKT discussed strategies for synergy creation with MakinaRocks, a startup specialising in industrial AI solutions, and FriendliAI, a startup that provides a platform for developing generative AI models. By joining forces, the companies aim to establish a leading position in the global AI market.</p>
+
+
+
+<p>Ryu Young-sang, CEO of SKT, commented:</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><em>“Now with our AI partners on board, we have completed the blueprint for driving new growth in the global market.</em></p>
+
+
+
+<p><em>We will work together to develop diverse cooperation opportunities in AI, and bring our AI technologies and services to the global market.”</em></p>
+</blockquote>
+
+
+
+<p>By harnessing the expertise and technologies of its AI partners, SKT is well-positioned to lead the global AI ecosystem and deliver innovative AI solutions to the market.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@brett_jordan?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Brett Jordan</a> on <a href="https://unsplash.com/photos/q8ZgKZutttE?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>)</em></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out <a href="https://www.ai-expo.net/">AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The event is co-located with <a href="https://digitaltransformation-week.com/">Digital Transformation Week</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/sk-telecom-outlines-its-plans-with-ai-partners/">SK Telecom outlines its plans with AI partners</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/sk-telecom-outlines-its-plans-with-ai-partners/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tesla’s AI supercomputer tripped the power grid</title>
+		<link>https://www.artificialintelligence-news.com/news/tesla-ai-supercomputer-tripped-power-grid/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-ai-supercomputer-tripped-power-grid</link>
+					<comments>https://www.artificialintelligence-news.com/news/tesla-ai-supercomputer-tripped-power-grid/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2022 09:40:05 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[ai day]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[cabinet]]></category>
+		<category><![CDATA[dojo]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[optimus]]></category>
+		<category><![CDATA[robot]]></category>
+		<category><![CDATA[robotics]]></category>
+		<category><![CDATA[supercomputer]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<category><![CDATA[Tesla bot]]></category>
+		<category><![CDATA[tesla dojo]]></category>
+		<category><![CDATA[tesla optimus]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=12337</guid>
+
+					<description><![CDATA[<p>Tesla’s purpose-built AI supercomputer ‘Dojo’ is so powerful that it tripped the power grid. Dojo was unveiled at Tesla’s annual AI Day last year but the project was still in its infancy. At AI Day 2022, Tesla unveiled the progress it has made with Dojo over the course of the year. The supercomputer has transitioned<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/tesla-ai-supercomputer-tripped-power-grid/" title="ReadTesla’s AI supercomputer tripped the power grid">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/tesla-ai-supercomputer-tripped-power-grid/">Tesla’s AI supercomputer tripped the power grid</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Tesla’s purpose-built AI supercomputer ‘Dojo’ is so powerful that it tripped the power grid.</p>
+
+
+
+<p>Dojo was unveiled at Tesla’s annual AI Day last year but the project was still in its infancy. At AI Day 2022, Tesla unveiled the progress it has made with Dojo over the course of the year.</p>
+
+
+
+<p>The supercomputer has transitioned from just a chip and training tiles into a full cabinet. Tesla claims that it can replace six GPU boxes with a single Dojo tile, which it says is cheaper than one GPU box.</p>
+
+
+
+<p>Per tray, there are six Dojo tiles. Tesla claims that each tray is equivalent to “three to four full-loaded supercomputer racks”. Two trays can fit in a single Dojo cabinet with a host assembly.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2022/10/dojo-system-tray-1024x576.jpg" alt="" class="wp-image-12344" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/10/dojo-system-tray-1024x576.jpg 1024w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/10/dojo-system-tray-300x169.jpg 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/10/dojo-system-tray-768x432.jpg 768w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/10/dojo-system-tray-1536x864.jpg 1536w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/10/dojo-system-tray-2048x1152.jpg 2048w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/10/dojo-system-tray-355x200.jpg 355w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/10/dojo-system-tray-380x214.jpg 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/10/dojo-system-tray-350x197.jpg 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/10/dojo-system-tray-100x56.jpg 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/10/dojo-system-tray-60x34.jpg 60w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Such a supercomputer naturally has a large power draw. Dojo requires so much power that it managed to trip the grid in Palo Alto.</p>
+
+
+
+<p>“Earlier this year, we started load testing our power and cooling infrastructure. We were able to push it over 2 MW before we tripped our substation and got a call from the city,” said Bill Chang, Tesla’s Principal System Engineer for Dojo.</p>
+
+
+
+<p>In order to function, Tesla had to build custom infrastructure for Dojo with its own high-powered cooling and power system.</p>
+
+
+
+<p>An ‘ExaPOD’ (consisting of a few Dojo cabinets) has the following specs:</p>
+
+
+
+<ul class="wp-block-list"><li>1.1 EFLOP</li><li>1.3TB SRAM</li><li>13TB DRAM</li></ul>
+
+
+
+<p>Seven ExaPODs are currently planned to be housed in Palo Alto.</p>
+
+
+
+<p>Dojo is purpose-built for AI and will greatly improve Tesla’s ability to train neural nets using video data from its vehicles. These neural nets will be critical for Tesla’s self-driving efforts and its humanoid robot ‘Optimus’, which also made an appearance during this year’s event.</p>
+
+
+
+<h3 class="wp-block-heading">Optimus</h3>
+
+
+
+<p>Optimus was also first unveiled last year and was even more in its infancy than Dojo. In fact, all it was at the time was a person in a spandex suit and some PowerPoint slides.</p>
+
+
+
+<p>While it’s clear that Optimus still has a long way to go before it can do the shopping and carry out dangerous manual labour tasks, as Tesla envisions, we at least saw a working prototype of the robot at AI Day 2022.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2022/10/tesla-optimus-bot-ai-day--1024x683.jpg" alt="" class="wp-image-12346" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/10/tesla-optimus-bot-ai-day--1024x683.jpg 1024w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/10/tesla-optimus-bot-ai-day--300x200.jpg 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/10/tesla-optimus-bot-ai-day--768x512.jpg 768w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/10/tesla-optimus-bot-ai-day--1536x1024.jpg 1536w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/10/tesla-optimus-bot-ai-day--2048x1366.jpg 2048w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/10/tesla-optimus-bot-ai-day--380x253.jpg 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/10/tesla-optimus-bot-ai-day--350x233.jpg 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/10/tesla-optimus-bot-ai-day--100x67.jpg 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/10/tesla-optimus-bot-ai-day--60x40.jpg 60w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>&#8220;I do want to set some expectations with respect to our Optimus robot,” said Tesla CEO Elon Musk. “As you know, last year it was just a person in a robot suit. But, we&#8217;ve come a long way, and compared to that it&#8217;s going to be very impressive.&#8221;</p>
+
+
+
+<p>Optimus can now walk around and, if attached to apparatus from the ceiling, do some basic tasks like watering plants:</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Tesla AI Day 2022" width="1200" height="675" src="https://www.youtube.com/embed/ODSJsviD_SU?start=1188&#038;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>The prototype of Optimus was reportedly developed in the past six months and Tesla is hoping to get a working design within the “next few months… or years”. The price tag is “probably less than $20,000”.</p>
+
+
+
+<p>All the details of Optimus are still vague at the moment, but at least there’s more certainty around the Dojo supercomputer.</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><a href="https://www.ai-expo.net/"></a><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out <a href="https://www.ai-expo.net/">AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/upcoming-events/">here.</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/tesla-ai-supercomputer-tripped-power-grid/">Tesla’s AI supercomputer tripped the power grid</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/tesla-ai-supercomputer-tripped-power-grid/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

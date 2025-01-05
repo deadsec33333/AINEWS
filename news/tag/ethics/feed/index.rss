@@ -1,0 +1,1413 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ethics Archives - AI News</title>
+	<atom:link href="https://www.artificialintelligence-news.com/news/tag/ethics/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.artificialintelligence-news.com/news/tag/ethics/</link>
+	<description>Artificial Intelligence News</description>
+	<lastBuildDate>Fri, 20 Dec 2024 15:10:33 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://www.artificialintelligence-news.com/wp-content/uploads/2020/09/ai-icon-60x60.png</url>
+	<title>ethics Archives - AI News</title>
+	<link>https://www.artificialintelligence-news.com/news/tag/ethics/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ordnance Survey: Navigating the role of AI and ethical considerations in geospatial technology</title>
+		<link>https://www.artificialintelligence-news.com/news/ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology</link>
+					<comments>https://www.artificialintelligence-news.com/news/ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology/#respond</comments>
+		
+		<dc:creator><![CDATA[Duncan MacRae]]></dc:creator>
+		<pubDate>Mon, 23 Dec 2024 07:09:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Industries]]></category>
+		<category><![CDATA[ethics]]></category>
+		<category><![CDATA[future]]></category>
+		<category><![CDATA[geospatial technology]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16773</guid>
+
+					<description><![CDATA[<p>As we approach a new year filled with potential, the landscape of technology, particularly artificial intelligence (AI) and machine learning (ML), is on the brink of significant transformation. Manish Jethwa, CTO at Ordnance Survey (OS), the national mapping agency for Great Britain, offers an insightful glimpse into what we can expect from these advancements and<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology/" title="ReadOrdnance Survey: Navigating the role of AI and ethical considerations in geospatial technology">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology/">Ordnance Survey: Navigating the role of AI and ethical considerations in geospatial technology</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>As we approach a new year filled with potential, the landscape of technology, particularly artificial intelligence (AI) and machine learning (ML), is on the brink of significant transformation. Manish Jethwa, CTO at Ordnance Survey (OS), the national mapping agency for Great Britain, offers an insightful glimpse into what we can expect from these advancements and their implications for the geospatial sector.</p>
+
+
+
+<p><strong>Breaking Down Barriers with AI</strong></p>
+
+
+<div class="wp-block-image">
+<figure class="alignright size-full is-resized"><img fetchpriority="high" decoding="async" width="512" height="489" src="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394.jpg" alt="" class="wp-image-16778" style="width:314px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394.jpg 512w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394-300x287.jpg 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394-209x200.jpg 209w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394-298x285.jpg 298w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394-262x250.jpg 262w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394-100x96.jpg 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394-60x57.jpg 60w" sizes="(max-width: 512px) 100vw, 512px" /></figure></div>
+
+
+<p>Looking ahead, Jethwa anticipates continued significant advancements in AI and machine learning, particularly with the push towards Gen AI. According to him, the integration of large language models (LLMs) with more sophisticated agents will not only perform complex tasks on behalf of users but also further reduce barriers to interaction. This shift, especially in the geospatial field, means that translating natural language into precise data queries will become more seamless, ultimately making geospatial datasets more accessible, mainstream, and user-friendly.</p>
+
+
+
+<p><strong>Training for Complex Tasks</strong></p>
+
+
+
+<p>Beyond LLMs, Jethwa is optimistic about progress in the broader category of machine learning, driven by greater access to graphics processing units for training.</p>
+
+
+
+<p>He says: “At Ordnance Survey (OS), we’ll leverage this capability to train models for specific, complex tasks such as automatic feature extraction from imagery.</p>
+
+
+
+<p>“With an increasing volume of data generated automatically, hopefully next year will also bring innovative tools and techniques to validate data, ensuring it can be confidently utilised for its intended use.”</p>
+
+
+
+<p>He underscores the importance of not only pursuing new capabilities but also ensuring that these tools are integrated responsibly into workflows, focusing on quality and risk management.</p>
+
+
+
+<p><strong>The Ethical Frontier</strong></p>
+
+
+
+<p>The rapid evolution of AI brings with it an urgent need for ethical considerations.&nbsp;</p>
+
+
+
+<p>Jethwa explains: “I would like to see a greater emphasis on ethical AI and responsible technology development,&#8221; including creating AI systems that are “transparent, fair, and unbiased” while also considering their environmental and societal impact.</p>
+
+
+
+<p>This focus on ethics is encapsulated in OS’s Responsible AI Charter, which guides their approach to integrating new techniques safely.</p>
+
+
+
+<p>Moreover, Jethwa highlights the role of workforce development in successful transformations. He believes organisations must commit to “retraining and upskilling employees to prepare them for the impact of AI and digital transformation.”&nbsp;</p>
+
+
+
+<p>This is vital to ensure that in the pursuit of enhanced efficiency, companies do not “lose the personality, creativity, and emotion that we bring as humans into the workplace.”&nbsp;</p>
+
+
+
+<p><strong>Embracing Change While Managing Risks</strong></p>
+
+
+
+<p>Despite the promise of technological advancements, obstacles remain in the journey toward digital transformation. Jethwa notes that challenges such as “cultural resistance and rapid successive changes leading to change fatigue will likely persist.” </p>
+
+
+
+<p>He advocates for a careful balance between adopting new technologies and addressing the human elements of transformation processes.</p>
+
+
+
+<p>As AI continues to influence various aspects of business, from decision-making to risk management, the issue of cybersecurity also looms large. Jethwa points out that “cybersecurity threats being powered by AI are becoming more sophisticated,” urging companies to develop comprehensive strategies that cover everything from data storage to analysis documentation.</p>
+
+
+
+<p><strong>The Imperative to Progress</strong></p>
+
+
+
+<p>In an evolving landscape, organisations that stagnate risk falling behind their competitors. Jethwa explains: “Companies that fail to keep up open themselves up to risks, such as changing customer expectations as well as attracting and retaining talent.”&nbsp;</p>
+
+
+
+<p>He also emphasises the need for a “clear vision of future goals, effective communication of progress, and celebrating milestones to sustain momentum” in digital transformation initiatives.</p>
+
+
+
+<p>As we move into a new year filled with promise, the future of AI and geospatial technology holds transformative power &#8211; but it must be used responsibly. The path that lies ahead in 2025 requires vigilance, an unwavering commitment to ethical practices and a human touch in order to drive successful innovation.</p>
+
+
+
+<p><em>(Photos by <a href="https://unsplash.com/@anniespratt">Annie Spratt</a> and Ordnance Survey)</em></p>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong>&nbsp;Check out<a href="https://www.ai-expo.net/">&nbsp;AI &amp; Big Data Expo</a>&nbsp;taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including&nbsp;<a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>,&nbsp;<a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/">&nbsp;Digital Transformation Week</a>, and&nbsp;<a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge&nbsp;<a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology/">Ordnance Survey: Navigating the role of AI and ethical considerations in geospatial technology</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>AI governance: Analysing emerging global regulations</title>
+		<link>https://www.artificialintelligence-news.com/news/ai-governance-analysing-emerging-global-regulations/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ai-governance-analysing-emerging-global-regulations</link>
+					<comments>https://www.artificialintelligence-news.com/news/ai-governance-analysing-emerging-global-regulations/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Thu, 19 Dec 2024 16:21:18 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Legislation & Government]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[ai act]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[ethics]]></category>
+		<category><![CDATA[eu]]></category>
+		<category><![CDATA[europe]]></category>
+		<category><![CDATA[framework]]></category>
+		<category><![CDATA[governance]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[law]]></category>
+		<category><![CDATA[legal]]></category>
+		<category><![CDATA[Legislation]]></category>
+		<category><![CDATA[privacy]]></category>
+		<category><![CDATA[regulation]]></category>
+		<category><![CDATA[risks]]></category>
+		<category><![CDATA[Society]]></category>
+		<category><![CDATA[usa]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16742</guid>
+
+					<description><![CDATA[<p>Governments are scrambling to establish regulations to govern AI, citing numerous concerns over data privacy, bias, safety, and more. AI News caught up with Nerijus Šveistys, Senior Legal Counsel at Oxylabs, to understand the state of play when it comes to AI regulation and its potential implications for industries, businesses, and innovation. “The boom of<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/ai-governance-analysing-emerging-global-regulations/" title="ReadAI governance: Analysing emerging global regulations">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ai-governance-analysing-emerging-global-regulations/">AI governance: Analysing emerging global regulations</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Governments are scrambling to establish regulations to govern AI, citing numerous concerns over data privacy, bias, safety, and more.</p>
+
+
+<div class="wp-block-image">
+<figure class="alignright size-full is-resized"><img decoding="async" width="800" height="800" src="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Nerijus-Sveistys-oxylabs.jpeg" alt="" class="wp-image-16743" style="width:174px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Nerijus-Sveistys-oxylabs.jpeg 800w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Nerijus-Sveistys-oxylabs-300x300.jpeg 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Nerijus-Sveistys-oxylabs-150x150.jpeg 150w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Nerijus-Sveistys-oxylabs-768x768.jpeg 768w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Nerijus-Sveistys-oxylabs-125x125.jpeg 125w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Nerijus-Sveistys-oxylabs-200x200.jpeg 200w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Nerijus-Sveistys-oxylabs-285x285.jpeg 285w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Nerijus-Sveistys-oxylabs-250x250.jpeg 250w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Nerijus-Sveistys-oxylabs-100x100.jpeg 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Nerijus-Sveistys-oxylabs-60x60.jpeg 60w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Nerijus-Sveistys-oxylabs-400x400.jpeg 400w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Nerijus-Sveistys-oxylabs-600x600.jpeg 600w" sizes="(max-width: 800px) 100vw, 800px" /></figure></div>
+
+
+<p>AI News caught up with Nerijus Šveistys, Senior Legal Counsel at <a href="https://oxylabs.io/">Oxylabs</a>, to understand the state of play when it comes to AI regulation and its potential implications for industries, businesses, and innovation.</p>
+
+
+
+<p>“The boom of the last few years appears to have sparked a push to establish regulatory frameworks for AI governance,” explains Šveistys.</p>
+
+
+
+<p>“This is a natural development, as the rise of AI seems to pose issues in data privacy and protection, bias and discrimination, safety, intellectual property, and other legal areas, as well as ethics that need to be addressed.”</p>
+
+
+
+<h3 class="wp-block-heading">Regions diverge in regulatory strategy</h3>
+
+
+
+<p>The European Union’s <a href="https://www.artificialintelligence-news.com/news/eu-ai-act-early-prep-could-give-businesses-competitive-edge/">AI Act</a> has, unsurprisingly, positioned the region with a strict, centralised approach. The regulation, which came into force this year, is set to be fully effective by 2026.</p>
+
+
+
+<p>Šveistys pointed out that the EU has acted relatively swiftly compared to other jurisdictions: “The main difference we can see is the comparative quickness with which the EU has released a uniform regulation to govern the use of all types of AI.”</p>
+
+
+
+<p>Meanwhile, other regions have opted for more piecemeal approaches. China, for instance, has been implementing regulations specific to certain AI technologies in a phased-out manner. According to Šveistys, China began regulating AI models as early as 2021.</p>
+
+
+
+<p>“In 2021, they introduced regulation on recommendation algorithms, which [had] increased their capabilities in digital advertising. It was followed by regulations <a href="https://www.artificialintelligence-news.com/news/chinas-deepfake-laws-come-into-effect-today/">on deep synthesis models</a> or, in common terms, deepfakes and content generation in 2022,” he said.</p>
+
+
+
+<p>“Then, in 2023, regulation on generative AI models was introduced as these models were making a splash in commercial usage.”</p>
+
+
+
+<p>The US, in contrast, remains relatively uncoordinated in its approach. Federal-level regulations are yet to be enacted, with efforts mostly emerging at the state level.</p>
+
+
+
+<p>“There are proposed regulations at the state level, such as the so-called California AI Act, but even if they come into power, it may still take some time before they do,” Šveistys noted.</p>
+
+
+
+<p>This delay in implementing unified AI regulations in the US has raised questions about the extent to which business pushback may be contributing to the slow rollout. Šveistys said that while lobbyist pressure is a known factor, it’s not the only potential reason.</p>
+
+
+
+<p>“There was <a href="https://www.artificialintelligence-news.com/news/tech-industry-giants-urge-eu-streamline-ai-regulations/">pushback to the EU AI Act</a>, too, which was nevertheless introduced. Thus, it is not clear whether the delay in the US is only due to lobbyism or other obstacles in the legislation enactment process,” explains Šveistys.</p>
+
+
+
+<p>“It might also be because some still see AI as a futuristic concern, not fully appreciating the extent to which it is already a legal issue of today.”</p>
+
+
+
+<h3 class="wp-block-heading">Balancing innovation and safety</h3>
+
+
+
+<p>Differentiated regulatory approaches could affect the pace of innovation and business competitiveness across regions.</p>
+
+
+
+<p>Europe’s regulatory framework, though more stringent, aims to ensure consumer protection and ethical adherence—something that less-regulated environments may lack.</p>
+
+
+
+<p>“More rigid regulatory frameworks may impose compliance costs for businesses in the AI field and stifle competitiveness and innovation. On the other hand, they bring the benefits of protecting consumers and adhering to certain ethical norms,” comments Šveistys.</p>
+
+
+
+<p>This trade-off is especially pronounced in AI-related sectors such as targeted advertising, where algorithmic bias is increasingly scrutinised.</p>
+
+
+
+<p>AI governance often extends beyond laws that specifically target AI, incorporating related legal areas like those governing data collection and privacy. For example, the EU AI Act also regulates the use of AI in physical devices, such as elevators.</p>
+
+
+
+<p>&#8220;Additionally, all businesses that collect data for advertisement are potentially affected as AI regulation can also cover algorithmic bias in targeted advertising,&#8221; emphasises Šveistys.</p>
+
+
+
+<h3 class="wp-block-heading">Impact on related industries</h3>
+
+
+
+<p>One industry that is deeply intertwined with AI developments is web scraping. Typically used for collecting publicly available data, web scraping is undergoing an AI-driven evolution.</p>
+
+
+
+<p>&#8220;From data collection, validation, analysis, or overcoming anti-scraping measures, there is a lot of potential for AI to massively improve the efficiency, accuracy, and adaptability of web scraping operations,&#8221; said Šveistys.&nbsp;</p>
+
+
+
+<p>However, as AI regulation and related laws tighten, web scraping companies will face greater scrutiny.</p>
+
+
+
+<p>“AI regulations may also bring the spotlight on certain areas of law that were always very relevant to the web scraping industry, such as privacy or copyright laws,” Šveistys added.</p>
+
+
+
+<p>“At the end of the day, scraping content protected by such laws without proper authorisation could always lead to legal issues, and now so can using AI this way.”</p>
+
+
+
+<h3 class="wp-block-heading">Copyright battles and legal precedents</h3>
+
+
+
+<p>The implications of AI regulation are also playing out on a broader legal stage, particularly in cases involving generative AI tools.</p>
+
+
+
+<p>High-profile <a href="https://www.artificialintelligence-news.com/news/openai-and-microsoft-lawsuit-github-copilot/">lawsuits</a> have been launched against AI giants like OpenAI and its primary backer, Microsoft, by authors, artists, and musicians who claim their copyrighted materials were used to train AI systems without proper permission.</p>
+
+
+
+<p>“These cases are pivotal in determining the legal boundaries of using copyrighted material for AI development and establishing legal precedents for protecting intellectual property in the digital age,” said Šveistys.</p>
+
+
+
+<p>While these lawsuits could take years to resolve, their outcomes may fundamentally shape the future of AI development. So, what can businesses do now as the regulatory and legal landscape continues to evolve?</p>
+
+
+
+<p>“Speaking about the specific cases of using copyrighted material for AI training, businesses should approach this the same way as any web-scraping activity – that is, evaluate the specific data they wish to collect with the help of a legal expert in the field,” recommends Šveistys.</p>
+
+
+
+<p>“It is important to recognise that the AI legal landscape is very new and rapidly evolving, with not many precedents in place to refer to as of yet. Hence, continuous monitoring and adaptation of your AI usage are crucial.”</p>
+
+
+
+<p>Just this week, the UK Government made headlines with its announcement of a consultation on the use of copyrighted material for training AI models. Under the proposals, tech firms could be permitted to use copyrighted material unless owners have specifically opted out.</p>
+
+
+
+<p>Despite the diversity of approaches globally, the AI regulatory push marks a significant moment for technological governance. Whether through the EU’s comprehensive model, China’s step-by-step strategy, or narrower, state-level initiatives like in the US, businesses worldwide must navigate a complex, evolving framework.</p>
+
+
+
+<p>The challenge ahead will be striking the right balance between fostering innovation and mitigating risks, ensuring that AI remains a force for good while avoiding potential harms.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@nathangbingle?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Nathan Bingle</a>)</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/anthropic-urges-ai-regulation-avoid-catastrophes/"><strong>Anthropic urges AI regulation to avoid catastrophes</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:844px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="(max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ai-governance-analysing-emerging-global-regulations/">AI governance: Analysing emerging global regulations</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/ai-governance-analysing-emerging-global-regulations/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>UK wants to prove AI can modernise public services responsibly</title>
+		<link>https://www.artificialintelligence-news.com/news/uk-wants-prove-ai-can-modernise-public-services-responsibly/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=uk-wants-prove-ai-can-modernise-public-services-responsibly</link>
+					<comments>https://www.artificialintelligence-news.com/news/uk-wants-prove-ai-can-modernise-public-services-responsibly/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Wed, 18 Dec 2024 15:37:46 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Legislation & Government]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[ethics]]></category>
+		<category><![CDATA[europe]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[innovation]]></category>
+		<category><![CDATA[public sector]]></category>
+		<category><![CDATA[Society]]></category>
+		<category><![CDATA[strategy]]></category>
+		<category><![CDATA[uk]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16736</guid>
+
+					<description><![CDATA[<p>The UK Government wants to prove that AI is being deployed responsibly within public services to speed up decision-making, reduce backlogs, and enhance support for citizens. New records, part of the Algorithmic Transparency Recording Standard (ATRS), were published this week to shed light on the AI tools being used and set a benchmark for transparency<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/uk-wants-prove-ai-can-modernise-public-services-responsibly/" title="ReadUK wants to prove AI can modernise public services responsibly">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/uk-wants-prove-ai-can-modernise-public-services-responsibly/">UK wants to prove AI can modernise public services responsibly</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The UK Government wants to prove that AI is being deployed responsibly within public services to speed up decision-making, reduce backlogs, and enhance support for citizens.</p>
+
+
+
+<p>New records, part of the Algorithmic Transparency Recording Standard (ATRS), were <a href="https://www.gov.uk/algorithmic-transparency-records">published</a> this week to shed light on the AI tools being used and set a benchmark for transparency and accountability in the integration of technology in public service delivery.</p>
+
+
+
+<p>The initiative is part of the government’s broader strategy to embrace technology to improve outcomes, echoing commitments outlined in the <a href="https://www.gov.uk/missions">&#8220;Plan for Change&#8221;</a> to modernise public services and drive economic growth through innovative solutions.</p>
+
+
+
+<h3 class="wp-block-heading">The power of AI for modernisation</h3>
+
+
+
+<p>Among the published records, the Foreign, Commonwealth and Development Office is leveraging AI to provide faster responses to Britons seeking assistance overseas. Similarly, the Ministry of Justice is utilising algorithms to help researchers gain a deeper understanding of how individuals interact with the justice system, while other departments are deploying AI to enhance job advertisements.</p>
+
+
+
+<p>The ATRS aims to document how such algorithmic tools are utilised and ensure their responsible application. By doing so, the government hopes to strengthen public trust in these innovations while encouraging their continued adoption across sectors.</p>
+
+
+
+<p>Speaking on the government’s approach, Science Secretary Peter Kyle remarked:&nbsp;&nbsp;</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><em>&#8220;Technology has huge potential to transform public services for the better; we will put it to use to cut backlogs, save money, and improve outcomes for citizens across the country.</em></p>
+
+
+
+<p><em>Transparency in how and why the public sector is using algorithmic tools is crucial to ensure that they are trusted and effective. That is why we will continue to take bold steps like releasing these records to make sure everyone is clear on how we are applying and trialling technology as we use it to bring public services back from the brink.&#8221;</em></p>
+</blockquote>
+
+
+
+<p>Specifically, the Department for Business and Trade has highlighted its algorithmic tool designed to predict which companies are likely to export goods internationally.</p>
+
+
+
+<p>The AI-driven approach allows officials to target support towards high-growth potential businesses, enabling them to reach global markets faster. Previously reliant on time-consuming manual methods to analyse the more than five million companies registered on Companies House, this advancement ensures better allocation of resources and expedited assistance.</p>
+
+
+
+<p>Business Secretary Jonathan Reynolds said:&nbsp;&nbsp;</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><em>&#8220;Our Plan for Change will deliver economic growth, and for that to succeed, we need to support companies across the UK to realise their full potential when it comes to exporting around the globe.</em></p>
+
+
+
+<p><em>Our use of AI plays a vital and growing role in that mission, allowing high-growth businesses to maximise the export opportunities available to them, while ensuring that we are using taxpayers’ money responsibly and efficiently in delivering economic stability.&#8221;</em></p>
+</blockquote>
+
+
+
+<h3 class="wp-block-heading">Establishing clear guidelines for AI in public services</h3>
+
+
+
+<p>To bolster public trust, new guidelines have been announced to clarify the scope of algorithmic transparency records.</p>
+
+
+
+<p>Central government organisations will need to publish a record for any algorithmic tool that interacts directly with citizens or plays a significant role in decision-making about individuals. Limited exceptions, such as those concerning national security, apply.&nbsp;&nbsp;</p>
+
+
+
+<p>These records will be published once tools are piloted publicly or have become operational. They will detail the data used to train AI models, the underlying technologies, and the measures implemented to mitigate risks.</p>
+
+
+
+<p>Importantly, the records also seek to confirm that – while AI tools are used to accelerate decision-making processes – human oversight remains integral, with trained staff responsible for final decisions.</p>
+
+
+
+<p>Dr Antonio Espingardeiro, a member of <a href="https://www.ieee.org/">IEEE</a> and an expert in software and robotics, commented:</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><em>&#8220;AI has the potential to radically transform the public sector. In recent years, we have seen AI become a credible part of everyday public services. As it becomes more sophisticated, AI can conduct data-heavy tasks traditionally undertaken by humans. It can analyse vast quantities of information and, when coupled with machine learning, search through records and infer patterns or anomalies in data that would otherwise take decades for humans to analyse.</em></p>
+
+
+
+<p><em>With this announcement, the UK government has acknowledged AI’s potential and proven that technology investment is essential to improving outcomes and the delivery of vital services. Over time, machine learning and generative AI (GenAI) could bring substantial value to the public system. With increased adoption, we will soon be able to deliver the scalability that the public sector needs and relieve the pressures and workloads placed on staff.&#8221;</em></p>
+</blockquote>
+
+
+
+<p>Eleanor Watson, also a member of IEEE and an AI ethics engineer affiliated with <a href="https://www.su.org/">Singularity University</a>, added:</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><em>&#8220;With AI growing more rapidly than ever before, and already being tested and employed in education, healthcare, transportation, finance, data security, and more, the government, tech leaders, and academia should work together to establish standards and regulations for safe and responsible development of AI-based systems. This way, AI can be used to its full potential as indicated with this latest announcement.</em></p>
+
+
+
+<p><em>Data privacy is probably the most critical ethical consideration, requiring informed consent, data anonymisation, strict access controls, secure storage, and compliance. New techniques such as homomorphic encryption, zero-knowledge proofs, federated learning, and part-trained models can help models to make use of our personal data in an encrypted form.&#8221;</em></p>
+</blockquote>
+
+
+
+<p>Transparency remains a key tenet of the UK Government’s AI strategy. This announcement follows a recent statement by Pat McFadden, Chancellor of the Duchy of Lancaster, who affirmed that the benefits of technology – particularly AI – must span both public and private sectors and be used to modernise government.</p>
+
+
+
+<p>As the Science Secretary’s department solidifies government efforts to create a &#8220;digital centre,&#8221; it marks a major step forward in boosting the responsible and effective use of AI across the UK’s public sector.</p>
+
+
+
+<p>The ATRS records offer a valuable template for how governments worldwide can deploy AI systems to maximise efficiency, grow transparency, and balance the need for innovation with ethical considerations.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@shreyasdbz?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Shreyas Sane</a>)</em></p>
+
+
+
+<p><strong><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/mhra-pilots-ai-airlock-accelerate-healthcare-adoption/"><strong>MHRA pilots ‘AI Airlock’ to accelerate healthcare adoption</strong></a></strong></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:1082px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/uk-wants-prove-ai-can-modernise-public-services-responsibly/">UK wants to prove AI can modernise public services responsibly</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/uk-wants-prove-ai-can-modernise-public-services-responsibly/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Machine unlearning: Researchers make AI models ‘forget’ data</title>
+		<link>https://www.artificialintelligence-news.com/news/machine-unlearning-researchers-ai-models-forget-data/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=machine-unlearning-researchers-ai-models-forget-data</link>
+					<comments>https://www.artificialintelligence-news.com/news/machine-unlearning-researchers-ai-models-forget-data/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Tue, 10 Dec 2024 17:18:26 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[ethics]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[privacy]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16680</guid>
+
+					<description><![CDATA[<p>Researchers from the Tokyo University of Science (TUS) have developed a method to enable large-scale AI models to selectively &#8220;forget&#8221; specific classes of data. Progress in AI has provided tools capable of revolutionising various domains, from healthcare to autonomous driving. However, as technology advances, so do its complexities and ethical considerations.&#160; The paradigm of large-scale<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/machine-unlearning-researchers-ai-models-forget-data/" title="ReadMachine unlearning: Researchers make AI models ‘forget’ data">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/machine-unlearning-researchers-ai-models-forget-data/">Machine unlearning: Researchers make AI models ‘forget’ data</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Researchers from the <a href="https://www.tus.ac.jp/en/">Tokyo University of Science</a> (TUS) have developed a method to enable large-scale AI models to selectively &#8220;forget&#8221; specific classes of data.</p>
+
+
+
+<p>Progress in AI has provided tools capable of revolutionising various domains, from healthcare to autonomous driving. However, as technology advances, so do its complexities and ethical considerations.&nbsp;</p>
+
+
+
+<p>The paradigm of large-scale pre-trained AI systems, such as OpenAI’s ChatGPT and <a href="https://openai.com/index/clip/">CLIP</a> (Contrastive Language–Image Pre-training), has reshaped expectations for machines. These highly generalist models, capable of handling a vast array of tasks with consistent precision, have seen widespread adoption for both professional and personal use.&nbsp;&nbsp;</p>
+
+
+
+<p>However, such versatility comes at a hefty price. Training and running these models demands prodigious amounts of energy and time, raising sustainability concerns, as well as requiring cutting-edge hardware significantly more expensive than standard computers. Compounding these issues is that generalist tendencies may hinder the efficiency of AI models when applied to specific tasks.&nbsp;&nbsp;</p>
+
+
+
+<p>For instance, “in practical applications, the classification of all kinds of object classes is rarely required,” explains Associate Professor Go Irie, who led the research. “For example, in an autonomous driving system, it would be sufficient to recognise limited classes of objects such as cars, pedestrians, and traffic signs.</p>
+
+
+
+<p>“We would not need to recognise food, furniture, or animal species. Retaining classes that do not need to be recognised may decrease overall classification accuracy, as well as cause operational disadvantages such as the waste of computational resources and the risk of information leakage.”&nbsp;&nbsp;</p>
+
+
+
+<p>A potential solution lies in training models to “forget” redundant or unnecessary information—streamlining their processes to focus solely on what is required. While some existing methods already cater to this need, they tend to assume a “white-box” approach where users have access to a model’s internal architecture and parameters. Oftentimes, however, users get no such visibility.&nbsp;&nbsp;</p>
+
+
+
+<p>“Black-box” AI systems, more common due to commercial and ethical restrictions, conceal their inner mechanisms, rendering traditional forgetting techniques impractical. To address this gap, the research team turned to derivative-free optimisation—an approach that sidesteps reliance on the inaccessible internal workings of a model.&nbsp;&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">Advancing through forgetting</h3>
+
+
+
+<p>The study, set to be presented at the Neural Information Processing Systems (NeurIPS) conference in 2024, introduces a methodology dubbed “black-box forgetting.”</p>
+
+
+
+<p>The process modifies the input prompts (text instructions fed to models) in iterative rounds to make the AI progressively &#8220;forget&#8221; certain classes. Associate Professor Irie collaborated on the work with co-authors Yusuke Kuwana and Yuta Goto (both from TUS), alongside Dr Takashi Shibata from <a href="https://www.nec.com/">NEC Corporation</a>.&nbsp;&nbsp;</p>
+
+
+
+<p>For their experiments, the researchers targeted CLIP, a vision-language model with image classification abilities. The method they developed is built upon the Covariance Matrix Adaptation Evolution Strategy (CMA-ES), an evolutionary algorithm designed to optimise solutions step-by-step. In this study, CMA-ES was harnessed to evaluate and hone prompts provided to CLIP, ultimately suppressing its ability to classify specific image categories.</p>
+
+
+
+<p>As the project progressed, challenges arose. Existing optimisation techniques struggled to scale up for larger volumes of targeted categories, leading the team to devise a novel parametrisation strategy known as &#8220;latent context sharing.&#8221;&nbsp;&nbsp;</p>
+
+
+
+<p>This approach breaks latent context – a representation of information generated by prompts – into smaller, more manageable pieces. By allocating certain elements to a single token (word or character) while reusing others across multiple tokens, they dramatically reduced the problem&#8217;s complexity. Crucially, this made the process computationally tractable even for extensive forgetting applications.&nbsp;&nbsp;</p>
+
+
+
+<p>Through benchmark tests on multiple image classification datasets, the researchers validated the efficacy of black-box forgetting—achieving the goal of making CLIP &#8220;forget&#8221; approximately 40% of target classes without direct access to the AI model&#8217;s internal architecture.</p>
+
+
+
+<p>This research marks the first successful attempt to induce selective forgetting in a black-box vision-language model, demonstrating promising results.&nbsp;&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">Benefits of helping AI models forget data</h3>
+
+
+
+<p>Beyond its technical ingenuity, this innovation holds significant potential for real-world applications where task-specific precision is paramount.</p>
+
+
+
+<p>Simplifying models for specialised tasks could make them faster, more resource-efficient, and capable of running on less powerful devices—hastening the adoption of AI in areas previously deemed unfeasible.&nbsp;&nbsp;</p>
+
+
+
+<p>Another key use lies in image generation, where forgetting entire categories of visual context could prevent models from inadvertently creating undesirable or harmful content, be it offensive material or misinformation.&nbsp;&nbsp;</p>
+
+
+
+<p>Perhaps most importantly, this method addresses one of AI’s greatest ethical quandaries: <a href="https://www.artificialintelligence-news.com/categories/privacy/">privacy</a>.</p>
+
+
+
+<p>AI models, particularly large-scale ones, are often trained on massive datasets that may inadvertently contain sensitive or outdated information. Requests to remove such data—especially in light of laws advocating for the “Right to be Forgotten”—pose significant challenges.</p>
+
+
+
+<p>Retraining entire models to exclude problematic data is costly and time-intensive, yet the risks of leaving it unaddressed can have far-reaching consequences.</p>
+
+
+
+<p>“Retraining a large-scale model consumes enormous amounts of energy,” notes Associate Professor Irie. “‘Selective forgetting,’ or so-called machine unlearning, may provide an efficient solution to this problem.”&nbsp;&nbsp;</p>
+
+
+
+<p>These privacy-focused applications are especially relevant in high-stakes industries like <a href="https://www.artificialintelligence-news.com/categories/ai-industries/healthcare/">healthcare</a> and <a href="https://www.artificialintelligence-news.com/news/large-language-models-could-revolutionsise-the-finance-sector-within-two-years/">finance</a>, where sensitive data is central to operations.&nbsp;&nbsp;</p>
+
+
+
+<p>As the global race to advance AI accelerates, the Tokyo University of Science’s black-box forgetting approach charts an important path forward—not only by making the technology more adaptable and efficient but also by adding significant safeguards for users.&nbsp;&nbsp;</p>
+
+
+
+<p>While the potential for misuse remains, methods like selective forgetting demonstrate that researchers are proactively addressing both ethical and practical challenges.&nbsp;&nbsp;</p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/why-qwq-32b-preview-is-the-reasoning-ai-to-watch/"><strong>Why QwQ-32B-Preview is the reasoning AI to watch</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:769px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/machine-unlearning-researchers-ai-models-forget-data/">Machine unlearning: Researchers make AI models ‘forget’ data</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/machine-unlearning-researchers-ai-models-forget-data/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>OpenAI enhances AI safety with new red teaming methods</title>
+		<link>https://www.artificialintelligence-news.com/news/openai-enhances-ai-safety-new-red-teaming-methods/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=openai-enhances-ai-safety-new-red-teaming-methods</link>
+					<comments>https://www.artificialintelligence-news.com/news/openai-enhances-ai-safety-new-red-teaming-methods/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Fri, 22 Nov 2024 15:47:04 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[development]]></category>
+		<category><![CDATA[ethics]]></category>
+		<category><![CDATA[openai]]></category>
+		<category><![CDATA[red teaming]]></category>
+		<category><![CDATA[safety]]></category>
+		<category><![CDATA[Society]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16543</guid>
+
+					<description><![CDATA[<p>A critical part of OpenAI’s safeguarding process is &#8220;red teaming&#8221; — a structured methodology using both human and AI participants to explore potential risks and vulnerabilities in new systems. Historically, OpenAI has engaged in red teaming efforts predominantly through manual testing, which involves individuals probing for weaknesses. This was notably employed during the testing of<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/openai-enhances-ai-safety-new-red-teaming-methods/" title="ReadOpenAI enhances AI safety with new red teaming methods">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/openai-enhances-ai-safety-new-red-teaming-methods/">OpenAI enhances AI safety with new red teaming methods</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>A critical part of OpenAI’s safeguarding process is &#8220;red teaming&#8221; — a structured methodology using both human and AI participants to explore potential risks and vulnerabilities in new systems.</p>
+
+
+
+<p>Historically, OpenAI has engaged in red teaming efforts predominantly through manual testing, which involves individuals probing for weaknesses. This was notably employed during the testing of their DALL·E 2 image generation model in early 2022, where external experts were invited to identify potential risks. Since then, OpenAI has expanded and refined its methodologies, incorporating automated and mixed approaches for a more comprehensive risk assessment.</p>
+
+
+
+<p>&#8220;We are optimistic that we can use more powerful AI to scale the discovery of model mistakes,&#8221; OpenAI stated. This optimism is rooted in the idea that automated processes can help evaluate models and train them to be safer by recognising patterns and errors on a larger scale.</p>
+
+
+
+<p>In their latest push for advancement, OpenAI is sharing two important documents on red teaming — a white paper detailing external engagement strategies and a research study introducing a novel method for automated red teaming. These contributions aim to strengthen the process and outcomes of red teaming, ultimately leading to safer and more responsible AI implementations.</p>
+
+
+
+<p>As AI continues to evolve, understanding user experiences and identifying risks such as abuse and misuse are crucial for researchers and developers. Red teaming provides a proactive method for evaluating these risks, especially when supplemented by insights from a range of independent external experts. This approach not only helps establish benchmarks but also facilitates the enhancement of safety evaluations over time.</p>
+
+
+
+<h3 class="wp-block-heading">The human touch</h3>
+
+
+
+<p>OpenAI has shared four fundamental steps in their white paper, <a href="https://cdn.openai.com/papers/openais-approach-to-external-red-teaming.pdf">&#8220;OpenAI’s Approach to External Red Teaming for AI Models and Systems,&#8221;</a> to design effective red teaming campaigns:</p>
+
+
+
+<ol class="wp-block-list">
+<li><strong>Composition of red teams:</strong> The selection of team members is based on the objectives of the campaign. This often involves individuals with diverse perspectives, such as expertise in natural sciences, cybersecurity, and regional politics, ensuring assessments cover the necessary breadth.</li>
+</ol>
+
+
+
+<ol start="2" class="wp-block-list">
+<li><strong>Access to model versions:</strong> Clarifying which versions of a model red teamers will access can influence the outcomes. Early-stage models may reveal inherent risks, while more developed versions can help identify gaps in planned safety mitigations.</li>
+</ol>
+
+
+
+<ol start="3" class="wp-block-list">
+<li><strong>Guidance and documentation:</strong> Effective interactions during campaigns rely on clear instructions, suitable interfaces, and structured documentation. This involves describing the models, existing safeguards, testing interfaces, and guidelines for recording results.</li>
+</ol>
+
+
+
+<ol start="4" class="wp-block-list">
+<li><strong>Data synthesis and evaluation:</strong> Post-campaign, the data is assessed to determine if examples align with existing policies or require new behavioural modifications. The assessed data then informs repeatable evaluations for future updates.</li>
+</ol>
+
+
+
+<p>A recent application of this methodology involved preparing the OpenAI <a href="https://openai.com/index/learning-to-reason-with-llms/">o1 family</a> of models for public use—testing their resistance to potential misuse and evaluating their application across various fields such as real-world attack planning, natural sciences, and AI research.</p>
+
+
+
+<h3 class="wp-block-heading">Automated red teaming</h3>
+
+
+
+<p>Automated red teaming seeks to identify instances where AI may fail, particularly regarding safety-related issues. This method excels at scale, generating numerous examples of potential errors quickly. However, traditional automated approaches have struggled with producing diverse, successful attack strategies.</p>
+
+
+
+<p>OpenAI&#8217;s research introduces <a href="https://cdn.openai.com/papers/diverse-and-effective-red-teaming.pdf">&#8220;Diverse And Effective Red Teaming With Auto-Generated Rewards And Multi-Step Reinforcement Learning,&#8221;</a> a method which encourages greater diversity in attack strategies while maintaining effectiveness.</p>
+
+
+
+<p>This method involves using AI to generate different scenarios, such as illicit advice, and training red teaming models to evaluate these scenarios critically. The process rewards diversity and efficacy, promoting more varied and comprehensive safety evaluations.</p>
+
+
+
+<p>Despite its benefits, red teaming does have limitations. It captures risks at a specific point in time, which may evolve as AI models develop. Additionally, the red teaming process can inadvertently create information hazards, potentially alerting malicious actors to vulnerabilities not yet widely known. Managing these risks requires stringent protocols and responsible disclosures.</p>
+
+
+
+<p>While red teaming continues to be pivotal in risk discovery and evaluation, OpenAI acknowledges the necessity of incorporating broader public perspectives on AI&#8217;s ideal behaviours and policies to ensure the technology aligns with societal values and expectations.</p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/eu-introduces-draft-regulatory-guidance-for-ai-models/"><strong>EU introduces draft regulatory guidance for AI models</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:959px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/openai-enhances-ai-safety-new-red-teaming-methods/">OpenAI enhances AI safety with new red teaming methods</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/openai-enhances-ai-safety-new-red-teaming-methods/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>EU introduces draft regulatory guidance for AI models</title>
+		<link>https://www.artificialintelligence-news.com/news/eu-introduces-draft-regulatory-guidance-for-ai-models/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=eu-introduces-draft-regulatory-guidance-for-ai-models</link>
+					<comments>https://www.artificialintelligence-news.com/news/eu-introduces-draft-regulatory-guidance-for-ai-models/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Fri, 15 Nov 2024 14:52:05 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Legislation & Government]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[ai act]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[development]]></category>
+		<category><![CDATA[ethics]]></category>
+		<category><![CDATA[eu]]></category>
+		<category><![CDATA[europe]]></category>
+		<category><![CDATA[european union]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[guidance]]></category>
+		<category><![CDATA[law]]></category>
+		<category><![CDATA[legal]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[regulation]]></category>
+		<category><![CDATA[safety]]></category>
+		<category><![CDATA[Society]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16496</guid>
+
+					<description><![CDATA[<p>The release of the &#8220;First Draft General-Purpose AI Code of Practice&#8221; marks the EU&#8217;s effort to create comprehensive regulatory guidance for general-purpose AI models. The development of this draft has been a collaborative effort, involving input from diverse sectors including industry, academia, and civil society. The initiative was led by four specialised Working Groups, each<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/eu-introduces-draft-regulatory-guidance-for-ai-models/" title="ReadEU introduces draft regulatory guidance for AI models">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/eu-introduces-draft-regulatory-guidance-for-ai-models/">EU introduces draft regulatory guidance for AI models</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The <a href="https://digital-strategy.ec.europa.eu/en/library/first-draft-general-purpose-ai-code-practice-published-written-independent-experts">release</a> of the &#8220;First Draft General-Purpose AI Code of Practice&#8221; marks the EU&#8217;s effort to create comprehensive regulatory guidance for general-purpose AI models.</p>
+
+
+
+<p>The development of this draft has been a collaborative effort, involving input from diverse sectors including industry, academia, and civil society. The initiative was led by four specialised Working Groups, each addressing specific aspects of AI governance and risk mitigation:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Working Group 1: Transparency and copyright-related rules</li>
+
+
+
+<li>Working Group 2: Risk identification and assessment for systemic risk</li>
+
+
+
+<li>Working Group 3: Technical risk mitigation for systemic risk</li>
+
+
+
+<li>Working Group 4: Governance risk mitigation for systemic risk</li>
+</ul>
+
+
+
+<p>The draft is aligned with existing laws such as the Charter of Fundamental Rights of the European Union. It takes into account international approaches, striving for proportionality to risks, and aims to be future-proof by contemplating rapid technological changes.</p>
+
+
+
+<p>Key objectives outlined in the draft include:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Clarifying compliance methods for providers of general-purpose AI models</li>
+
+
+
+<li>Facilitating understanding across the AI value chain, ensuring seamless integration of AI models into downstream products</li>
+
+
+
+<li>Ensuring compliance with Union law on copyrights, especially concerning the use of copyrighted material for model training</li>
+
+
+
+<li>Continuously assessing and mitigating systemic risks associated with AI models</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Recognising and mitigating systemic risks</h3>
+
+
+
+<p>A core feature of the draft is its taxonomy of systemic risks, which includes types, natures, and sources of such risks. The document outlines various threats such as cyber offences, biological risks, loss of control over autonomous AI models, and large-scale disinformation. By acknowledging the continuously evolving nature of AI technology, the draft recognises that this taxonomy will need updates to remain relevant.</p>
+
+
+
+<p>As AI models with systemic risks become more common, the draft emphasises the need for robust safety and security frameworks (SSFs). It proposes a hierarchy of measures, sub-measures, and key performance indicators (KPIs) to ensure appropriate risk identification, analysis, and mitigation throughout a model&#8217;s lifecycle.</p>
+
+
+
+<p>The draft suggests that providers establish processes to identify and report serious incidents associated with their AI models, offering detailed assessments and corrections as needed. It also encourages collaboration with independent experts for risk assessment, especially for models posing significant systemic risks.</p>
+
+
+
+<h3 class="wp-block-heading">Taking a proactive stance to AI regulatory guidance</h3>
+
+
+
+<p>The <a href="https://www.artificialintelligence-news.com/news/eu-ai-act-early-prep-could-give-businesses-competitive-edge/">EU AI Act</a>, which came into force on 1 August 2024, mandates that the final version of this Code be ready by 1 May 2025. This initiative underscores the EU&#8217;s proactive stance towards AI regulation, emphasising the need for AI safety, transparency, and accountability.</p>
+
+
+
+<p>As the draft continues to evolve, the working groups invite stakeholders to participate actively in refining the document. Their collaborative input will shape a regulatory framework aimed at safeguarding innovation while protecting society from the potential pitfalls of AI technology.</p>
+
+
+
+<p>While still in draft form, the EU&#8217;s Code of Practice for general-purpose AI models could set a benchmark for responsible AI development and deployment globally. By addressing key issues such as transparency, risk management, and copyright compliance, the Code aims to create a regulatory environment that fosters innovation, upholds fundamental rights, and ensures a high level of consumer protection.</p>
+
+
+
+<p><em>This draft is open for written feedback until 28 November 2024.&nbsp;</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/anthropic-urges-ai-regulation-avoid-catastrophes/"><strong>Anthropic urges AI regulation to avoid catastrophes</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:2239px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/eu-introduces-draft-regulatory-guidance-for-ai-models/">EU introduces draft regulatory guidance for AI models</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/eu-introduces-draft-regulatory-guidance-for-ai-models/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Understanding AI&#8217;s impact on the workforce</title>
+		<link>https://www.artificialintelligence-news.com/news/understanding-ai-impact-on-the-workforce/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=understanding-ai-impact-on-the-workforce</link>
+					<comments>https://www.artificialintelligence-news.com/news/understanding-ai-impact-on-the-workforce/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Fri, 08 Nov 2024 10:11:03 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Legislation & Government]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[ethics]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[labor]]></category>
+		<category><![CDATA[labour]]></category>
+		<category><![CDATA[Legislation]]></category>
+		<category><![CDATA[report]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[safety]]></category>
+		<category><![CDATA[Society]]></category>
+		<category><![CDATA[tony blair institute]]></category>
+		<category><![CDATA[workforce]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16459</guid>
+
+					<description><![CDATA[<p>The Tony Blair Institute (TBI) has examined AI&#8217;s impact on the workforce. The report outlines AI’s potential to reshape work environments, boost productivity, and create opportunities—while warning of potential challenges ahead. &#8220;Technology has a long history of profoundly reshaping the world of work,&#8221; the report begins. From the agricultural revolution to the digital age, each<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/understanding-ai-impact-on-the-workforce/" title="ReadUnderstanding AI&#8217;s impact on the workforce">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/understanding-ai-impact-on-the-workforce/">Understanding AI&#8217;s impact on the workforce</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The <a href="https://institute.global/">Tony Blair Institute</a> (TBI) has examined AI&#8217;s impact on the workforce. The report outlines AI’s potential to reshape work environments, boost productivity, and create opportunities—while warning of potential challenges ahead.</p>
+
+
+
+<p>&#8220;Technology has a long history of profoundly reshaping the world of work,&#8221; the report begins.</p>
+
+
+
+<p>From the agricultural revolution to the digital age, each wave of innovation has redefined labour markets. Today, AI presents a seismic shift, advancing rapidly and prompting policymakers to prepare for change.</p>
+
+
+
+<h3 class="wp-block-heading">Economic opportunities</h3>
+
+
+
+<p>The TBI report estimates that AI, when fully adopted by UK firms, could significantly increase productivity. It suggests that AI could save &#8220;almost a quarter of private-sector workforce time,&#8221; equivalent to the annual output of 6 million workers.</p>
+
+
+
+<p>Most of these time savings are expected to stem from AI-enabled software performing cognitive tasks such as data analysis and routine administrative operations.</p>
+
+
+
+<p>The report identifies sectors reliant on routine cognitive tasks, such as banking and finance, as those with significant exposure to AI. However, sectors like skilled trades or construction – which involve complex manual tasks – are likely to see less direct impact.</p>
+
+
+
+<p>While AI can result in initial job losses, it also has the potential to create new demand by fostering economic growth and new industries.&nbsp;</p>
+
+
+
+<p>The report expects these job losses can be balanced by new job creation. Over the years, technology has historically spurred new employment opportunities, as innovation leads to the development of new products and services.</p>
+
+
+
+<h3 class="wp-block-heading">Shaping future generations</h3>
+
+
+
+<p>AI’s potential extends into education, where it could assist both teachers and students.</p>
+
+
+
+<p>The report suggests that AI could help &#8220;raise educational attainment by around six percent&#8221; on average. By personalising and supporting learning, AI has the potential to equalise access to opportunities and improve the quality of the workforce over time.</p>
+
+
+
+<h3 class="wp-block-heading">Health and wellbeing</h3>
+
+
+
+<p>Beyond education, AI offers potential benefits in healthcare, supporting a healthier workforce and reducing welfare costs.</p>
+
+
+
+<p>The report highlights AI’s role in speeding medical research, enabling preventive healthcare, and helping those with disabilities re-enter the workforce.</p>
+
+
+
+<h3 class="wp-block-heading">Workplace transformation</h3>
+
+
+
+<p>The report acknowledges potential workplace challenges, such as increased monitoring and stress from AI tools. It stresses the importance of managing these technologies thoughtfully to &#8220;deliver a more engaging, inclusive and safe working environment.&#8221;</p>
+
+
+
+<p>To mitigate potential disruption, the TBI outlines recommendations. These include upgrading labour-market infrastructure and utilising AI for job matching.</p>
+
+
+
+<p>The report suggests creating an &#8220;Early Awareness and Opportunity System&#8221; to help workers understand the impact of AI on their jobs and provide advice on career paths.</p>
+
+
+
+<h3 class="wp-block-heading">Preparing for an AI-powered future</h3>
+
+
+
+<p>In light of the uncertainties surrounding AI’s impact on the workforce, the TBI urges policy changes to maximise benefits. Recommendations include incentivising AI adoption across industries, developing AI-pathfinder programmes, and creating challenge prizes to address public-sector labour shortages.</p>
+
+
+
+<p>The report concludes that while AI presents risks, the potential gains are too significant to ignore.</p>
+
+
+
+<p><a href="https://www.artificialintelligence-news.com/categories/ai-legislation-government/">Policymakers</a> are encouraged to adopt a &#8220;pro-innovation&#8221; stance while being attuned to the risks, fostering an economy that is dynamic and resilient.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@mimithian?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Mimi Thian</a>)</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/anthropic-urges-ai-regulation-avoid-catastrophes/"><strong>Anthropic urges AI regulation to avoid catastrophes</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/understanding-ai-impact-on-the-workforce/">Understanding AI&#8217;s impact on the workforce</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/understanding-ai-impact-on-the-workforce/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Industry leaders back open-source AI definition</title>
+		<link>https://www.artificialintelligence-news.com/news/industry-leaders-back-open-source-ai-definition/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=industry-leaders-back-open-source-ai-definition</link>
+					<comments>https://www.artificialintelligence-news.com/news/industry-leaders-back-open-source-ai-definition/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Tue, 29 Oct 2024 14:36:15 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[all things open]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[development]]></category>
+		<category><![CDATA[ethics]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[open source initiative]]></category>
+		<category><![CDATA[open-source]]></category>
+		<category><![CDATA[osaid]]></category>
+		<category><![CDATA[osi]]></category>
+		<category><![CDATA[training]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16411</guid>
+
+					<description><![CDATA[<p>The Open Source Initiative (OSI) has unveiled a definition framework to evaluate whether AI systems can be classified as open-source. The announcement of the first Open Source AI Definition (OSAID) was made at All Things Open and marks the culmination of a comprehensive global effort spanning multiple years of research, international workshops, and a year-long<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/industry-leaders-back-open-source-ai-definition/" title="ReadIndustry leaders back open-source AI definition">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/industry-leaders-back-open-source-ai-definition/">Industry leaders back open-source AI definition</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The <a href="https://opensource.org/">Open Source Initiative</a> (OSI) has unveiled a definition framework to evaluate whether AI systems can be classified as open-source.</p>
+
+
+
+<p>The announcement of the first Open Source AI Definition (OSAID) was made at <a href="https://allthingsopen.org/">All Things Open</a> and marks the culmination of a comprehensive global effort spanning multiple years of research, international workshops, and a year-long community design process.</p>
+
+
+
+<p>The OSI – widely recognised as the definitive authority on open-source definitions by individuals, organisations, and government bodies worldwide – developed the framework through extensive collaboration with industry stakeholders. This framework defines what open-source AI means, insisting that the same open-source requirements apply whether to a fully functional AI system, a model, weights and parameters, or other structural elements.</p>
+
+
+
+<p>An open-source AI system must be made available under terms that grant four essential freedoms:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Use the system for any purpose</strong> and without having to ask for permission.</li>
+
+
+
+<li><strong>Study how the system works</strong> and inspect its components.</li>
+
+
+
+<li><strong>Modify the system</strong> for any purpose, including to change its output.</li>
+
+
+
+<li><strong>Share the system</strong> for others to use with or without modifications, for any purpose.</li>
+</ul>
+
+
+
+<p>These freedoms apply both to a fully functional system and to discrete elements of a system. A precondition to exercising these freedoms is having access to the preferred form to make modifications to the system, which includes detailed data information, complete source code, and model parameters.</p>
+
+
+
+<p>&#8220;The co-design process that led to version 1.0 of the Open Source AI Definition was well-developed, thorough, inclusive, and fair,&#8221; said Carlo Piana, OSI board chair. &#8220;The board is confident that the process has resulted in a definition that meets the standards of open-source as defined in the open-source definition and the four essential freedoms.&#8221;</p>
+
+
+
+<p>One of the framework&#8217;s most significant requirements is the mandate for open-source models to provide sufficient information about <a href="https://www.artificialintelligence-news.com/news/penguin-random-house-protects-its-books-from-ai-training-use/">their training data</a>, ensuring that &#8220;a skilled person can recreate a substantially equivalent system using the same or similar data,&#8221; according to Ayah Bdeir, who leads AI strategy at <a href="https://www.mozilla.org/en-GB/">Mozilla</a>.</p>
+
+
+
+<p>Bdeir acknowledged that whilst this approach might not be perfect, it represents a practical compromise between ideological purity and real-world implementation. She suggested that demanding an unrealistically high standard could prove counterproductive to the initiative&#8217;s goals.</p>
+
+
+
+<p>The <a href="https://www.digitalpublicgoods.net/implement">Digital Public Goods Alliance</a> (DPGA) has expressed support for the OSI&#8217;s leadership in defining open-source AI. Liv Marte Nordhaug, CEO of the DPGA secretariat, confirmed that her organisation will incorporate this foundational work into updates to their Digital Public Goods Standard for AI applications.</p>
+
+
+
+<p><a href="https://www.eleuther.ai/">EleutherAI Institute</a>, known for its non-profit work in AI development, has also endorsed the definition.</p>
+
+
+
+<p>&#8220;The Open Source AI Definition is a necessary step towards promoting the benefits of open-source principles in the field of AI,&#8221; stated Stella Biderman, Executive Director of the EleutherAI Institute. &#8220;We believe that this definition supports the needs of independent machine learning researchers and promotes greater transparency among the largest AI developers.&#8221;</p>
+
+
+
+<p>The definition highlights the importance of including data information and code when sharing open-source models and weights. These requirements ensure transparency and the ability to modify the AI system.</p>
+
+
+
+<p>OSI Executive Director Stefano Maffulli acknowledged the challenges faced during the development process, noting that despite occasional heated exchanges and differing opinions, the final result aligned with the project&#8217;s initial objectives.</p>
+
+
+
+<p>&#8220;This is a starting point for a continued effort to engage with the communities to improve the definition over time,&#8221; he stated.</p>
+
+
+
+<p>The OSAID does not require a specific legal mechanism for assuring that model parameters are freely available to all, though it may involve licences or legal instruments. This aspect is expected to become clearer over time as <a href="https://www.artificialintelligence-news.com/news/eu-ai-act-early-prep-could-give-businesses-competitive-edge/">the legal system</a> addresses these open-source AI systems.</p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/president-biden-issues-first-national-security-memorandum-ai/"><strong>President Biden issues first National Security Memorandum on AI</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/industry-leaders-back-open-source-ai-definition/">Industry leaders back open-source AI definition</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/industry-leaders-back-open-source-ai-definition/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Intern allegedly sabotages ByteDance AI project, leading to dismissal</title>
+		<link>https://www.artificialintelligence-news.com/news/intern-allegedly-sabotages-bytedance-ai-project-leading-to-dismissal/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intern-allegedly-sabotages-bytedance-ai-project-leading-to-dismissal</link>
+					<comments>https://www.artificialintelligence-news.com/news/intern-allegedly-sabotages-bytedance-ai-project-leading-to-dismissal/#respond</comments>
+		
+		<dc:creator><![CDATA[Muhammad Zulhusni]]></dc:creator>
+		<pubDate>Fri, 25 Oct 2024 06:31:40 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Education]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[ethics]]></category>
+		<category><![CDATA[tiktok]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16387</guid>
+
+					<description><![CDATA[<p>ByteDance, the creator of TikTok, recently experienced a security breach involving an intern who allegedly sabotaged AI model training. The incident, reported on WeChat, raised concerns about the company&#8217;s security protocols in its AI department. In response, ByteDance clarified that while the intern disrupted AI commercialisation efforts, no online operations or commercial projects were affected.<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/intern-allegedly-sabotages-bytedance-ai-project-leading-to-dismissal/" title="ReadIntern allegedly sabotages ByteDance AI project, leading to dismissal">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/intern-allegedly-sabotages-bytedance-ai-project-leading-to-dismissal/">Intern allegedly sabotages ByteDance AI project, leading to dismissal</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>ByteDance, the creator of TikTok, recently experienced a security breach involving an intern who allegedly sabotaged AI model training. The incident, reported on WeChat, raised concerns about the company&#8217;s security protocols in its AI department.</p>
+
+
+
+<p>In response, <a href="https://www.toutiao.com/w/1813324433807370/?app=news_article&amp;timestamp=1729482540&amp;use_new_style=1&amp;share_token=08E369A6-498A-49A0-AE65-0A3AB19A5EFE&amp;tt_from=weixin&amp;utm_source=weixin&amp;utm_medium=toutiao_ios&amp;utm_campaign=client_share&amp;wxshare_count=1&amp;source=m_redirect&amp;wid=1729817755484" target="_blank" rel="noreferrer noopener">ByteDance clarified</a> that while the intern disrupted AI commercialisation efforts, no online operations or commercial projects were affected. According to the company, rumours that over 8,000 GPU cards were affected and that the breach resulted in millions of dollars in losses are taken out of proportion.</p>
+
+
+
+<p>The real issue here goes beyond one rogue intern—it highlights the need for stricter security measures in tech companies, especially when interns are entrusted with key responsibilities. Even minor mistakes in high-pressure environments can have serious consequences.</p>
+
+
+
+<p>On investigating, ByteDance found that the intern, a doctoral student, was part of the commercialisation tech team, not the AI Lab. The individual was dismissed in August.</p>
+
+
+
+<p>According to the local media outlet Jiemian, the intern became frustrated with resource allocation and retaliated by exploiting a vulnerability in the AI development platform Hugging Face. This led to disruptions in model training, though ByteDance&#8217;s commercial Doubao model was not affected.</p>
+
+
+
+<p>Despite the disruption, ByteDance&#8217;s automated machine learning (AML) team initially struggled to identify the cause. Fortunately, the attack only impacted internal models, minimising broader damage.</p>
+
+
+
+<p>As context, China&#8217;s AI market, estimated to be worth $250 billion in 2023, is rapidly increasing in size, with industry leaders such as Baidu AI Cloud, SenseRobot, and Zhipu AI driving innovation. However, incidents like this one pose a huge risk to the commercialisation of AI technology, as model accuracy and reliability are directly related to business success.</p>
+
+
+
+<p>The situation also raises questions about intern management in tech companies. Interns often play crucial roles in fast-paced environments, but without proper oversight and security protocols, their roles can pose risks. Companies must ensure that interns receive adequate training and supervision to prevent unintentional or malicious actions that could disrupt operations.</p>
+
+
+
+<p><strong>Implications for AI commercialisation</strong></p>
+
+
+
+<p>The security breach highlights the possible risks to AI commercialisation. A disruption in AI model training, such as this one, can cause delays in product releases, loss of client trust, and even financial losses. For a company like ByteDance, where AI drives core functionalities, these kinds of incidents are particularly damaging.</p>
+
+
+
+<p>The issue emphasises the importance of ethical AI development and business responsibility. Companies must not only develop cutting-edge AI technology, but also ensure their security and operate responsible management. Transparency and accountability are critical for retaining trust in an era when AI plays an important role in business operations.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@jupp?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Jonathan Kemper</a>)</em></p>
+
+
+
+<p><strong>See also: <a href="https://www.artificialintelligence-news.com/news/microsoft-major-ai-client-tiktok-spends-20-million-monthly/">Microsoft gains major AI client as TikTok spends $20 million monthly</a></strong></p>
+
+
+
+<figure class="wp-block-image"><a href="https://www.ai-expo.net/"><img decoding="async" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="This image has an empty alt attribute; its file name is ai-expo-world-728x-90-01.png"/></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/intern-allegedly-sabotages-bytedance-ai-project-leading-to-dismissal/">Intern allegedly sabotages ByteDance AI project, leading to dismissal</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/intern-allegedly-sabotages-bytedance-ai-project-leading-to-dismissal/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Penguin Random House protects its books from AI training use</title>
+		<link>https://www.artificialintelligence-news.com/news/penguin-random-house-protects-its-books-from-ai-training-use/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=penguin-random-house-protects-its-books-from-ai-training-use</link>
+					<comments>https://www.artificialintelligence-news.com/news/penguin-random-house-protects-its-books-from-ai-training-use/#respond</comments>
+		
+		<dc:creator><![CDATA[Muhammad Zulhusni]]></dc:creator>
+		<pubDate>Tue, 22 Oct 2024 18:36:29 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Legislation & Government]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[ethics]]></category>
+		<category><![CDATA[generative ai]]></category>
+		<category><![CDATA[law]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16353</guid>
+
+					<description><![CDATA[<p>Penguin Random House (PRH) has taken a significant step in response to rising concerns about the use of intellectual property to train AI systems. The publisher has introduced a new statement to the copyright pages of both new and reprinted books, stating, &#8220;No part of this book may be used or reproduced in any manner<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/penguin-random-house-protects-its-books-from-ai-training-use/" title="ReadPenguin Random House protects its books from AI training use">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/penguin-random-house-protects-its-books-from-ai-training-use/">Penguin Random House protects its books from AI training use</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Penguin Random House (PRH) has taken a significant step in response to rising concerns about the use of intellectual property to train AI systems.</p>
+
+
+
+<p>The publisher has introduced <a target="_blank" href="https://www.thebookseller.com/news/penguin-random-house-underscores-copyright-protection-in-ai-rebuff" rel="noreferrer noopener">a new statement</a> to the copyright pages of both new and reprinted books, stating, &#8220;No part of this book may be used or reproduced in any manner for the purpose of training artificial intelligence technologies or systems.&#8221; This change is supplemented by a section that excludes PRH&#8217;s works from the European Union&#8217;s text and data mining exception, in accordance with applicable copyright laws.</p>
+
+
+
+<p>As one of the first major publishers to address the issue of AI training explicitly, PRH is responding to the broader debate about how tech companies use copyrighted content to train large language models (LLMs), like those used in chatbots and other AI tools. Publishers have become increasingly concerned about the possible misuse of their intellectual property in recent years, especially after reports arose that copyrighted books were utilised by AI firms to enhance these technologies.</p>
+
+
+
+<p>PRH&#8217;s move to amend its copyright page is an attempt to protect its content ahead of time, even though such comments have no bearing on the legal framework of copyright. The clauses work similarly to a &#8220;robots.txt&#8221; file, which websites employ to request that their content not be scraped by bots or AI systems. While these notices indicate the publisher&#8217;s intent, they are not legally binding, and existing copyright protections apply in the absence of such disclaimers.</p>
+
+
+
+<p>PRH&#8217;s move also emphasises the ongoing tension between content creators and the AI industry, as more authors, publishers, and other creatives ask for stronger protections. The Authors&#8217; Licensing and Collecting Society (ALCS) has been outspoken in its support for PRH&#8217;s actions. ALCS CEO Barbara Hayes expressed approval of the updated copyright language, emphasising the need for publishers to protect their works from unauthorised use in AI training.</p>
+
+
+
+<p>However, some contend that simply changing copyright pages may not be enough. The Society of Authors (SoA) applauds PRH&#8217;s efforts, but believes more needs to be done to guarantee that authors&#8217; rights are properly protected. SoA CEO Anna Ganley has called on publishers to go beyond these statements and incorporate explicit protections in author contracts, making sure that writers are informed before their work is used in AI-related initiatives.</p>
+
+
+
+<p>As AI advances, the debate over its usage of copyrighted content remains far from over. PRH&#8217;s action could herald a larger shift in the publishing sector, but how other publishers and the legal system react remains to be seen.</p>
+
+
+
+<p><em>(Image by <a href="https://pixabay.com/users/stocksnap-894430/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2599241">StockSnap</a>)</em></p>
+
+
+
+<p><strong>See also: <a target="_blank" href="https://www.artificialintelligence-news.com/news/ai-governance-gap-95-of-firms-havent-frameworks/" rel="noreferrer noopener">AI governance gap: 95% of firms haven&#8217;t implemented frameworks</a></strong></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/penguin-random-house-protects-its-books-from-ai-training-use/">Penguin Random House protects its books from AI training use</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/penguin-random-house-protects-its-books-from-ai-training-use/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

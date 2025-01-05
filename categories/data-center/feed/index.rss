@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Data Center - AI News</title>
+	<atom:link href="https://www.artificialintelligence-news.com/categories/data-center/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.artificialintelligence-news.com/categories/data-center/</link>
+	<description>Artificial Intelligence News</description>
+	<lastBuildDate>Mon, 23 Dec 2024 10:54:57 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://www.artificialintelligence-news.com/wp-content/uploads/2020/09/ai-icon-60x60.png</url>
+	<title>Data Center - AI News</title>
+	<link>https://www.artificialintelligence-news.com/categories/data-center/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Manhattan Project 2.0? US eyes AGI breakthrough in escalating China rivalry</title>
+		<link>https://www.artificialintelligence-news.com/news/manhattan-project-2-0-us-eyes-agi-breakthrough-in-escalating-china-rivalry/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=manhattan-project-2-0-us-eyes-agi-breakthrough-in-escalating-china-rivalry</link>
+					<comments>https://www.artificialintelligence-news.com/news/manhattan-project-2-0-us-eyes-agi-breakthrough-in-escalating-china-rivalry/#respond</comments>
+		
+		<dc:creator><![CDATA[Dashveenjit Kaur]]></dc:creator>
+		<pubDate>Mon, 23 Dec 2024 10:54:55 +0000</pubDate>
+				<category><![CDATA[AGI]]></category>
+		<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Data Center]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16752</guid>
+
+					<description><![CDATA[<p>The emerging US-China Artificial General Intelligence (AGI) rivalry could face a major policy transformation, as the US-China Economic and Security Review Commission (USCC) recommends a Manhattan Project-style initiative and restrictions on humanoid robots in its latest report to Congress. Released in November 2024, the Commission&#8217;s annual report outlined 32 recommendations that could fundamentally alter how the two countries<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/manhattan-project-2-0-us-eyes-agi-breakthrough-in-escalating-china-rivalry/" title="ReadManhattan Project 2.0? US eyes AGI breakthrough in escalating China rivalry">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/manhattan-project-2-0-us-eyes-agi-breakthrough-in-escalating-china-rivalry/">Manhattan Project 2.0? US eyes AGI breakthrough in escalating China rivalry</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The emerging US-China Artificial General Intelligence (AGI) rivalry could face a major policy transformation, as the US-China Economic and Security Review Commission (USCC) <a href="https://www.uscc.gov/sites/default/files/2024-11/2024_Comprehensive_List_of_Recommendations.pdf">recommends</a> a Manhattan Project-style initiative and restrictions on humanoid robots in its latest report to Congress.</p>
+
+
+
+<p>Released in November 2024, the Commission&#8217;s <a href="https://www.uscc.gov/sites/default/files/2024-11/2024_Annual_Report_to_Congress.pdf" target="_blank" rel="noreferrer noopener">annual report</a> outlined <a href="https://www.uscc.gov/sites/default/files/2024-11/2024_Executive_Summary.pdf" target="_blank" rel="noreferrer noopener">32 recommendations</a> that could fundamentally alter how the two countries interact, with artificial intelligence taking centre stage in a new chapter of strategic rivalry.</p>
+
+
+
+<h3 class="wp-block-heading">US-China: the AGI moonshot and critical tech controls</h3>
+
+
+
+<p>At the heart of the report lies an ambitious proposal: establishing a government-backed programme to develop AGI &#8211; AI systems that could match and potentially exceed human cognitive abilities. </p>
+
+
+
+<p>However, the recommendation is just one piece of a larger technological puzzle, including export controls, investment screening, and new trade policies to preserve US technological advantages. </p>
+
+
+
+<p>The proposed AGI initiative would provide multi-year contracts to leading AI companies, cloud providers, and data centre operators. It would be backed by the Defense Department&#8217;s highest priority, &#8220;DX Rating&#8221; &#8211; a designation typically reserved for critical national security projects. </p>
+
+
+
+<p>This level of government involvement in AI development mirrors the urgency seen in previous technological races. It raises crucial questions about the role of state intervention in an industry primarily driven by private sector innovation.</p>
+
+
+
+<p>The Commission&#8217;s tech-focused recommendations extend beyond AI. Notable proposals include restricting imports of Chinese-made autonomous humanoid robots with advanced dexterity, locomotion, and intelligence capabilities.&nbsp;</p>
+
+
+
+<p>The report also targets energy infrastructure products with remote monitoring capabilities, reflecting growing concerns about connected technologies in critical infrastructure. The report builds on existing export controls in the semiconductor space by recommending stronger oversight of technology transfers and investment flows.&nbsp;</p>
+
+
+
+<p>This comes as China continues to build domestic chip-making capabilities despite international restrictions. The Commission suggests creating an Outbound Investment Office that prevents US capital and expertise from advancing China&#8217;s technological capabilities in sensitive sectors.</p>
+
+
+
+<h3 class="wp-block-heading">Reshaping trade relations and investment flows</h3>
+
+
+
+<p>Perhaps most significantly, the report recommends eliminating China&#8217;s Permanent Normal Trade Relations (PNTR) status—a move that could reshape the technology supply chain and trade flows that have defined the global tech industry for decades. This recommendation acknowledges how deeply intertwined the US and Chinese tech ecosystems have become, while suggesting that this interdependence may now pose more risks than benefits.</p>
+
+
+
+<p>Data transparency is another key theme, with recommendations for expanded reporting requirements on investments and technology transfers. The Commission calls for better tracking of investments flowing through offshore entities, addressing a significant blind-spot in current oversight mechanisms.</p>
+
+
+
+<p>The report&#8217;s release comes at a critical juncture in technological development. China&#8217;s push for self-sufficiency in vital technologies and its &#8220;new quality productive forces&#8221; initiative demonstrates Beijing&#8217;s determination to lead in next-generation technologies. Meanwhile, AI capabilities and quantum computing breakthroughs have raised the stakes in technology competition.</p>
+
+
+
+<p>However, the Commission&#8217;s recommendations face practical challenges. Achieving AGI remains a complex scientific challenge that may not yield quick results, regardless of funding levels. Additionally, restrictions on technology transfers and investment could have unintended consequences for global innovation networks that have historically benefited both nations.</p>
+
+
+
+<p>If these recommendations are implemented, the tech industry may need to navigate an increasingly complex regulatory landscape. Companies would face new compliance requirements for international investments, technology transfers, and collaborative research projects.</p>
+
+
+
+<h3 class="wp-block-heading">Challenges and future implications</h3>
+
+
+
+<p>The effectiveness of the proposed measures will likely depend on coordination with allies and partners who share similar technological capabilities and concerns. The report acknowledges this by recommending multilateral approaches to export controls and investment screening.</p>
+
+
+
+<p>US-China technological competition has entered a new phase where government policy may play a more direct role in shaping development. Whether this approach accelerates or hinders innovation remains to be seen, but the tech industry should prepare for increased scrutiny and regulation of international technological collaboration.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@nathangbingle?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Nathan Bingle</a>)</em></p>
+
+
+
+<p><strong>See also: <a href="https://www.artificialintelligence-news.com/news/chinese-firms-cloud-loophole-access-us-ai-tech/">Chinese firms use cloud loophole to access US AI tech</a></strong></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img fetchpriority="high" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:844px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="(max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/manhattan-project-2-0-us-eyes-agi-breakthrough-in-escalating-china-rivalry/">Manhattan Project 2.0? US eyes AGI breakthrough in escalating China rivalry</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/manhattan-project-2-0-us-eyes-agi-breakthrough-in-escalating-china-rivalry/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Generative AI use soars among Brits, but is it sustainable?</title>
+		<link>https://www.artificialintelligence-news.com/news/generative-ai-use-soars-among-brits-but-is-it-sustainable/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=generative-ai-use-soars-among-brits-but-is-it-sustainable</link>
+					<comments>https://www.artificialintelligence-news.com/news/generative-ai-use-soars-among-brits-but-is-it-sustainable/#respond</comments>
+		
+		<dc:creator><![CDATA[Muhammad Zulhusni]]></dc:creator>
+		<pubDate>Wed, 27 Nov 2024 20:19:15 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[Data Center]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[generative ai]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[uk]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16560</guid>
+
+					<description><![CDATA[<p>A survey by CloudNine PR shows that 83% of UK adults are aware of generative AI tools, and 45% of those familiar with them want companies to be transparent about the environmental costs associated with the technologies. With data centres burning vast amounts of energy, the growing demand for GenAI has sparked a debate about<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/generative-ai-use-soars-among-brits-but-is-it-sustainable/" title="ReadGenerative AI use soars among Brits, but is it sustainable?">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/generative-ai-use-soars-among-brits-but-is-it-sustainable/">Generative AI use soars among Brits, but is it sustainable?</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>A <a href="https://www.cloudninepr.com/genai-technology-climate-consumers-survey/" target="_blank" rel="noreferrer noopener">survey by CloudNine PR</a> shows that 83% of UK adults are aware of generative AI tools, and 45% of those familiar with them want companies to be transparent about the environmental costs associated with the technologies.</p>
+
+
+
+<p>With data centres burning vast amounts of energy, the growing demand for GenAI has sparked a debate about its sustainability.</p>
+
+
+
+<h3 class="wp-block-heading">The cost of intelligence: Generative AI’s carbon footprint</h3>
+
+
+
+<p>Behind every AI-generated email, idea, or recommendation are data centres running thousands of energy-hungry servers. Data centres are responsible for both training the large language models that power generative AI and processing individual user queries. Unlike a simple Google search, which uses relatively little energy, a single generative AI request can consume up to ten times as much electricity.</p>
+
+
+
+<p>The numbers are staggering. If all nine billion daily Google searches worldwide were replaced with generative AI tasks, the additional electricity demand would match the annual energy consumption of 1.5 million EU residents. According to consultants Morgan Stanley, the energy demands of generative AI are expected to grow by 70% annually until 2027. By that point, the energy required to support generative AI systems could rival the electricity needs of an entire country—Spain, for example, based on its 2022 usage.</p>
+
+
+
+<h3 class="wp-block-heading">UK consumers want greener AI practices</h3>
+
+
+
+<p>The survey also highlights growing awareness among UK consumers about the environmental implications of generative AI. Nearly one in five respondents said they don’t trust generative AI providers to manage their environmental impact responsibly. Among regular users of these tools, 10% expressed a willingness to pay a premium for products or services that prioritise energy efficiency and sustainability.</p>
+
+
+
+<p>Interestingly, over a third (35%) of respondents think generative AI tools should &#8220;actively remind&#8221; users of their environmental impact. While this appears like a small step, it has the potential to encourage more mindful usage and place pressure on companies to adopt greener technologies.</p>
+
+
+
+<h3 class="wp-block-heading">Efforts to tackle the environmental challenge</h3>
+
+
+
+<p>Fortunately, some companies and policymakers are beginning to address these concerns. In the United States, the Artificial Intelligence Environmental Impacts Act was introduced earlier this year. The legislation aims to standardise how AI companies measure and report carbon emissions. It also provides a voluntary framework for developers to evaluate and disclose their systems’ environmental impact, pushing the industry towards greater transparency.</p>
+
+
+
+<p>Major players in the tech industry are also stepping up. Companies like Salesforce have voiced support for legislation requiring standardised methods to measure and report AI’s carbon footprint. Experts point to several practical ways to reduce generative AI’s environmental impact, including adopting energy-efficient hardware, using sustainable cooling methods in data centres, and transitioning to renewable energy sources.</p>
+
+
+
+<p>Despite these efforts, the urgency to address generative AI’s environmental impact remains critical. As Uday Radia, owner of CloudNine PR, puts it: “Generative AI has huge potential to make our lives better, but there is a race against time to make it more sustainable before it gets out of control.”</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/photos/red-and-white-striped-flag-vuV25OfnGa8?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a>)</em></p>
+
+
+
+<p><strong>See also: <a target="_blank" href="https://www.artificialintelligence-news.com/news/the-ai-revolution-reshaping-data-centres-and-the-digital-landscape/" rel="noreferrer noopener">The AI revolution: Reshaping data centres and the digital landscape&nbsp;</a></strong></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:969px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="(max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a target="_blank" href="https://www.ai-expo.net/" rel="noreferrer noopener"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a target="_blank" href="https://intelligentautomation-conference.com/northamerica/" rel="noreferrer noopener">Intelligent Automation Conference</a>, <a target="_blank" href="https://www.blockchain-expo.com/" rel="noreferrer noopener">BlockX</a>,<a target="_blank" href="https://digitaltransformation-week.com/" rel="noreferrer noopener"> Digital Transformation Week</a>, and <a target="_blank" href="https://www.cybersecuritycloudexpo.com/" rel="noreferrer noopener">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a target="_blank" href="https://techforge.pub/events/" rel="noreferrer noopener">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/generative-ai-use-soars-among-brits-but-is-it-sustainable/">Generative AI use soars among Brits, but is it sustainable?</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/generative-ai-use-soars-among-brits-but-is-it-sustainable/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>AI sector study: Record growth masks serious challenges</title>
+		<link>https://www.artificialintelligence-news.com/news/ai-sector-study-record-growth-masks-serious-challenges/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ai-sector-study-record-growth-masks-serious-challenges</link>
+					<comments>https://www.artificialintelligence-news.com/news/ai-sector-study-record-growth-masks-serious-challenges/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Thu, 24 Oct 2024 14:31:34 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Data Center]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Legislation & Government]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[computing]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[europe]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[infrastructure]]></category>
+		<category><![CDATA[investment]]></category>
+		<category><![CDATA[report]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[safety]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[strategy]]></category>
+		<category><![CDATA[study]]></category>
+		<category><![CDATA[supercomputer]]></category>
+		<category><![CDATA[uk]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16382</guid>
+
+					<description><![CDATA[<p>A comprehensive AI sector study – conducted by the Department for Science, Innovation and Technology (DSIT) in collaboration with Perspective Economics, Ipsos, and glass.ai – provides a detailed overview of the industry&#8217;s current state and its future prospects. In this article, we delve deeper into the key findings and implications—drawing on additional sources to enhance<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/ai-sector-study-record-growth-masks-serious-challenges/" title="ReadAI sector study: Record growth masks serious challenges">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ai-sector-study-record-growth-masks-serious-challenges/">AI sector study: Record growth masks serious challenges</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>A comprehensive AI sector study – conducted by the <a href="https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology">Department for Science, Innovation and Technology</a> (DSIT) in collaboration with <a href="https://perspectiveeconomics.com/">Perspective Economics</a>, <a href="https://www.ipsos.com/">Ipsos</a>, and <a href="http://glass.ai">glass.ai</a> – provides a detailed overview of the industry&#8217;s current state and its future prospects.</p>
+
+
+
+<p>In this article, we delve deeper into the key findings and implications—drawing on additional sources to enhance our understanding.</p>
+
+
+
+<h3 class="wp-block-heading">Thriving industry with significant growth</h3>
+
+
+
+<p>The study highlights the remarkable growth of the UK&#8217;s AI sector. With over 3,170 active AI companies, these firms have generated £10.6 billion in AI-related revenues and <a href="https://www.artificialintelligence-news.com/news/the-uk-outpacing-the-us-for-ai-hiring/">employed</a> more than 50,000 people in AI-related roles. This significant contribution to GVA (Gross Value Added) underscores the sector&#8217;s <a href="https://www.artificialintelligence-news.com/news/ai-could-unleash-119-billion-in-uk-productivity/">transformative potential</a> in driving the UK&#8217;s economic growth.</p>
+
+
+
+<p>Mark Boost, CEO of <a href="https://www.civo.com/">Civo</a>, said: &#8220;In a space that&#8217;s been dominated by US companies for too long, it&#8217;s promising to see the government now stepping up to help support the UK AI sector on the global stage.&#8221;</p>
+
+
+
+<p>The study shows that AI activity is dispersed across various regions of the UK, with notable concentrations in London, the South East, and Scotland. This regional dispersion indicates a broad scope for the development of AI technology applications across different sectors and regions.</p>
+
+
+
+<h3 class="wp-block-heading">Investment and funding</h3>
+
+
+
+<p>Investment in the AI sector has been a key driver of growth. In 2022, £18.8 billion was secured in private investment since 2016, with investments made in 52 unique industry sectors compared to 35 sectors in 2016.</p>
+
+
+
+<p>The government&#8217;s commitment to supporting AI is evident through significant investments. In 2022, the UK government unveiled a <a href="https://www.gov.uk/government/publications/national-ai-strategy">National AI Strategy</a> and Action Plan—committing over £1.3 billion in support for the sector, complementing the £2.8 billion already invested.</p>
+
+
+
+<p>However, as Boost cautions, &#8220;Major players like <a href="https://www.artificialintelligence-news.com/news/aws-nvidia-expand-partnership-advance-generative-ai/">AWS</a> are locking AI startups into their ecosystems with offerings like $500k cloud credits, ensuring that emerging companies start their journey reliant on their infrastructure. This not only hinders competition and promotes vendor lock-in but also risks stifling innovation across the broader UK AI ecosystem.&#8221;</p>
+
+
+
+<h3 class="wp-block-heading">Addressing bottlenecks</h3>
+
+
+
+<p>Despite the growth and investment, several bottlenecks must be addressed to fully harness the potential of AI:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Infrastructure:</strong> The UK&#8217;s digital technology infrastructure is less advanced than many other countries. This bottleneck includes inadequate <a href="https://www.artificialintelligence-news.com/news/uk-secures-6-3b-data-infrastructure-investments/">data centre infrastructure</a> and a dependent supply of powerful GPU computer chips. Boost emphasises this concern, stating &#8220;It would be dangerous for the government to ignore the immense compute power that AI relies on. We need to consider where this power is coming from and the impact it&#8217;s having on both the already over-concentrated <a href="https://www.cloudcomputing-news.net/">cloud market</a> and the environment.&#8221;</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Commercial awareness:</strong> Many SMEs lack familiarity with digital technology. Almost a third (31%) of SMEs have yet to adopt the cloud, and nearly half (47%) do not currently use AI tools or applications.</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Skills shortage:</strong> Two-fifths of businesses <a href="https://www.artificialintelligence-news.com/news/93-of-firms-committed-to-ai-but-skills-shortage-posing-problems/">struggle to find staff</a> with good digital skills, including traditional digital roles like data analytics or IT. There is a rising need for workers with new AI-specific skills, such as prompt engineering, that will require retraining and upskilling opportunities.</li>
+</ul>
+
+
+
+<p>To address these bottlenecks, the government has implemented several initiatives:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Private sector investment:</strong> <a href="https://www.artificialintelligence-news.com/categories/ai-companies/microsoft/">Microsoft</a> has announced a £2.5 billion investment in AI skills, security, and data centre infrastructure, aiming to procure more than 20,000 of the most advanced GPUs by 2026.</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Government support:</strong> The government has invested £1.5 billion in <a href="https://www.artificialintelligence-news.com/news/uk-and-canada-sign-ai-compute-agreement/">computing capacity</a> and committed to building three new supercomputers by 2025. This support aims to enhance the UK&#8217;s infrastructure to stay competitive in the AI market.</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Public sector integration:</strong> The UK Government Digital Service (GDS) is working to improve efficiency using predictive algorithms for future pension scheme behaviour. HMRC uses AI to help identify call centre priorities, demonstrating how AI solutions can address complex public sector challenges.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Future prospects and challenges</h3>
+
+
+
+<p>The future of the UK AI sector is both promising and challenging. While significant economic gains are predicted, including boosting GDP by £550 billion by 2035, delays in AI roll-out could cost the UK £150 billion over the same period. Ensuring a balanced approach between innovation and <a href="https://www.artificialintelligence-news.com/news/solarwinds-it-professionals-stronger-ai-regulation/">regulation</a> will be crucial.</p>
+
+
+
+<p>Boost emphasises the importance of data sovereignty and <a href="https://www.artificialintelligence-news.com/categories/privacy/">privacy</a>: &#8220;Businesses have grown increasingly wary of how their data is collected, stored, and used by the likes of ChatGPT. The government has a real opportunity to enable the UK AI sector to offer viable alternatives.</p>
+
+
+
+<p>“The forthcoming AI Action Plan will be another opportunity to identify how AI can drive economic growth and better support the UK tech sector.&#8221;</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>AI Safety Summit:</strong> The <a href="https://www.artificialintelligence-news.com/news/uk-reveals-ai-safety-summit-opening-day-agenda/">AI Safety Summit</a> at Bletchley Park highlighted the need for responsible AI development. The &#8220;Bletchley Declaration on AI Safety&#8221; emphasises the importance of ensuring AI tools are transparent, fair, and free from bias to maintain public trust and realise AI&#8217;s benefits in public services.</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Cybersecurity challenges:</strong> As AI systems handle sensitive or personal information, ensuring their <a href="https://www.artificialintelligence-news.com/categories/ai-security/">security</a> is paramount. This involves protecting against cyber threats, securing algorithms from manipulation, safeguarding data centres and hardware, and ensuring supply chain security.</li>
+</ul>
+
+
+
+<p>The AI sector study underscores a thriving industry with significant growth potential. However, it also highlights several bottlenecks that must be addressed – infrastructure gaps, lack of commercial awareness, and skills shortages – to fully harness the sector&#8217;s potential.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@theonlynoonan?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">John Noonan</a>)</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/eu-ai-act-early-prep-could-give-businesses-competitive-edge/"><strong>EU AI Act: Early prep could give businesses competitive edge</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="(max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ai-sector-study-record-growth-masks-serious-challenges/">AI sector study: Record growth masks serious challenges</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/ai-sector-study-record-growth-masks-serious-challenges/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>UK secures £6.3B in data infrastructure investments</title>
+		<link>https://www.artificialintelligence-news.com/news/uk-secures-6-3b-data-infrastructure-investments/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=uk-secures-6-3b-data-infrastructure-investments</link>
+					<comments>https://www.artificialintelligence-news.com/news/uk-secures-6-3b-data-infrastructure-investments/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Mon, 14 Oct 2024 12:08:42 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Data Center]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Legislation & Government]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[europe]]></category>
+		<category><![CDATA[infrastructure]]></category>
+		<category><![CDATA[international investment summit]]></category>
+		<category><![CDATA[investment]]></category>
+		<category><![CDATA[uk]]></category>
+		<category><![CDATA[United Kingdom]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16286</guid>
+
+					<description><![CDATA[<p>Four major US firms have announced plans to invest a combined £6.3 billion in UK data infrastructure.  The announcement, made during the International Investment Summit, was welcomed by Technology Secretary Peter Kyle as a &#8220;vote of confidence&#8221; in Britain&#8217;s approach to partnering with businesses to drive growth. CyrusOne, ServiceNow, CloudHQ, and CoreWeave have all committed<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/uk-secures-6-3b-data-infrastructure-investments/" title="ReadUK secures £6.3B in data infrastructure investments">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/uk-secures-6-3b-data-infrastructure-investments/">UK secures £6.3B in data infrastructure investments</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Four major US firms have announced plans to invest a combined £6.3 billion in UK data infrastructure. </p>
+
+
+
+<p>The announcement, made during the <a href="https://www.gov.uk/government/speeches/pm-international-investment-summit-speech-14-october-2024">International Investment Summit</a>, was welcomed by Technology Secretary Peter Kyle as a &#8220;vote of confidence&#8221; in Britain&#8217;s approach to partnering with businesses to drive growth.</p>
+
+
+
+<p>CyrusOne, ServiceNow, CloudHQ, and CoreWeave have all committed to substantial investments, bringing the total investment in UK data centres to over £25 billion since the current government took office. These new facilities will provide the UK with increased computing power and data storage capabilities, essential for training and deploying next-generation AI technologies.</p>
+
+
+
+<p>&#8220;Tech leaders from all over the world are seeing Britain as the best place to invest with a thriving and stable market for data centres and AI development,&#8221; stated Kyle.</p>
+
+
+
+<p>The largest single investment comes from Washington DC-based CloudHQ, which plans to develop a £1.9 billion data centre campus in Didcot, Oxfordshire. This hyper-scale facility is expected to create 1,500 jobs during construction and 100 permanent positions once operational.</p>
+
+
+
+<p>ServiceNow has pledged £1.15 billion over the next five years to expand its UK operations. This investment will support AI development, expand data centres with Nvidia GPUs for local processing of LLM data, and grow the company&#8217;s UK workforce beyond its current 1,000 employees. ServiceNow also plans to offer new skills programmes to reach 240,000 UK learners.</p>
+
+
+
+<p>ServiceNow&#8217;s AI platform is already utilised by 85% of Fortune 500 companies and more than half of the FTSE100. In the UK, the company works with organisations including BT Group, Aston Martin Aramco Formula One Team, and hundreds of public sector bodies such as the NHS and the Department for Work and Pensions.</p>
+
+
+
+<p>Rachel Reeves, Chancellor of the Exchequer, commented: &#8220;This investment is a huge vote of confidence in the UK&#8217;s tech and AI sector, and is exactly the kind we want to see as we grow the economy. That&#8217;s what the International Investment Summit is all about too. Showing global investors and business that Britain is open for business.&#8221;</p>
+
+
+
+<p>CyrusOne, a leading global data centre developer, announced plans to invest £2.5 billion in the UK over the coming years. Subject to planning permission, their projects are expected to be operational by Q4 2028 and create over 1,000 jobs.</p>
+
+
+
+<p>AI hyperscaler CoreWeave confirmed an additional £750 million investment to support the next generation of AI cloud infrastructure, building on its £1 billion investment announced in May.</p>
+
+
+
+<p>These investments follow recent commitments from other tech giants, including Blackstone&#8217;s £10 billion investment in the North East of England and Amazon Web Services&#8217; plan to invest £8 billion in UK data centres over the next five years.</p>
+
+
+
+<p>The UK government has been actively supporting the growth of data infrastructure and the broader tech sector. Last month, data centres were classified as &#8216;Critical National Infrastructure&#8217; (CNI), providing the industry with greater government support. Additionally, the Tech Secretary appointed entrepreneur Matt Clifford to develop an AI Opportunities Action Plan, aimed at boosting AI adoption across the economy.</p>
+
+
+
+<p>As part of the ongoing International Investment Summit, Prime Minister Keir Starmer is bringing together 300 industry leaders to catalyse investment in the UK. The summit will see discussions on how the UK can capitalise on emerging growth sectors including health tech, AI, clean energy, and creative industries.</p>
+
+
+
+<p>Bill McDermott, Chairman and CEO of ServiceNow, said: &#8220;The UK is embracing technology transformation at scale. In this new age of AI, the country continues to be a global leader in driving innovation for the benefit of all its communities.</p>
+
+
+
+<p>“Our investment accelerates the UK&#8217;s push to put AI to work, empowering people, enriching experiences, and strengthening societal bonds. Together, ServiceNow and our customers across the UK are delivering a future where technology benefits everyone.&#8221;</p>
+
+
+
+<p>The series of investments and government initiatives bolstering UK data infrastructure aims to secure the country&#8217;s leadership in AI and technology innovation within Europe, and reinforces it as <a href="https://www.forbes.com/sites/iese/2021/07/08/these-are-the-most-attractive-countries-to-investors-post-covid/">an attractive destination</a> for international tech companies seeking to expand their operations.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@visuals_by_fred?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Freddie Collins</a>)</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/kings-business-school-ai-transforming-problem-solving/"><strong>King’s Business School: How AI is transforming problem-solving</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/uk-secures-6-3b-data-infrastructure-investments/">UK secures £6.3B in data infrastructure investments</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/uk-secures-6-3b-data-infrastructure-investments/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The AI revolution: Reshaping data centres and the digital landscape </title>
+		<link>https://www.artificialintelligence-news.com/news/the-ai-revolution-reshaping-data-centres-and-the-digital-landscape/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-ai-revolution-reshaping-data-centres-and-the-digital-landscape</link>
+					<comments>https://www.artificialintelligence-news.com/news/the-ai-revolution-reshaping-data-centres-and-the-digital-landscape/#respond</comments>
+		
+		<dc:creator><![CDATA[Muhammad Zulhusni]]></dc:creator>
+		<pubDate>Wed, 14 Aug 2024 09:43:06 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Data Center]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=15729</guid>
+
+					<description><![CDATA[<p>Artificial intelligence is changing the world and is projected to have a global market value of $2-4 trillion USD by 2030. The future is now, and it feels as though we’re witnessing a big bang in technology every couple of months. AI has crept into every facet of our lives, fundamentally transforming our work and<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/the-ai-revolution-reshaping-data-centres-and-the-digital-landscape/" title="ReadThe AI revolution: Reshaping data centres and the digital landscape ">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/the-ai-revolution-reshaping-data-centres-and-the-digital-landscape/">The AI revolution: Reshaping data centres and the digital landscape </a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Artificial intelligence is changing the world and is projected to have a global market value of $2-4 trillion USD by 2030.</p>
+
+
+
+<p>The future is now, and it feels as though we’re witnessing a big bang in technology every couple of months.</p>
+
+
+
+<p>AI has crept into every facet of our lives, fundamentally transforming our work and play.&nbsp;<a href="https://www.datacentrecongress.com/?utm_source=AI-News&amp;utm_medium=article-referral" target="_blank" rel="noreferrer noopener">Data centres</a>&nbsp;are at the heart of all this excitement. Put simply, AI is when computer systems are used to simulate human intelligence processes. This includes learning, reasoning, and – particularly interestingly – self-correction. In other words, it’s like having a human brain in a computer. Bill Gates has compared its rise to the start of some of the most important technological advances in history.</p>
+
+
+
+<p>The surge of AI is staggering. For instance, ChatGPT reached a million users in just five days; for Netflix, this milestone took a few years. The enthusiasm to implement the technology is evident from these instances of explosive growth.</p>
+
+
+
+<p>However, AI has a surprisingly large appetite for data, and the computational power required to process that data is enormous, especially considering that it’s only set to increase further. That’s where data centre infrastructure comes in. Data centres are the backbones of the digital world and are no longer simply storage spaces but are rapidly evolving into entire ecosystems. These ecosystems are energy-hungry, requiring rapid processing power for energy-intensive processes and efficient delivery of data worldwide.</p>
+
+
+
+<p>Data centres are home to rows of servers, storage systems, and complex networks that facilitate the flow of information. Such facilities are essential to various workloads, from search queries to financial transactions and digital interactions, and usually remain silent while completing their tasks. As progressive as AI’s demands and capabilities are, it is crucial to ensure their compatibility with data centre infrastructure.</p>
+
+
+
+<p>Every computation involved in processing data is key to AI, and the efficiency of these processes depends on three primary types of processors: the Graphics Processing Unit (GPU), the Central Processing Unit (CPU), and the Tensor Processing Unit (TPU).</p>
+
+
+
+<p>On the one hand, the GPU is great at managing parallelism, making it excellent for training AI models. On the other hand, the CPU allows for more flexibility in terms of simultaneous tasks on an increasing scale. Finally, the TPU, which is Google’s development in this sphere, is best suited for completing the highest possible number of AI tasks in the shortest amount of time.</p>
+
+
+
+<p>Integrating AI into data centres presents several challenges:</p>
+
+
+
+<ol class="wp-block-list">
+<li>Power: AI training processes require high-performance computing infrastructure, necessitating reliable and sufficient power supply systems.</li>
+
+
+
+<li>Connectivity: Seamless, high-speed, and low-latency network connectivity is crucial for efficient data transfer and communication.</li>
+
+
+
+<li>Cooling: AI workloads generate significant heat, requiring advanced cooling systems to maintain optimal operating temperatures.</li>
+</ol>
+
+
+
+<p>AI is ever-emerging and ever-evolving, and thus, changes must be made to regulation. For example, the AI Act recently released by the EU categorizes applications of AI into four different levels of risk: unacceptable, high, limited, and minimal or no risk. At the same time, the NIS2 Directive has expanded cybersecurity regulation to cover the digital realm as well.</p>
+
+
+
+<p>As such, one of the main challenges facing industries, including data centres, will be keeping up to date with these regulations. AI is progressing faster and further than anything we have seen in recent years, and data centres must move as quickly to keep up with the changing parameters and risk boundaries that are now being defined.</p>
+
+
+
+<p>To sum up, the AI revolution is changing the way our digital infrastructure works, with the data centre being one of the first to be transformed. This transformation is crucial because, as we discover new ways of applying AI, we will need everything from technological advancements to regulatory compliance. This concerns both technological progress and the need to deal with new laws and regulations that pile up with the growth of AI. Thus, the history of AI and the data centre is one of continuous development and mutual shaping of each other.</p>
+
+
+
+<p><strong>Interested in learning more?&nbsp;</strong></p>
+
+
+
+<p><strong>Data Centres Expo Europe | Data Centres Event &amp; Conference</strong> </p>
+
+
+
+<p>Register for free to attend the upcoming <a href="https://www.datacentrecongress.com/?utm_source=AI-News&amp;utm_medium=article-referral" target="_blank" rel="noreferrer noopener">Data Centres Expo</a> event and conference which will shine a spotlight on the future outlook for the sector, as demand for data centre spaces increase. Gain valuable insights from industry leaders and network with experts from the largest data centre providers. Examine key topics such as building AI ready data centre infrastructures, building scalability and sustainability into data centres, and cultivating the right data centre hardware solutions. <a href="https://www.datacentrecongress.com/?utm_source=AI-News&amp;utm_medium=article-referral" target="_blank" rel="noreferrer noopener">Learn more and register for free here. </a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/the-ai-revolution-reshaping-data-centres-and-the-digital-landscape/">The AI revolution: Reshaping data centres and the digital landscape </a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/the-ai-revolution-reshaping-data-centres-and-the-digital-landscape/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

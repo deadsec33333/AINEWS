@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Latest AI Deep &amp; Reinforcement Learning News | AI News</title>
+	<atom:link href="https://www.artificialintelligence-news.com/categories/ai-deep-reinforcement-learning/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.artificialintelligence-news.com/categories/ai-deep-reinforcement-learning/</link>
+	<description>Artificial Intelligence News</description>
+	<lastBuildDate>Thu, 28 Nov 2024 12:44:04 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://www.artificialintelligence-news.com/wp-content/uploads/2020/09/ai-icon-60x60.png</url>
+	<title>Latest AI Deep &amp; Reinforcement Learning News | AI News</title>
+	<link>https://www.artificialintelligence-news.com/categories/ai-deep-reinforcement-learning/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>New AI training techniques aim to overcome current challenges</title>
+		<link>https://www.artificialintelligence-news.com/news/o1-model-llm-ai-openai-training-research-next-generation/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=o1-model-llm-ai-openai-training-research-next-generation</link>
+					<comments>https://www.artificialintelligence-news.com/news/o1-model-llm-ai-openai-training-research-next-generation/#respond</comments>
+		
+		<dc:creator><![CDATA[Joe Green]]></dc:creator>
+		<pubDate>Thu, 28 Nov 2024 11:58:28 +0000</pubDate>
+				<category><![CDATA[Deep & Reinforcement Learning]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[models]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16574</guid>
+
+					<description><![CDATA[<p>OpenAI and other leading AI companies are developing new training techniques to overcome limitations of current methods. Addressing unexpected delays and complications in the development of larger, more powerful language models, these fresh techniques focus on human-like behaviour to teach algorithms to &#8216;think. Reportedly led by a dozen AI researchers, scientists, and investors, the new<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/o1-model-llm-ai-openai-training-research-next-generation/" title="ReadNew AI training techniques aim to overcome current challenges">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/o1-model-llm-ai-openai-training-research-next-generation/">New AI training techniques aim to overcome current challenges</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>OpenAI and other leading AI companies are developing new training techniques to overcome limitations of current methods. Addressing unexpected delays and complications in the development of larger, more powerful language models, these fresh techniques focus on human-like behaviour to teach algorithms to &#8216;think.</p>
+
+
+
+<p>Reportedly led by a dozen AI researchers, scientists, and investors, the new training techniques, which underpin OpenAI&#8217;s recent <a href="https://openai.com/o1/">&#8216;o1&#8217; model</a> (formerly Q* and Strawberry), have the potential to transform the landscape of AI development. The reported advances may influence the types or quantities of resources AI companies need continuously, including specialised hardware and energy to aid the development of AI models.</p>
+
+
+
+<p>The o1 model is designed to approach problems in a way that mimics human reasoning and thinking, breaking down numerous tasks into steps. The model also utilises specialised data and feedback provided by experts in the AI industry to enhance its performance.</p>
+
+
+
+<p>Since ChatGPT was unveiled by OpenAI in 2022, there has been a surge in AI innovation, and many technology companies claim existing AI models require expansion, be it through greater quantities of data or improved computing resources. Only then can AI models consistently improve.</p>
+
+
+
+<p>Now, AI experts have reported limitations in scaling up AI models. The 2010s were a revolutionary period for scaling, but Ilya Sutskever, co-founder of AI labs Safe Superintelligence (SSI) and OpenAI, says that the training of AI models, particularly in the understanding language structures and patterns, has levelled off.</p>
+
+
+
+<p>&#8220;The 2010s were the age of scaling, now we&#8217;re back in the age of wonder and discovery once again. Scaling the right thing matters more now,&#8221; they said.</p>
+
+
+
+<p>In recent times, AI lab researchers have experienced delays in and challenges to developing and releasing large language models (LLM) that are more powerful than OpenAI&#8217;s GPT-4 model.</p>
+
+
+
+<p>First, there is the cost of training large models, often running into tens of millions of dollars. And, due to complications that arise, like hardware failing due to system complexity, a final analysis of how these models run can take months.</p>
+
+
+
+<p>In addition to these challenges, training runs require substantial amounts of energy, often resulting in power shortages that can disrupt processes and impact the wider electriciy grid. Another issue is the colossal amount of data large language models use, so much so that AI models have reportedly used up all accessible data worldwide.</p>
+
+
+
+<p>Researchers are exploring a technique known as &#8216;test-time compute&#8217; to improve current AI models when being trained or during inference phases. The method can involve the generation of multiple answers in real-time to decide on a range of best solutions. Therefore, the model can allocate greater processing resources to difficult tasks that require human-like decision-making and reasoning. The aim &#8211; to make the model more accurate and capable.</p>
+
+
+
+<p>Noam Brown, a researcher at OpenAI who helped develop the o1 model, shared an example of how a new approach can achieve surprising results. At the TED AI conference in San Francisco last month, Brown explained that &#8220;having a bot think for just 20 seconds in a hand of poker got the same boosting performance as scaling up the model by 100,000x and training it for 100,000 times longer.&#8221;</p>
+
+
+
+<p>Rather than simply increasing the model size and training time, this can change how AI models process information and lead to more powerful, efficient systems.</p>
+
+
+
+<p>It is reported that other AI labs have been developing versions of the o1 technique. The include <a href="https://x.ai/">xAI</a>, <a href="https://deepmind.google/">Google DeepMind</a>, and <a href="https://www.anthropic.com/">Anthropic</a>. Competition in the AI world is nothing new, but we could see a significant impact on the AI hardware market as a result of new techniques. Companies like <a href="https://www.nvidia.com/en-gb/">Nvidia</a>, which currently dominates the supply of AI chips due to the high demand for their products, may be particularly affected by updated AI training techniques.</p>
+
+
+
+<p>Nvidia became the world&#8217;s most valuable company in October, and its rise in fortunes can be largely attributed to its chips&#8217; use in AI arrays. New techniques may impact Nvidia&#8217;s market position, forcing the company to adapt its products to meet the evolving AI hardware demand. Potentially, this could open more avenues for new competitors in the inference market.</p>
+
+
+
+<p>A new age of AI development may be on the horizon, driven by evolving hardware demands and more efficient training methods such as those deployed in the o1 model. The future of both AI models and the companies behind them could be reshaped, unlocking unprecedented possibilities and greater competition.</p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/anthropic-urges-ai-regulation-avoid-catastrophes/"><strong>Anthropic urges AI regulation to avoid catastrophes</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img fetchpriority="high" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:2239px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="(max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, a</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/o1-model-llm-ai-openai-training-research-next-generation/">New AI training techniques aim to overcome current challenges</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/o1-model-llm-ai-openai-training-research-next-generation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How cold hard data science harnesses AI with Wolfram Research</title>
+		<link>https://www.artificialintelligence-news.com/news/how-cold-hard-data-science-harnesses-ai-with-wolfram-research/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-cold-hard-data-science-harnesses-ai-with-wolfram-research</link>
+					<comments>https://www.artificialintelligence-news.com/news/how-cold-hard-data-science-harnesses-ai-with-wolfram-research/#respond</comments>
+		
+		<dc:creator><![CDATA[AI News]]></dc:creator>
+		<pubDate>Mon, 30 Sep 2024 14:34:30 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Deep & Reinforcement Learning]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Industries]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[uk]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16192</guid>
+
+					<description><![CDATA[<p>It&#8217;s sometimes difficult to distinguish the reality of technology from the hype and marketing messages that bombard our inboxes daily. In just the last five years, we&#8217;ve probably heard too much about the metaverse, blockchain and virtual reality, for example. At present, we&#8217;re in the midst of a furore about the much-abused term &#8216;AI&#8217;, and<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/how-cold-hard-data-science-harnesses-ai-with-wolfram-research/" title="ReadHow cold hard data science harnesses AI with Wolfram Research">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/how-cold-hard-data-science-harnesses-ai-with-wolfram-research/">How cold hard data science harnesses AI with Wolfram Research</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>It&#8217;s sometimes difficult to distinguish the reality of technology from the hype and marketing messages that bombard our inboxes daily. In just the last five years, we&#8217;ve probably heard too much about the metaverse, blockchain and virtual reality, for example. At present, we&#8217;re in the midst of a furore about the much-abused term &#8216;AI&#8217;, and time will tell whether this particular storm will be seen as a teacup resident.</p>
+
+
+
+<p><em>Artificial Intelligence News</em> spoke exclusively to <a href="https://www.linkedin.com/in/jonmcloone/">Jon McLoone</a>, the Director of Technical Communication and Strategy at of one the most mature organisations in the computational intelligence and scientific innovation space, <a href="https://www.wolfram.com/">Wolfram Research</a>, to help us put our present concepts of AI and their practical uses into a deeper context.</p>
+
+
+
+<p>Jon has worked at Wolfram Research for 32 years in various roles, currently leading the European Technical Services team. A mathematician by training and a skilled practitioner in many aspects of data analysis, we began our interview by having him describe Wolfram&#8217;s work in an elevator pitch format.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img decoding="async" width="800" height="533" src="https://www.artificialintelligence-news.com/wp-content/uploads/2024/09/mcloone-2-1.webp" alt="" class="wp-image-16196" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2024/09/mcloone-2-1.webp 800w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/09/mcloone-2-1-300x200.webp 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/09/mcloone-2-1-768x512.webp 768w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/09/mcloone-2-1-380x253.webp 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/09/mcloone-2-1-350x233.webp 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/09/mcloone-2-1-100x67.webp 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/09/mcloone-2-1-60x40.webp 60w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Jon McLoone</figcaption></figure></div>
+
+
+<p>&#8220;Our value proposition is that we know computation and Wolfram technology. We tailor our technology to the problem that an organisation has. That&#8217;s across a broad range of things. So, we don&#8217;t have a typical customer. What they have in common is they&#8217;re doing something innovative.&#8221;</p>
+
+
+
+<p>&#8220;We&#8217;re doing problem-solving, the type of things that use computation and data science. We&#8217;re building out a unified platform for computation, and when we talk about computation, we mean the kinds of technical computing, like engineering calculations, data science and machine learning. It&#8217;s things like social network analysis, biosciences, actuarial science, and financial computations. Abstractly, these are all fundamentally mathematical things.&#8221;</p>
+
+
+
+<p>&#8220;Our world is all those structured areas where we&#8217;ve spent 30 years building out different ontologies. We have a symbolic representation of the maths, but also things like graphs and networks, documents, videos, images, audio, time series, entities in the real world, like cities, rivers, and mountains. My team is doing the fun stuff of actually making it do something useful!&#8221;</p>
+
+
+
+<p>&#8220;AI we just see as another kind of computation. There were different algorithms that have been developed over years, some of them hundreds of years ago, some of them only tens of years ago. Gen AI just adds to this list.&#8221;</p>
+
+
+
+<p>Claims made about AI in 2024 can sometimes be overoptimistic, so we need to be realistic about its capabilities and consider what it excels at and where it falls short.</p>
+
+
+
+<p>&#8220;There&#8217;s still human intelligence, which still remains as the strategic element. You&#8217;re not going to say, in the next five years AI will run my company and make decisions. Generative AI is very fluent but is unreliable. Its job is to be <em>plausible</em>, not to be correct. And particularly when you get into the kinds of things Wolfram does, it&#8217;s terrible because it will tell you the kinds of things that your mathematical answer <em>would look like</em>.&#8221; (<em>Artificial Intelligence News</em>&#8216; italics.)</p>
+
+
+
+<p>The work of Wolfram Research in this context focuses on what Jon terms &#8216;symbolic AI&#8217;. To differentiate generative and symbolic AI, he gave us the analogy of modelling the trajectory of a thrown ball. A generative AI would learn how the ball travels by examining many thousands of such throws and then be able to produce a description of the trajectory. &#8220;That description would be plausible. That kind of model is data-rich, understanding poor.&#8221;</p>
+
+
+<div class="wp-block-image">
+<figure class="alignleft size-full"><img decoding="async" width="400" height="370" src="https://www.artificialintelligence-news.com/wp-content/uploads/2024/09/Wolfram-venn-diagram.webp" alt="" class="wp-image-16200" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2024/09/Wolfram-venn-diagram.webp 400w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/09/Wolfram-venn-diagram-300x278.webp 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/09/Wolfram-venn-diagram-216x200.webp 216w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/09/Wolfram-venn-diagram-308x285.webp 308w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/09/Wolfram-venn-diagram-270x250.webp 270w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/09/Wolfram-venn-diagram-100x93.webp 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/09/Wolfram-venn-diagram-60x56.webp 60w" sizes="(max-width: 400px) 100vw, 400px" /></figure></div>
+
+
+<p>A symbolic representation of the thrown ball, on the other hand, would involve differential equations for projectile motion and representations of elements: mass, viscosity of the atmosphere, friction, and many other factors. &#8220;It could then be asked, &#8216;What happens if I throw the ball on Mars?&#8217; It&#8217;ll say something accurate. It&#8217;s not going to fail.&#8221;</p>
+
+
+
+<p>The ideal way to solve business (or scientific, medical, or engineering) problems is a combination of human intelligence, symbolic reasoning, as epitomised in Wolfram Language, and what we now term AI acting as the glue between them. AI is a great technology for interpreting meaning and acting as an interface between the component parts.</p>
+
+
+
+<p>&#8220;Some of the interesting crossovers are where we take natural language and turn that into some structured information that you can then compute with. Human language is very messy and ambiguous, and generative AI is very good at mapping that to some structure. Once you&#8217;re in a structured world of something that is syntactically formal, then you can do things on it.&#8221;</p>
+
+
+
+<p>A recent example of combining &#8216;traditional&#8217; AI with the work of Wolfram involved medical records:</p>
+
+
+
+<p>&#8220;We did a project recently taking medical reports, which were handwritten, typed and digital. But they contain words, and trying to do statistics on those isn&#8217;t possible. And so, you&#8217;ve got to use the generative AI part for mapping all of these words to things like classes: was this an avoidable death? Yes. No. That&#8217;s a nice, structured key value pair. And then once we&#8217;ve got that information in structured form (for example a piece of JSON or XML, or whatever your chosen structure), we can then do classical statistics to start saying, &#8216;Is there a trend? Can we project? Was there an impact from COVID on hospital harms?&#8217; Clear-cut questions that you can approach symbolically with things like means and medians and models.&#8221;</p>
+
+
+
+<p>During our interview, Jon also gave a précis of a presentation, which took as its example of his organisation&#8217;s work, an imaginary peanut butter cup manufacturing plant. What might be the effects of changing out a particular ingredient or altering some detail of the recipe and the effects of that change on the product&#8217;s shelf life?</p>
+
+
+
+<p>&#8220;LLMs (large language models) will say, &#8216;Oh, they&#8217;ll probably last a few weeks because peanut butter cups <em>usually</em> sit on the shelf a few weeks. But going to a computational model that can plug into the ingredients, and compute, and you&#8217;ll know this thing should last for eight weeks before it goes off. Or what that change might do to the manufacturing process? A computational model can connect to the digital twin of your manufacturing plant and learn, &#8216;That will slow things down by 3%, so your productivity will fall by 20% because it creates a bottleneck <em>here</em>.&#8217; LLMs are great at connecting you and your question to the model, maths, data science or the database. And that&#8217;s really an interesting three-way meeting of minds.&#8221;</p>
+
+
+
+<p>You can catch Wolfram Research at the upcoming TechEx event in Amsterdam, October 1-2, at stand 166 of the <a href="https://www.ai-expo.net/europe/">AI &amp; Big Data strand</a>. We can&#8217;t guarantee any peanut butter-related discussion at the event, but to discover how powerful modelling and generative AI can be harnessed to solve your specific problems and quandaries, <a href="https://www.wolfram.com/">contact the company via its website</a>.</p>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong>&nbsp;Check out<a href="https://www.ai-expo.net/">&nbsp;AI &amp; Big Data Expo</a>&nbsp;taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including&nbsp;<a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>,&nbsp;<a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/">&nbsp;Digital Transformation Week</a>, and&nbsp;<a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge&nbsp;<a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/how-cold-hard-data-science-harnesses-ai-with-wolfram-research/">How cold hard data science harnesses AI with Wolfram Research</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/how-cold-hard-data-science-harnesses-ai-with-wolfram-research/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Enhancing healthcare documentation with IDP</title>
+		<link>https://www.artificialintelligence-news.com/news/enhancing-healthcare-documentation-with-idp/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=enhancing-healthcare-documentation-with-idp</link>
+					<comments>https://www.artificialintelligence-news.com/news/enhancing-healthcare-documentation-with-idp/#respond</comments>
+		
+		<dc:creator><![CDATA[AI News]]></dc:creator>
+		<pubDate>Thu, 26 Sep 2024 16:01:57 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Deep & Reinforcement Learning]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16170</guid>
+
+					<description><![CDATA[<p>Healthcare documentation is an integral part of the sector that ensures the delivery of high-quality care and maintains the continuity of patient information. However, as healthcare providers have to deal with excessive amounts of data, managing it can feel overwhelming. With the advent of intelligent document processing technology, a new solution can now be implemented.<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/enhancing-healthcare-documentation-with-idp/" title="ReadEnhancing healthcare documentation with IDP">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/enhancing-healthcare-documentation-with-idp/">Enhancing healthcare documentation with IDP</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Healthcare documentation is an integral part of the sector that ensures the delivery of high-quality care and maintains the continuity of patient information. However, as healthcare providers have to deal with excessive amounts of data, managing it can feel overwhelming. With the advent of intelligent document processing technology, a new solution can now be implemented. This article explores how such technology works, its role in healthcare documentation, and its benefits, limitations, and implications for the future.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Intelligent document processing and its importance</strong></h2>
+
+
+
+<p>Intelligent document processing is a more advanced type of automation based on AI technology, machine learning, natural language processing, and optical character recognition to collect, process, and organise data from multiple forms of paperwork. Unlike traditional document systems, IDP can handle unstructured and semi-structured data for multiple healthcare documents, which can exist in various forms. As such data is based on advanced, permanent algorithms and artificial intelligence tools, IDP can enhance the functions of healthcare providers and assist them in the care delivery process.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>IDP’s role in healthcare documentation</strong></h2>
+
+
+
+<p>Multiple forms of documents, like health, employment, or insurance records, reports, notes, forms, and social documents, have to be dealt with by multiple providers daily. IDP can reduce the need for inefficient data management processes through:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Automating the<a href="https://apryse.com/capabilities/extraction"> data extraction</a> process by automatically capturing the essential information from the documents. Thus, it reduces the human factor and enhance performance,</li>
+
+
+
+<li>Establishing more accurate data With AI algorithms. IDP ensures that the data captured is accurate and consistent; crucial for patient safety and care quality,</li>
+
+
+
+<li>Organising data in a searchable format to allow better data access.</li>
+
+
+
+<li>Ensuring compliance with<a href="https://www.cdc.gov/phlp/php/resources/health-insurance-portability-and-accountability-act-of-1996-hipaa.html"> regulations like HIPAA</a> by securely managing sensitive patient data and providing audit trails.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading"><strong>Benefits of IDP in healthcare</strong></h2>
+
+
+
+<p>The implementation of IDP in healthcare comes with several benefits:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Increased efficiency: By automating routine tasks, healthcare providers can focus more on patient care rather than paperwork,</li>
+
+
+
+<li>Cost reduction: IDP reduces the need for manual data entry and paper-based processes, leading to significant cost savings,</li>
+
+
+
+<li>Better patient experience: Quick access to patient history and records leads to more informed decision-making and personalised care,</li>
+
+
+
+<li>Scalability: As healthcare facilities grow, IDP systems can easily scale to manage increased data volumes without compromising performance.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading"><strong>Challenges in implementing IDP</strong></h2>
+
+
+
+<p>While IDP offers many advantages, there are challenges to its adoption:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Integration with existing systems: Integrating IDP with current<a href="https://hbr.org/sponsored/2022/10/digital-ecosystems-are-the-future-of-health-care"> healthcare IT ecosystems</a> can be complex and requires careful planning,</li>
+
+
+
+<li>Data privacy concerns: Protecting patient data is paramount, and IDP must adhere to stringent security standards,</li>
+
+
+
+<li>Change management: Staff may resist shifting from manual to automated processes, necessitating adequate training and change management strategies.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading"><strong>Future of IDP in healthcare</strong></h2>
+
+
+
+<p>In the future, IDP is likely to increase its impact in the healthcare field. Given the rise of AI and machine learning, the corresponding systems will become increasingly sophisticated, likely providing predictive analytics and decision support services. This could help improve diagnostic precision and create a more personalised patient treatment plan, eventually leading to better outcomes. In addition, IDP may facilitate data exchange between different healthcare systems.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Conclusion</strong></h2>
+
+
+
+<p>Intelligent document processing is a typical solution that is bound to become increasingly impactful in healthcare. It may help healthcare professionals deal more effectively with the contemporary challenges of patient data. Although challenges exist, the potential results of improved client care, decreased expenses, and more precise data make IDP an invaluable asset. Thus, it can be concluded that Intelligent Document Processing should be considered one of the healthcare industry’s future solutions in its quest toward digitalisation.</p>
+
+
+
+<p></p>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong>&nbsp;Check out<a href="https://www.ai-expo.net/">&nbsp;AI &amp; Big Data Expo</a>&nbsp;taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including&nbsp;<a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>,&nbsp;<a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/">&nbsp;Digital Transformation Week</a>, and&nbsp;<a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge&nbsp;<a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/enhancing-healthcare-documentation-with-idp/">Enhancing healthcare documentation with IDP</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/enhancing-healthcare-documentation-with-idp/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Primate Labs launches Geekbench AI benchmarking tool</title>
+		<link>https://www.artificialintelligence-news.com/news/primate-labs-launches-geekbench-ai-benchmarking-tool/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=primate-labs-launches-geekbench-ai-benchmarking-tool</link>
+					<comments>https://www.artificialintelligence-news.com/news/primate-labs-launches-geekbench-ai-benchmarking-tool/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Fri, 16 Aug 2024 09:13:49 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Deep & Reinforcement Learning]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[benchmark]]></category>
+		<category><![CDATA[geekbench]]></category>
+		<category><![CDATA[geekbench ai]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[primate labs]]></category>
+		<category><![CDATA[tools]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=15773</guid>
+
+					<description><![CDATA[<p>Primate Labs has officially launched Geekbench AI, a benchmarking tool designed specifically for machine learning and AI-centric workloads. The release of Geekbench AI 1.0 marks the culmination of years of development and collaboration with customers, partners, and the AI engineering community. The benchmark, previously known as Geekbench ML during its preview phase, has been rebranded<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/primate-labs-launches-geekbench-ai-benchmarking-tool/" title="ReadPrimate Labs launches Geekbench AI benchmarking tool">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/primate-labs-launches-geekbench-ai-benchmarking-tool/">Primate Labs launches Geekbench AI benchmarking tool</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Primate Labs has officially launched <a href="https://www.geekbench.com/ai/">Geekbench AI</a>, a benchmarking tool designed specifically for machine learning and AI-centric workloads.</p>
+
+
+
+<p>The release of Geekbench AI 1.0 marks the culmination of years of development and collaboration with customers, partners, and the AI engineering community. The benchmark, previously known as Geekbench ML during its preview phase, has been rebranded to align with industry terminology and ensure clarity about its purpose.</p>
+
+
+
+<p>Geekbench AI is now available for Windows, macOS, and Linux through the Primate Labs website, as well as on the Google Play Store and Apple App Store for mobile devices.</p>
+
+
+
+<p>Primate Labs’ latest benchmarking tool aims to provide a standardised method for measuring and comparing AI capabilities across different platforms and architectures. The benchmark offers a unique approach by providing three overall scores, reflecting the complexity and heterogeneity of AI workloads.</p>
+
+
+
+<p>&#8220;Measuring performance is, put simply, really hard,&#8221; explained Primate Labs. &#8220;That&#8217;s not because it&#8217;s hard to run an arbitrary test, but because it&#8217;s hard to determine which tests are the most important for the performance you want to measure – especially across different platforms, and particularly when everyone is doing things in subtly different ways.&#8221;</p>
+
+
+
+<p>The three-score system accounts for the varied precision levels and hardware optimisations found in modern AI implementations. This multi-dimensional approach allows developers, hardware vendors, and enthusiasts to gain deeper insights into a device&#8217;s AI performance across different scenarios.</p>
+
+
+
+<p>A notable addition to Geekbench AI is the inclusion of accuracy measurements for each test. This feature acknowledges that AI performance isn&#8217;t solely about speed but also about the quality of results. By combining speed and accuracy metrics, Geekbench AI provides a more holistic view of AI capabilities, helping users understand the trade-offs between performance and precision.</p>
+
+
+
+<p>Geekbench AI 1.0 introduces support for a wide range of AI frameworks, including OpenVINO on Linux and Windows, and vendor-specific TensorFlow Lite delegates like Samsung ENN, ArmNN, and Qualcomm QNN on Android. This broad framework support ensures that the benchmark reflects the latest tools and methodologies used by AI developers.</p>
+
+
+
+<p>The benchmark also utilises more extensive and diverse datasets, which not only enhance the accuracy evaluations but also better represent real-world AI use cases. All workloads in Geekbench AI 1.0 run for a minimum of one second, allowing devices to reach their maximum performance levels during testing while still reflecting the bursty nature of real-world applications.</p>
+
+
+
+<p>Primate Labs has published detailed technical descriptions of the workloads and models used in Geekbench AI 1.0, emphasising their commitment to transparency and industry-standard testing methodologies. The benchmark is integrated with the <a href="https://browser.geekbench.com/">Geekbench Browser</a>, facilitating easy cross-platform comparisons and result sharing.</p>
+
+
+
+<p>The company anticipates regular updates to Geekbench AI to keep pace with market changes and emerging AI features. However, Primate Labs believes that Geekbench AI has already reached a level of reliability that makes it suitable for integration into professional workflows, with major tech companies like Samsung and Nvidia already utilising the benchmark.</p>
+
+
+
+<p><em>(Image Credit: <a href="https://www.primatelabs.com/">Primate Labs</a>)</em></p>
+
+
+
+<p><strong>See also: <a href="https://www.artificialintelligence-news.com/news/xai-unveils-grok-2-challenge-ai-hierarchy/"><strong>xAI unveils Grok-2 to challenge the AI hierarchy</strong></a></strong></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/primate-labs-launches-geekbench-ai-benchmarking-tool/">Primate Labs launches Geekbench AI benchmarking tool</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/primate-labs-launches-geekbench-ai-benchmarking-tool/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Qwen2-Math: A new era for AI maths whizzes</title>
+		<link>https://www.artificialintelligence-news.com/news/qwen2-math-new-era-ai-maths-whizzes/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=qwen2-math-new-era-ai-maths-whizzes</link>
+					<comments>https://www.artificialintelligence-news.com/news/qwen2-math-new-era-ai-maths-whizzes/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Fri, 09 Aug 2024 12:46:18 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Deep & Reinforcement Learning]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[alibaba cloud]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[maths]]></category>
+		<category><![CDATA[models]]></category>
+		<category><![CDATA[qwen]]></category>
+		<category><![CDATA[qwen2]]></category>
+		<category><![CDATA[qwen2-math]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=15689</guid>
+
+					<description><![CDATA[<p>Alibaba Cloud&#8217;s Qwen team has unveiled Qwen2-Math, a series of large language models specifically designed to tackle complex mathematical problems. These new models – built upon the existing Qwen2 foundation – demonstrate remarkable proficiency in solving arithmetic and mathematical challenges, and outperform former industry leaders. The Qwen team crafted Qwen2-Math using a vast and diverse<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/qwen2-math-new-era-ai-maths-whizzes/" title="ReadQwen2-Math: A new era for AI maths whizzes">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/qwen2-math-new-era-ai-maths-whizzes/">Qwen2-Math: A new era for AI maths whizzes</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Alibaba Cloud&#8217;s <a href="https://qwenlm.github.io/blog/qwen2-math/">Qwen</a> team has unveiled Qwen2-Math, a series of large language models specifically designed to tackle complex mathematical problems.</p>
+
+
+
+<p>These new models – built upon the existing Qwen2 foundation – demonstrate remarkable proficiency in solving arithmetic and mathematical challenges, and outperform former industry leaders.</p>
+
+
+
+<p>The Qwen team crafted Qwen2-Math using a vast and diverse Mathematics-specific Corpus. This corpus comprises a rich tapestry of high-quality resources, including web texts, books, code, exam questions, and synthetic data generated by Qwen2 itself.</p>
+
+
+
+<p>Rigorous evaluation on both English and Chinese mathematical benchmarks – including GSM8K, Math, MMLU-STEM, CMATH, and GaoKao Math – revealed the exceptional capabilities of Qwen2-Math. Notably, the flagship model, Qwen2-Math-72B-Instruct, surpassed the performance of proprietary models such as GPT-4o and Claude 3.5 in various mathematical tasks.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://www.artificialintelligence-news.com/wp-content/uploads/2024/08/qwen2-math-benchmark-1024x576.jpg" alt="" class="wp-image-15691" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2024/08/qwen2-math-benchmark-1024x576.jpg 1024w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/08/qwen2-math-benchmark-300x169.jpg 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/08/qwen2-math-benchmark-768x432.jpg 768w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/08/qwen2-math-benchmark-1536x864.jpg 1536w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/08/qwen2-math-benchmark-2048x1152.jpg 2048w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/08/qwen2-math-benchmark-355x200.jpg 355w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/08/qwen2-math-benchmark-380x214.jpg 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/08/qwen2-math-benchmark-350x197.jpg 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/08/qwen2-math-benchmark-100x56.jpg 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/08/qwen2-math-benchmark-60x34.jpg 60w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>&#8220;Qwen2-Math-Instruct achieves the best performance among models of the same size, with RM@8 outperforming Maj@8, particularly in the 1.5B and 7B models,&#8221; the Qwen team noted.</p>
+
+
+
+<p>This superior performance is attributed to the effective implementation of a math-specific reward model during the development process.</p>
+
+
+
+<p>Further showcasing its prowess, Qwen2-Math demonstrated impressive results in challenging mathematical competitions like the American Invitational Mathematics Examination (AIME) 2024 and the American Mathematics Contest (AMC) 2023.</p>
+
+
+
+<p>To ensure the model&#8217;s integrity and prevent contamination, the Qwen team implemented robust decontamination methods during both the pre-training and post-training phases. This rigorous approach involved removing duplicate samples and identifying overlaps with test sets to maintain the model&#8217;s accuracy and reliability.</p>
+
+
+
+<p>Looking ahead, the Qwen team plans to expand Qwen2-Math&#8217;s capabilities beyond English, with bilingual and multilingual models in the pipeline.&nbsp; This commitment to inclusivity aims to make advanced mathematical problem-solving accessible to a global audience.</p>
+
+
+
+<p>&#8220;We will continue to enhance our models’ ability to solve complex and challenging mathematical problems,&#8221; affirmed the Qwen team.</p>
+
+
+
+<p><em>You can find the Qwen2 models on Hugging Face </em><a href="https://huggingface.co/collections/Qwen/qwen2-6659360b33528ced941e557f"><em>here</em></a><em>.</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/paige-and-microsoft-unveil-next-gen-ai-models-cancer-diagnosis/"><strong>Paige and Microsoft unveil next-gen AI models for cancer diagnosis</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/qwen2-math-new-era-ai-maths-whizzes/">Qwen2-Math: A new era for AI maths whizzes</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/qwen2-math-new-era-ai-maths-whizzes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Baidu deploys its ERNIE Bot generative AI to the public</title>
+		<link>https://www.artificialintelligence-news.com/news/baidu-deploys-ernie-bot-generative-ai-public/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=baidu-deploys-ernie-bot-generative-ai-public</link>
+					<comments>https://www.artificialintelligence-news.com/news/baidu-deploys-ernie-bot-generative-ai-public/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Thu, 31 Aug 2023 15:15:49 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Chatbots]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Deep & Reinforcement Learning]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[baidu]]></category>
+		<category><![CDATA[baidu ernie]]></category>
+		<category><![CDATA[chatbot]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[ernie 3.0]]></category>
+		<category><![CDATA[ernie bot]]></category>
+		<category><![CDATA[generative ai]]></category>
+		<category><![CDATA[Model]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=13552</guid>
+
+					<description><![CDATA[<p>Chinese tech giant Baidu has announced that its generative AI product ERNIE Bot is now open to the public through various app stores and its website. ERNIE Bot can generate text, images, and videos based on natural language inputs. It is powered by ERNIE (Enhanced Representation through Knowledge Integration), a powerful deep learning model. The<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/baidu-deploys-ernie-bot-generative-ai-public/" title="ReadBaidu deploys its ERNIE Bot generative AI to the public">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/baidu-deploys-ernie-bot-generative-ai-public/">Baidu deploys its ERNIE Bot generative AI to the public</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Chinese tech giant <a href="https://www.baidu.com/">Baidu</a> has announced that its generative AI product ERNIE Bot is now open to the public through various app stores and its <a href="https://yiyan.baidu.com/welcome">website</a>.</p>
+
+
+
+<p>ERNIE Bot can generate text, images, and videos based on natural language inputs. It is powered by ERNIE (Enhanced Representation through Knowledge Integration), a powerful deep learning model.</p>
+
+
+
+<p>The first version of ERNIE was introduced and open-sourced in 2019 by researchers at Tsinghua University to demonstrate the natural language understanding capabilities of a model that combines both text and knowledge graph data.</p>
+
+
+
+<p>Later that year, Baidu released ERNIE 2.0 which became the first model model <a href="http://research.baidu.com/Blog/index-view?id=128">to set a score higher than 90</a> on the <a href="https://gluebenchmark.com/">GLUE</a> benchmark for evaluating natural language understanding systems.</p>
+
+
+
+<p>In 2021, Baidu’s researchers posted a <a href="https://arxiv.org/abs/2107.02137">paper</a> on ERNIE 3.0 in which they claim the model exceeds human performance on the <a href="https://super.gluebenchmark.com/">SuperGLUE</a> natural language benchmark. ERNIE 3.0 set a new top score on SuperGLUE and displaced efforts from Google and Microsoft.</p>
+
+
+
+<p>According to Baidu’s CEO Robin Li, opening up ERNIE Bot to the public will enable the company to obtain more human feedback and improve the user experience. He said that ERNIE Bot is a showcase of the four core abilities of generative AI: understanding, generation, reasoning, and memory. He also said that ERNIE Bot can help users with various tasks such as writing, learning, entertainment, and work.</p>
+
+
+
+<p>Baidu first unveiled ERNIE Bot in March this year, demonstrating its capabilities in different domains such as literature, art, and science. For example, ERNIE Bot can summarise a sci-fi novel and offer suggestions on how to continue the story in an expanded universe. It can also generate images and videos based on text inputs, such as creating a portrait of a fictional character or a scene from a movie.</p>
+
+
+
+<p>Earlier this month, Baidu revealed that ERNIE Bot’s training throughput had increased three-fold since March and that it had achieved new milestones in data analysis and visualisation. ERNIE Bot can now generate results more quickly and handle image inputs as well. For instance, ERNIE Bot can analyse an image of a pie chart and generate a summary of the data in natural language.</p>
+
+
+
+<p>Baidu is one of the first Chinese companies to obtain approval from authorities to release generative AI experiences to the public, according to <a href="https://www.bloomberg.com/news/articles/2023-08-30/baidu-among-first-firms-to-win-china-approval-for-ai-models">Bloomberg</a>. The report suggests that officials see AI as a “business and political imperative” for China and want to ensure that the technology is used in a responsible and ethical manner.</p>
+
+
+
+<p>Beijing is keen on putting guardrails in place to prevent the spread of harmful or illegal content while still enabling Chinese companies to compete with overseas rivals in the field of AI.</p>
+
+
+
+<h3 class="wp-block-heading">Beijing’s AI guardrails</h3>
+
+
+
+<p>The “guardrails” include the rules <a href="https://www.artificialintelligence-news.com/2023/07/14/beijing-publishes-its-ai-governance-rules/">published</a> by the Chinese authorities in July 2023 that govern generative AI in China.</p>
+
+
+
+<p>China’s rules go substantially beyond current regulations in other parts of the world and aim to ensure that generative AI is used in a responsible and ethical manner. The rules cover various aspects of generative AI, such as content, data, technology, fairness, and licensing.</p>
+
+
+
+<p>One notable requirement is that operators of generative AI must ensure that their services adhere to the core values of socialism, while also avoiding content that incites subversion of state power, secession, terrorism, or any actions undermining national unity and social stability.</p>
+
+
+
+<p>Generative AI services within China are also prohibited from promoting content that provokes ethnic hatred and discrimination, violence, obscenity, or false and harmful information.</p>
+
+
+
+<p>Furthermore, the regulations reveal China’s interest in developing digital public goods for generative AI. The document emphasises the promotion of public training data resource platforms and the collaborative sharing of model-making hardware to enhance utilisation rates. The authorities also aim to encourage the orderly opening of public data classification and the expansion of high-quality public training data resources.</p>
+
+
+
+<p>In terms of technology development, the rules stipulate that AI should be developed using secure and proven tools, including chips, software, tools, computing power, and data resources.</p>
+
+
+
+<p>Intellectual property rights – an often contentious issue – must be respected when using data for model development, and the consent of individuals must be obtained before incorporating personal information. There is also a focus on improving the quality, authenticity, accuracy, objectivity, and diversity of training data.</p>
+
+
+
+<p>To ensure fairness and non-discrimination, developers are required to create algorithms that do not discriminate based on factors such as ethnicity, belief, country, region, gender, age, occupation, or health. Moreover, operators of generative AI must obtain licenses for their services under most circumstances, adding a layer of regulatory oversight.</p>
+
+
+
+<p>China’s rules not only have implications for domestic AI operators but also serve as a benchmark for international discussions on AI governance and ethical practices.</p>
+
+
+
+<p><em>(Image Credit: <a href="https://flickr.com/photos/196993421@N03/52668921944/">Alpha Photo</a> under <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a> license)</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/2023/08/29/openai-chatgpt-enterprise-accelerate-business-operations/"><strong>OpenAI launches ChatGPT Enterprise to accelerate business operations</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out <a href="https://www.ai-expo.net/">AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with <a href="https://digitaltransformation-week.com/">Digital Transformation Week</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/upcoming-events/">here.</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/baidu-deploys-ernie-bot-generative-ai-public/">Baidu deploys its ERNIE Bot generative AI to the public</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/baidu-deploys-ernie-bot-generative-ai-public/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>IBM Research unveils breakthrough analog AI chip for efficient deep learning</title>
+		<link>https://www.artificialintelligence-news.com/news/ibm-research-breakthrough-analog-ai-chip-deep-learning/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ibm-research-breakthrough-analog-ai-chip-deep-learning</link>
+					<comments>https://www.artificialintelligence-news.com/news/ibm-research-breakthrough-analog-ai-chip-deep-learning/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Fri, 11 Aug 2023 11:02:50 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Deep & Reinforcement Learning]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[analog ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[deep learning]]></category>
+		<category><![CDATA[deep neural networks]]></category>
+		<category><![CDATA[ibm]]></category>
+		<category><![CDATA[ibm research]]></category>
+		<category><![CDATA[neural network]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=13461</guid>
+
+					<description><![CDATA[<p>IBM Research has unveiled a groundbreaking analog AI chip that demonstrates remarkable efficiency and accuracy in performing complex computations for deep neural networks (DNNs). This breakthrough, published in a recent paper in Nature Electronics, signifies a significant stride towards achieving high-performance AI computing while substantially conserving energy. The traditional approach of executing deep neural networks<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/ibm-research-breakthrough-analog-ai-chip-deep-learning/" title="ReadIBM Research unveils breakthrough analog AI chip for efficient deep learning">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ibm-research-breakthrough-analog-ai-chip-deep-learning/">IBM Research unveils breakthrough analog AI chip for efficient deep learning</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>IBM Research has <a href="https://research.ibm.com/blog/analog-ai-chip-inference">unveiled</a> a groundbreaking analog AI chip that demonstrates remarkable efficiency and accuracy in performing complex computations for deep neural networks (DNNs).</p>
+
+
+
+<p>This breakthrough, published in a recent paper in Nature Electronics, signifies a significant stride towards achieving high-performance AI computing while substantially conserving energy.</p>
+
+
+
+<p>The traditional approach of executing deep neural networks on conventional digital computing architectures poses limitations in terms of performance and energy efficiency. These digital systems entail constant data transfer between memory and processing units, slowing down computations and reducing energy optimisation.</p>
+
+
+
+<p>To tackle these challenges, IBM Research has harnessed the principles of analog AI, which emulates the way neural networks function in biological brains. This approach involves storing synaptic weights using nanoscale resistive memory devices, specifically Phase-change memory (PCM).</p>
+
+
+
+<p>PCM devices alter their conductance through electrical pulses, enabling a continuum of values for synaptic weights. This analog method mitigates the need for excessive data transfer, as computations are executed directly in the memory—resulting in enhanced efficiency.</p>
+
+
+
+<p>The newly introduced chip is a cutting-edge analog AI solution composed of 64 analog in-memory compute cores.</p>
+
+
+
+<p>Each core integrates a crossbar array of synaptic unit cells alongside compact analog-to-digital converters, seamlessly transitioning between analog and digital domains. Furthermore, digital processing units within each core manage nonlinear neuronal activation functions and scaling operations. The chip also boasts a global digital processing unit and digital communication pathways for interconnectivity.</p>
+
+
+
+<p>The research team demonstrated the chip&#8217;s prowess by achieving an accuracy of 92.81 percent on the <a href="https://www.cs.toronto.edu/~kriz/cifar.html">CIFAR-10</a> image dataset—an unprecedented level of precision for analog AI chips.</p>
+
+
+
+<p>The throughput per area, measured in Giga-operations per second (GOPS) by area, underscored its superior compute efficiency compared to previous in-memory computing chips. This innovative chip&#8217;s energy-efficient design coupled with its enhanced performance makes it a milestone achievement in the field of AI hardware.</p>
+
+
+
+<p>The analog AI chip&#8217;s unique architecture and impressive capabilities lay the foundation for a future where energy-efficient AI computation is accessible across a diverse range of applications.</p>
+
+
+
+<p>IBM Research&#8217;s breakthrough marks a pivotal moment that will help to catalyse advancements in AI-powered technologies for years to come.</p>
+
+
+
+<p><em>(Image Credit: </em><a href="https://research.ibm.com/"><em>IBM Research</em></a><em>)</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/2023/08/09/azure-nvidia-deliver-next-gen-gpu-acceleration-ai/"><strong>Azure and NVIDIA deliver next-gen GPU acceleration for AI</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out <a href="https://www.ai-expo.net/">AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The event is co-located with <a href="https://digitaltransformation-week.com/">Digital Transformation Week</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/upcoming-events/">here.</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ibm-research-breakthrough-analog-ai-chip-deep-learning/">IBM Research unveils breakthrough analog AI chip for efficient deep learning</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/ibm-research-breakthrough-analog-ai-chip-deep-learning/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Azure and NVIDIA deliver next-gen GPU acceleration for AI</title>
+		<link>https://www.artificialintelligence-news.com/news/azure-nvidia-deliver-next-gen-gpu-acceleration-ai/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=azure-nvidia-deliver-next-gen-gpu-acceleration-ai</link>
+					<comments>https://www.artificialintelligence-news.com/news/azure-nvidia-deliver-next-gen-gpu-acceleration-ai/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Wed, 09 Aug 2023 15:47:51 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Deep & Reinforcement Learning]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[azure]]></category>
+		<category><![CDATA[generative ai]]></category>
+		<category><![CDATA[h100]]></category>
+		<category><![CDATA[microsoft azure]]></category>
+		<category><![CDATA[mlperf]]></category>
+		<category><![CDATA[Nvidia]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=13446</guid>
+
+					<description><![CDATA[<p>Microsoft Azure users are now able to harness the latest advancements in NVIDIA&#8217;s accelerated computing technology, revolutionising the training and deployment of their generative AI applications. The integration of Azure ND H100 v5 virtual machines (VMs) with NVIDIA H100 Tensor Core GPUs and Quantum-2 InfiniBand networking promises seamless scaling of generative AI and high-performance computing<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/azure-nvidia-deliver-next-gen-gpu-acceleration-ai/" title="ReadAzure and NVIDIA deliver next-gen GPU acceleration for AI">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/azure-nvidia-deliver-next-gen-gpu-acceleration-ai/">Azure and NVIDIA deliver next-gen GPU acceleration for AI</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Microsoft Azure users are now able to harness the latest advancements in NVIDIA&#8217;s accelerated computing technology, revolutionising the training and deployment of their generative AI applications.</p>
+
+
+
+<p>The integration of Azure <a href="https://learn.microsoft.com/en-us/azure/virtual-machines/nd-h100-v5-series">ND H100 v5</a> virtual machines (VMs) with NVIDIA <a href="https://www.nvidia.com/en-gb/data-center/h100/">H100</a> Tensor Core GPUs and Quantum-2 InfiniBand networking promises seamless scaling of generative AI and high-performance computing applications, all at the click of a button.</p>
+
+
+
+<p>This cutting-edge collaboration comes at a pivotal moment when developers and researchers are actively exploring the potential of large language models (LLMs) and accelerated computing to unlock novel consumer and business use cases.</p>
+
+
+
+<p>NVIDIA’s H100 GPU achieves supercomputing-class performance through an array of architectural innovations. These include fourth-generation Tensor Cores, a new Transformer Engine for enhanced LLM acceleration, and NVLink technology that propels inter-GPU communication to unprecedented speeds of 900GB/sec.</p>
+
+
+
+<p>The integration of the NVIDIA Quantum-2 CX7 InfiniBand – boasting 3,200 Gbps cross-node bandwidth – ensures flawless performance across GPUs, even at massive scales. This capability positions the technology on par with the computational capabilities of the world&#8217;s most advanced supercomputers.</p>
+
+
+
+<p>The newly introduced ND H100 v5 VMs hold immense potential for training and inferring increasingly intricate LLMs and computer vision models. These neural networks power the most complex and compute-intensive generative AI applications, spanning from question answering and code generation to audio, video, image synthesis, and speech recognition.</p>
+
+
+
+<p>A standout feature of the ND H100 v5 VMs is their ability to achieve up to a 2x speedup in LLM inference, notably demonstrated by the BLOOM 175B model when compared to previous generation instances. This performance boost underscores their capacity to optimise AI applications further, fueling innovation across industries.</p>
+
+
+
+<p>The synergy between NVIDIA H100 Tensor Core GPUs and Microsoft Azure empowers enterprises with unparalleled AI training and inference capabilities. This partnership also streamlines the development and deployment of production AI, bolstered by the integration of the NVIDIA AI Enterprise software suite and Azure Machine Learning for MLOps.</p>
+
+
+
+<p>The combined efforts have led to groundbreaking AI performance, as validated by industry-standard MLPerf benchmarks:</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="686" src="https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2023/08/nvidia-h100-mlperf-performance-1024x686.jpg" alt="" class="wp-image-13447" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2023/08/nvidia-h100-mlperf-performance-1024x686.jpg 1024w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/08/nvidia-h100-mlperf-performance-300x201.jpg 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/08/nvidia-h100-mlperf-performance-768x514.jpg 768w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/08/nvidia-h100-mlperf-performance-1536x1029.jpg 1536w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/08/nvidia-h100-mlperf-performance-299x200.jpg 299w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/08/nvidia-h100-mlperf-performance-380x255.jpg 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/08/nvidia-h100-mlperf-performance-350x234.jpg 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/08/nvidia-h100-mlperf-performance-100x67.jpg 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/08/nvidia-h100-mlperf-performance-60x40.jpg 60w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/08/nvidia-h100-mlperf-performance.jpg 1711w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>The integration of the NVIDIA <a href="https://www.iottechnews.com/news/2023/aug/09/nvidia-unveils-omniverse-innovations-accelerate-openusd-adoption/">Omniverse</a> platform with Azure extends the reach of this collaboration further, providing users with everything they need for industrial digitalisation and AI supercomputing.</p>
+
+
+
+<p><em>(Image Credit: <a href="https://pixabay.com/users/sauerlaender-344451/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=397481">Uwe Hoh</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=397481">Pixabay</a>)</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/2023/07/27/gcore-partners-ubiops-graphcore-empower-ai-teams/"><strong>Gcore partners with UbiOps and Graphcore to empower AI teams</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out <a href="https://www.ai-expo.net/">AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The event is co-located with <a href="https://digitaltransformation-week.com/">Digital Transformation Week</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/upcoming-events/">here.</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/azure-nvidia-deliver-next-gen-gpu-acceleration-ai/">Azure and NVIDIA deliver next-gen GPU acceleration for AI</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/azure-nvidia-deliver-next-gen-gpu-acceleration-ai/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Damian Bogunowicz, Neural Magic: On revolutionising deep learning with CPUs</title>
+		<link>https://www.artificialintelligence-news.com/news/damian-bogunowicz-neural-magic-revolutionising-deep-learning-cpus/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=damian-bogunowicz-neural-magic-revolutionising-deep-learning-cpus</link>
+					<comments>https://www.artificialintelligence-news.com/news/damian-bogunowicz-neural-magic-revolutionising-deep-learning-cpus/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Mon, 24 Jul 2023 11:27:02 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Deep & Reinforcement Learning]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[ai expo]]></category>
+		<category><![CDATA[ai expo europe]]></category>
+		<category><![CDATA[ai inference]]></category>
+		<category><![CDATA[compound sparsity]]></category>
+		<category><![CDATA[damian bogunowicz]]></category>
+		<category><![CDATA[deep learning]]></category>
+		<category><![CDATA[large language models]]></category>
+		<category><![CDATA[neural magic]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=13305</guid>
+
+					<description><![CDATA[<p>AI News spoke with Damian Bogunowicz, a machine learning engineer at Neural Magic, to shed light on the company’s innovative approach to deep learning model optimisation and inference on CPUs. One of the key challenges in developing and deploying deep learning models lies in their size and computational requirements. However, Neural Magic tackles this issue<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/damian-bogunowicz-neural-magic-revolutionising-deep-learning-cpus/" title="ReadDamian Bogunowicz, Neural Magic: On revolutionising deep learning with CPUs">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/damian-bogunowicz-neural-magic-revolutionising-deep-learning-cpus/">Damian Bogunowicz, Neural Magic: On revolutionising deep learning with CPUs</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>AI News spoke with Damian Bogunowicz, a machine learning engineer at <a href="https://neuralmagic.com/">Neural Magic</a>, to shed light on the company’s innovative approach to deep learning model optimisation and inference on CPUs.</p>
+
+
+
+<p>One of the key challenges in developing and deploying deep learning models lies in their size and computational requirements. However, Neural Magic tackles this issue head-on through a concept called compound sparsity.</p>
+
+
+<div class="wp-block-image">
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" src="https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2023/07/1680849429008.jpeg" alt="" class="wp-image-13306" width="178" height="178" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2023/07/1680849429008.jpeg 400w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/07/1680849429008-300x300.jpeg 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/07/1680849429008-150x150.jpeg 150w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/07/1680849429008-125x125.jpeg 125w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/07/1680849429008-200x200.jpeg 200w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/07/1680849429008-285x285.jpeg 285w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/07/1680849429008-250x250.jpeg 250w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/07/1680849429008-100x100.jpeg 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/07/1680849429008-60x60.jpeg 60w" sizes="auto, (max-width: 178px) 100vw, 178px" /></figure></div>
+
+
+<p>Compound sparsity combines techniques such as unstructured pruning, quantisation, and distillation to significantly reduce the size of neural networks while maintaining their accuracy.&nbsp;</p>
+
+
+
+<p>“We have developed our own sparsity-aware runtime that leverages CPU architecture to accelerate sparse models. This approach challenges the notion that GPUs are necessary for efficient deep learning,” explains Bogunowicz.</p>
+
+
+
+<p>Bogunowicz emphasised the benefits of their approach, highlighting that more compact models lead to faster deployments and can be run on ubiquitous CPU-based machines. The ability to optimise and run specified networks efficiently without relying on specialised hardware is a game-changer for machine learning practitioners, empowering them to overcome the limitations and costs associated with GPU usage.</p>
+
+
+
+<p>When asked about the suitability of sparse neural networks for enterprises, Bogunowicz explained that the vast majority of companies can benefit from using sparse models.</p>
+
+
+
+<p>By removing up to 90 percent of parameters without impacting accuracy, enterprises can achieve more efficient deployments. While extremely critical domains like autonomous driving or autonomous aeroplanes may require maximum accuracy and minimal sparsity, the advantages of sparse models outweigh the limitations for the majority of businesses.</p>
+
+
+
+<p>Looking ahead, Bogunowicz expressed his excitement about the future of large language models (LLMs) and their applications.</p>
+
+
+
+<p>“I&#8217;m particularly excited about the future of large language models LLMs. Mark Zuckerberg discussed enabling AI agents, acting as personal assistants or salespeople, on platforms like WhatsApp,” says Bogunowicz.</p>
+
+
+
+<p>One example that caught his attention was a chatbot used by <a href="https://www.khanacademy.org/">Khan Academy</a>—an AI tutor that guides students to solve problems by providing hints rather than revealing solutions outright. This application demonstrates the value that LLMs can bring to the education sector, facilitating the learning process while empowering students to develop problem-solving skills.</p>
+
+
+
+<p>“Our research has shown that you can optimise LLMs efficiently for CPU deployment. We have published a research paper on SparseGPT that demonstrates the removal of around 100 billion parameters using one-shot pruning without compromising model quality,” explains Bogunowicz.</p>
+
+
+
+<p>“This means there may not be a need for GPU clusters in the future of AI inference. Our goal is to soon provide open-source LLMs to the community and empower enterprises to have control over their products and models, rather than relying on big tech companies.”</p>
+
+
+
+<p>As for Neural Magic&#8217;s future, Bogunowicz revealed two exciting developments they will be sharing at the upcoming AI &amp; Big Data Expo Europe.</p>
+
+
+
+<p>Firstly, they will showcase their support for running AI models on edge devices, specifically x86 and ARM architectures. This expands the possibilities for AI applications in various industries.</p>
+
+
+
+<p>Secondly, they will unveil their model optimisation platform, Sparsify, which enables the seamless application of state-of-the-art pruning, quantisation, and distillation algorithms through a user-friendly web app and simple API calls. Sparsify aims to accelerate inference without sacrificing accuracy, providing enterprises with an elegant and intuitive solution.</p>
+
+
+
+<p>Neural Magic&#8217;s commitment to democratising machine learning infrastructure by leveraging CPUs is impressive. Their focus on compound sparsity and their upcoming advancements in edge computing demonstrate their dedication to empowering businesses and researchers alike.</p>
+
+
+
+<p>As we eagerly await the developments presented at AI &amp; Big Data Expo Europe, it&#8217;s clear that Neural Magic is poised to make a significant impact in the field of deep learning.</p>
+
+
+
+<p>You can watch our full interview with Bogunowicz below:</p>
+
+
+
+<figure class="wp-block-embed is-provider-youtube wp-block-embed-youtube"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Damian Bogunowicz, Neural Magic: On revolutionising deep learning with CPUs | AI &amp; Big Data Expo" width="1200" height="675" src="https://www.youtube.com/embed/Kip9WSzk43A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@deepmind?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Google DeepMind</a> on <a href="https://unsplash.com/photos/LaKwLAmcnBc?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>)</em></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/europe/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><a href="https://neuralmagic.com/">Neural Magic</a> is a key sponsor of this year’s <a href="https://www.ai-expo.net/europe/">AI &amp; Big Data Expo Europe</a>, which is being held in Amsterdam between 26-27 September 2023.</p>
+
+
+
+<p>Swing by Neural Magic’s booth at stand #178 to learn more about how the company enables organisations to use compute-heavy models in a cost-efficient and scalable way.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/damian-bogunowicz-neural-magic-revolutionising-deep-learning-cpus/">Damian Bogunowicz, Neural Magic: On revolutionising deep learning with CPUs</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/damian-bogunowicz-neural-magic-revolutionising-deep-learning-cpus/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mark Zuckerberg: AI will be built into all of Meta’s products</title>
+		<link>https://www.artificialintelligence-news.com/news/mark-zuckerberg-ai-built-into-all-meta-products/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mark-zuckerberg-ai-built-into-all-meta-products</link>
+					<comments>https://www.artificialintelligence-news.com/news/mark-zuckerberg-ai-built-into-all-meta-products/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Fri, 09 Jun 2023 14:41:18 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Chatbots]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Deep & Reinforcement Learning]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Meta (Facebook)]]></category>
+		<category><![CDATA[Virtual Assistants]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[generative ai]]></category>
+		<category><![CDATA[mark zuckerberg]]></category>
+		<category><![CDATA[meta]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=13176</guid>
+
+					<description><![CDATA[<p>Meta CEO Mark Zuckerberg unveiled the extent of the company’s AI investments during an internal company meeting. The meeting included discussions about new products, such as chatbots for Messenger and WhatsApp that can converse with different personas. Additionally, Meta announced new features for Instagram, including the ability to modify user photos via text prompts and<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/mark-zuckerberg-ai-built-into-all-meta-products/" title="ReadMark Zuckerberg: AI will be built into all of Meta’s products">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/mark-zuckerberg-ai-built-into-all-meta-products/">Mark Zuckerberg: AI will be built into all of Meta’s products</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://investor.fb.com/home/default.aspx">Meta</a> CEO Mark Zuckerberg unveiled the extent of the company’s AI investments during an internal company meeting.</p>
+
+
+
+<p>The meeting included discussions about new products, such as chatbots for Messenger and WhatsApp that can converse with different personas. Additionally, Meta announced new features for Instagram, including the ability to modify user photos via text prompts and create emoji stickers for messaging services.</p>
+
+
+
+<p>These developments come at a crucial time for Meta, as the company has faced financial struggles and an identity crisis in recent years. Investors criticised Meta for focusing too heavily on its metaverse ambitions and not paying enough attention to AI.</p>
+
+
+
+<p>Meta&#8217;s decision to focus on AI tools follows in the footsteps of its competitors, including Google, Microsoft, and Snapchat, who have received significant investor attention for their generative AI products. Unlike the aforementioned rivals, Meta is yet to release any consumer-facing generative AI products.</p>
+
+
+
+<p>To address this gap, Meta has been reorganising its AI divisions and investing heavily in infrastructure to support its AI product needs.</p>
+
+
+
+<p>Zuckerberg expressed optimism during the company meeting, stating that advancements in generative AI have made it possible to integrate the technology into “every single one” of Meta’s products. This signifies Meta&#8217;s intention to leverage AI across its platforms, including Facebook, Instagram, and WhatsApp.</p>
+
+
+
+<p>In addition to consumer-facing tools, Meta also announced a productivity assistant called Metamate for its employees. This assistant is designed to answer queries and perform tasks based on internal company information.</p>
+
+
+
+<p>Meta is also exploring open-source models, allowing users to build their own AI-powered chatbots and technologies. However, critics and competitors have raised concerns about the potential misuse of these tools, as they can be utilised to spread misinformation and hate speech on a larger scale.</p>
+
+
+
+<p>Zuckerberg addressed these concerns during the meeting, emphasising the value of democratising access to AI. He expressed hope that users would be able to develop AI programs independently in the future, without relying on frameworks provided by a few large technology companies.</p>
+
+
+
+<p>Despite the increased focus on AI, Zuckerberg reassured employees that Meta would not be abandoning its plans for the metaverse, indicating that both AI and the metaverse would remain key areas of focus for the company.</p>
+
+
+
+<p>The success of these endeavours will determine whether Meta can catch up with its competitors and solidify its position among tech leaders in the rapidly-evolving landscape.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/fr/@maria_shalabaieva?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Mariia Shalabaieva</a> on <a href="https://unsplash.com/photos/WR6qHgdWS-Y?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>)</em></p>
+
+
+
+<p><strong>Related: </strong><a href="https://www.artificialintelligence-news.com/2023/05/23/meta-open-source-speech-ai-models-support-over-1100-languages/"><strong>Meta’s open-source speech AI models support over 1,100 languages</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2023/06/image-1.png" alt="" class="wp-image-13172" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2023/06/image-1.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/06/image-1-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/06/image-1-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/06/image-1-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/06/image-1-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/06/image-1-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out <a href="https://www.ai-expo.net/">AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The event is co-located with <a href="https://digitaltransformation-week.com/">Digital Transformation Week</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/upcoming-events/">here.</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/mark-zuckerberg-ai-built-into-all-meta-products/">Mark Zuckerberg: AI will be built into all of Meta’s products</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/mark-zuckerberg-ai-built-into-all-meta-products/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

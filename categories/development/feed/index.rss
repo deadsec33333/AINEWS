@@ -1,0 +1,1456 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Development - AI News</title>
+	<atom:link href="https://www.artificialintelligence-news.com/categories/development/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.artificialintelligence-news.com/categories/development/</link>
+	<description>Artificial Intelligence News</description>
+	<lastBuildDate>Fri, 20 Dec 2024 15:10:33 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://www.artificialintelligence-news.com/wp-content/uploads/2020/09/ai-icon-60x60.png</url>
+	<title>Development - AI News</title>
+	<link>https://www.artificialintelligence-news.com/categories/development/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ordnance Survey: Navigating the role of AI and ethical considerations in geospatial technology</title>
+		<link>https://www.artificialintelligence-news.com/news/ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology</link>
+					<comments>https://www.artificialintelligence-news.com/news/ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology/#respond</comments>
+		
+		<dc:creator><![CDATA[Duncan MacRae]]></dc:creator>
+		<pubDate>Mon, 23 Dec 2024 07:09:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Industries]]></category>
+		<category><![CDATA[ethics]]></category>
+		<category><![CDATA[future]]></category>
+		<category><![CDATA[geospatial technology]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16773</guid>
+
+					<description><![CDATA[<p>As we approach a new year filled with potential, the landscape of technology, particularly artificial intelligence (AI) and machine learning (ML), is on the brink of significant transformation. Manish Jethwa, CTO at Ordnance Survey (OS), the national mapping agency for Great Britain, offers an insightful glimpse into what we can expect from these advancements and<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology/" title="ReadOrdnance Survey: Navigating the role of AI and ethical considerations in geospatial technology">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology/">Ordnance Survey: Navigating the role of AI and ethical considerations in geospatial technology</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>As we approach a new year filled with potential, the landscape of technology, particularly artificial intelligence (AI) and machine learning (ML), is on the brink of significant transformation. Manish Jethwa, CTO at Ordnance Survey (OS), the national mapping agency for Great Britain, offers an insightful glimpse into what we can expect from these advancements and their implications for the geospatial sector.</p>
+
+
+
+<p><strong>Breaking Down Barriers with AI</strong></p>
+
+
+<div class="wp-block-image">
+<figure class="alignright size-full is-resized"><img fetchpriority="high" decoding="async" width="512" height="489" src="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394.jpg" alt="" class="wp-image-16778" style="width:314px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394.jpg 512w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394-300x287.jpg 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394-209x200.jpg 209w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394-298x285.jpg 298w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394-262x250.jpg 262w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394-100x96.jpg 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394-60x57.jpg 60w" sizes="(max-width: 512px) 100vw, 512px" /></figure></div>
+
+
+<p>Looking ahead, Jethwa anticipates continued significant advancements in AI and machine learning, particularly with the push towards Gen AI. According to him, the integration of large language models (LLMs) with more sophisticated agents will not only perform complex tasks on behalf of users but also further reduce barriers to interaction. This shift, especially in the geospatial field, means that translating natural language into precise data queries will become more seamless, ultimately making geospatial datasets more accessible, mainstream, and user-friendly.</p>
+
+
+
+<p><strong>Training for Complex Tasks</strong></p>
+
+
+
+<p>Beyond LLMs, Jethwa is optimistic about progress in the broader category of machine learning, driven by greater access to graphics processing units for training.</p>
+
+
+
+<p>He says: “At Ordnance Survey (OS), we’ll leverage this capability to train models for specific, complex tasks such as automatic feature extraction from imagery.</p>
+
+
+
+<p>“With an increasing volume of data generated automatically, hopefully next year will also bring innovative tools and techniques to validate data, ensuring it can be confidently utilised for its intended use.”</p>
+
+
+
+<p>He underscores the importance of not only pursuing new capabilities but also ensuring that these tools are integrated responsibly into workflows, focusing on quality and risk management.</p>
+
+
+
+<p><strong>The Ethical Frontier</strong></p>
+
+
+
+<p>The rapid evolution of AI brings with it an urgent need for ethical considerations.&nbsp;</p>
+
+
+
+<p>Jethwa explains: “I would like to see a greater emphasis on ethical AI and responsible technology development,&#8221; including creating AI systems that are “transparent, fair, and unbiased” while also considering their environmental and societal impact.</p>
+
+
+
+<p>This focus on ethics is encapsulated in OS’s Responsible AI Charter, which guides their approach to integrating new techniques safely.</p>
+
+
+
+<p>Moreover, Jethwa highlights the role of workforce development in successful transformations. He believes organisations must commit to “retraining and upskilling employees to prepare them for the impact of AI and digital transformation.”&nbsp;</p>
+
+
+
+<p>This is vital to ensure that in the pursuit of enhanced efficiency, companies do not “lose the personality, creativity, and emotion that we bring as humans into the workplace.”&nbsp;</p>
+
+
+
+<p><strong>Embracing Change While Managing Risks</strong></p>
+
+
+
+<p>Despite the promise of technological advancements, obstacles remain in the journey toward digital transformation. Jethwa notes that challenges such as “cultural resistance and rapid successive changes leading to change fatigue will likely persist.” </p>
+
+
+
+<p>He advocates for a careful balance between adopting new technologies and addressing the human elements of transformation processes.</p>
+
+
+
+<p>As AI continues to influence various aspects of business, from decision-making to risk management, the issue of cybersecurity also looms large. Jethwa points out that “cybersecurity threats being powered by AI are becoming more sophisticated,” urging companies to develop comprehensive strategies that cover everything from data storage to analysis documentation.</p>
+
+
+
+<p><strong>The Imperative to Progress</strong></p>
+
+
+
+<p>In an evolving landscape, organisations that stagnate risk falling behind their competitors. Jethwa explains: “Companies that fail to keep up open themselves up to risks, such as changing customer expectations as well as attracting and retaining talent.”&nbsp;</p>
+
+
+
+<p>He also emphasises the need for a “clear vision of future goals, effective communication of progress, and celebrating milestones to sustain momentum” in digital transformation initiatives.</p>
+
+
+
+<p>As we move into a new year filled with promise, the future of AI and geospatial technology holds transformative power &#8211; but it must be used responsibly. The path that lies ahead in 2025 requires vigilance, an unwavering commitment to ethical practices and a human touch in order to drive successful innovation.</p>
+
+
+
+<p><em>(Photos by <a href="https://unsplash.com/@anniespratt">Annie Spratt</a> and Ordnance Survey)</em></p>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong>&nbsp;Check out<a href="https://www.ai-expo.net/">&nbsp;AI &amp; Big Data Expo</a>&nbsp;taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including&nbsp;<a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>,&nbsp;<a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/">&nbsp;Digital Transformation Week</a>, and&nbsp;<a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge&nbsp;<a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology/">Ordnance Survey: Navigating the role of AI and ethical considerations in geospatial technology</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>AI governance: Analysing emerging global regulations</title>
+		<link>https://www.artificialintelligence-news.com/news/ai-governance-analysing-emerging-global-regulations/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ai-governance-analysing-emerging-global-regulations</link>
+					<comments>https://www.artificialintelligence-news.com/news/ai-governance-analysing-emerging-global-regulations/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Thu, 19 Dec 2024 16:21:18 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Legislation & Government]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[ai act]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[ethics]]></category>
+		<category><![CDATA[eu]]></category>
+		<category><![CDATA[europe]]></category>
+		<category><![CDATA[framework]]></category>
+		<category><![CDATA[governance]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[law]]></category>
+		<category><![CDATA[legal]]></category>
+		<category><![CDATA[Legislation]]></category>
+		<category><![CDATA[privacy]]></category>
+		<category><![CDATA[regulation]]></category>
+		<category><![CDATA[risks]]></category>
+		<category><![CDATA[Society]]></category>
+		<category><![CDATA[usa]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16742</guid>
+
+					<description><![CDATA[<p>Governments are scrambling to establish regulations to govern AI, citing numerous concerns over data privacy, bias, safety, and more. AI News caught up with Nerijus Šveistys, Senior Legal Counsel at Oxylabs, to understand the state of play when it comes to AI regulation and its potential implications for industries, businesses, and innovation. “The boom of<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/ai-governance-analysing-emerging-global-regulations/" title="ReadAI governance: Analysing emerging global regulations">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ai-governance-analysing-emerging-global-regulations/">AI governance: Analysing emerging global regulations</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Governments are scrambling to establish regulations to govern AI, citing numerous concerns over data privacy, bias, safety, and more.</p>
+
+
+<div class="wp-block-image">
+<figure class="alignright size-full is-resized"><img decoding="async" width="800" height="800" src="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Nerijus-Sveistys-oxylabs.jpeg" alt="" class="wp-image-16743" style="width:174px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Nerijus-Sveistys-oxylabs.jpeg 800w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Nerijus-Sveistys-oxylabs-300x300.jpeg 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Nerijus-Sveistys-oxylabs-150x150.jpeg 150w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Nerijus-Sveistys-oxylabs-768x768.jpeg 768w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Nerijus-Sveistys-oxylabs-125x125.jpeg 125w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Nerijus-Sveistys-oxylabs-200x200.jpeg 200w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Nerijus-Sveistys-oxylabs-285x285.jpeg 285w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Nerijus-Sveistys-oxylabs-250x250.jpeg 250w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Nerijus-Sveistys-oxylabs-100x100.jpeg 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Nerijus-Sveistys-oxylabs-60x60.jpeg 60w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Nerijus-Sveistys-oxylabs-400x400.jpeg 400w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Nerijus-Sveistys-oxylabs-600x600.jpeg 600w" sizes="(max-width: 800px) 100vw, 800px" /></figure></div>
+
+
+<p>AI News caught up with Nerijus Šveistys, Senior Legal Counsel at <a href="https://oxylabs.io/">Oxylabs</a>, to understand the state of play when it comes to AI regulation and its potential implications for industries, businesses, and innovation.</p>
+
+
+
+<p>“The boom of the last few years appears to have sparked a push to establish regulatory frameworks for AI governance,” explains Šveistys.</p>
+
+
+
+<p>“This is a natural development, as the rise of AI seems to pose issues in data privacy and protection, bias and discrimination, safety, intellectual property, and other legal areas, as well as ethics that need to be addressed.”</p>
+
+
+
+<h3 class="wp-block-heading">Regions diverge in regulatory strategy</h3>
+
+
+
+<p>The European Union’s <a href="https://www.artificialintelligence-news.com/news/eu-ai-act-early-prep-could-give-businesses-competitive-edge/">AI Act</a> has, unsurprisingly, positioned the region with a strict, centralised approach. The regulation, which came into force this year, is set to be fully effective by 2026.</p>
+
+
+
+<p>Šveistys pointed out that the EU has acted relatively swiftly compared to other jurisdictions: “The main difference we can see is the comparative quickness with which the EU has released a uniform regulation to govern the use of all types of AI.”</p>
+
+
+
+<p>Meanwhile, other regions have opted for more piecemeal approaches. China, for instance, has been implementing regulations specific to certain AI technologies in a phased-out manner. According to Šveistys, China began regulating AI models as early as 2021.</p>
+
+
+
+<p>“In 2021, they introduced regulation on recommendation algorithms, which [had] increased their capabilities in digital advertising. It was followed by regulations <a href="https://www.artificialintelligence-news.com/news/chinas-deepfake-laws-come-into-effect-today/">on deep synthesis models</a> or, in common terms, deepfakes and content generation in 2022,” he said.</p>
+
+
+
+<p>“Then, in 2023, regulation on generative AI models was introduced as these models were making a splash in commercial usage.”</p>
+
+
+
+<p>The US, in contrast, remains relatively uncoordinated in its approach. Federal-level regulations are yet to be enacted, with efforts mostly emerging at the state level.</p>
+
+
+
+<p>“There are proposed regulations at the state level, such as the so-called California AI Act, but even if they come into power, it may still take some time before they do,” Šveistys noted.</p>
+
+
+
+<p>This delay in implementing unified AI regulations in the US has raised questions about the extent to which business pushback may be contributing to the slow rollout. Šveistys said that while lobbyist pressure is a known factor, it’s not the only potential reason.</p>
+
+
+
+<p>“There was <a href="https://www.artificialintelligence-news.com/news/tech-industry-giants-urge-eu-streamline-ai-regulations/">pushback to the EU AI Act</a>, too, which was nevertheless introduced. Thus, it is not clear whether the delay in the US is only due to lobbyism or other obstacles in the legislation enactment process,” explains Šveistys.</p>
+
+
+
+<p>“It might also be because some still see AI as a futuristic concern, not fully appreciating the extent to which it is already a legal issue of today.”</p>
+
+
+
+<h3 class="wp-block-heading">Balancing innovation and safety</h3>
+
+
+
+<p>Differentiated regulatory approaches could affect the pace of innovation and business competitiveness across regions.</p>
+
+
+
+<p>Europe’s regulatory framework, though more stringent, aims to ensure consumer protection and ethical adherence—something that less-regulated environments may lack.</p>
+
+
+
+<p>“More rigid regulatory frameworks may impose compliance costs for businesses in the AI field and stifle competitiveness and innovation. On the other hand, they bring the benefits of protecting consumers and adhering to certain ethical norms,” comments Šveistys.</p>
+
+
+
+<p>This trade-off is especially pronounced in AI-related sectors such as targeted advertising, where algorithmic bias is increasingly scrutinised.</p>
+
+
+
+<p>AI governance often extends beyond laws that specifically target AI, incorporating related legal areas like those governing data collection and privacy. For example, the EU AI Act also regulates the use of AI in physical devices, such as elevators.</p>
+
+
+
+<p>&#8220;Additionally, all businesses that collect data for advertisement are potentially affected as AI regulation can also cover algorithmic bias in targeted advertising,&#8221; emphasises Šveistys.</p>
+
+
+
+<h3 class="wp-block-heading">Impact on related industries</h3>
+
+
+
+<p>One industry that is deeply intertwined with AI developments is web scraping. Typically used for collecting publicly available data, web scraping is undergoing an AI-driven evolution.</p>
+
+
+
+<p>&#8220;From data collection, validation, analysis, or overcoming anti-scraping measures, there is a lot of potential for AI to massively improve the efficiency, accuracy, and adaptability of web scraping operations,&#8221; said Šveistys.&nbsp;</p>
+
+
+
+<p>However, as AI regulation and related laws tighten, web scraping companies will face greater scrutiny.</p>
+
+
+
+<p>“AI regulations may also bring the spotlight on certain areas of law that were always very relevant to the web scraping industry, such as privacy or copyright laws,” Šveistys added.</p>
+
+
+
+<p>“At the end of the day, scraping content protected by such laws without proper authorisation could always lead to legal issues, and now so can using AI this way.”</p>
+
+
+
+<h3 class="wp-block-heading">Copyright battles and legal precedents</h3>
+
+
+
+<p>The implications of AI regulation are also playing out on a broader legal stage, particularly in cases involving generative AI tools.</p>
+
+
+
+<p>High-profile <a href="https://www.artificialintelligence-news.com/news/openai-and-microsoft-lawsuit-github-copilot/">lawsuits</a> have been launched against AI giants like OpenAI and its primary backer, Microsoft, by authors, artists, and musicians who claim their copyrighted materials were used to train AI systems without proper permission.</p>
+
+
+
+<p>“These cases are pivotal in determining the legal boundaries of using copyrighted material for AI development and establishing legal precedents for protecting intellectual property in the digital age,” said Šveistys.</p>
+
+
+
+<p>While these lawsuits could take years to resolve, their outcomes may fundamentally shape the future of AI development. So, what can businesses do now as the regulatory and legal landscape continues to evolve?</p>
+
+
+
+<p>“Speaking about the specific cases of using copyrighted material for AI training, businesses should approach this the same way as any web-scraping activity – that is, evaluate the specific data they wish to collect with the help of a legal expert in the field,” recommends Šveistys.</p>
+
+
+
+<p>“It is important to recognise that the AI legal landscape is very new and rapidly evolving, with not many precedents in place to refer to as of yet. Hence, continuous monitoring and adaptation of your AI usage are crucial.”</p>
+
+
+
+<p>Just this week, the UK Government made headlines with its announcement of a consultation on the use of copyrighted material for training AI models. Under the proposals, tech firms could be permitted to use copyrighted material unless owners have specifically opted out.</p>
+
+
+
+<p>Despite the diversity of approaches globally, the AI regulatory push marks a significant moment for technological governance. Whether through the EU’s comprehensive model, China’s step-by-step strategy, or narrower, state-level initiatives like in the US, businesses worldwide must navigate a complex, evolving framework.</p>
+
+
+
+<p>The challenge ahead will be striking the right balance between fostering innovation and mitigating risks, ensuring that AI remains a force for good while avoiding potential harms.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@nathangbingle?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Nathan Bingle</a>)</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/anthropic-urges-ai-regulation-avoid-catastrophes/"><strong>Anthropic urges AI regulation to avoid catastrophes</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:844px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="(max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ai-governance-analysing-emerging-global-regulations/">AI governance: Analysing emerging global regulations</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/ai-governance-analysing-emerging-global-regulations/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Gemini 2.0: Google ushers in the agentic AI era </title>
+		<link>https://www.artificialintelligence-news.com/news/gemini-2-0-google-ushers-in-agentic-ai-era/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gemini-2-0-google-ushers-in-agentic-ai-era</link>
+					<comments>https://www.artificialintelligence-news.com/news/gemini-2-0-google-ushers-in-agentic-ai-era/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 16:52:09 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Virtual Assistants]]></category>
+		<category><![CDATA[agentic ai]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[development]]></category>
+		<category><![CDATA[gemini]]></category>
+		<category><![CDATA[gemini 2.0]]></category>
+		<category><![CDATA[gemini 2.0m]]></category>
+		<category><![CDATA[models]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16694</guid>
+
+					<description><![CDATA[<p>Google CEO Sundar Pichai has announced the launch of Gemini 2.0, a model that represents the next step in Google’s ambition to revolutionise AI. A year after introducing the Gemini 1.0 model, this major upgrade incorporates enhanced multimodal capabilities, agentic functionality, and innovative user tools designed to push boundaries in AI-driven technology. Leap towards transformational<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/gemini-2-0-google-ushers-in-agentic-ai-era/" title="ReadGemini 2.0: Google ushers in the agentic AI era ">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/gemini-2-0-google-ushers-in-agentic-ai-era/">Gemini 2.0: Google ushers in the agentic AI era </a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Google CEO Sundar Pichai has announced the launch of Gemini 2.0, a model that represents the next step in Google’s ambition to revolutionise AI.</p>
+
+
+
+<p>A year after introducing the Gemini 1.0 model, this major upgrade incorporates enhanced multimodal capabilities, agentic functionality, and innovative user tools designed to push boundaries in AI-driven technology.</p>
+
+
+
+<h3 class="wp-block-heading">Leap towards transformational AI&nbsp;&nbsp;</h3>
+
+
+
+<p>Reflecting on Google’s 26-year mission to organise and make the world’s information accessible, Pichai remarked, “If Gemini 1.0 was about organising and understanding information, Gemini 2.0 is about making it much more useful.”</p>
+
+
+
+<p>Gemini 1.0, released in December 2022, was notable for being Google’s first natively multimodal AI model. The first iteration excelled at understanding and processing text, video, images, audio, and code. Its enhanced 1.5 version became widely embraced by developers for its long-context understanding, enabling applications such as the productivity-focused NotebookLM.</p>
+
+
+
+<p>Now, with Gemini 2.0, Google aims to accelerate the role of AI as a universal assistant capable of native image and audio generation, better reasoning and planning, and real-world decision-making capabilities. In Pichai&#8217;s words, the development represents the dawn of an “agentic era.”</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Introducing Gemini 2.0 | Our most capable AI model yet" width="1200" height="675" src="https://www.youtube.com/embed/Fs0t6SdODd8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>“We have been investing in developing more agentic models, meaning they can understand more about the world around you, think multiple steps ahead, and take action on your behalf, with your supervision,” Pichai explained.</p>
+
+
+
+<h3 class="wp-block-heading">Gemini 2.0: Core features and availability</h3>
+
+
+
+<p>At the heart of today&#8217;s announcement is the experimental release of Gemini 2.0 Flash, the flagship model of Gemini’s second generation. It builds upon the foundations laid by its predecessors while delivering faster response times and advanced performance.</p>
+
+
+
+<p>Gemini 2.0 Flash supports multimodal inputs and outputs, including the ability to generate native images in conjunction with text and produce steerable text-to-speech multilingual audio. Additionally, users can benefit from native tool integration such as Google Search and even third-party user-defined functions.</p>
+
+
+
+<p>Developers and businesses will gain access to Gemini 2.0 Flash via the Gemini API in <a href="https://aistudio.google.com/">Google AI Studio</a> and <a href="https://cloud.google.com/vertex-ai">Vertex AI</a>, while larger model sizes are scheduled for broader release in January 2024.</p>
+
+
+
+<p>For global accessibility, the Gemini app now features a chat-optimised version of the 2.0 Flash experimental model. Early adopters can experience this updated assistant on desktop and mobile, with a mobile app rollout imminent.</p>
+
+
+
+<p>Products such as Google Search are also being enhanced with Gemini 2.0, unlocking the ability to handle complex queries like advanced math problems, coding enquiries, and multimodal questions.</p>
+
+
+
+<h3 class="wp-block-heading">Comprehensive suite of AI innovations&nbsp;&nbsp;</h3>
+
+
+
+<p>The launch of Gemini 2.0 comes with compelling new tools that showcase its capabilities.</p>
+
+
+
+<p>One such feature, Deep Research, functions as an AI research assistant, simplifying the process of investigating complex topics by compiling information into comprehensive reports. Another upgrade enhances Search with Gemini-enabled AI Overviews that tackle intricate, multi-step user queries.</p>
+
+
+
+<p>The model was trained using Google’s sixth-generation Tensor Processing Units (TPUs), known as Trillium, which Pichai notes “powered 100% of Gemini 2.0 training and inference.”</p>
+
+
+
+<p>Trillium is now <a href="https://cloud.google.com/blog/products/compute/trillium-tpu-is-ga">available</a> for external developers, allowing them to benefit from the same infrastructure that supports Google’s own advancements.</p>
+
+
+
+<h3 class="wp-block-heading">Pioneering agentic experiences&nbsp;&nbsp;</h3>
+
+
+
+<p>Accompanying Gemini 2.0 are experimental “agentic” prototypes built to explore the future of human-AI collaboration, including:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Project Astra: A universal AI assistant</strong></li>
+</ul>
+
+
+
+<p>First introduced at I/O earlier this year, Project Astra taps into Gemini 2.0’s multimodal understanding to improve real-world AI interactions. Trusted testers have trialled the assistant on Android, offering feedback that has helped refine its multilingual dialogue, memory retention, and integration with Google tools like Search, Lens, and Maps. Astra has also demonstrated near-human conversational latency, with further research underway for its application in wearable technology, such as prototype AI glasses.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Project Mariner: Redefining web automation </strong></li>
+</ul>
+
+
+
+<p>Project Mariner is an experimental web-browsing assistant that uses Gemini 2.0’s ability to reason across text, images, and interactive elements like forms within a browser. In initial tests, it achieved an 83.5% success rate on the WebVoyager benchmark for completing end-to-end web tasks. Early testers using a Chrome extension are helping to refine Mariner’s capabilities while Google evaluates safety measures that ensure the technology remains user-friendly and secure.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Jules: A coding agent for developers  </strong></li>
+</ul>
+
+
+
+<p>Jules, an AI-powered assistant built for developers, integrates directly into GitHub workflows to address coding challenges. It can autonomously propose solutions, generate plans, and execute code-based tasks—all under human supervision. This experimental endeavour is part of Google’s long-term goal to create versatile AI agents across various domains.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Gaming applications and beyond  </strong></li>
+</ul>
+
+
+
+<p>Extending Gemini 2.0’s reach into virtual environments, Google DeepMind is working with gaming partners like Supercell on intelligent game agents. These experimental AI companions can interpret game actions in real-time, suggest strategies, and even access broader knowledge via Search. Research is also being conducted into how Gemini 2.0’s spatial reasoning could support robotics, opening doors for physical-world applications in the future.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Project Astra | Exploring the future capabilities of a universal AI assistant" width="1200" height="675" src="https://www.youtube.com/embed/hIIlJt8JERI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h3 class="wp-block-heading">Addressing responsibility in AI development</h3>
+
+
+
+<p>As AI capabilities expand, Google emphasises the importance of prioritising safety and ethical considerations.</p>
+
+
+
+<p>Google claims Gemini 2.0 underwent extensive risk assessments, bolstered by the Responsibility and Safety Committee’s oversight to mitigate potential risks. Additionally, its embedded reasoning abilities allow for <a href="https://www.artificialintelligence-news.com/news/openai-enhances-ai-safety-new-red-teaming-methods/">advanced “red-teaming,”</a> enabling developers to evaluate security scenarios and optimise safety measures at scale.</p>
+
+
+
+<p>Google is also exploring safeguards to address user privacy, prevent misuse, and ensure AI agents remain reliable. For instance, Project Mariner is designed to prioritise user instructions while resisting malicious prompt injections, preventing threats like phishing or fraudulent transactions. Meanwhile, privacy controls in Project Astra make it easy for users to manage session data and deletion preferences.</p>
+
+
+
+<p>Pichai reaffirmed the company’s commitment to responsible development, stating, “We firmly believe that the only way to build AI is to be responsible from the start.”</p>
+
+
+
+<p>With the Gemini 2.0 Flash release, Google is edging closer to its vision of building a universal assistant capable of transforming interactions across domains.</p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/machine-unlearning-researchers-ai-models-forget-data/"><strong>Machine unlearning: Researchers make AI models ‘forget’ data</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:1139px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/gemini-2-0-google-ushers-in-agentic-ai-era/">Gemini 2.0: Google ushers in the agentic AI era </a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/gemini-2-0-google-ushers-in-agentic-ai-era/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Amazon Bedrock gains new AI models, tools, and features</title>
+		<link>https://www.artificialintelligence-news.com/news/amazon-bedrock-gains-new-ai-models-tools-and-features/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=amazon-bedrock-gains-new-ai-models-tools-and-features</link>
+					<comments>https://www.artificialintelligence-news.com/news/amazon-bedrock-gains-new-ai-models-tools-and-features/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Thu, 05 Dec 2024 15:00:23 +0000</pubDate>
+				<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[amazon web services]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[aws]]></category>
+		<category><![CDATA[bedrock]]></category>
+		<category><![CDATA[models]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16652</guid>
+
+					<description><![CDATA[<p>Amazon Web Services (AWS) has announced improvements to bolster Bedrock, its fully managed generative AI service. The updates include new foundational models from several AI pioneers, enhanced data processing capabilities, and features aimed at improving inference efficiency. Dr Swami Sivasubramanian, VP of AI and Data at AWS, said: “Amazon Bedrock continues to see rapid growth<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/amazon-bedrock-gains-new-ai-models-tools-and-features/" title="ReadAmazon Bedrock gains new AI models, tools, and features">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/amazon-bedrock-gains-new-ai-models-tools-and-features/">Amazon Bedrock gains new AI models, tools, and features</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://aws.amazon.com/">Amazon Web Services</a> (AWS) has announced improvements to bolster Bedrock, its fully managed generative AI service.</p>
+
+
+
+<p>The updates include new foundational models from several AI pioneers, enhanced data processing capabilities, and features aimed at improving inference efficiency.</p>
+
+
+
+<p>Dr Swami Sivasubramanian, VP of AI and Data at AWS, said: “Amazon Bedrock continues to see rapid growth as customers flock to the service for its broad selection of leading models, tools to easily customise with their data, built-in responsible AI features, and capabilities for developing sophisticated agents.</p>
+
+
+
+<p>“With this new set of capabilities, we are empowering customers to develop more intelligent AI applications that will deliver greater value to their end-users.”</p>
+
+
+
+<h3 class="wp-block-heading">Amazon Bedrock expands its model diversity</h3>
+
+
+
+<p>AWS is set to become the first cloud provider to feature models from AI developers Luma AI and poolside, while also incorporating Stability AI’s latest release.</p>
+
+
+
+<p>Through its new <em>Amazon Bedrock Marketplace</em>, customers will have access to over 100 emerging and specialised models from across industries, ensuring they can select the most appropriate tools for their unique needs.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Luma AI’s Ray 2</strong> </li>
+</ul>
+
+
+
+<p>Luma AI, known for advancing generative AI in video content creation, brings its next-generation Ray 2 model to Amazon Bedrock. This model generates high-quality, lifelike video outputs from text or image inputs and allows organisations to create detailed outputs in fields such as fashion, architecture, and graphic design. AWS’s presence as the first provider for this model ensures businesses can experiment with new camera angles, cinematographic styles, and consistent characters with a frictionless workflow.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>poolside’s </strong><strong><em>malibu</em></strong><strong> and </strong><strong><em>point</em></strong></li>
+</ul>
+
+
+
+<p>Designed to address challenges in modern software engineering, poolside’s models – <em>malibu</em> and <em>point</em> – specialise in code generation, testing, documentation, and real-time code completion. Importantly, developers can securely fine-tune these models using their private datasets. Accompanied by Assistant – an integration for development environments – poolside’s tools allow engineering teams to accelerate productivity, ship projects faster, and increase accuracy.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Stability AI’s Stable Diffusion 3.5 Large  </strong></li>
+</ul>
+
+
+
+<p>Amazon Bedrock customers will soon gain access to Stability AI’s text-to-image model <a href="https://www.artificialintelligence-news.com/news/stability-ai-releases-most-powerful-image-generation-models-date/">Stable Diffusion 3.5 Large</a>. This addition supports businesses in creating high-quality visual media for use cases in areas like gaming, advertising, and retail.&nbsp;&nbsp;</p>
+
+
+
+<p>Through the Bedrock Marketplace, AWS also enables access to over 100 specialised models. These include solutions tailored to fields such as biology (EvolutionaryScale’s ESM3 generative model), financial data (Writer’s Palmyra-Fin), and media (Camb.ai’s text-to-audio MARS6).</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="692" src="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/amazon-bedrock-model-marketplace-catalog-ai-artificial-intelligence-1024x692.jpg" alt="Image showing the expanded AI model catalog in the Amazon Bedrock Marketplace." class="wp-image-16656" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/amazon-bedrock-model-marketplace-catalog-ai-artificial-intelligence-1024x692.jpg 1024w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/amazon-bedrock-model-marketplace-catalog-ai-artificial-intelligence-300x203.jpg 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/amazon-bedrock-model-marketplace-catalog-ai-artificial-intelligence-768x519.jpg 768w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/amazon-bedrock-model-marketplace-catalog-ai-artificial-intelligence-296x200.jpg 296w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/amazon-bedrock-model-marketplace-catalog-ai-artificial-intelligence-380x257.jpg 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/amazon-bedrock-model-marketplace-catalog-ai-artificial-intelligence-350x237.jpg 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/amazon-bedrock-model-marketplace-catalog-ai-artificial-intelligence-100x68.jpg 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/amazon-bedrock-model-marketplace-catalog-ai-artificial-intelligence-60x41.jpg 60w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/amazon-bedrock-model-marketplace-catalog-ai-artificial-intelligence.jpg 1294w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Zendesk, a global customer service software firm, leverages Bedrock’s marketplace to personalise support across email and social channels using AI-driven localisation and sentiment analysis tools. For example, they use models like Widn.AI to tailor responses based on real-time sentiment in customers’ native languages.</p>
+
+
+
+<h3 class="wp-block-heading">Scaling inference with new Amazon Bedrock features</h3>
+
+
+
+<p>Large-scale generative AI applications require balancing the cost, latency, and accuracy of inference processes. AWS is addressing this challenge with two new Amazon Bedrock features:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Prompt Caching</strong></li>
+</ul>
+
+
+
+<p>The new caching capability reduces redundant processing of prompts by securely storing frequently used queries, saving on both time and costs. This feature can lead to up to a 90% reduction in costs and an 85% decrease in latency. For example, Adobe incorporated Prompt Caching into its Acrobat AI Assistant to summarise documents and answer questions, achieving a 72% reduction in response times during initial testing.&nbsp;&nbsp;</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Intelligent Prompt Routing</strong></li>
+</ul>
+
+
+
+<p>This feature dynamically directs prompts to the most suitable foundation model within a family, optimising results for both cost and quality. Customers such as Argo Labs, which builds conversational voice AI solutions for restaurants, have already benefited. While simpler queries (like booking tables) are handled by smaller models, more nuanced requests (e.g., dietary-specific menu questions) are intelligently routed to larger models. Argo Labs’ usage of intelligent Prompt Routing has not only improved response quality but also reduced costs by up to 30%.</p>
+
+
+
+<h3 class="wp-block-heading">Data utilisation: Knowledge bases and automation</h3>
+
+
+
+<p>A key attraction of generative AI lies in its ability to extract value from data. AWS is enhancing its Amazon Bedrock Knowledge Bases to ensure organisations can deploy their unique datasets for richer AI-powered user experiences.&nbsp;&nbsp;</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Using structured data </strong></li>
+</ul>
+
+
+
+<p>AWS has introduced capabilities for structured data retrieval within Knowledge Bases. This enhancement allows customers to query data stored across Amazon services like SageMaker Lakehouse and Redshift through natural-language prompts, with results translated back into SQL queries. Octus, a credit intelligence firm, plans to use this capability to provide clients with dynamic, natural-language reports on its structured financial data.&nbsp;&nbsp;</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>GraphRAG integration </strong></li>
+</ul>
+
+
+
+<p>By incorporating automated graph modelling (powered by Amazon Neptune), customers can now generate and connect relational data for stronger AI applications. BMW Group, for instance, will use GraphRAG to augment its virtual assistant MAIA. This assistant taps into BMW’s wealth of internal data to deliver comprehensive responses and premium user experiences.</p>
+
+
+
+<p>Separately, AWS has unveiled Amazon Bedrock Data Automation, a tool that transforms unstructured content (e.g., documents, video, and audio) into structured formats for analytics or retrieval-augmented generation (RAG). Companies like Symbeo (automated claims processing) and Tenovos (digital asset management) are already piloting the tool to improve operational efficiency and data reuse.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Amazon Bedrock Data Automation Overview | Amazon Web Services" width="1200" height="675" src="https://www.youtube.com/embed/s54hx76QD5k?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>The expansion of Amazon Bedrock’s ecosystem reflects its growing popularity, with the service recording a 4.7x increase in its customer base over the last year. Industry leaders like Adobe, BMW, Zendesk, and Tenovos have all embraced AWS’s latest innovations to improve their generative AI capabilities.&nbsp;&nbsp;</p>
+
+
+
+<p>Most of the newly announced tools – such as inference management, Knowledge Bases with structured data retrieval, and GraphRAG – are currently in preview, while notable model releases from Luma AI, poolside, and Stability AI are expected soon.</p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/alibaba-cloud-overhauls-ai-partner-initiative/"><strong>Alibaba Cloud overhauls AI partner initiative</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:1009px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/amazon-bedrock-gains-new-ai-models-tools-and-features/">Amazon Bedrock gains new AI models, tools, and features</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/amazon-bedrock-gains-new-ai-models-tools-and-features/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ai2 OLMo 2: Raising the bar for open language models</title>
+		<link>https://www.artificialintelligence-news.com/news/ai2-olmo-2-raising-bar-open-language-models/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ai2-olmo-2-raising-bar-open-language-models</link>
+					<comments>https://www.artificialintelligence-news.com/news/ai2-olmo-2-raising-bar-open-language-models/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Wed, 27 Nov 2024 18:43:42 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[ai2]]></category>
+		<category><![CDATA[benchmark]]></category>
+		<category><![CDATA[comparison]]></category>
+		<category><![CDATA[large language models]]></category>
+		<category><![CDATA[llm]]></category>
+		<category><![CDATA[models]]></category>
+		<category><![CDATA[olmo]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[open-source]]></category>
+		<category><![CDATA[training]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16566</guid>
+
+					<description><![CDATA[<p>Ai2 is releasing OLMo 2, a family of open-source language models that advances the democratisation of AI and narrows the gap between open and proprietary solutions. The new models, available in 7B and 13B parameter versions, are trained on up to 5 trillion tokens and demonstrate performance levels that match or exceed comparable fully open<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/ai2-olmo-2-raising-bar-open-language-models/" title="ReadAi2 OLMo 2: Raising the bar for open language models">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ai2-olmo-2-raising-bar-open-language-models/">Ai2 OLMo 2: Raising the bar for open language models</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://allenai.org/">Ai2</a> is releasing OLMo 2, a family of open-source language models that advances the democratisation of AI and narrows the gap between open and proprietary solutions.</p>
+
+
+
+<p>The new models, available in 7B and 13B parameter versions, are trained on up to 5 trillion tokens and demonstrate performance levels that match or exceed comparable fully open models whilst remaining competitive with open-weight models such as Llama 3.1 on English academic benchmarks.</p>
+
+
+
+<p>&#8220;Since the release of the first OLMo in February 2024, we&#8217;ve seen rapid growth in the open language model ecosystem, and a narrowing of the performance gap between open and proprietary models,&#8221; explained Ai2.</p>
+
+
+
+<p>The development team achieved these improvements through several innovations, including enhanced training stability measures, staged training approaches, and state-of-the-art post-training methodologies derived from their <a href="https://arxiv.org/abs/2411.15124">Tülu 3</a> framework. Notable technical improvements include the switch from nonparametric layer norm to RMSNorm and the implementation of rotary positional embedding.</p>
+
+
+
+<h3 class="wp-block-heading">OLMo 2 model training breakthrough</h3>
+
+
+
+<p>The training process employed a sophisticated two-stage approach. The initial stage utilised the OLMo-Mix-1124 dataset of approximately 3.9 trillion tokens, sourced from DCLM, Dolma, Starcoder, and Proof Pile II. The second stage incorporated a carefully curated mixture of high-quality web data and domain-specific content through the Dolmino-Mix-1124 dataset.</p>
+
+
+
+<p>Particularly noteworthy is the OLMo 2-Instruct-13B variant, which is the most capable model in the series. The model demonstrates superior performance compared to Qwen 2.5 14B instruct, Tülu 3 8B, and Llama 3.1 8B instruct models across various benchmarks.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="632" src="https://www.artificialintelligence-news.com/wp-content/uploads/2024/11/ai2-olmo-language-model-open-source-llm-benchmark-1024x632.jpg" alt="Benchmarks comparing the OLMo 2 open large language model to other models such as Mistral, Qwn, Llama, Gemma, and more." class="wp-image-16567" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2024/11/ai2-olmo-language-model-open-source-llm-benchmark-1024x632.jpg 1024w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/11/ai2-olmo-language-model-open-source-llm-benchmark-300x185.jpg 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/11/ai2-olmo-language-model-open-source-llm-benchmark-768x474.jpg 768w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/11/ai2-olmo-language-model-open-source-llm-benchmark-324x200.jpg 324w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/11/ai2-olmo-language-model-open-source-llm-benchmark-380x234.jpg 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/11/ai2-olmo-language-model-open-source-llm-benchmark-350x216.jpg 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/11/ai2-olmo-language-model-open-source-llm-benchmark-100x62.jpg 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/11/ai2-olmo-language-model-open-source-llm-benchmark-60x37.jpg 60w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/11/ai2-olmo-language-model-open-source-llm-benchmark.jpg 1313w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>(Credit: Ai2)</em></figcaption></figure>
+
+
+
+<h3 class="wp-block-heading">Commiting to open science</h3>
+
+
+
+<p>Reinforcing its commitment to open science, Ai2 has released comprehensive documentation including weights, data, code, recipes, intermediate checkpoints, and instruction-tuned models. This transparency allows for full inspection and reproduction of results by the wider AI community.</p>
+
+
+
+<p>The release also introduces an evaluation framework called OLMES (Open Language Modeling Evaluation System), comprising 20 benchmarks designed to assess core capabilities such as knowledge recall, commonsense reasoning, and mathematical reasoning.</p>
+
+
+
+<p>OLMo 2 raises the bar in open-source AI development, potentially accelerating the pace of innovation in the field whilst maintaining transparency and accessibility.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@weareambitious?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Rick Barrett</a>)</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/openai-enhances-ai-safety-new-red-teaming-methods/"><strong>OpenAI enhances AI safety with new red teaming methods</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:1079px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ai2-olmo-2-raising-bar-open-language-models/">Ai2 OLMo 2: Raising the bar for open language models</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/ai2-olmo-2-raising-bar-open-language-models/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>OpenAI enhances AI safety with new red teaming methods</title>
+		<link>https://www.artificialintelligence-news.com/news/openai-enhances-ai-safety-new-red-teaming-methods/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=openai-enhances-ai-safety-new-red-teaming-methods</link>
+					<comments>https://www.artificialintelligence-news.com/news/openai-enhances-ai-safety-new-red-teaming-methods/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Fri, 22 Nov 2024 15:47:04 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[development]]></category>
+		<category><![CDATA[ethics]]></category>
+		<category><![CDATA[openai]]></category>
+		<category><![CDATA[red teaming]]></category>
+		<category><![CDATA[safety]]></category>
+		<category><![CDATA[Society]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16543</guid>
+
+					<description><![CDATA[<p>A critical part of OpenAI’s safeguarding process is &#8220;red teaming&#8221; — a structured methodology using both human and AI participants to explore potential risks and vulnerabilities in new systems. Historically, OpenAI has engaged in red teaming efforts predominantly through manual testing, which involves individuals probing for weaknesses. This was notably employed during the testing of<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/openai-enhances-ai-safety-new-red-teaming-methods/" title="ReadOpenAI enhances AI safety with new red teaming methods">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/openai-enhances-ai-safety-new-red-teaming-methods/">OpenAI enhances AI safety with new red teaming methods</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>A critical part of OpenAI’s safeguarding process is &#8220;red teaming&#8221; — a structured methodology using both human and AI participants to explore potential risks and vulnerabilities in new systems.</p>
+
+
+
+<p>Historically, OpenAI has engaged in red teaming efforts predominantly through manual testing, which involves individuals probing for weaknesses. This was notably employed during the testing of their DALL·E 2 image generation model in early 2022, where external experts were invited to identify potential risks. Since then, OpenAI has expanded and refined its methodologies, incorporating automated and mixed approaches for a more comprehensive risk assessment.</p>
+
+
+
+<p>&#8220;We are optimistic that we can use more powerful AI to scale the discovery of model mistakes,&#8221; OpenAI stated. This optimism is rooted in the idea that automated processes can help evaluate models and train them to be safer by recognising patterns and errors on a larger scale.</p>
+
+
+
+<p>In their latest push for advancement, OpenAI is sharing two important documents on red teaming — a white paper detailing external engagement strategies and a research study introducing a novel method for automated red teaming. These contributions aim to strengthen the process and outcomes of red teaming, ultimately leading to safer and more responsible AI implementations.</p>
+
+
+
+<p>As AI continues to evolve, understanding user experiences and identifying risks such as abuse and misuse are crucial for researchers and developers. Red teaming provides a proactive method for evaluating these risks, especially when supplemented by insights from a range of independent external experts. This approach not only helps establish benchmarks but also facilitates the enhancement of safety evaluations over time.</p>
+
+
+
+<h3 class="wp-block-heading">The human touch</h3>
+
+
+
+<p>OpenAI has shared four fundamental steps in their white paper, <a href="https://cdn.openai.com/papers/openais-approach-to-external-red-teaming.pdf">&#8220;OpenAI’s Approach to External Red Teaming for AI Models and Systems,&#8221;</a> to design effective red teaming campaigns:</p>
+
+
+
+<ol class="wp-block-list">
+<li><strong>Composition of red teams:</strong> The selection of team members is based on the objectives of the campaign. This often involves individuals with diverse perspectives, such as expertise in natural sciences, cybersecurity, and regional politics, ensuring assessments cover the necessary breadth.</li>
+</ol>
+
+
+
+<ol start="2" class="wp-block-list">
+<li><strong>Access to model versions:</strong> Clarifying which versions of a model red teamers will access can influence the outcomes. Early-stage models may reveal inherent risks, while more developed versions can help identify gaps in planned safety mitigations.</li>
+</ol>
+
+
+
+<ol start="3" class="wp-block-list">
+<li><strong>Guidance and documentation:</strong> Effective interactions during campaigns rely on clear instructions, suitable interfaces, and structured documentation. This involves describing the models, existing safeguards, testing interfaces, and guidelines for recording results.</li>
+</ol>
+
+
+
+<ol start="4" class="wp-block-list">
+<li><strong>Data synthesis and evaluation:</strong> Post-campaign, the data is assessed to determine if examples align with existing policies or require new behavioural modifications. The assessed data then informs repeatable evaluations for future updates.</li>
+</ol>
+
+
+
+<p>A recent application of this methodology involved preparing the OpenAI <a href="https://openai.com/index/learning-to-reason-with-llms/">o1 family</a> of models for public use—testing their resistance to potential misuse and evaluating their application across various fields such as real-world attack planning, natural sciences, and AI research.</p>
+
+
+
+<h3 class="wp-block-heading">Automated red teaming</h3>
+
+
+
+<p>Automated red teaming seeks to identify instances where AI may fail, particularly regarding safety-related issues. This method excels at scale, generating numerous examples of potential errors quickly. However, traditional automated approaches have struggled with producing diverse, successful attack strategies.</p>
+
+
+
+<p>OpenAI&#8217;s research introduces <a href="https://cdn.openai.com/papers/diverse-and-effective-red-teaming.pdf">&#8220;Diverse And Effective Red Teaming With Auto-Generated Rewards And Multi-Step Reinforcement Learning,&#8221;</a> a method which encourages greater diversity in attack strategies while maintaining effectiveness.</p>
+
+
+
+<p>This method involves using AI to generate different scenarios, such as illicit advice, and training red teaming models to evaluate these scenarios critically. The process rewards diversity and efficacy, promoting more varied and comprehensive safety evaluations.</p>
+
+
+
+<p>Despite its benefits, red teaming does have limitations. It captures risks at a specific point in time, which may evolve as AI models develop. Additionally, the red teaming process can inadvertently create information hazards, potentially alerting malicious actors to vulnerabilities not yet widely known. Managing these risks requires stringent protocols and responsible disclosures.</p>
+
+
+
+<p>While red teaming continues to be pivotal in risk discovery and evaluation, OpenAI acknowledges the necessity of incorporating broader public perspectives on AI&#8217;s ideal behaviours and policies to ensure the technology aligns with societal values and expectations.</p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/eu-introduces-draft-regulatory-guidance-for-ai-models/"><strong>EU introduces draft regulatory guidance for AI models</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:959px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/openai-enhances-ai-safety-new-red-teaming-methods/">OpenAI enhances AI safety with new red teaming methods</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/openai-enhances-ai-safety-new-red-teaming-methods/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>EU introduces draft regulatory guidance for AI models</title>
+		<link>https://www.artificialintelligence-news.com/news/eu-introduces-draft-regulatory-guidance-for-ai-models/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=eu-introduces-draft-regulatory-guidance-for-ai-models</link>
+					<comments>https://www.artificialintelligence-news.com/news/eu-introduces-draft-regulatory-guidance-for-ai-models/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Fri, 15 Nov 2024 14:52:05 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Legislation & Government]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[ai act]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[development]]></category>
+		<category><![CDATA[ethics]]></category>
+		<category><![CDATA[eu]]></category>
+		<category><![CDATA[europe]]></category>
+		<category><![CDATA[european union]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[guidance]]></category>
+		<category><![CDATA[law]]></category>
+		<category><![CDATA[legal]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[regulation]]></category>
+		<category><![CDATA[safety]]></category>
+		<category><![CDATA[Society]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16496</guid>
+
+					<description><![CDATA[<p>The release of the &#8220;First Draft General-Purpose AI Code of Practice&#8221; marks the EU&#8217;s effort to create comprehensive regulatory guidance for general-purpose AI models. The development of this draft has been a collaborative effort, involving input from diverse sectors including industry, academia, and civil society. The initiative was led by four specialised Working Groups, each<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/eu-introduces-draft-regulatory-guidance-for-ai-models/" title="ReadEU introduces draft regulatory guidance for AI models">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/eu-introduces-draft-regulatory-guidance-for-ai-models/">EU introduces draft regulatory guidance for AI models</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The <a href="https://digital-strategy.ec.europa.eu/en/library/first-draft-general-purpose-ai-code-practice-published-written-independent-experts">release</a> of the &#8220;First Draft General-Purpose AI Code of Practice&#8221; marks the EU&#8217;s effort to create comprehensive regulatory guidance for general-purpose AI models.</p>
+
+
+
+<p>The development of this draft has been a collaborative effort, involving input from diverse sectors including industry, academia, and civil society. The initiative was led by four specialised Working Groups, each addressing specific aspects of AI governance and risk mitigation:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Working Group 1: Transparency and copyright-related rules</li>
+
+
+
+<li>Working Group 2: Risk identification and assessment for systemic risk</li>
+
+
+
+<li>Working Group 3: Technical risk mitigation for systemic risk</li>
+
+
+
+<li>Working Group 4: Governance risk mitigation for systemic risk</li>
+</ul>
+
+
+
+<p>The draft is aligned with existing laws such as the Charter of Fundamental Rights of the European Union. It takes into account international approaches, striving for proportionality to risks, and aims to be future-proof by contemplating rapid technological changes.</p>
+
+
+
+<p>Key objectives outlined in the draft include:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Clarifying compliance methods for providers of general-purpose AI models</li>
+
+
+
+<li>Facilitating understanding across the AI value chain, ensuring seamless integration of AI models into downstream products</li>
+
+
+
+<li>Ensuring compliance with Union law on copyrights, especially concerning the use of copyrighted material for model training</li>
+
+
+
+<li>Continuously assessing and mitigating systemic risks associated with AI models</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Recognising and mitigating systemic risks</h3>
+
+
+
+<p>A core feature of the draft is its taxonomy of systemic risks, which includes types, natures, and sources of such risks. The document outlines various threats such as cyber offences, biological risks, loss of control over autonomous AI models, and large-scale disinformation. By acknowledging the continuously evolving nature of AI technology, the draft recognises that this taxonomy will need updates to remain relevant.</p>
+
+
+
+<p>As AI models with systemic risks become more common, the draft emphasises the need for robust safety and security frameworks (SSFs). It proposes a hierarchy of measures, sub-measures, and key performance indicators (KPIs) to ensure appropriate risk identification, analysis, and mitigation throughout a model&#8217;s lifecycle.</p>
+
+
+
+<p>The draft suggests that providers establish processes to identify and report serious incidents associated with their AI models, offering detailed assessments and corrections as needed. It also encourages collaboration with independent experts for risk assessment, especially for models posing significant systemic risks.</p>
+
+
+
+<h3 class="wp-block-heading">Taking a proactive stance to AI regulatory guidance</h3>
+
+
+
+<p>The <a href="https://www.artificialintelligence-news.com/news/eu-ai-act-early-prep-could-give-businesses-competitive-edge/">EU AI Act</a>, which came into force on 1 August 2024, mandates that the final version of this Code be ready by 1 May 2025. This initiative underscores the EU&#8217;s proactive stance towards AI regulation, emphasising the need for AI safety, transparency, and accountability.</p>
+
+
+
+<p>As the draft continues to evolve, the working groups invite stakeholders to participate actively in refining the document. Their collaborative input will shape a regulatory framework aimed at safeguarding innovation while protecting society from the potential pitfalls of AI technology.</p>
+
+
+
+<p>While still in draft form, the EU&#8217;s Code of Practice for general-purpose AI models could set a benchmark for responsible AI development and deployment globally. By addressing key issues such as transparency, risk management, and copyright compliance, the Code aims to create a regulatory environment that fosters innovation, upholds fundamental rights, and ensures a high level of consumer protection.</p>
+
+
+
+<p><em>This draft is open for written feedback until 28 November 2024.&nbsp;</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/anthropic-urges-ai-regulation-avoid-catastrophes/"><strong>Anthropic urges AI regulation to avoid catastrophes</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:2239px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/eu-introduces-draft-regulatory-guidance-for-ai-models/">EU introduces draft regulatory guidance for AI models</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/eu-introduces-draft-regulatory-guidance-for-ai-models/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>OpenAI faces diminishing returns with latest AI model</title>
+		<link>https://www.artificialintelligence-news.com/news/openai-faces-diminishing-returns-latest-ai-model/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=openai-faces-diminishing-returns-latest-ai-model</link>
+					<comments>https://www.artificialintelligence-news.com/news/openai-faces-diminishing-returns-latest-ai-model/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Tue, 12 Nov 2024 18:33:37 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[development]]></category>
+		<category><![CDATA[llm]]></category>
+		<category><![CDATA[models]]></category>
+		<category><![CDATA[openai]]></category>
+		<category><![CDATA[orion]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16469</guid>
+
+					<description><![CDATA[<p>OpenAI is facing diminishing returns with its latest AI model while navigating the pressures of recent investments. According to The Information, OpenAI&#8217;s next AI model – codenamed Orion – is delivering smaller performance gains compared to its predecessors. In employee testing, Orion reportedly achieved the performance level of GPT-4 after completing just 20% of its<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/openai-faces-diminishing-returns-latest-ai-model/" title="ReadOpenAI faces diminishing returns with latest AI model">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/openai-faces-diminishing-returns-latest-ai-model/">OpenAI faces diminishing returns with latest AI model</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://openai.com/">OpenAI</a> is facing diminishing returns with its latest AI model while navigating the pressures of recent investments.</p>
+
+
+
+<p>According to <a href="https://www.theinformation.com/articles/openai-shifts-strategy-as-rate-of-gpt-ai-improvements-slows">The Information</a>, OpenAI&#8217;s next AI model – codenamed Orion – is delivering smaller performance gains compared to its predecessors.</p>
+
+
+
+<p>In employee testing, Orion reportedly achieved the performance level of GPT-4 after completing just 20% of its training. However, the transition from GPT-4 to the anticipated GPT-5 is said to exhibit smaller quality improvements than the leap from GPT-3 to GPT-4.</p>
+
+
+
+<p>&#8220;Some researchers at the company believe Orion isn’t reliably better than its predecessor in handling certain tasks,&#8221; stated employees in the report. &#8220;Orion performs better at language tasks but may not outperform previous models at tasks such as coding, according to an OpenAI employee.&#8221;</p>
+
+
+
+<p>Early stages of AI training usually yield the most significant improvements, while subsequent phases typically result in smaller performance gains. Consequently, the remaining 80% of training is unlikely to deliver advancements on par with previous generational improvements.</p>
+
+
+
+<p>This situation with its latest AI model emerges at a pivotal time for OpenAI, following a recent funding round that saw the company raise $6.6 billion. With this financial backing comes increased expectations from investors, as well as technical challenges that complicate traditional scaling methodologies in AI development.</p>
+
+
+
+<p>If these early versions do not meet expectations, OpenAI&#8217;s future fundraising prospects may not attract the same level of interest.</p>
+
+
+
+<p>The limitations highlighted in the report underline a significant challenge confronting the entire AI industry: the diminishing availability of high-quality training data and the necessity to maintain relevance in an increasingly competitive field.</p>
+
+
+
+<p>According to <a href="https://arxiv.org/pdf/2211.04325v2">a paper</a> (PDF) that was published in June, AI firms will deplete the pool of publicly available human-generated text data between 2026 and 2032. The Information notes that developers have “&#8221;largely squeezed as much out of” the data that has been used for enabling the rapid AI advancements we’ve seen in recent years.</p>
+
+
+
+<p>To address these challenges, OpenAI is fundamentally rethinking its AI development strategy.</p>
+
+
+
+<p>&#8220;In response to the recent challenge to training-based scaling laws posed by slowing GPT improvements, the industry appears to be shifting its effort to improving models after their initial training, potentially yielding a different type of scaling law,&#8221; explains The Information.</p>
+
+
+
+<p>As OpenAI navigates these challenges, the company must balance innovation with practical application and investor expectations. However, the ongoing <a href="https://www.artificialintelligence-news.com/news/openai-hit-leadership-exodus-as-three-key-figures-depart/">exodus of leading figures</a> from the company won’t help matters.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@tateisimikito?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Jukan Tateisi</a>)</em></p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/asi-alliance-launches-airis-learns-minecraft/"><strong>ASI Alliance launches AIRIS that ‘learns’ in Minecraft</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/openai-faces-diminishing-returns-latest-ai-model/">OpenAI faces diminishing returns with latest AI model</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/openai-faces-diminishing-returns-latest-ai-model/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Industry leaders back open-source AI definition</title>
+		<link>https://www.artificialintelligence-news.com/news/industry-leaders-back-open-source-ai-definition/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=industry-leaders-back-open-source-ai-definition</link>
+					<comments>https://www.artificialintelligence-news.com/news/industry-leaders-back-open-source-ai-definition/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Tue, 29 Oct 2024 14:36:15 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[all things open]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[development]]></category>
+		<category><![CDATA[ethics]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[open source initiative]]></category>
+		<category><![CDATA[open-source]]></category>
+		<category><![CDATA[osaid]]></category>
+		<category><![CDATA[osi]]></category>
+		<category><![CDATA[training]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16411</guid>
+
+					<description><![CDATA[<p>The Open Source Initiative (OSI) has unveiled a definition framework to evaluate whether AI systems can be classified as open-source. The announcement of the first Open Source AI Definition (OSAID) was made at All Things Open and marks the culmination of a comprehensive global effort spanning multiple years of research, international workshops, and a year-long<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/industry-leaders-back-open-source-ai-definition/" title="ReadIndustry leaders back open-source AI definition">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/industry-leaders-back-open-source-ai-definition/">Industry leaders back open-source AI definition</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The <a href="https://opensource.org/">Open Source Initiative</a> (OSI) has unveiled a definition framework to evaluate whether AI systems can be classified as open-source.</p>
+
+
+
+<p>The announcement of the first Open Source AI Definition (OSAID) was made at <a href="https://allthingsopen.org/">All Things Open</a> and marks the culmination of a comprehensive global effort spanning multiple years of research, international workshops, and a year-long community design process.</p>
+
+
+
+<p>The OSI – widely recognised as the definitive authority on open-source definitions by individuals, organisations, and government bodies worldwide – developed the framework through extensive collaboration with industry stakeholders. This framework defines what open-source AI means, insisting that the same open-source requirements apply whether to a fully functional AI system, a model, weights and parameters, or other structural elements.</p>
+
+
+
+<p>An open-source AI system must be made available under terms that grant four essential freedoms:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Use the system for any purpose</strong> and without having to ask for permission.</li>
+
+
+
+<li><strong>Study how the system works</strong> and inspect its components.</li>
+
+
+
+<li><strong>Modify the system</strong> for any purpose, including to change its output.</li>
+
+
+
+<li><strong>Share the system</strong> for others to use with or without modifications, for any purpose.</li>
+</ul>
+
+
+
+<p>These freedoms apply both to a fully functional system and to discrete elements of a system. A precondition to exercising these freedoms is having access to the preferred form to make modifications to the system, which includes detailed data information, complete source code, and model parameters.</p>
+
+
+
+<p>&#8220;The co-design process that led to version 1.0 of the Open Source AI Definition was well-developed, thorough, inclusive, and fair,&#8221; said Carlo Piana, OSI board chair. &#8220;The board is confident that the process has resulted in a definition that meets the standards of open-source as defined in the open-source definition and the four essential freedoms.&#8221;</p>
+
+
+
+<p>One of the framework&#8217;s most significant requirements is the mandate for open-source models to provide sufficient information about <a href="https://www.artificialintelligence-news.com/news/penguin-random-house-protects-its-books-from-ai-training-use/">their training data</a>, ensuring that &#8220;a skilled person can recreate a substantially equivalent system using the same or similar data,&#8221; according to Ayah Bdeir, who leads AI strategy at <a href="https://www.mozilla.org/en-GB/">Mozilla</a>.</p>
+
+
+
+<p>Bdeir acknowledged that whilst this approach might not be perfect, it represents a practical compromise between ideological purity and real-world implementation. She suggested that demanding an unrealistically high standard could prove counterproductive to the initiative&#8217;s goals.</p>
+
+
+
+<p>The <a href="https://www.digitalpublicgoods.net/implement">Digital Public Goods Alliance</a> (DPGA) has expressed support for the OSI&#8217;s leadership in defining open-source AI. Liv Marte Nordhaug, CEO of the DPGA secretariat, confirmed that her organisation will incorporate this foundational work into updates to their Digital Public Goods Standard for AI applications.</p>
+
+
+
+<p><a href="https://www.eleuther.ai/">EleutherAI Institute</a>, known for its non-profit work in AI development, has also endorsed the definition.</p>
+
+
+
+<p>&#8220;The Open Source AI Definition is a necessary step towards promoting the benefits of open-source principles in the field of AI,&#8221; stated Stella Biderman, Executive Director of the EleutherAI Institute. &#8220;We believe that this definition supports the needs of independent machine learning researchers and promotes greater transparency among the largest AI developers.&#8221;</p>
+
+
+
+<p>The definition highlights the importance of including data information and code when sharing open-source models and weights. These requirements ensure transparency and the ability to modify the AI system.</p>
+
+
+
+<p>OSI Executive Director Stefano Maffulli acknowledged the challenges faced during the development process, noting that despite occasional heated exchanges and differing opinions, the final result aligned with the project&#8217;s initial objectives.</p>
+
+
+
+<p>&#8220;This is a starting point for a continued effort to engage with the communities to improve the definition over time,&#8221; he stated.</p>
+
+
+
+<p>The OSAID does not require a specific legal mechanism for assuring that model parameters are freely available to all, though it may involve licences or legal instruments. This aspect is expected to become clearer over time as <a href="https://www.artificialintelligence-news.com/news/eu-ai-act-early-prep-could-give-businesses-competitive-edge/">the legal system</a> addresses these open-source AI systems.</p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/news/president-biden-issues-first-national-security-memorandum-ai/"><strong>President Biden issues first National Security Memorandum on AI</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/industry-leaders-back-open-source-ai-definition/">Industry leaders back open-source AI definition</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/industry-leaders-back-open-source-ai-definition/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MIT breakthrough could transform robot training</title>
+		<link>https://www.artificialintelligence-news.com/news/mit-breakthrough-could-transform-robot-training/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mit-breakthrough-could-transform-robot-training</link>
+					<comments>https://www.artificialintelligence-news.com/news/mit-breakthrough-could-transform-robot-training/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Mon, 28 Oct 2024 16:43:57 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[Heterogeneous Pretrained Transformers]]></category>
+		<category><![CDATA[hpt]]></category>
+		<category><![CDATA[mit]]></category>
+		<category><![CDATA[robot training]]></category>
+		<category><![CDATA[robotics]]></category>
+		<category><![CDATA[robots]]></category>
+		<category><![CDATA[training]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16403</guid>
+
+					<description><![CDATA[<p>MIT researchers have developed a robot training method that reduces time and cost while improving adaptability to new tasks and environments. The approach – called Heterogeneous Pretrained Transformers (HPT) – combines vast amounts of diverse data from multiple sources into a unified system, effectively creating a shared language that generative AI models can process. This<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/mit-breakthrough-could-transform-robot-training/" title="ReadMIT breakthrough could transform robot training">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/mit-breakthrough-could-transform-robot-training/">MIT breakthrough could transform robot training</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://www.artificialintelligence-news.com/news/mit-publishes-white-papers-guide-ai-governance/">MIT</a> researchers have developed a robot training method that reduces time and cost while improving adaptability to new tasks and environments.</p>
+
+
+
+<p>The approach – called Heterogeneous Pretrained Transformers (HPT) – combines vast amounts of diverse data from multiple sources into a unified system, effectively creating a shared language that generative AI models can process. This method marks a significant departure from traditional robot training, where engineers typically collect specific data for individual robots and tasks in controlled environments.</p>
+
+
+
+<p>Lead researcher Lirui Wang – an electrical engineering and computer science graduate student at MIT – believes that while many cite insufficient training data as a key challenge in <a href="https://www.artificialintelligence-news.com/categories/ai-robotics/">robotics</a>, a bigger issue lies in the vast array of different domains, modalities, and robot hardware. Their work demonstrates how to effectively combine and utilise all these diverse elements.</p>
+
+
+
+<p>The research team developed an architecture that unifies various data types, including camera images, language instructions, and depth maps. HPT utilises a transformer model, similar to those powering advanced language models, to process visual and proprioceptive inputs.</p>
+
+
+
+<p>In practical tests, the system demonstrated remarkable results—outperforming traditional training methods by more than 20 per cent in both simulated and real-world scenarios. This improvement held true even when robots encountered tasks significantly different from their training data.</p>
+
+
+
+<p>The researchers assembled an impressive dataset for pretraining, comprising 52 datasets with over 200,000 robot trajectories across four categories. This approach allows robots to learn from a wealth of experiences, including human demonstrations and simulations.</p>
+
+
+
+<p>One of the system&#8217;s key innovations lies in its handling of proprioception (the robot&#8217;s awareness of its position and movement.) The team designed the architecture to place equal importance on proprioception and vision, enabling more sophisticated dexterous motions.</p>
+
+
+
+<p>Looking ahead, the team aims to enhance HPT&#8217;s capabilities to process unlabelled data, similar to advanced language models. Their ultimate vision involves creating a universal robot brain that could be downloaded and used for any robot without additional training.</p>
+
+
+
+<p>While acknowledging they are in the early stages, the team remains optimistic that scaling could lead to breakthrough developments in robotic policies, similar to the advances seen in large language models.</p>
+
+
+
+<p><em>You can find a copy of the researchers’ paper </em><a href="https://arxiv.org/pdf/2409.20537"><em>here</em></a><em> (PDF)</em></p>
+
+
+
+<p>(Photo by <a href="https://unsplash.com/@possessedphotography?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Possessed Photography</a>)</p>
+
+
+
+<p><strong>See also: </strong><a href="https://iottechnews.com/news/jailbreaking-ai-robots-researchers-alarm-security-flaws/"><strong>Jailbreaking AI robots: Researchers sound alarm over security flaws</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/mit-breakthrough-could-transform-robot-training/">MIT breakthrough could transform robot training</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/mit-breakthrough-could-transform-robot-training/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

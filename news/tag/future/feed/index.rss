@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>future Archives - AI News</title>
+	<atom:link href="https://www.artificialintelligence-news.com/news/tag/future/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.artificialintelligence-news.com/news/tag/future/</link>
+	<description>Artificial Intelligence News</description>
+	<lastBuildDate>Fri, 20 Dec 2024 15:10:33 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://www.artificialintelligence-news.com/wp-content/uploads/2020/09/ai-icon-60x60.png</url>
+	<title>future Archives - AI News</title>
+	<link>https://www.artificialintelligence-news.com/news/tag/future/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ordnance Survey: Navigating the role of AI and ethical considerations in geospatial technology</title>
+		<link>https://www.artificialintelligence-news.com/news/ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology</link>
+					<comments>https://www.artificialintelligence-news.com/news/ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology/#respond</comments>
+		
+		<dc:creator><![CDATA[Duncan MacRae]]></dc:creator>
+		<pubDate>Mon, 23 Dec 2024 07:09:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Industries]]></category>
+		<category><![CDATA[ethics]]></category>
+		<category><![CDATA[future]]></category>
+		<category><![CDATA[geospatial technology]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16773</guid>
+
+					<description><![CDATA[<p>As we approach a new year filled with potential, the landscape of technology, particularly artificial intelligence (AI) and machine learning (ML), is on the brink of significant transformation. Manish Jethwa, CTO at Ordnance Survey (OS), the national mapping agency for Great Britain, offers an insightful glimpse into what we can expect from these advancements and<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology/" title="ReadOrdnance Survey: Navigating the role of AI and ethical considerations in geospatial technology">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology/">Ordnance Survey: Navigating the role of AI and ethical considerations in geospatial technology</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>As we approach a new year filled with potential, the landscape of technology, particularly artificial intelligence (AI) and machine learning (ML), is on the brink of significant transformation. Manish Jethwa, CTO at Ordnance Survey (OS), the national mapping agency for Great Britain, offers an insightful glimpse into what we can expect from these advancements and their implications for the geospatial sector.</p>
+
+
+
+<p><strong>Breaking Down Barriers with AI</strong></p>
+
+
+<div class="wp-block-image">
+<figure class="alignright size-full is-resized"><img fetchpriority="high" decoding="async" width="512" height="489" src="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394.jpg" alt="" class="wp-image-16778" style="width:314px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394.jpg 512w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394-300x287.jpg 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394-209x200.jpg 209w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394-298x285.jpg 298w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394-262x250.jpg 262w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394-100x96.jpg 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394-60x57.jpg 60w" sizes="(max-width: 512px) 100vw, 512px" /></figure></div>
+
+
+<p>Looking ahead, Jethwa anticipates continued significant advancements in AI and machine learning, particularly with the push towards Gen AI. According to him, the integration of large language models (LLMs) with more sophisticated agents will not only perform complex tasks on behalf of users but also further reduce barriers to interaction. This shift, especially in the geospatial field, means that translating natural language into precise data queries will become more seamless, ultimately making geospatial datasets more accessible, mainstream, and user-friendly.</p>
+
+
+
+<p><strong>Training for Complex Tasks</strong></p>
+
+
+
+<p>Beyond LLMs, Jethwa is optimistic about progress in the broader category of machine learning, driven by greater access to graphics processing units for training.</p>
+
+
+
+<p>He says: “At Ordnance Survey (OS), we’ll leverage this capability to train models for specific, complex tasks such as automatic feature extraction from imagery.</p>
+
+
+
+<p>“With an increasing volume of data generated automatically, hopefully next year will also bring innovative tools and techniques to validate data, ensuring it can be confidently utilised for its intended use.”</p>
+
+
+
+<p>He underscores the importance of not only pursuing new capabilities but also ensuring that these tools are integrated responsibly into workflows, focusing on quality and risk management.</p>
+
+
+
+<p><strong>The Ethical Frontier</strong></p>
+
+
+
+<p>The rapid evolution of AI brings with it an urgent need for ethical considerations.&nbsp;</p>
+
+
+
+<p>Jethwa explains: “I would like to see a greater emphasis on ethical AI and responsible technology development,&#8221; including creating AI systems that are “transparent, fair, and unbiased” while also considering their environmental and societal impact.</p>
+
+
+
+<p>This focus on ethics is encapsulated in OS’s Responsible AI Charter, which guides their approach to integrating new techniques safely.</p>
+
+
+
+<p>Moreover, Jethwa highlights the role of workforce development in successful transformations. He believes organisations must commit to “retraining and upskilling employees to prepare them for the impact of AI and digital transformation.”&nbsp;</p>
+
+
+
+<p>This is vital to ensure that in the pursuit of enhanced efficiency, companies do not “lose the personality, creativity, and emotion that we bring as humans into the workplace.”&nbsp;</p>
+
+
+
+<p><strong>Embracing Change While Managing Risks</strong></p>
+
+
+
+<p>Despite the promise of technological advancements, obstacles remain in the journey toward digital transformation. Jethwa notes that challenges such as “cultural resistance and rapid successive changes leading to change fatigue will likely persist.” </p>
+
+
+
+<p>He advocates for a careful balance between adopting new technologies and addressing the human elements of transformation processes.</p>
+
+
+
+<p>As AI continues to influence various aspects of business, from decision-making to risk management, the issue of cybersecurity also looms large. Jethwa points out that “cybersecurity threats being powered by AI are becoming more sophisticated,” urging companies to develop comprehensive strategies that cover everything from data storage to analysis documentation.</p>
+
+
+
+<p><strong>The Imperative to Progress</strong></p>
+
+
+
+<p>In an evolving landscape, organisations that stagnate risk falling behind their competitors. Jethwa explains: “Companies that fail to keep up open themselves up to risks, such as changing customer expectations as well as attracting and retaining talent.”&nbsp;</p>
+
+
+
+<p>He also emphasises the need for a “clear vision of future goals, effective communication of progress, and celebrating milestones to sustain momentum” in digital transformation initiatives.</p>
+
+
+
+<p>As we move into a new year filled with promise, the future of AI and geospatial technology holds transformative power &#8211; but it must be used responsibly. The path that lies ahead in 2025 requires vigilance, an unwavering commitment to ethical practices and a human touch in order to drive successful innovation.</p>
+
+
+
+<p><em>(Photos by <a href="https://unsplash.com/@anniespratt">Annie Spratt</a> and Ordnance Survey)</em></p>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong>&nbsp;Check out<a href="https://www.ai-expo.net/">&nbsp;AI &amp; Big Data Expo</a>&nbsp;taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including&nbsp;<a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>,&nbsp;<a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/">&nbsp;Digital Transformation Week</a>, and&nbsp;<a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge&nbsp;<a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology/">Ordnance Survey: Navigating the role of AI and ethical considerations in geospatial technology</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Musk predicts AI will be superior to humans within five years</title>
+		<link>https://www.artificialintelligence-news.com/news/musk-predicts-ai-superior-humans-five-years/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=musk-predicts-ai-superior-humans-five-years</link>
+					<comments>https://www.artificialintelligence-news.com/news/musk-predicts-ai-superior-humans-five-years/#comments</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Tue, 28 Jul 2020 12:17:59 +0000</pubDate>
+				<category><![CDATA[Deep & Reinforcement Learning]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[adoption]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[elon musk]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[future]]></category>
+		<category><![CDATA[gpt-3]]></category>
+		<category><![CDATA[openai]]></category>
+		<category><![CDATA[prediction]]></category>
+		<category><![CDATA[singularity]]></category>
+		<category><![CDATA[Society]]></category>
+		<guid isPermaLink="false">http://artificialintelligence-news.com/?p=9769</guid>
+
+					<description><![CDATA[<p>Elon Musk has made another of his trademark predictions – this time, it’s that AI will be superior to humans within five years. Musk has been among the most vocal prominent figures in warning about the dangers of artificial intelligence. In 2018, for example, Musk famously warned that AI could become “an immortal dictator from<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/musk-predicts-ai-superior-humans-five-years/" title="ReadMusk predicts AI will be superior to humans within five years">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/musk-predicts-ai-superior-humans-five-years/">Musk predicts AI will be superior to humans within five years</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Elon Musk has made another of his trademark predictions – this time, it’s that AI will be superior to humans within five years.</p>
+
+
+
+<p>Musk has been among the most vocal prominent figures in warning about the dangers of artificial intelligence. In 2018, for example, Musk famously warned that AI could become “an immortal dictator from which we would never escape” and that the technology is more dangerous than nuclear weapons.</p>
+
+
+
+<p>Speaking in a <a href="https://www.nytimes.com/2020/07/25/style/elon-musk-maureen-dowd.html">New York Times</a> interview, Musk said that current trends suggest AI could overtake humans by 2025. However, Musk adds “that doesn’t mean that everything goes to hell in five years. It just means that things get unstable or weird.”</p>
+
+
+
+<p>If correct, the latest prediction from Musk would mean the so-called technological singularity – when machine intelligence overtakes human – is set to happen much sooner than other experts predict. Ray Kurzweil, a respected futurist, has previously estimated the aforementioned singularity to occur around 2045.</p>
+
+
+
+<p>As the founder of Tesla, SpaceX, and Neuralink – three companies which use AI far more than most – Musk isn’t against the technology, but has called for it to be regulated.</p>
+
+
+
+<p>Musk also founded OpenAI back in 2015 with the goal of researching and promoting ethical artificial intelligence. Following disagreements with the company’s direction, Musk left OpenAI in 2018.</p>
+
+
+
+<p>Back in February, Musk <a href="https://twitter.com/elonmusk/status/1229544673590599681">responded</a> to an MIT Technology Review profile of OpenAI saying that it “should be more open” and that all organisations “developing advanced AI should be regulated, including Tesla.”</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">OpenAI should be more open imo</p>&mdash; Elon Musk (@elonmusk) <a href="https://twitter.com/elonmusk/status/1229544673590599681?ref_src=twsrc%5Etfw">February 17, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Last year, OpenAI decided not to release a text generator which it believed to have dangerous implications in a world already struggling with fake news and disinformation campaigns.</p>
+
+
+
+<p>Two graduates later <a href="http://artificialintelligence-news.com/2019/08/27/grads-recreate-openai-text-generator-dangerous-release/">recreated</a> and released a similar generator to OpenAI’s, with one saying that it “allows everyone to have an important conversation about security, and researchers to help secure against future potential abuses.”</p>
+
+
+
+<p>OpenAI has since provided select researchers access to their powerful text generator. The latest version, GPT-3, has been making headlines in recent weeks for the incredible things it can achieve with limited input.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Playing with GPT-3 feels like seeing the future. I’ve gotten it to write songs, stories, press releases, guitar tabs, interviews, essays, technical manuals. It&#39;s shockingly good. <a href="https://t.co/RvM6Qb3WIx">https://t.co/RvM6Qb3WIx</a></p>&mdash; arram (@arram) <a href="https://twitter.com/arram/status/1281258647566217216?ref_src=twsrc%5Etfw">July 9, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>GPT-3 offers 175 billion parameters compared to GTP-2’s 1.5 billion parameters – which shows the rapid pace of AI advancements. However, Musk’s prediction of the singularity happening within five years perhaps needs to be taken with a pinch of salt.</p>
+
+
+
+<p><em>(Image Credit: <a href="https://www.flickr.com/photos/jdlasica/3017880307/">Elon Musk</a> by <a href="https://www.flickr.com/photos/jdlasica/">JD Lasica</a> under <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a> license)</em></p>
+
+
+
+<p><img decoding="async" src="https://lh6.googleusercontent.com/OkdRDHGue_9yE-Lk0hS-U-PVEJo0XGhxspiARyu9SbWZ29Pl7-zQww_gYY2OlsSTSTUvCkjQLR8JsbmBmgd-cM-50euDmqc0_ajbpEfMxY65IZ0QWQg-n3VjUoVyOzhQaBNhYEI2" width="233" height="77"> <strong>Interested in hearing industry leaders discuss subjects like this?</strong> Attend the co-located <a href="https://5gexpo.net/northamerica/">5G Expo</a>, <a href="https://www.iottechexpo.com/">IoT Tech Expo</a>, <a href="http://blockchain-expo.com/">Blockchain Expo</a>, <a href="https://www.ai-expo.net/">AI &amp; Big Data Expo</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo World Series</a> with upcoming events in Silicon Valley, London, and Amsterdam.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/musk-predicts-ai-superior-humans-five-years/">Musk predicts AI will be superior to humans within five years</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/musk-predicts-ai-superior-humans-five-years/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

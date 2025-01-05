@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Blockchain - AI News</title>
+	<atom:link href="https://www.artificialintelligence-news.com/categories/blockchain/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.artificialintelligence-news.com/categories/blockchain/</link>
+	<description>Artificial Intelligence News</description>
+	<lastBuildDate>Mon, 23 Dec 2024 10:48:49 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://www.artificialintelligence-news.com/wp-content/uploads/2020/09/ai-icon-60x60.png</url>
+	<title>Blockchain - AI News</title>
+	<link>https://www.artificialintelligence-news.com/categories/blockchain/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How blockchain, IoT, and AI are shaping the future of digital transformation</title>
+		<link>https://www.artificialintelligence-news.com/news/how-blockchain-iot-and-ai-are-shaping-the-future-of-digital-transformation/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-blockchain-iot-and-ai-are-shaping-the-future-of-digital-transformation</link>
+					<comments>https://www.artificialintelligence-news.com/news/how-blockchain-iot-and-ai-are-shaping-the-future-of-digital-transformation/#respond</comments>
+		
+		<dc:creator><![CDATA[Muhammad Zulhusni]]></dc:creator>
+		<pubDate>Mon, 23 Dec 2024 10:48:44 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[blockchain]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16754</guid>
+
+					<description><![CDATA[<p>When devices, networks, and AI work together seamlessly, it creates a smarter, more connected ecosystem. This isn&#8217;t a distant dream; it&#8217;s a reality rapidly emerging as blockchain, IoT, and AI come together. These technologies are no longer working in isolation – they form a trio that redefines how industries could function. David Palmer, chief product<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/how-blockchain-iot-and-ai-are-shaping-the-future-of-digital-transformation/" title="ReadHow blockchain, IoT, and AI are shaping the future of digital transformation">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/how-blockchain-iot-and-ai-are-shaping-the-future-of-digital-transformation/">How blockchain, IoT, and AI are shaping the future of digital transformation</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>When devices, networks, and AI work together seamlessly, it creates a smarter, more connected ecosystem.</p>
+
+
+
+<p>This isn&#8217;t a distant dream; it&#8217;s a reality rapidly emerging as blockchain, IoT, and AI come together. These technologies are no longer working in isolation – they form a trio that redefines how industries could function.</p>
+
+
+
+<p>David Palmer, chief product officer of Pairpoint by Vodafone, captures this shift: “Blockchain is providing trust. It gave us tokenisation, it gave us smart contracts, and it gave us a new way of automating, which is now spilling over into the wider business landscape.”</p>
+
+
+
+<h3 class="wp-block-heading" id="org5c0797e">Building trust with blockchain</h3>
+
+
+
+<p>At its core, blockchain has matured from experimental concepts to practical tools for industries. Its early potential is now manifest in real-world applications like supply chain management and decentralised finance (DeFi). Blockchain not only ensures trust through transparency but lets organisations streamline operations and gain new efficiencies.</p>
+
+
+
+<p>Palmer described blockchain&#8217;s evolution: “It&#8217;s been years in the past where we&#8217;ve done a lot of proof of concepts, we&#8217;ve done a lot of training. It&#8217;s been a lot of headlines. But today I really want to explore how blockchain and IoT and AI can work together to really be a part of the new business digital infrastructure that&#8217;s emerging.”</p>
+
+
+
+<h3 class="wp-block-heading" id="orgc99eded">IoT&#8217;s expanding role in data generation</h3>
+
+
+
+<p>IoT devices have become omnipresent, embedded in everything from cars and drones to household sensors. Experts expect that by 2030, there will be around 30 billion IoT devices worldwide. These devices generate massive amounts of data, which AI systems capitalise on to provide actionable insights. According to Palmer, “By 2030, we&#8217;re expecting over 30 billion IoT devices. These are cars, drones, cabinets, sensors, all woven into the business process and business industry.”</p>
+
+
+
+<p>But IoT isn&#8217;t just about data collection. It introduces the concept of the “economy of things,” where devices transact autonomously. To make this work, however, these devices need secure and reliable connectivity – a role blockchain is uniquely equipped to fulfil.</p>
+
+
+
+<h3 class="wp-block-heading" id="org9374375">AI&#8217;s appetite for reliable data</h3>
+
+
+
+<p>AI thrives on data, but the quality and security of that data are paramount. Public datasets have reached their limits, pushing businesses to tap into proprietary data generated by IoT devices. This creates a two-way relationship: IoT devices supply data for AI, while AI enhances these devices with real-time intelligence.</p>
+
+
+
+<p>Palmer emphasises the importance of data trustworthiness in this ecosystem: “You need an identity which gives you origin of data. So we know the data is coming from a certain source, is signed, but then we also need to trust the AI that&#8217;s coming back.”</p>
+
+
+
+<p>Blockchain plays an impartant role in ensuring trust. It guarantees the legitimacy of both the data given to AI systems and the intelligence delivered back to IoT devices through verified digital identities and cryptographic signing.</p>
+
+
+
+<h3 class="wp-block-heading" id="orgd93a44f">Digital wallets and the adoption of blockchain</h3>
+
+
+
+<p>Digital wallets are becoming a cornerstone of this evolving ecosystem. Their global numbers are expected to grow from 4 billion today to 5.6 billion by 2030. Unlike traditional wallets, blockchain-enabled wallets go beyond cryptocurrencies, supporting functionalities like account abstraction and integration with tools like WalletConnect.</p>
+
+
+
+<p>One breakthrough is the integration of tokenised bank deposits. These bridge traditional banking with blockchain, encouraging businesses to use blockchain for their transaction needs. As a result, blockchain is making its way into broader business applications.</p>
+
+
+
+<h3 class="wp-block-heading" id="org9594b76">Finance meets IoT</h3>
+
+
+
+<p>The integration of finance into IoT devices is another forward step. Using smart contracts and AI, devices as disparate as cars and drones can now handle payments autonomously. Toll payments, EV charging, and retail purchases are just the beginning of this embedded finance ecosystem.</p>
+
+
+
+<p>Palmer illustrated the potential: “By linking EV chargers and vehicles to blockchain, you can then relate that to their payment credential and their payment preferences. And then you can have a peer-to-peer transaction.”</p>
+
+
+
+<p>The same principle applies to energy grids, where vehicles can sell energy during peak times and recharge during off-peak hours, thereby enhancing sustainability.</p>
+
+
+
+<h3 class="wp-block-heading" id="org333fe0d">Decentralised infrastructure networks</h3>
+
+
+
+<p>Another interesting development is the rise of decentralised physical infrastructure networks (DePIN). These networks allow shared or tokenised resources to create community-driven infrastructures. For instance, protocols like Render pool GPU resources for gaming, while Filecoin decentralises storage.</p>
+
+
+
+<p>According to Palmer, “It&#8217;s about how communities can build specific AI and specific connectivity infrastructure, specific payments infrastructure for their businesses.”</p>
+
+
+
+<h3 class="wp-block-heading" id="orge26512d">Blockchain and the role of CBDCs</h3>
+
+
+
+<p>Governments are also noting blockchain&#8217;s potential. Central Bank Digital Currencies (CBDCs) are being explored as a way to integrate blockchain into macroeconomic policies, such as managing money supply and redistributing income. Tokenised deposits further extend blockchain&#8217;s role by digitising traditional monetary systems.</p>
+
+
+
+<p>With CBDCs and tokenised deposits, blockchain is moving beyond niche applications to become an important part of financial ecosystems worldwide.</p>
+
+
+
+<h3 class="wp-block-heading" id="orgb76c455">The metaverse and its evolution</h3>
+
+
+
+<p>The metaverse, once a far-off concept, is rapidly evolving. Innovations like AI-enabled smart glasses change how users interact with immersive digital content. Palmer noted: “This year, the introduction of the glasses by Meta […] allow you to […] access your content but also have access to AI agents.”</p>
+
+
+
+<p>AI robots are also adding a new dimension to the metaverse by bridging virtual and physical experiences. These same technologies and methods open up opportunities in a variety of industries, including manufacturing and healthcare.</p>
+
+
+
+<h3 class="wp-block-heading" id="org7073b77">A seamless digital ecosystem</h3>
+
+
+
+<p>The convergence of blockchain, IoT, and AI marks a turning point in digital transformation. Blockchain ensures trust, IoT generates data, and AI delivers intelligence. Together, these technologies promise to create a digital operating system capable of reshaping industries and economies by 2030.</p>
+
+
+
+<p>Palmer concludes, “If we can link billions of devices to blockchain and AI through secure infrastructure, we unlock the potential of a truly interconnected digital economy.”</p>
+
+
+
+<p><strong>See also: <a href="https://www.artificialintelligence-news.com/news/ai-governance-analysing-emerging-global-regulations/">AI meets blockchain and decentralised data</a></strong></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img fetchpriority="high" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:844px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="(max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a target="_blank" href="https://www.ai-expo.net/" rel="noreferrer noopener"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a target="_blank" href="https://intelligentautomation-conference.com/northamerica/" rel="noreferrer noopener">Intelligent Automation Conference</a>, <a target="_blank" href="https://www.blockchain-expo.com/" rel="noreferrer noopener">BlockX</a>,<a target="_blank" href="https://digitaltransformation-week.com/" rel="noreferrer noopener"> Digital Transformation Week</a>, and <a target="_blank" href="https://www.cybersecuritycloudexpo.com/" rel="noreferrer noopener">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a target="_blank" href="https://techforge.pub/events/" rel="noreferrer noopener">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/how-blockchain-iot-and-ai-are-shaping-the-future-of-digital-transformation/">How blockchain, IoT, and AI are shaping the future of digital transformation</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/how-blockchain-iot-and-ai-are-shaping-the-future-of-digital-transformation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>YeagerAI’s Intelligent Oracle: Built on GenLayer blockchain for real-time data access</title>
+		<link>https://www.artificialintelligence-news.com/news/yeagerais-intelligent-oracle-built-on-genlayer-blockchain-for-real-time-data-access/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=yeagerais-intelligent-oracle-built-on-genlayer-blockchain-for-real-time-data-access</link>
+					<comments>https://www.artificialintelligence-news.com/news/yeagerais-intelligent-oracle-built-on-genlayer-blockchain-for-real-time-data-access/#respond</comments>
+		
+		<dc:creator><![CDATA[AI News]]></dc:creator>
+		<pubDate>Wed, 27 Nov 2024 11:33:43 +0000</pubDate>
+				<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Companies]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16563</guid>
+
+					<description><![CDATA[<p>Blockchain AI research lab YeagerAI has announced the launch of the Intelligent Oracle, an AI-powered oracle that aims to provide decentralised applications (DApps) with online data on-chain. The Oracle can change how data is collected, offering new possibilities and use cases for blockchain DApps. It is built on the GenLayer blockchain, also a brainchild of<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/yeagerais-intelligent-oracle-built-on-genlayer-blockchain-for-real-time-data-access/" title="ReadYeagerAI’s Intelligent Oracle: Built on GenLayer blockchain for real-time data access">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/yeagerais-intelligent-oracle-built-on-genlayer-blockchain-for-real-time-data-access/">YeagerAI’s Intelligent Oracle: Built on GenLayer blockchain for real-time data access</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Blockchain AI research lab<a href="https://yeager.ai/"> YeagerAI</a> has announced the launch of the Intelligent Oracle, an AI-powered oracle that aims to provide decentralised applications (DApps) with online data on-chain. The Oracle can change how data is collected, offering new possibilities and use cases for blockchain DApps. It is built on the GenLayer blockchain, also a brainchild of YeagerAI, and designed to support a new generation of DApps. It can fetch any type of online data and deliver it on-chain.</p>
+
+
+
+<p>The Intelligent Oracle will initially launch on a permissioned local network, with the GenLayer Testnet expected operational by the end of 2024. By removing the dependency on human-powered resolution systems and offering cross-chain compatibility, the Intelligent Oracle aims to provide a scalable, efficient, and future-proof solution for decision-making.</p>
+
+
+
+<p>The Intelligent Oracle is powered by LLMs integrated in GenLayer&#8217;s Optimistic Democracy consensus mechanism. The consensus mechanism is &#8216;governed&#8217; by validators that connect to LLMs, verifying and securing the data that the Oracle fetches from on- and off-chain sources. The validators enable the network to process non-deterministic transactions by fetching data from the internet.</p>
+
+
+
+<p>When a query is made, a lead validator generates a proposed result, while other validators independently verify the output against the pre-set equivalence criteria. Optimistic Democracy ensures all decisions are accurate, reliable, and secure.</p>
+
+
+
+<p>While blockchain oracles have evolved rapidly in the past few years, there remain several pertinent unresolved issues. Among them are the inability of blockchains to access external data, and blockchains only able to access what is available on-chain. The emerging uses of blockchains are impacted by the lack of broader oracles, with most futuristic DApps requiring immediate, accurate, and sometimes subjective data from the internet.</p>
+
+
+
+<p>To date, the solution has been to use traditional oracles, which only provide pre-defined datasets or require manual intervention, making them slow, costly, and inflexible. The Intelligent Oracle offers an autonomous solution, offering a virtually unlimited range of data types to dApp builders.</p>
+
+
+
+<h3 class="wp-block-heading">Welcoming Intelligent Oracle: A new world of blockchain use cases</h3>
+
+
+
+<p>The Intelligent Oracle is based on Intelligent Contracts operating on the GenLayer blockchain. The oracle operates in the GenLayer ecosystem, allowing users to fetch decentralised, transparent and secure data for their DApps or platforms. It offers cross-chain compatibility, allowing it to integrate with multiple blockchain ecosystems.</p>
+
+
+
+<p>Following the launch, blockchain DApp developers have significantly more possibilities open to them. The launch of the Intelligent Oracle could be a step forward for decentralised applications in prediction markets, insurance, and financial derivatives, for example.</p>
+
+
+
+<p>The Oracle enables cost-effective and fast data resolution. While traditional oracles can take days to resolve prediction markets – incurring delays and costs – the Intelligent Oracle achieves transaction finality in less than an hour at a cost of under $1 per market.</p>
+
+
+
+<p>YeagerAI has seen rapid adoption of its new Oracle service with several partners, and some platforms already committed to integrating Intelligent Oracle. Early partners committed to building with the technology include Radix DLT, Etherisc, PredX, Delphi Bets, and Provably.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/yeagerais-intelligent-oracle-built-on-genlayer-blockchain-for-real-time-data-access/">YeagerAI’s Intelligent Oracle: Built on GenLayer blockchain for real-time data access</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/yeagerais-intelligent-oracle-built-on-genlayer-blockchain-for-real-time-data-access/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>AI meets blockchain and decentralised data</title>
+		<link>https://www.artificialintelligence-news.com/news/ai-meets-blockchain-and-decentralised-data/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ai-meets-blockchain-and-decentralised-data</link>
+					<comments>https://www.artificialintelligence-news.com/news/ai-meets-blockchain-and-decentralised-data/#respond</comments>
+		
+		<dc:creator><![CDATA[AI News]]></dc:creator>
+		<pubDate>Fri, 18 Oct 2024 07:58:23 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[blockchain]]></category>
+		<category><![CDATA[software]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16278</guid>
+
+					<description><![CDATA[<p>Blockchain can become a potent force as the foundation of decentralised AI systems, transparent and fair – ensuring everyone can access not only the technology, but the rewards it delivers. Blockchain has enormous potential to democratise access to AI by addressing concerns around centralisation that have emerged with the growing dominance of companies like OpenAI,<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/ai-meets-blockchain-and-decentralised-data/" title="ReadAI meets blockchain and decentralised data">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ai-meets-blockchain-and-decentralised-data/">AI meets blockchain and decentralised data</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Blockchain can become a potent force as the foundation of decentralised AI systems, transparent and fair – ensuring everyone can access not only the technology, but the rewards it delivers.</p>
+
+
+
+<p>Blockchain has enormous potential to democratise access to AI by addressing concerns around centralisation that have emerged with the growing dominance of companies like OpenAI, Google, and Anthropic.</p>
+
+
+
+<p>Decentralised AI systems built on blockchains can help to democratise access to essential AI resources like computing power, data, and large language models. They are sorely needed too; as AI models become more powerful, their thirst for data and computing power grows, increasing the barrier of entry to the industry.</p>
+
+
+
+<p>With blockchain, AI resources can be distributed across open, decentralised networks that anyone can access; levelling the playing field for smaller operators while fostering a spirit of openness and collaboration that’s essential to move the industry forward. Blockchain can create a more equitable system that ensures those who create the data used to train LLMs are fairly rewarded for their contributions.</p>
+
+
+
+<h2 class="wp-block-heading">Challenges in decentralised data</h2>
+
+
+
+<p>There’s a lot to like about the prospect of a decentralised AI ecosystem, but the reality will only emerge if some of the key challenges around data access, management, and analysis in blockchain are surmounted.</p>
+
+
+
+<p>For AI, blockchain can become a critical tool for secure, transparent, and verifiable data management, one that can be accessed by anyone. But blockchains have some architectural problems: they’re essentially a slow, single-table database that records information sequentially – not nearly flexible nor fast enough for the enormous volumes of data required by AI systems.</p>
+
+
+
+<p>Another challenge is that blockchains don’t integrate easily with other data environments nor other blockchains. Because of this, most enterprises that use blockchains are forced to deploy an array of point solutions to extract data from the ledger, transform it into a relational format, bring it into a traditional database, and move it into a data warehouse for analysis. Meanwhile, to bring external data onto any blockchain, it’s necessary to use complex and risky data oracles. All of these tools introduce centralisation and security risks into the equation.</p>
+
+
+
+<h2 class="wp-block-heading">Innovative solutions pave the way</h2>
+
+
+
+<p>Fortunately, a number of innovative solutions are being proposed to help smooth the integration of blockchains and AI. A case in point is <a href="https://www.spaceandtime.io/">Space and Time</a>, creator of a decentralised data warehouse that replaces traditional data stacks and serves as a trustless intermediary between blockchains and enterprise data systems, enabling them to communicate seamlessly.</p>
+
+
+
+<p>Space and Time’s secret sauce is its Proof-of-SQL consensus mechanism, which cryptographically verifies the accuracy of SQL database queries and proves the underlying dataset hasn’t been tampered with. This enables smart contracts to interact with external data, paving the way for more sophisticated blockchain applications that use AI. For example, Space and Time can enable an AI chatbot like ChatGPT to access blockchain data without any modification.</p>
+
+
+
+<p>Formerly known for its modular AI blockchain, <a href="https://0g.ai/">OG</a> has recently rebranded itself as a ‘Decentralised AI Operating System’ called dAIOS. The system uses blockchain to coordinate decentralised resources for AI including storage, data availability, and compute power, so AI applications can operate securely and transparently on-chain while ensuring users retain control of the data that’s fed in.</p>
+
+
+
+<p>OG’s dAIOS has three main components – storage for managing large data volumes, ‘data availability’ for data verification, and ‘serving’ to power data retrieval, training, and inference – which can be used by any developer to access the resources needed to power their AI models.</p>
+
+
+
+<p>Looking to solve the challenge of blockchain data access, <a href="https://www.sqd.dev/">SQD</a> is the creator of an advanced data indexing tool that works by aggregating on-chain data in parquet files and distributing them across nodes in a decentralised data lake. SQD is addressing the architectural inefficiencies of blockchain, namely the way data is stored sequentially in blocks, an architecture that makes it inefficient to query.</p>
+
+
+
+<p>Whenever an app needs access to blockchain data, it sends a query to whichever nodes hosts the desired data. Each node is assigned to a specific segment of blockchain data and SQD provides a detailed index of that information so dApps can quickly find what they need. It typically assigns the same blockchain data to multiple nodes to ensure availability, using an algorithm to manage query volumes.</p>
+
+
+
+<h2 class="wp-block-heading">What will AI do for blockchain?</h2>
+
+
+
+<p>Modern blockchain data infrastructures pave the way for a number of novel AI/blockchain applications. One of the most promising lies in security. AI can enhance blockchain security by monitoring transactions and network activity to detect anomalies in real-time, and mitigate any suspicious activity.</p>
+
+
+
+<p>AI can also enhance the capabilities of smart contracts and make them much more intelligent. By using analytics, AI algorithms can predict any problems when they contract conditions are executed. AI-powered natural language processing algorithms can enable smart contracts to understand legal contracts. And generative AI technology can be used to automate the creation of smart contracts, eliminating the need to learn a specialised programming language like Solidity.</p>
+
+
+
+<p>The domain of tokenised real-world assets also stands to benefit from an infusion of AI, used to analyse the provenance and condition of RWAs like stocks and fine art. By correlating the analysis with market trends, AI can more accurately calculate the fair market value of tokens. AI can also be used to monitor real-time data fees to continuously update their values. Additionally, it can be used to automate the process of converting RWAs into digital tokens.</p>
+
+
+
+<p>Finally, AI can be used to predict future price movements of digital assets by monitoring market trends and industry news. Traders will be able to use the analysis to enhance their decision-making, hedge their investment portfolios and attempt to capitalise on market volatility.</p>
+
+
+
+<h2 class="wp-block-heading">AI for everyone</h2>
+
+
+
+<p>The AI industry is growing at an unprecedented pace, and the need for decentralisation is becoming more important to ensure the industry remains open and competitive. Blockchain will provide the foundation for cutting-edge, decentralised AI models, leading to the creation of AI tools that cater to the needs of the majority, ones that focus on simplicity, privacy and ease-of-use.</p>
+
+
+
+<p>“Space and Time is thrilled to lead Web3 into a new era of data-driven smart contracts and the next generation of DeFi,” <a href="https://cryptopotato.com/space-and-time-labs-raises-20m-in-series-a-funding-for-blockchain-and-ai-advancement/">said</a> Jay White PhD, Co-Founder and Head of Research at SxT, and the inventor of the Proof of SQL protocol.</p>
+
+
+
+<p>As AI and blockchain’s convergence gathers pace, the two technologies will democratise access to AI resources, reward data contributors fairly, and allow any company to use its proprietary data securely. It’s no wonder that industry experts like Miguel Palencia, co-founder of Qtum, express nothing but confidence in their potential.</p>
+
+
+
+<p>“Giving everyone true ownership and provenance of AI assets is of the utmost importance,” Palencia <a href="https://www.forbes.com/sites/digital-assets/2024/05/08/web3-meets-ai-blockchain-technology-revolutionises-the-ai-landscape/">told Forbes</a>. “There is a pressing need to address the concentration of AI power in the hands of a few companies.”</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="(max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ai-meets-blockchain-and-decentralised-data/">AI meets blockchain and decentralised data</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/ai-meets-blockchain-and-decentralised-data/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The merging of AI and blockchain was inevitable – but what will it mean?</title>
+		<link>https://www.artificialintelligence-news.com/news/the-merging-of-ai-and-blockchain-was-inevitable-but-what-will-it-mean/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-merging-of-ai-and-blockchain-was-inevitable-but-what-will-it-mean</link>
+					<comments>https://www.artificialintelligence-news.com/news/the-merging-of-ai-and-blockchain-was-inevitable-but-what-will-it-mean/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Fri, 09 Aug 2024 08:31:58 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=15678</guid>
+
+					<description><![CDATA[<p>At first glance, AI and blockchain seem like completely disparate realms. For instance, blockchain emphasises decentralisation but suffers from constrained memory and throughput rates.&#160;&#160; On the other hand, AI thrives on massive datasets and demands high-performance computing. To elaborate, Machine learning (ML) models – especially deep learning networks – require enormous amounts of data to<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/the-merging-of-ai-and-blockchain-was-inevitable-but-what-will-it-mean/" title="ReadThe merging of AI and blockchain was inevitable – but what will it mean?">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/the-merging-of-ai-and-blockchain-was-inevitable-but-what-will-it-mean/">The merging of AI and blockchain was inevitable – but what will it mean?</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>At first glance, AI and blockchain seem like completely disparate realms. For instance, blockchain emphasises decentralisation but suffers from constrained memory and throughput rates.&nbsp;&nbsp;</p>
+
+
+
+<p>On the other hand, AI thrives on massive datasets and demands high-performance computing. To elaborate, Machine learning (ML) models – especially deep learning networks – require enormous amounts of data to train effectively, often relying on powerful GPUs or specialised hardware to process this information quickly.&nbsp;</p>
+
+
+
+<p>To this point, a report from the International Energy Agency (IEA) states that the global electricity demand for AI is <a href="https://www.forbes.com/sites/bethkindig/2024/06/20/ai-power-consumption-rapidly-becoming-mission-critical/">projected to rise to 800 TWh by 2026</a>, a nearly 75% increase from 460 TWh in 2022. Similar projections have also been released by multinational giants such as Morgan Stanley and Wells Fargo, with the <a href="https://www.marketwatch.com/story/ai-could-demand-a-shocking-amount-of-electricity-check-out-this-chart-e91e306d">latter’s model</a> suggesting that, by 2030, AI-centric energy consumption will account for 16% of the USA’s current electricity demand.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcPrrSrC7On56WdbeJyEgUDO7OdX4xkkAHXwtgZyJU4wBptwrG1ZkfH3cpLKSCF9KyZFjlu0J7BMmAO1hwD7wF6sSYQ-cvr7VJ9RYYLzD5j6dA_Sl9ZHlraMiup_gvM3rt_zHvOL9TBQLfKyScr2jqrIT0W?key=7v4a4B6-2ul7fu_boq4vDw" alt=""/></figure>
+
+
+
+<p>Morgan Stanley’s AI power consumption prediction (best-case scenario)</p>
+
+
+
+<h3 class="wp-block-heading">The best of both worlds is here.</h3>
+
+
+
+<p>Despite their apparent differences, the tech world is witnessing a growing convergence between AI and blockchain, with a number of innovative projects emerging. For instance, Ocean is a protocol that provides users with a decentralised data exchange centre, unlocking information sets for AI consumption while preserving their privacy and security.&nbsp;</p>
+
+
+
+<p>Similarly, ThoughtAI embeds AI and blockchain directly into data and information, effectively eliminating traditional application layers. It aims to create more responsive and adaptive AI solutions, potentially revolutionising how people interact with the technology and manage information.</p>
+
+
+
+<p>While these projects demonstrate the potential of combining AI and blockchain, they also highlight a critical challenge, i.e. scalability. For AI on blockchain to truly flourish, platforms need to overcome the inherent limitations of traditional blockchain architectures, particularly in terms of data availability and throughput.</p>
+
+
+
+<p>In this regard, <a href="https://0g.ai/">0G</a> is a platform that has made significant strides in addressing the above-mentioned bottlenecks. To elaborate, ZeroGravity (0G for short) is the world’s first data availability system with a built-in general purpose storage layer that is not only highly scalable but also decentralised. Its scalability hinges on separating the workflow of data availability into a data publishing lane and a data storage lane.&nbsp;</p>
+
+
+
+<p>To put it technically, 0G is a scalable Data Availability (DA) service layer built directly on top of a decentralised storage system. It addresses the scalability issue by minimising the data transfer volume required for broadcast. — allowing for unprecedented levels of data availability and transaction throughput.</p>
+
+
+
+<p>One of the key advantages of 0G is its performance. While competitors like Celestia are able to achieve about 1.4 to 1.5 megabytes per second, the 0G network is capable of producing about 50 gigabytes per second, making it 50,000 times faster. Additionally, 0G&#8217;s cost is approximately 100 times cheaper than its closest competitors.</p>
+
+
+
+<p>This level of performance and flexibility opens the door to a wide array of AI/blockchain use cases that were previously impractical or impossible. For starters, in the realm of finance, 0G&#8217;s scalability can potentially allow for sophisticated AI-powered trading algorithms to operate directly on-chain.</p>
+
+
+
+<p>Similarly, it could also be possible to implement large-scale federated learning systems on the blockchain, leading to breakthroughs in privacy-preserving AI—where multiple parties can collaboratively train AI models without sharing sensitive data directly. Such advancements could have far-reaching implications in fields like healthcare, where data privacy is paramount but collaborative research is essential.</p>
+
+
+
+<h3 class="wp-block-heading">A trillion-dollar opportunity is waiting to be tapped.</h3>
+
+
+
+<p>As we look to the future, it&#8217;s clear that the intersection of AI and blockchain will continue to expand and evolve.</p>
+
+
+
+<p>This convergence is not just a technological curiosity but a massive economic opportunity. For example, the AI industry is projected to be worth a staggering <a href="https://www.marketsandmarkets.com/Market-Reports/artificial-intelligence-market-74851580.html">$1.3 trillion by 2030</a>, while the blockchain market is set to reach a valuation of <a href="https://www.marketsandmarkets.com/Market-Reports/blockchain-technology-market-90100890.html">$248.8 billion by 2029</a>, reflecting their transformative potential across virtually every sector of the global economy.&nbsp;</p>
+
+
+
+<p>Therefore, moving forward, it stands to reason that those companies and platforms (such as 0G) that are able to successfully navigate this convergence — solving the technical challenges while unlocking new value propositions — will be well-positioned to capture a significant share of this trillion-dollar opportunity.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/the-merging-of-ai-and-blockchain-was-inevitable-but-what-will-it-mean/">The merging of AI and blockchain was inevitable – but what will it mean?</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/the-merging-of-ai-and-blockchain-was-inevitable-but-what-will-it-mean/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Blockchain could solve the monopolised AI ecosystem</title>
+		<link>https://www.artificialintelligence-news.com/news/blockchain-could-solve-the-monopolised-ai-ecosystem/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=blockchain-could-solve-the-monopolised-ai-ecosystem</link>
+					<comments>https://www.artificialintelligence-news.com/news/blockchain-could-solve-the-monopolised-ai-ecosystem/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Wed, 07 Aug 2024 14:25:19 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=15653</guid>
+
+					<description><![CDATA[<p>The AI industry has always been the “futuristic view” for humans, whether in movies, cartoons, or real life. Computers work, think and act on behalf of futuristic humans – well, except in the Dune movies. In the past half-decade, artificial intelligence has become the hottest topic in the world, second only to the Covid 19<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/blockchain-could-solve-the-monopolised-ai-ecosystem/" title="ReadBlockchain could solve the monopolised AI ecosystem">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/blockchain-could-solve-the-monopolised-ai-ecosystem/">Blockchain could solve the monopolised AI ecosystem</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The AI industry has always been the “futuristic view” for humans, whether in movies, cartoons, or real life. Computers work, think and act on behalf of futuristic humans – well, except in the Dune movies.</p>
+
+
+
+<p>In the past half-decade, artificial intelligence has become the hottest topic in the world, second only to the Covid 19 pandemic, with most people fascinated by the industry&#8217;s massive growth and the extent they can use it. This growth is expected to continue at a rapid pace into the last years of the decade, with <a href="https://www.statista.com/forecasts/1474143/global-ai-market-size#:~:text=AI%20market%20size%20worldwide%20from,2030%20(in%20billion%20U.S.%20dollars)&amp;text=The%20market%20for%20artificial%20intelligence,billion%20U.S.%20dollars%20in%202030.">Statista</a> predicting the $184 billion industry will grow to nearly $900 billion by 2030.&nbsp;</p>
+
+
+
+<p>However, as the industry becomes a crucial part of our lives, which seems inevitable, it will shape how we think, interact with the world, and do the most basic and complex things in the future. We will be intertwined with it, probably more than we are today with the internet.</p>
+
+
+
+<p>While still in its infancy stages, most powerful AI systems and models are controlled by mega-corporations such as OpenAI, IBM Watson, Google AI, and Amazon Machine Learning. These Big Tech firms own large data hubs, to train, build, and sell these models to users. This raises a very pertinent and justifiable fear amongst the common folk. Should we let this massive and dominant technological innovation be controlled by the billionaire de jour?&nbsp;</p>
+
+
+
+<p>Satoshi was wary of the centralised financial institutions post-2008 global financial crisis and created Bitcoin to solve the centralisation conundrum. In a similar breath, AI needs similar solutions to remove the heavy hand of mega-corporations on what could be the “most important technological advancement in the past few decades”, as Microsoft’s co-founder Bill Gates called it in a <a href="https://www.gatesnotes.com/The-Age-of-AI-Has-Begun">blog post</a> in 2023.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">The problem with the current AI industry structure</h2>
+
+
+
+<p>As stated above, AI technology will be a way of life for ‘almost’ everybody on Earth, helping us complete very menial tasks to greater tasks. For instance, the growth of artificial general intelligence (AGI) can be used to create “AI secretaries”, or AI agents, that can help organise your calendar, pay your monthly bills, create a weekly diet schedule, or create your playlist. (“Hey AI agent X, can you create an R&amp;B playlist including Beyonce, Ne-Yo, etc”)</p>
+
+
+
+<p>While the data in the examples above may seem simplistic and elementary, such data is very important and personal for most people. Would you want to share such data with the Big Tech firms, who have time and again shown their willingness to use personal data only for profit?&nbsp;</p>
+
+
+
+<p>Even more unsettling is that AI is being trained in more ‘human-related’ jobs that millions, and probably billions, of people need such as therapists and coaches. Millions of people will share their innermost thoughts, longings, fears, sexual desires, confessions, and embarrassments. Who would trust big tech with such information? It is already happening with ChatGPT, with more and more people using the AI tool to look for answers to their deepest personal questions.&nbsp;</p>
+
+
+
+<p>This is the bottleneck of current AI systems and models – the centralisation of AI technology, monopolisation of data used to train the AI models, and privacy concerns by users. As such, several developers around the world are working on solutions that build sustainable AI models, without big tech firms’ prying eye on our personal data.</p>
+
+
+
+<p>Blockchain, a decentralised and privacy-preserving technology, is being integrated with AI to ensure users enjoy the benefits of the technology without the toxicity of Big Tech.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">A paradigm shift: The rise of decentralised AI services</h2>
+
+
+
+<p>Blockchain technology has been used extensively to correct the centralisation impact in the financial world and most industries, from supply chain to health care, etc.</p>
+
+
+
+<p>Finally, the technology is extending its roots into artificial intelligence, helping democratise and decentralise the industry. The technology has enhanced data security and transparency through its immutable ledgers, transforming the global sharing of value and setting new standards for operational efficiency and transparency.&nbsp;</p>
+
+
+
+<p>Integrating two of the most sought after technologies today, AI and blockchain, could be the key to having a free, open, and decentralised AI ecosystem. The primary goal of decentralised AI technologies is to democratise access to AI resources, including data, models, and compute power. This is crucial in minimising the oligopolised structures in AI, which limits the number of entities in the space due to the computational complexity and huge costs of data sets that are needed to train AI models.&nbsp;</p>
+
+
+
+<p>For instance, <a href="https://www.neurochain.ai/">NeurochainAI</a> proposes an innovative solution to the challenges of centralised AI systems: a Decentralised AI Infrastructure As a Service (DeAIAS). Simply, NeurochainAI aims to break down the barriers of centralisation and monopolisation “by encouraging cooperation and coordination among various AI stakeholders,” its website reads.</p>
+
+
+
+<p>Decentralised AI benefits developers and the general public in several ways:&nbsp;</p>
+
+
+
+<ol class="wp-block-list">
+<li><strong>Decentralisation:</strong> Unlike the current AI models, a decentralised AI ecosystem allows a community of users to share resources such as computing power, data storage, algorithm processing, and model validation. These could be costly for any one company trying to build their models but by tapping into a global community of users the costs are reduced significantly. </li>
+
+
+
+<li><strong>Ready-to-use infrastructure:</strong> NeurochainAI provides developers with a ready-to-use platform helping them develop their AI dApps faster and up to  five times more cost-effectively compared to traditional methods. This promotes more innovation across the ecosystem, unlike depending on a few companies for all technological advancements.</li>
+
+
+
+<li><strong>Incentivisation:</strong> One of the biggest benefits of a decentralised AI platform is rewarding the community for providing their resources. For instance, NeurochainAI rewards contributors with $NCN rewards, fostering a collaborative ecosystem where each participant plays a role in shaping the future of AI technology.</li>
+
+
+
+<li><strong>Privacy and security of data: </strong>Decentralised AI also introduces an element of privacy of data. Given blockchain technology allows users to be the custodians of their data, only they choose what data to give to train the AI models. </li>
+
+
+
+<li><strong>Active participation by the community:</strong> NeurochainAI is developed by the community and for the community. This involves community members actively participating in crucial  AI training processes such as data curation and validation, algorithm processing, and model validation. This democratises AI development and enriches the models with diverse, real-world inputs. </li>
+</ol>
+
+
+
+<h2 class="wp-block-heading">The future of decentralised AI services&nbsp;</h2>
+
+
+
+<p>The rapid growth of artificial intelligence has ensured that many companies/individuals cannot create or train their AI models due to the phenomenal amounts of computing power needed. While centralised cloud computing was a ready solution for previous challenges of computing power, AI is different.&nbsp;</p>
+
+
+
+<p>Decentralisation solves this problem by creating a network of nodes (computers) that harness the huge untapped computing power of CPUs across the world. This modular approach of decentralised physical infrastructure (DePIN) enhances scalability, provides a cheaper source of computing power than buying new servers, and increases community participation in training the AI models, allowing dApps to learn and share information with each other.&nbsp;</p>
+
+
+
+<p>While decentralised AI is still at its infancy, the creation of platforms such as NeurochainAI will give Big Tech a run for its money – solving the monopolised nature of AI, computational complexity, and privacy of data for users.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/blockchain-could-solve-the-monopolised-ai-ecosystem/">Blockchain could solve the monopolised AI ecosystem</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/blockchain-could-solve-the-monopolised-ai-ecosystem/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Fetch.ai and Deutsche Telekom partner to converge AI and blockchain</title>
+		<link>https://www.artificialintelligence-news.com/news/fetch-ai-deutsche-telekom-partner-converge-ai-blockchain/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=fetch-ai-deutsche-telekom-partner-converge-ai-blockchain</link>
+					<comments>https://www.artificialintelligence-news.com/news/fetch-ai-deutsche-telekom-partner-converge-ai-blockchain/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Tue, 13 Feb 2024 11:00:11 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Industries]]></category>
+		<category><![CDATA[Telecoms]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[autonomous agent]]></category>
+		<category><![CDATA[blockchain]]></category>
+		<category><![CDATA[bosch]]></category>
+		<category><![CDATA[deutsche telekom]]></category>
+		<category><![CDATA[enterprise]]></category>
+		<category><![CDATA[fetch ai]]></category>
+		<category><![CDATA[fetch.ai]]></category>
+		<category><![CDATA[telecoms]]></category>
+		<category><![CDATA[web3]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=14372</guid>
+
+					<description><![CDATA[<p>Deutsche Telekom has announced a collaboration with UK-based AI startup Fetch.ai to promote cutting-edge AI and blockchain solutions.  As the first major corporate partner of the Fetch.ai Foundation, Deutsche Telekom joins forces with Bosch and Fetch.ai in supporting an open AI and blockchain platform aimed at widespread adoption. Its subsidiary, Deutsche Telekom MMS, will also<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/fetch-ai-deutsche-telekom-partner-converge-ai-blockchain/" title="ReadFetch.ai and Deutsche Telekom partner to converge AI and blockchain">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/fetch-ai-deutsche-telekom-partner-converge-ai-blockchain/">Fetch.ai and Deutsche Telekom partner to converge AI and blockchain</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://www.telekom.com/en">Deutsche Telekom</a> has announced a collaboration with UK-based AI startup <a href="https://fetch.ai/">Fetch.ai</a> to promote cutting-edge AI and blockchain solutions. </p>
+
+
+
+<p>As the first major corporate partner of the <a href="https://fetchai.foundation/">Fetch.ai Foundation</a>, Deutsche Telekom joins forces with <a href="https://www.bosch.com/">Bosch</a> and Fetch.ai in supporting an open AI and blockchain platform aimed at widespread adoption. Its subsidiary, <a href="https://www.telekom-mms.com/">Deutsche Telekom MMS</a>, will also serve as a validator on the decentralised Fetch.ai network, helping secure transactions on the blockchain.</p>
+
+
+
+<p>The core of Fetch.ai&#8217;s technology relies on autonomous software agents that can manage resources, conduct transactions, and analyse data flows independently thanks to AI algorithms. These agents unlock a myriad of real-world applications across sectors like automotive, supply chain, healthcare, and digital identity.&nbsp;</p>
+
+
+
+<p>For example, AI agents could optimise production schedules based on supply chain data or match patients to clinical trials using health records. The tamper-proof nature of blockchain also enables secure transmission and access to sensitive data.</p>
+
+
+
+<p>&#8220;The convergence of blockchain, AI and IoT is trailblazing the digital transformation of entire industries,&#8221; said Dirk Röder, Head of Deutsche Telekom&#8217;s Web3 Infrastructure &amp; Solutions team. &#8220;Autonomous agents will automate industrial services, simplifying processes securely thanks to blockchain.&#8221;</p>
+
+
+
+<p>As a validator, Deutsche Telekom MMS will ensure network security as more devices, users, and services integrate with the Fetch.ai blockchain. Built on the Cosmos protocol, Fetch.ai operates as a permissionless decentralised network with open-source code that is accessible globally.&nbsp;&nbsp;</p>
+
+
+
+<p>The collaboration demonstrates how blockchain can unlock AI&#8217;s potential by providing reliable, transparent data while AI can help securely analyse blockchain transactions. Together, these technologies lay the foundations for a decentralised Web3 internet that empowers user privacy and control.</p>
+
+
+
+<p>&#8220;This partnership signals real progress in integrating AI and Web3 innovations into the machine economy,&#8221; said Fetch.ai CEO Humayun Sheikh.</p>
+
+
+
+<p>Deutsche Telekom and Fetch.ai will be working together at one of Europe&#8217;s largest AI and IoT hackathons, <a href="https://bosch-connected-world.com/hackathon/">Bosch Connected Experience</a>, on 28-29 February 2024.</p>
+
+
+
+<p><strong>See also: </strong><a href="https://www.artificialintelligence-news.com/2024/02/12/telcos-spend-20b-ai-network-orchestration-by-2028/"><strong>Telcos to spend $20B on AI network orchestration by 2028</strong></a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="(max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/upcoming-events/">here.</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/fetch-ai-deutsche-telekom-partner-converge-ai-blockchain/">Fetch.ai and Deutsche Telekom partner to converge AI and blockchain</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/fetch-ai-deutsche-telekom-partner-converge-ai-blockchain/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Understanding the intersection of artificial intelligence and cryptocurrency</title>
+		<link>https://www.artificialintelligence-news.com/news/understanding-the-intersection-of-artificial-intelligence-and-cryptocurrency/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=understanding-the-intersection-of-artificial-intelligence-and-cryptocurrency</link>
+					<comments>https://www.artificialintelligence-news.com/news/understanding-the-intersection-of-artificial-intelligence-and-cryptocurrency/#respond</comments>
+		
+		<dc:creator><![CDATA[Charlie Herne]]></dc:creator>
+		<pubDate>Mon, 16 Jan 2023 15:17:31 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=12609</guid>
+
+					<description><![CDATA[<p>by CIOIndepth In recent years, both artificial intelligence (AI) and cryptocurrency have emerged as major technological forces. While they may seem like unrelated topics, they are actually deeply intertwined. IBM notes three shared values of blockchain, the technology that underlies most cryptocurrencies, and AI: authenticity, augmentation, and automation. One of the key ways that AI<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/understanding-the-intersection-of-artificial-intelligence-and-cryptocurrency/" title="ReadUnderstanding the intersection of artificial intelligence and cryptocurrency">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/understanding-the-intersection-of-artificial-intelligence-and-cryptocurrency/">Understanding the intersection of artificial intelligence and cryptocurrency</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>by <a href="https://www.cioindepth.com/">CIOIndepth</a></p>
+
+
+
+<p>In recent years, both artificial intelligence (AI) and cryptocurrency have emerged as major technological forces. While they may seem like unrelated topics, they are actually deeply intertwined. IBM notes three shared values of blockchain, the technology that underlies most cryptocurrencies, and AI: authenticity, augmentation, and automation.</p>
+
+
+
+<p>One of the key ways that AI is being used in the world of cryptocurrency is through the application of anomaly detection.</p>
+
+
+
+<p>Anomaly detection, in simple terms, is the process of identifying unusual or abnormal patterns in data. This can be used in a variety of contexts, including finance, cybersecurity, and healthcare. In the world of cryptocurrency, anomaly detection is used to identify suspicious or fraudulent transactions.</p>
+
+
+
+<p>The blockchain, is a decentralised, digital ledger that records all transactions. This transparency is one of the major advantages of blockchain technology, but it also means that any suspicious activity can be easily identified. However, with a large number of transactions, it&#8217;s not easy for humans to identify those suspicious activities, which is why AI is being used to scan and analyze the data, looking for patterns that might indicate fraud.</p>
+
+
+
+<p>One of the main benefits of using AI for anomaly detection in cryptocurrency is that it can process large amounts of data much faster than humans can. This means that potential fraud can be identified and dealt with much sooner. Additionally, AI-based systems can be constantly updated and fine-tuned to adapt to new methods of fraud. AI can also be used to identify and flag unusual transactions even before they happen, by applying machine learning algorithms on historical data, AI can identify patterns that may indicate fraud before it occurs. This allows for proactive prevention and protection from fraudulent activities.</p>
+
+
+
+<p>Another area where AI and cryptocurrency intersect is in the creation of automated trading systems. These systems use algorithms to buy and sell cryptocurrencies based on market conditions and trends. By using AI to analyse market data, these systems can make faster and more accurate trades than humans could.</p>
+
+
+
+<p>However, as with any new technology, there are risks and challenges associated with the use of AI in cryptocurrency. One of the main risks is the potential for errors or biases in the algorithms used. These errors could result in false positive or false negative detections, which could lead to lost revenue or missed opportunities. Additionally, there is also a potential for malicious actors to use AI to gain an unfair advantage in the market.</p>
+
+
+
+<p>Despite these challenges, the potential benefits of using AI in the world of cryptocurrency are too great to ignore. By harnessing the power of AI, we can improve the security and efficiency of blockchain-based transactions, and make the world of cryptocurrency a safer and more trustworthy place for everyone.</p>
+
+
+
+<p>In conclusion, AI and cryptocurrency may seem like two distinct and unrelated topics, but in reality, they are closely intertwined. By using AI for anomaly detection, cryptocurrency transactions can be made more secure, and in-depth market analysis can help in making better investment decisions. While there are challenges and risks associated with the use of AI in cryptocurrency, the benefits of improved security and efficiency make it a technology worth exploring.</p>
+
+
+
+<p><em>About CIOInDepth: CIOInDepth is a magazine publisher that focuses on providing readers with in-depth information about various companies and their leadership. They feature a diverse range of industries and businesses, and their content is aimed at professionals in the field of technology and business. The magazine is available in both digital and paperback formats, allowing readers to access the information in the way that is most convenient for them. CIOInDepth aims to be a valuable resource for professionals looking to stay informed and up-to-date on the latest developments in their field.</em></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/understanding-the-intersection-of-artificial-intelligence-and-cryptocurrency/">Understanding the intersection of artificial intelligence and cryptocurrency</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/understanding-the-intersection-of-artificial-intelligence-and-cryptocurrency/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>SingularityDAO’s AI-powered ‘DynaSets’ outperform the crypto market</title>
+		<link>https://www.artificialintelligence-news.com/news/singularitydaos-ai-powered-dynasets-outperform-the-crypto-market/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=singularitydaos-ai-powered-dynasets-outperform-the-crypto-market</link>
+					<comments>https://www.artificialintelligence-news.com/news/singularitydaos-ai-powered-dynasets-outperform-the-crypto-market/#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Daws]]></dc:creator>
+		<pubDate>Fri, 11 Feb 2022 11:09:55 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Finance]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[ben goertzel]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[blockchain]]></category>
+		<category><![CDATA[cardano]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[cryptocurrencies]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[dynasets]]></category>
+		<category><![CDATA[ethereum]]></category>
+		<category><![CDATA[finance]]></category>
+		<category><![CDATA[singularitydao]]></category>
+		<category><![CDATA[singularitynet]]></category>
+		<guid isPermaLink="false">https://artificialintelligence-news.com/?p=11684</guid>
+
+					<description><![CDATA[<p>SingularityDAO, born out of renowned AI researcher Ben Goertzel’s SingularityNET, has announced that its AI-powered baskets of cryptocurrencies known as DynaSets have outperformed the crypto market. While making some recovery in the past couple of weeks, the crypto market has suffered a horrid couple of months. Bitcoin crashed around 50 percent between November 2021 and<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/singularitydaos-ai-powered-dynasets-outperform-the-crypto-market/" title="ReadSingularityDAO’s AI-powered ‘DynaSets’ outperform the crypto market">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/singularitydaos-ai-powered-dynasets-outperform-the-crypto-market/">SingularityDAO’s AI-powered ‘DynaSets’ outperform the crypto market</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://www.singularitydao.ai/">SingularityDAO</a>, born out of renowned AI researcher Ben Goertzel’s <a href="https://singularitynet.io/">SingularityNET</a>, has announced that its AI-powered baskets of cryptocurrencies known as <a href="https://app.singularitydao.ai/dynasets">DynaSets</a> have outperformed the crypto market.</p>
+
+
+
+<p>While making some recovery in the past couple of weeks, the crypto market has suffered a horrid couple of months. Bitcoin crashed around 50 percent between November 2021 and the end of January 2022. As of writing, the largest cryptocurrency remains around 37 percent down while many “altcoins” have still lost over 50 percent of their value.</p>
+
+
+
+<p>DynaSets combine AI algorithms with professional hedge fund traders in a bid to maximise profits and minimise losses in a notoriously volatile market (although the same could be said for the “stonk” market in recent weeks…)</p>
+
+
+
+<p>Marcello Mari, CEO of SingularityDAO, said:</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><em>“I’m impressed by the preliminary results from the beta version of our DynaSets.</em></p><p><em>Over the next month, we’ll be further empowering our traders with more tools including the ability to short the market and execute trades with leverage.</em></p><p><em>We’ll also be launching real machine learning tools that have never been used in the crypto market before.”</em></p></blockquote>
+
+
+
+<p>Since the beta launch of DynaSets on 20 December 2021:</p>
+
+
+
+<ul class="wp-block-list"><li>Bitcoin DynaSet shows 10.3% better performance over just “hodling” Bitcoin</li><li>Ethereum DynaSet shows 12.59% better performance over hodling Ethereum</li></ul>
+
+
+
+<p>“As we move closer to our 1.0 product offering, we will further improve on the performance we demonstrated with our beta. That is, deliver further and further automation with a constant focus on crypto asset protection and AI safety,” commented Chris Poulin, CTO.</p>
+
+
+
+<p>The combination of SingularityDAO’s AI algorithms and professional traders were reportedly able to identify potential triggers for the crypto decline including the Fed’s hawkish policy shift, electricity price rise, and political instability of the world’s second-largest producer of bitcoin, Kazakhstan.</p>
+
+
+
+<p>As of writing, two DynaSets have been launched for the two largest cryptocurrencies: Bitcoin and Ethereum.</p>
+
+
+
+<p>In 2020, full-stack AI solution SingularityNET announced that it was <a href="https://artificialintelligence-news.com/2020/10/01/full-stack-ai-solution-singularitynet-ethereum-cardano/">collaborating with Cardano</a> due to Ethereum’s issues.</p>
+
+
+
+<p>Earlier this month, Goertzel announced HyperCycle—a lightweight layer 2 architecture designed to enable inexpensive, high-speed, large-scale on-chain execution of microservices and specifically designed to optimise AI-related processes.</p>
+
+
+
+<p>HyperCycle leverages TODA/IP ledgerless protocol, SingularityNET’s Proof of Reputation, and Cardano’s EUTxO model and Hydra sidechain framework.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Why functional programming is invaluable for blockchain  based AI" width="1200" height="675" src="https://www.youtube.com/embed/dqcS_yBo8pw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Cardano seems a prime candidate for one of the next DynaSets that SingularityDAO launches.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@jaredschwitzke?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jared Schwitzke</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>)</em></p>
+
+
+
+<div class="wp-block-image"><figure class="alignleft size-full"><img loading="lazy" decoding="async" width="204" height="64" src="http://artificialintelligence-news.com/wp-content/uploads/sites/9/2021/12/ai-big-data-expo-no-series.jpg" alt="" class="wp-image-11490" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2021/12/ai-big-data-expo-no-series.jpg 204w, https://www.artificialintelligence-news.com/wp-content/uploads/2021/12/ai-big-data-expo-no-series-100x31.jpg 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2021/12/ai-big-data-expo-no-series-60x19.jpg 60w" sizes="auto, (max-width: 204px) 100vw, 204px" /></figure></div>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out <a href="https://www.ai-expo.net/northamerica/">AI &amp; Big Data Expo</a>. The next events in the series will be held in Santa Clara on 11-12 May 2022, Amsterdam on 20-21 September 2022, and London on 1-2 December 2022.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/upcoming-events/">here.</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/singularitydaos-ai-powered-dynasets-outperform-the-crypto-market/">SingularityDAO’s AI-powered ‘DynaSets’ outperform the crypto market</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/singularitydaos-ai-powered-dynasets-outperform-the-crypto-market/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

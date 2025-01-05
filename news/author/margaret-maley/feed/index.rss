@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Margaret Maley, Author at AI News</title>
+	<atom:link href="https://www.artificialintelligence-news.com/news/author/margaret-maley/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.artificialintelligence-news.com</link>
+	<description>Artificial Intelligence News</description>
+	<lastBuildDate>Fri, 03 Jan 2025 08:35:35 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://www.artificialintelligence-news.com/wp-content/uploads/2020/09/ai-icon-60x60.png</url>
+	<title>Margaret Maley, Author at AI News</title>
+	<link>https://www.artificialintelligence-news.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Rethinking video surveillance: The case for smarter, more flexible solutions</title>
+		<link>https://www.artificialintelligence-news.com/news/rethinking-video-surveillance-the-case-for-smarter-more-flexible-solutions/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rethinking-video-surveillance-the-case-for-smarter-more-flexible-solutions</link>
+					<comments>https://www.artificialintelligence-news.com/news/rethinking-video-surveillance-the-case-for-smarter-more-flexible-solutions/#respond</comments>
+		
+		<dc:creator><![CDATA[Margaret Maley]]></dc:creator>
+		<pubDate>Thu, 02 Jan 2025 10:17:18 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[Surveillance]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[applications]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[surveillance]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16758</guid>
+
+					<description><![CDATA[<p>Video surveillance has come a long way from simple CCTV setups. Today&#8217;s businesses demand more – smarter analytics, enhanced security, and seamless scalability. As organisations adopt AI and automation across their operations, video management systems (VMS) face new challenges: These questions are not hypothetical. They represent real obstacles businesses face when managing video surveillance systems.<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/rethinking-video-surveillance-the-case-for-smarter-more-flexible-solutions/" title="ReadRethinking video surveillance: The case for smarter, more flexible solutions">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/rethinking-video-surveillance-the-case-for-smarter-more-flexible-solutions/">Rethinking video surveillance: The case for smarter, more flexible solutions</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Video surveillance has come a long way from simple CCTV setups. Today&#8217;s businesses demand more – smarter analytics, enhanced security, and seamless scalability. As organisations adopt AI and automation across their operations, video management systems (VMS) face new challenges:</p>
+
+
+
+<ul class="wp-block-list">
+<li>How to keep video surveillance scalable and easy to manage?</li>
+
+
+
+<li>Can AI analytics like face recognition or behaviour detection be integrated without breaking the budget?</li>
+
+
+
+<li>Is my current system prepared for modern security risks?</li>
+</ul>
+
+
+
+<p>These questions are not hypothetical. They represent real obstacles businesses face when managing video surveillance systems. Solving them requires innovative thinking, flexible tools, and a smarter approach to how systems are designed and operated.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img fetchpriority="high" decoding="async" width="1024" height="768" src="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-1.jpeg" alt="" class="wp-image-16761" style="width:607px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-1.jpeg 1024w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-1-300x225.jpeg 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-1-768x576.jpeg 768w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-1-267x200.jpeg 267w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-1-380x285.jpeg 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-1-333x250.jpeg 333w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-1-100x75.jpeg 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-1-60x45.jpeg 60w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">The Shift to Smarter Surveillance</h3>
+
+
+
+<p>Traditional video surveillance systems often fail to meet the needs of dynamic, modern environments. Whether it&#8217;s a retail chain looking to analyse customer behaviour or a factory monitoring equipment safety, the tools of yesterday aren&#8217;t enough to address today&#8217;s demands.</p>
+
+
+
+<p>The shift towards smarter surveillance involves integrating modular, AI-driven systems that:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Adapt to your specific needs,</li>
+
+
+
+<li>Automate tedious tasks like footage analysis,</li>
+
+
+
+<li>Offer advanced analytics, like emotion detection or license plate recognition,</li>
+
+
+
+<li>Remain accessible to both tech-savvy professionals and beginners.</li>
+</ul>
+
+
+
+<p>This isn&#8217;t just a technical shift; it&#8217;s a shift in mindset. Businesses now see surveillance not only as a security measure but as a strategic tool for operational insight.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img decoding="async" width="1024" height="454" src="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-2-1024x454.png" alt="" class="wp-image-16762" style="width:598px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-2-1024x454.png 1024w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-2-300x133.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-2-768x341.png 768w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-2-1536x682.png 1536w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-2-380x169.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-2-350x155.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-2-100x44.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-2-60x27.png 60w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-2.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">Meet Xeoma: The modular approach to smarter surveillance</h3>
+
+
+
+<p>At the forefront of this smarter surveillance revolution is<a href="https://felenasoft.com/xeoma/en/?utm_source=ainews&amp;utm_campaign=article"> Xeoma</a>, a modular, AI-powered video surveillance software that provides various solutions to challenges of modern businesses:</p>
+
+
+
+<p>Modularity for customisation.<strong> </strong>Xeoma&#8217;s plug-and-play structure allows businesses to tailor their surveillance systems. Whether you need facial recognition, vehicle detection, or heatmaps of customer activity, Xeoma makes it easy to add or remove modules as needed.</p>
+
+
+
+<p>AI-powered analytics: Xeoma offers<a href="https://felenasoft.com/xeoma/en/articles/additional_modules_xeoma/?utm_source=ainews&amp;utm_campaign=article"> cutting-edge features</a> like:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Object recognition: Detect and classify objects like people, animals, and vehicles,</li>
+
+
+
+<li>Voice-to-text: Transcribe spoken words into text,</li>
+
+
+
+<li>Fire detection: Detect the presence of fire or smoke,</li>
+
+
+
+<li>Licence plate recognition: Automatically read and record vehicle licence plates,</li>
+
+
+
+<li>Age and gender recognition: Determine the age range and gender of individuals.</li>
+</ul>
+
+
+
+<p>Ease of use: Unlike many systems with steep learning curves, Xeoma is designed to be user-friendly. Its intuitive interface ensures that even non-technical users can quickly set up and operate the software.</p>
+
+
+
+<p>Seamless integration: Xeoma integrates with IoT devices, access control systems, and other third-party tools, making it an ideal choice for businesses looking to enhance their existing setups.</p>
+
+
+
+<p>Cost efficiency: With Xeoma, you only pay once thanks to the<a href="https://felenasoft.com/xeoma/en/buy/?utm_source=ainews&amp;utm_campaign=article"> lifetime licences</a>. The pricing structure ensures that businesses of all sizes, from startups to enterprises, can find a solution that fits their budgets.</p>
+
+
+
+<p>Unlimited scalability: Xeoma has no limitations in number of cameras it can work with. Either the system has tens, hundreds or thousands of cameras – Xeoma will handle them all</p>
+
+
+
+<p>Encrypted communication: Xeoma uses secure communication protocols (HTTPS, SSL/TLS) to encrypt data transmitted between the server, cameras, and clients. The prevents unauthorised access during data transmission.</p>
+
+
+
+<p>Xeoma&#8217;s flexible design and robust features allow it to be tailored to a wide range of scenarios, empowering organisations to meet their unique challenges while staying efficient, secure, and scalable.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" width="1024" height="768" src="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-3.jpg" alt="" class="wp-image-16763" style="width:580px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-3.jpg 1024w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-3-300x225.jpg 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-3-768x576.jpg 768w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-3-267x200.jpg 267w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-3-380x285.jpg 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-3-333x250.jpg 333w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-3-100x75.jpg 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/body-article-3-60x45.jpg 60w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">How Xeoma benefits your business: Scenarios</h3>
+
+
+
+<p>Xeoma isn&#8217;t just a tool for security – it&#8217;s a versatile platform that<a href="https://felenasoft.com/xeoma/en/application-of-video-surveillance-xeoma/?utm_source=ainews&amp;utm_campaign=article"> adapts to your environment</a>, whether you run a small retail store, manage a factory floor, or oversee an entire urban surveillance network.</p>
+
+
+
+<h4 class="wp-block-heading">Retail: Elevating customer experience</h4>
+
+
+
+<p>Picture this: You manage a busy store where you need to understand peak traffic hours and monitor for shoplifting. With Xeoma one can:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Deploy AI-based &#8216;face recognition&#8217; to discreetly flag known shoplifters or VIP customers to enhance service,</li>
+
+
+
+<li>Use &#8216;visitors counter&#8217; and &#8216;crowd detector&#8217; to identify when foot traffic is highest and allocate staff accordingly,</li>
+
+
+
+<li>Analyse heatmaps to see which areas of the store attract the most attention, optimising product placement,</li>
+
+
+
+<li>Add &#8216;unique visitors counter&#8217; module to your system to group people by frequency of attendance. At the same time, age and gender recognition will assist you in tailoring your promo more accurately,</li>
+
+
+
+<li>Enhance the results of your marketing efforts with eye tracking by getting insights into human psychology.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">Manufacturing: Ensuring workplace safety</h4>
+
+
+
+<p>On a bustling factory floor, every second matters, and safety is critical. Xeoma can help by:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Detecting if workers are in restricted zones using &#8216;cross-line detector,&#8217;</li>
+
+
+
+<li>Monitoring compliance with safety protocols with helmet and mask detectors.</li>
+
+
+
+<li>Sending real-time alerts to supervisors about potential hazards, like machinery malfunctions or unauthorised access, via a plethora of means from push notifications to personalised alerts,</li>
+
+
+
+<li>Elevating trust and satisfaction levels with timelapse and streaming to YouTube.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">Urban surveillance: Protecting communities</h4>
+
+
+
+<p>If you&#8217;re part of a city planning team or law enforcement agency, Xeoma scales effortlessly to monitor entire districts:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Use licence plate recognition to track vehicles entering and exiting restricted areas,</li>
+
+
+
+<li>Automate responses to emergencies, from traffic incidents and rule violations (for example, speeding, passing on red traffic light or illegal parking detectors) to public safety threats,</li>
+
+
+
+<li>Identify suspicious behaviour in crowded public spaces using &#8216;loitering detector,&#8217;</li>
+
+
+
+<li>Detect graffiti and ads that have prohibited words like &#8220;drugs&#8221; with text recognition,</li>
+
+
+
+<li>Recognise faces to find wanted or missing people with face identification.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">Education: Safeguarding schools</h4>
+
+
+
+<p>For schools and universities, safety is a top priority. Xeoma provides:</p>
+
+
+
+<ul class="wp-block-list">
+<li>AI alerts with &#8216;detector of abandoned objects&#8217; and &#8216;sound detector&#8217; for detecting unattended bags or abnormal behaviour, ensuring quick response times,</li>
+
+
+
+<li>Smoke and fire detection that allows you to prevent or promptly respond to the body of fire.</li>
+
+
+
+<li>Smart automated verification with &#8216;smart-card reader&#8217; and &#8216;face ID&#8217; that help to avoid the penetration by unauthorised persons,</li>
+
+
+
+<li>Integration with existing access control systems via API or HTTP protocol for a seamless security solution,</li>
+
+
+
+<li>Live streaming to your educational entity website or YouTube can enhance parental engagement or build a positive image, while eye tracking serves as an effective anti-cheat solution in monitoring systems.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">Hospitality: Enhancing guest experiences</h4>
+
+
+
+<p>In the hospitality industry, guest satisfaction is everything. Xeoma helps you: </p>
+
+
+
+<ul class="wp-block-list">
+<li>Monitor entrances and exits with access control integration for smooth check-ins and check-outs,</li>
+
+
+
+<li>Use &#8217;emotion detector&#8217; to gauge customer satisfaction in common areas,</li>
+
+
+
+<li>Ensure staff compliance with protocols to maintain service quality with &#8216;voice-to-text&#8217; module.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Conclusion: Connecting Xeoma to your vision</h3>
+
+
+
+<p>Every business has its unique challenges, and Xeoma&#8217;s versatility means it can be the solution you need to overcome yours. Imagine running a business where:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Your team has actionable insights at their fingertips,</li>
+
+
+
+<li>Potential threats are flagged before they escalate,</li>
+
+
+
+<li>Your surveillance system doesn&#8217;t just protect – it empowers decision-making and growth.</li>
+</ul>
+
+
+
+<p>Xeoma isn&#8217;t just about surveillance; it&#8217;s about giving you peace of mind, actionable intelligence, and the flexibility to focus on what matters most – your people, your customers, and your vision for the future.</p>
+
+
+
+<p>Whether you&#8217;re securing a retail space, safeguarding a factory, or protecting an entire community, Xeoma&#8217;s modular, AI-powered platform adapts to your goals and grows alongside you.</p>
+
+
+
+<p>Ready to see how Xeoma can transform your video surveillance strategy? Explore a<a href="https://felenasoft.com/xeoma/en/support/activation-issues/get-demo-license/?utm_source=ainews&amp;utm_campaign=article"> free demo</a> and start building your ideal system today.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/rethinking-video-surveillance-the-case-for-smarter-more-flexible-solutions/">Rethinking video surveillance: The case for smarter, more flexible solutions</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/rethinking-video-surveillance-the-case-for-smarter-more-flexible-solutions/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,1344 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Duncan MacRae, Author at AI News</title>
+	<atom:link href="https://www.artificialintelligence-news.com/news/author/duncan1/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.artificialintelligence-news.com/news/author/duncan1/</link>
+	<description>Artificial Intelligence News</description>
+	<lastBuildDate>Fri, 20 Dec 2024 15:10:33 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://www.artificialintelligence-news.com/wp-content/uploads/2020/09/ai-icon-60x60.png</url>
+	<title>Duncan MacRae, Author at AI News</title>
+	<link>https://www.artificialintelligence-news.com/news/author/duncan1/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ordnance Survey: Navigating the role of AI and ethical considerations in geospatial technology</title>
+		<link>https://www.artificialintelligence-news.com/news/ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology</link>
+					<comments>https://www.artificialintelligence-news.com/news/ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology/#respond</comments>
+		
+		<dc:creator><![CDATA[Duncan MacRae]]></dc:creator>
+		<pubDate>Mon, 23 Dec 2024 07:09:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Industries]]></category>
+		<category><![CDATA[ethics]]></category>
+		<category><![CDATA[future]]></category>
+		<category><![CDATA[geospatial technology]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16773</guid>
+
+					<description><![CDATA[<p>As we approach a new year filled with potential, the landscape of technology, particularly artificial intelligence (AI) and machine learning (ML), is on the brink of significant transformation. Manish Jethwa, CTO at Ordnance Survey (OS), the national mapping agency for Great Britain, offers an insightful glimpse into what we can expect from these advancements and<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology/" title="ReadOrdnance Survey: Navigating the role of AI and ethical considerations in geospatial technology">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology/">Ordnance Survey: Navigating the role of AI and ethical considerations in geospatial technology</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>As we approach a new year filled with potential, the landscape of technology, particularly artificial intelligence (AI) and machine learning (ML), is on the brink of significant transformation. Manish Jethwa, CTO at Ordnance Survey (OS), the national mapping agency for Great Britain, offers an insightful glimpse into what we can expect from these advancements and their implications for the geospatial sector.</p>
+
+
+
+<p><strong>Breaking Down Barriers with AI</strong></p>
+
+
+<div class="wp-block-image">
+<figure class="alignright size-full is-resized"><img fetchpriority="high" decoding="async" width="512" height="489" src="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394.jpg" alt="" class="wp-image-16778" style="width:314px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394.jpg 512w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394-300x287.jpg 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394-209x200.jpg 209w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394-298x285.jpg 298w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394-262x250.jpg 262w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394-100x96.jpg 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/12/Manish-ordnance-e1734707204394-60x57.jpg 60w" sizes="(max-width: 512px) 100vw, 512px" /></figure></div>
+
+
+<p>Looking ahead, Jethwa anticipates continued significant advancements in AI and machine learning, particularly with the push towards Gen AI. According to him, the integration of large language models (LLMs) with more sophisticated agents will not only perform complex tasks on behalf of users but also further reduce barriers to interaction. This shift, especially in the geospatial field, means that translating natural language into precise data queries will become more seamless, ultimately making geospatial datasets more accessible, mainstream, and user-friendly.</p>
+
+
+
+<p><strong>Training for Complex Tasks</strong></p>
+
+
+
+<p>Beyond LLMs, Jethwa is optimistic about progress in the broader category of machine learning, driven by greater access to graphics processing units for training.</p>
+
+
+
+<p>He says: “At Ordnance Survey (OS), we’ll leverage this capability to train models for specific, complex tasks such as automatic feature extraction from imagery.</p>
+
+
+
+<p>“With an increasing volume of data generated automatically, hopefully next year will also bring innovative tools and techniques to validate data, ensuring it can be confidently utilised for its intended use.”</p>
+
+
+
+<p>He underscores the importance of not only pursuing new capabilities but also ensuring that these tools are integrated responsibly into workflows, focusing on quality and risk management.</p>
+
+
+
+<p><strong>The Ethical Frontier</strong></p>
+
+
+
+<p>The rapid evolution of AI brings with it an urgent need for ethical considerations.&nbsp;</p>
+
+
+
+<p>Jethwa explains: “I would like to see a greater emphasis on ethical AI and responsible technology development,&#8221; including creating AI systems that are “transparent, fair, and unbiased” while also considering their environmental and societal impact.</p>
+
+
+
+<p>This focus on ethics is encapsulated in OS’s Responsible AI Charter, which guides their approach to integrating new techniques safely.</p>
+
+
+
+<p>Moreover, Jethwa highlights the role of workforce development in successful transformations. He believes organisations must commit to “retraining and upskilling employees to prepare them for the impact of AI and digital transformation.”&nbsp;</p>
+
+
+
+<p>This is vital to ensure that in the pursuit of enhanced efficiency, companies do not “lose the personality, creativity, and emotion that we bring as humans into the workplace.”&nbsp;</p>
+
+
+
+<p><strong>Embracing Change While Managing Risks</strong></p>
+
+
+
+<p>Despite the promise of technological advancements, obstacles remain in the journey toward digital transformation. Jethwa notes that challenges such as “cultural resistance and rapid successive changes leading to change fatigue will likely persist.” </p>
+
+
+
+<p>He advocates for a careful balance between adopting new technologies and addressing the human elements of transformation processes.</p>
+
+
+
+<p>As AI continues to influence various aspects of business, from decision-making to risk management, the issue of cybersecurity also looms large. Jethwa points out that “cybersecurity threats being powered by AI are becoming more sophisticated,” urging companies to develop comprehensive strategies that cover everything from data storage to analysis documentation.</p>
+
+
+
+<p><strong>The Imperative to Progress</strong></p>
+
+
+
+<p>In an evolving landscape, organisations that stagnate risk falling behind their competitors. Jethwa explains: “Companies that fail to keep up open themselves up to risks, such as changing customer expectations as well as attracting and retaining talent.”&nbsp;</p>
+
+
+
+<p>He also emphasises the need for a “clear vision of future goals, effective communication of progress, and celebrating milestones to sustain momentum” in digital transformation initiatives.</p>
+
+
+
+<p>As we move into a new year filled with promise, the future of AI and geospatial technology holds transformative power &#8211; but it must be used responsibly. The path that lies ahead in 2025 requires vigilance, an unwavering commitment to ethical practices and a human touch in order to drive successful innovation.</p>
+
+
+
+<p><em>(Photos by <a href="https://unsplash.com/@anniespratt">Annie Spratt</a> and Ordnance Survey)</em></p>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong>&nbsp;Check out<a href="https://www.ai-expo.net/">&nbsp;AI &amp; Big Data Expo</a>&nbsp;taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including&nbsp;<a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>,&nbsp;<a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/">&nbsp;Digital Transformation Week</a>, and&nbsp;<a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge&nbsp;<a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology/">Ordnance Survey: Navigating the role of AI and ethical considerations in geospatial technology</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Basil Faruqui, BMC Software: How to nail your data and AI strategy</title>
+		<link>https://www.artificialintelligence-news.com/news/basil-faruqui-bmc-software-how-to-nail-your-data-and-ai-strategy/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=basil-faruqui-bmc-software-how-to-nail-your-data-and-ai-strategy</link>
+					<comments>https://www.artificialintelligence-news.com/news/basil-faruqui-bmc-software-how-to-nail-your-data-and-ai-strategy/#respond</comments>
+		
+		<dc:creator><![CDATA[Duncan MacRae]]></dc:creator>
+		<pubDate>Fri, 27 Sep 2024 10:34:18 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[automation]]></category>
+		<category><![CDATA[BMC]]></category>
+		<category><![CDATA[data orchestration]]></category>
+		<category><![CDATA[DataOps]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16176</guid>
+
+					<description><![CDATA[<p>BMC Software&#8217;s director of solutions marketing, Basil Faruqui, discusses the importance of DataOps, data orchestration, and the role of AI in optimising complex workflow automation for business success. What have been the latest developments at BMC? It’s exciting times at BMC and particularly our Control-M product line, as we are continuing to help some of<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/basil-faruqui-bmc-software-how-to-nail-your-data-and-ai-strategy/" title="ReadBasil Faruqui, BMC Software: How to nail your data and AI strategy">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/basil-faruqui-bmc-software-how-to-nail-your-data-and-ai-strategy/">Basil Faruqui, BMC Software: How to nail your data and AI strategy</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong><em>BMC Software&#8217;s director of solutions marketing, Basil Faruqui, discusses the importance of DataOps, data orchestration, and the role of AI in optimising complex workflow automation for business success.</em></strong></p>
+
+
+
+<p><strong>What have been the latest developments at BMC?</strong></p>
+
+
+
+<p>It’s exciting times at BMC and particularly our Control-M product line, as we are continuing to help some of the largest companies around the world in automating and orchestrating business outcomes that are dependent on complex workflows. A big focus of our strategy has been on DataOps specifically on orchestration within the DataOps practice. During the last twelve months we have delivered over seventy integrations to serverless and PaaS offerings across AWS, Azure and GCP enabling our customers to rapidly bring modern cloud services into their Control-M orchestration patterns. Plus, we are prototyping GenAI based use cases to accelerate workflow development and run-time optimisation.</p>
+
+
+
+<p><strong>What are the latest trends you&#8217;ve noticed developing in DataOps?</strong></p>
+
+
+
+<p>What we are seeing in the Data world in general is continued investment in data and analytics software. Analysts estimate that the spend on Data and Analytics software last year was in the $100 billion plus range. If we look at the Machine Learning, Artificial Intelligence &amp; Data Landscape that Matt Turck at <a href="https://mattturck.com/landscape/mad2024.pdf">Firstmark</a> publishes every year, its more crowded than ever before. It has 2,011 logos and over five hundred were added since 2023. Given this rapid growth of tools and investment, DataOps is now taking center stage as companies are realising that to successfully operationalise data initiatives, they can no longer just add more engineers. DataOps practices are now becoming the blueprint for scaling these initiatives in production. The recent boom of GenAI is going make this operational model even more important.</p>
+
+
+
+<p><strong>What should companies be mindful of when trying to create a data strategy?</strong></p>
+
+
+
+<p>As I mentioned earlier that the investment in data initiatives from business executives, CEOs, CMOs, CFOs etc. continues to be strong. This investment is not just for creating incremental efficiencies but for game changing, transformational business outcomes as well. This means that three things become very important. First is clear alignment of the data strategy with the business goals, making sure the technology teams are working on what matters the most to the business. Second, is data quality and accessibility, the quality of the data is critical. Poor data quality will lead to inaccurate insights. Equally important is ensuring data accessibility &#8211; making the right data available to the right people at the right time. Democratising data access, while maintaining appropriate controls, empowers teams across the organisation to make data-driven decisions. Third is achieving scale in production. The strategy must ensure that Ops readiness is baked into the data engineering practices so its not something that gets considered after piloting only.</p>
+
+
+
+<p><strong>How important is data orchestration as part of a company&#8217;s overall strategy?</strong></p>
+
+
+
+<p>Data Orchestration is arguably the most important pillar of DataOps. Most organisations have data spread across multiple systems &#8211; cloud, on-premises, legacy databases, and third-party applications. The ability to integrate and orchestrate these disparate data sources into a unified system is critical. Proper data orchestration ensures seamless data flow between systems, minimising duplication, latency, and bottlenecks, while supporting timely decision-making.</p>
+
+
+
+<p><strong>What do your customers tell you are their biggest difficulties when it comes to data orchestration?</strong></p>
+
+
+
+<p>Organisations continue to face the challenge of delivering data products fast and then scaling quickly in production. GenAI is a good example of this. CEOs and boards around the world are asking for quick results as they sense that this could majorly disrupt those who cannot harness its power. GenAI is mainstreaming practices such as prompt engineering, prompt chaining etc. The challenge is how do we take LLMs and vector databases, bots etc and fit them into the larger data pipeline which traverses a very hybrid architecture from multiple-clouds to on-prem including mainframes for many. This just reiterates the need for a strategic approach to orchestration which would allow folding new technologies and practices for scalable automation of data pipelines. One customer described Control-M as a power strip of orchestration where they can plug in new technologies and patterns as they emerge without having to rewire every time they swap older technologies for newer ones.</p>
+
+
+
+<p><strong>What are your top tips for ensuring optimum data orchestration?</strong></p>
+
+
+
+<p>There can be a number of top tips but I will focus on one, interoperability between application and data workflows which I believe is critical for achieving scale and speed in production.&nbsp; Orchestrating data pipelines is important, but it is vital to keep in mind that these pipelines are part of a larger ecosystem in the enterprise. Let’s consider an ML pipeline is deployed to predict the customers that are likely to switch to a competitor. The data that comes into such a pipeline is a result of workflows that ran in the ERP/CRM and combination of other applications. Successful completion of the application workflows is often a pre-requisite to triggering the data workflows. Once the model identifies customers that are likely to switch, the next step perhaps is to send them a promotional offer which means that &nbsp;we will need to go back to the application layer in the ERP and CRM. Control-M is uniquely positioned to solve this challenge as our customers use it to orchestrate and manage intricate dependencies between the application and the data layer.</p>
+
+
+
+<p><strong>What do you see as being the main opportunities and challenges when deploying AI?</strong></p>
+
+
+
+<p>AI and specifically GenAI is rapidly increasing the technologies involved in the data ecosystem. Lots of new models, vector databases and new automation patterns around prompt chaining etc. This challenge is not new to the data world, but the pace of change is picking up. From an orchestration perspective we see tremendous opportunities with our customers because we offer a highly adaptable platform for orchestration where they can fold these tools and patterns into their existing workflows versus going back to drawing board.</p>
+
+
+
+<p><strong>Do you have any case studies you could share with us of companies successfully utilising AI?</strong></p>
+
+
+
+<p>Domino&#8217;s Pizza leverages Control-M for orchestrating its vast and complex data pipelines. With over 20,000 stores globally, Domino&#8217;s manages more than 3,000 data pipelines that funnel data from diverse sources such as internal supply chain systems, sales data, and third-party integrations. This data from applications needs to go through complex transformation patterns and models before its available for driving decisions related to food quality, customer satisfaction, and operational efficiency across its franchise network.</p>
+
+
+
+<p>Control-M plays a crucial role in orchestrating these data workflows, ensuring seamless integration across a wide range of technologies like MicroStrategy, AMQ, Apache Kafka, Confluent, GreenPlum, Couchbase, Talend, SQL Server, and Power BI, to name a few.</p>
+
+
+
+<p>Beyond just connecting complex orchestration patterns together Control-M provides them with end-to-end visibility of pipelines, ensuring that they meet strict service-level agreements (SLAs) while handling increasing data volumes. Control-M is helping them generate critical reports faster, deliver insights to franchisees, and scale the roll out new business services.</p>
+
+
+
+<p><strong>What can we expect from BMC in the year ahead?</strong></p>
+
+
+
+<p>Our strategy for Control-M at BMC will stay focused on a couple of basic principles:</p>
+
+
+
+<p>Continue to allow our customers to use Control-M as a single point of control for orchestration as they onboard modern technologies, particularly on the public cloud. This means we will continue to provide new integrations to all major public cloud providers to ensure they can use Control-M to orchestrate workflows across three major cloud infrastructure models of IaaS, Containers and PaaS (Serverless Cloud Services). We plan to continue our strong focus on serverless, and you will see more out-of-the-box integrations from Control-M to support the PaaS model.&nbsp;</p>
+
+
+
+<p>We recognise that enterprise orchestration is a team sport, which involves coordination across engineering, operations and business users. And, with this in mind, we plan to bring a user experience and interface that is persona based so that collaboration is frictionless.&nbsp;</p>
+
+
+
+<p>Specifically, within DataOps we are looking at the intersection of orchestration and data quality with a specific focus on making data quality a first-class citizen within application and data workflows. Stay tuned for more on this front!</p>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong>&nbsp;Check out<a href="https://www.ai-expo.net/">&nbsp;AI &amp; Big Data Expo</a>&nbsp;taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including&nbsp;<a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>,&nbsp;<a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/">&nbsp;Digital Transformation Week</a>, and&nbsp;<a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge&nbsp;<a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/basil-faruqui-bmc-software-how-to-nail-your-data-and-ai-strategy/">Basil Faruqui, BMC Software: How to nail your data and AI strategy</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/basil-faruqui-bmc-software-how-to-nail-your-data-and-ai-strategy/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mark Lockett, SS&#038;C Blue Prism: Enhancing human capabilities with digital workforces</title>
+		<link>https://www.artificialintelligence-news.com/news/mark-lockett-ssc-blue-prism-enhancing-human-capabilities-with-digital-workforces/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mark-lockett-ssc-blue-prism-enhancing-human-capabilities-with-digital-workforces</link>
+					<comments>https://www.artificialintelligence-news.com/news/mark-lockett-ssc-blue-prism-enhancing-human-capabilities-with-digital-workforces/#respond</comments>
+		
+		<dc:creator><![CDATA[Duncan MacRae]]></dc:creator>
+		<pubDate>Wed, 25 Sep 2024 10:09:48 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Industries]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[gen ai]]></category>
+		<category><![CDATA[intelligent automation]]></category>
+		<category><![CDATA[SS&C Blue Prism]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16156</guid>
+
+					<description><![CDATA[<p>SS&#38;C Blue Prism’s VP of sales for the UK, Ireland and Benelux, Mark Lockett, discusses the firm’s latest developments, customer challenges and how to get the most out of intelligent automation tools. Can you tell us a little bit about SS&#38;C Blue Prism and what it does? SS&#38;C Blue Prism is a specialist in the<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/mark-lockett-ssc-blue-prism-enhancing-human-capabilities-with-digital-workforces/" title="ReadMark Lockett, SS&#38;C Blue Prism: Enhancing human capabilities with digital workforces">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/mark-lockett-ssc-blue-prism-enhancing-human-capabilities-with-digital-workforces/">Mark Lockett, SS&amp;C Blue Prism: Enhancing human capabilities with digital workforces</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong><em>SS&amp;C Blue Prism’s VP of sales for the UK, Ireland and Benelux, Mark Lockett, discusses the firm’s latest developments, customer challenges and how to get the most out of intelligent automation tools.</em></strong></p>
+
+
+
+<p><strong>Can you tell us a little bit about SS&amp;C Blue Prism and what it does?</strong></p>
+
+
+
+<p>SS&amp;C Blue Prism is a specialist in the field of Intelligent Automation, providing products and solutions that change the way in which our customers deliver the work they undertake.</p>
+
+
+
+<p>We talk about automation augmenting the workforce, and we can do that by using a digital workforce that brings additional capacity to your human workforce. The rationale being we get a digital worker to do those repetitive, high volume, low value added tasks, and we then allow your employees to focus on the value add that they can bring.&nbsp;</p>
+
+
+
+<p>Intelligent Automation is really looking at the whole cycle of how to deliver the required work through the most efficient channel. That could include orchestration using business process management capabilities. It could also look at process identification through Blue Prism Process Intelligence technologies, where we&#8217;re trying to identify those tasks that lend themselves to be automated by technology.&nbsp;</p>
+
+
+
+<p>The dual effect of automation and orchestration of tasks that customers have to do day in, day out is where SS&amp;C Blue Prism brings most value to its customers. A digital workforce could be aimed at improving an HR onboarding process, improving your finance period end close process or&nbsp; transferring information from an outpatient system to an electronic patient record system and vice versa.The use cases are many and varied but the principle remains the same; use the right channel to deliver the work effort. The beauty of a digital workforce comes in the ability to flex work demands as and when necessary.&nbsp;</p>
+
+
+
+<p><strong>What have been the latest developments at the company?</strong></p>
+
+
+
+<p>We&#8217;ve been putting a lot of our time, effort and resources into our Next Gen platform. That’s our cloud-native platform that provides access to intelligent automation capabilities, delivered in a way that suits our customers best. It helps customers enjoy the benefits of the cloud while keeping the work where it needs to be. With this hybrid deployment, Next Gen allows customers to take advantage of using the cloud, while having a self-hosted digital workforce that operates behind the customer’s firewall, on their own secure infrastructure – meaning no sensitive data leaves their network.</p>
+
+
+
+<p>For many customers that operate in highly regulated industries, that really does drive the opportunity for us to enhance the way we can deliver that through the Next Gen platform. And Next Gen also brings together, in a single repository, all the capabilities that allow us to improve the business processes that we&#8217;re undertaking on behalf of our customers.&nbsp;</p>
+
+
+
+<p>Also, I think we&#8217;d have been living under a rock if we hadn&#8217;t appreciated the fact that Gen AI is really where the market is pivoting. We’re heavily looking into understanding how we can use that technology to really change the way that we work. We’ve introduced capabilities that allow us to integrate with a variety of large language models so our customers can adopt Gen AI. And the way in which we consider that is by using this concept that Gen AI is the capability, which is effectively the brain that allows you to have the emotional, considered response, and the digital workers are the arms and legs that deliver that work.&nbsp;</p>
+
+
+
+<p>So the brain, the Gen AI, does the thinking, and then the digital workforce does the actual doing. When Gen AI is wrapped into Intelligent Automation processes, it means it’s fully auditable and secure. With many customers hesitant to fully dive into using Gen AI due to security concerns, the combination is compelling. That&#8217;s something that our customers are really excited about in terms of driving use of Gen AI. And we&#8217;re seeing that in a number of places now where we&#8217;re looking at Gen AI to manage those customer facing interactions, manage those employee interactions, manage those supplier interactions. They have that ability to respond to any of those queries through a variety of channels, be that telephone,&nbsp; email or chat capability, then Gen AI can pick up and author the response, executed by the automation platform.&nbsp;</p>
+
+
+
+<p><strong>I speak to a lot of end users and the main thing they say about AI, because it&#8217;s so topical right now, is they think they should be utilising it. The problem for many though, is they don&#8217;t know how and why. They’re worried that they&#8217;re going to be left behind if they don&#8217;t get on board with it but maybe it’s not even suitable for them.</strong></p>
+
+
+
+<p>I couldn&#8217;t agree more. I think for a lot of our customers, and a lot of customer conversations you have, there is this view that we&#8217;ve got to do something. We’ve got to have a budget. And invariably there are budgets around for Gen AI. A lot of that is in pilot phase right now. And if you look at some of the evidence in support of it, they haven&#8217;t necessarily gone that well.</p>
+
+
+
+<p>Part of the problem is that for many they are actually considering Gen AI without thinking of the business problem that they&#8217;re trying to solve. We know we&#8217;ve got this new shiny bit of kit and that we should be using it. How to use it and what to do with it is almost a secondary consideration.&nbsp;</p>
+
+
+
+<p>The conversation that we really try to move to with the customer is ‘what is the problem that you&#8217;re trying to solve? What is the customer issue that you&#8217;re trying to solve?’ And we&#8217;re certainly seeing that through three main lenses in terms of that use case for Gen AI.</p>
+
+
+
+<p>The customer interaction, the employee interaction, or the citizen interaction, if it&#8217;s a member of the public. We&#8217;re seeing some really interesting things right now about how we are supporting our Gen AI partners, because most of what we are doing is facilitating the use of a third party large language model. We are effectively providing the framework by which our partners can interact with the customer and solve the customer problem.</p>
+
+
+
+<p><strong>What kind of trends have you seen developing in Intelligent Automation recently?&nbsp;</strong></p>
+
+
+
+<p>There are a number of things that our customers talk to us about. One of the things we&#8217;ve already spoken about, and that is this notion of Gen AI. We&#8217;ve got to do it. What are we going to do? How are we going to do it? We need to use Gen AI, and we need to automate it. And there are a number of pilot initiatives that we see because of that. There&#8217;s been so much hype around the business value of Gen AI that I think it&#8217;s quite scary for some.&nbsp;</p>
+
+
+
+<p>There was a recent industry report by McKinsey that talked about a $4.4 trillion market opportunity with Gen AI. There are some absolutely unbelievable numbers that are thrown out about that. I think the reality of that is slightly more considered. And I think it&#8217;s not just about how we can change the way we work. It&#8217;s really about how can I get a better outcome for the stakeholder, whomever that may be, by deploying Gen AI with automation? So that&#8217;s one of the first trends.&nbsp;</p>
+
+
+
+<p>The second thing that&#8217;s really interesting is our customers that have adopted process automation. They&#8217;ve used digital workers to either reduce existing costs or improve productivity. So they&#8217;ve used it initially as an opportunity for maybe a bit of cost control around improving and automating some processes. But that now is taking them to the next level, which is looking at how to use process intelligence to really identify further process enhancements that they can make. We’re talking about targeting huge organisational objectives through the use of Intelligent Automation, such as growth, customer satisfaction, or employee satisfaction, to name just a few.</p>
+
+
+
+<p>I think many companies have taken the low hanging fruit by automation, and now they are investing in those technologies around process identification so they can actually be sure that what they&#8217;re automating are the right things and delivering value. But are we? Are we leaving things uncovered by not using the process intelligence in support of the business operation? That is becoming more of a story that our customers are really getting into, and we&#8217;ve had a number of deployments where customers have done those initial automation activities, and are now looking to take it to the next level.</p>
+
+
+
+<p>The third thing we see more of is this co-existence with Microsoft Power applications. We&#8217;re seeing customers adopting those capabilities alongside technologies such as ours, and actually coexisting together in support. We see that more and more, and I think that&#8217;s a trend that many customers recognise in terms of the way that they&#8217;re working. It&#8217;s not just a one size fits all approach. What is the most appropriate technology?</p>
+
+
+
+<p><strong>What are your customers biggest challenges? And how can Intelligent Automation help them deal with those?&nbsp;</strong></p>
+
+
+
+<p>The number one challenge is cost control. How do we manage in a market of rising prices? How do we make sure that we&#8217;re getting value for money from the automation? We continue to advocate and demonstrate the value that automation is bringing. Be really structured in terms of how you are assessing the benefit that the automation is bringing, because you are accounting for that spend, you&#8217;ve got to prove that it&#8217;s worthwhile.</p>
+
+
+
+<p>For example, what&#8217;s the impact on FTE savings? What&#8217;s the volume of automations that I&#8217;m delivering? What&#8217;s the average cost of an employee that&#8217;s doing that work? Multiply one by the other and that&#8217;s my FTE saving that goes into the business case. So actual cost control, but measured in the term of the business efficiency that I get as a consequence of it. But, where the magic happens is being able to demonstrate what those extra hours have enabled you to do. Have you been able to launch better, quicker products? Have you improved employee satisfaction? Cost factors are always important, but customers must look beyond this to make full use of automation.&nbsp;</p>
+
+
+
+<p>Many, if not most, of our customers have their own centres of excellence that need to be able to demonstrate a value to the business. So that&#8217;s the number one conversation we get with our customers. How do we continue to justify the investment in the technology?&nbsp;</p>
+
+
+
+<p><strong>What advice would you give to any companies thinking about implementing Intelligent Automation?</strong></p>
+
+
+
+<p>For any customer considering introducing Intelligent Automation, what is the problem that you&#8217;re looking to solve? That&#8217;s the crux of the matter. And often you find that customers will look to technologies such as ours, where they know they have a challenge with existing technology estate. They&#8217;ve got a high degree of technology debt in their IT estate, and one of the ways that they can overcome some of those limitations is by adopting Intelligent Automation.&nbsp;</p>
+
+
+
+<p>So think about the problem that you&#8217;re trying to solve, and in order to do that, we need to get a really good understanding of what the actual business processes look like. Or, more importantly, what you think those business processes look like, because often what you think they look like and what they actually look like are very different. That&#8217;s where things like process intelligence come in to support that. So what is the problem that you&#8217;re looking to solve?&nbsp;</p>
+
+
+
+<p>The next thing that needs to be considered is how do you plan to support that moving forward? Because where our customers have continual investment in the technology and the development of the solution capability, they need to then start being advocates for automation technologies within the business. And once you are doing that, then you are the ones that are effectively going to other parts of the business and trying to identify those automation use cases.&nbsp;</p>
+
+
+
+<p>Our really successful customers are the ones that have got an internal champion who is going out to other parts of the business, because for many areas of the business, this is quite a well kept secret. So helping people understand what this technology can deliver by way of automation and streamlining process, and improvement of process because it’s not that widely understood. We often find that when employees realise what benefits it brings to their team, demand for those internal champions becomes huge.&nbsp;</p>
+
+
+
+<p>For some people, this notion of Intelligent Automation with digital workers has got this sort of Metal Mickey robot-type notion, and we&#8217;re not talking about that at all. You&#8217;re talking about using computers to emulate human interactions and, using Gen AI, they&#8217;re then emulating the human interaction that goes with it.&nbsp;</p>
+
+
+
+<p>So it becomes really quite powerful, but you&#8217;ve got to think about how you’re going to sustain that. What does a centre of excellence look like? What have I got by way of developers that can write the automations? What have I then got, by way of business analysts, that can then help us support and find the automations that we need?&nbsp;</p>
+
+
+
+<p>Think about what the initial use cases could look like. A business case on the whole is very easy to write. Where the challenge comes is how do I then sustain and grow the automation footprint? And the customers that are doing it really successfully are either partnering with someone who continues to deliver that function for them, or they&#8217;re bringing together their own centre of excellence in house, and they are then tasked with being the champions for further deployment.&nbsp;</p>
+
+
+
+<p><strong>What plans does SS&amp;C Blue Prism have for the year ahead?</strong></p>
+
+
+
+<p>It&#8217;s something we&#8217;ve already touched upon. We are absolutely focused on transitioning our customers to the Next Gen capability, and embracing the technology opportunity that comes with that is something that customers have really input into the the development roadmap for the technology, and how we are moving with that technology.&nbsp;</p>
+
+
+
+<p>Our customers are really looking at when is the optimum opportunity for them to deploy Next Gen. That&#8217;s going to be a focus in the short to medium term. And the benefit that offers to our customers is really exciting, particularly when you&#8217;re talking about a global customer, where they have operations in a variety of geographies. And actually by having that central automation capability you can deploy the actual workers within each of the regions. That gives you a real step change in terms of the efficiency of automation and the ease by which you monitor and manage those automations as well.&nbsp;</p>
+
+
+
+<p>And then, as others are also encountering, the whole value that Gen AI brings, again, we have got a lot of focus on that. We&#8217;ve got a number of customers that are doing some really interesting things. We&#8217;ve just been successful with a customer project &#8211; a public sector body that is looking at the way they transform the citizen experience &#8211; and Gen AI has a huge part to play in that. We see that as something that will continue to improve over time.</p>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong>&nbsp;Check out<a href="https://www.ai-expo.net/">&nbsp;AI &amp; Big Data Expo</a>&nbsp;taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including&nbsp;<a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>,&nbsp;<a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/">&nbsp;Digital Transformation Week</a>, and&nbsp;<a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge&nbsp;<a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/mark-lockett-ssc-blue-prism-enhancing-human-capabilities-with-digital-workforces/">Mark Lockett, SS&amp;C Blue Prism: Enhancing human capabilities with digital workforces</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/mark-lockett-ssc-blue-prism-enhancing-human-capabilities-with-digital-workforces/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How AI is transforming digital marketing: 2024 trends and insights</title>
+		<link>https://www.artificialintelligence-news.com/news/how-ai-is-transforming-digital-marketing-2024-trends-and-insights/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-ai-is-transforming-digital-marketing-2024-trends-and-insights</link>
+					<comments>https://www.artificialintelligence-news.com/news/how-ai-is-transforming-digital-marketing-2024-trends-and-insights/#respond</comments>
+		
+		<dc:creator><![CDATA[Duncan MacRae]]></dc:creator>
+		<pubDate>Wed, 03 Jul 2024 11:31:05 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=15122</guid>
+
+					<description><![CDATA[<p>Discover how AI is revolutionising digital marketing with success stories and key strategies. Learn about personalisation, predictive analytics, content creation, and more. The rapid evolution of AI is revolutionising digital marketing, offering unprecedented opportunities for personalisation, efficiency, and customer engagement. By leveraging advanced algorithms and machine learning techniques, AI is transforming how marketers interact with<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/how-ai-is-transforming-digital-marketing-2024-trends-and-insights/" title="ReadHow AI is transforming digital marketing: 2024 trends and insights">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/how-ai-is-transforming-digital-marketing-2024-trends-and-insights/">How AI is transforming digital marketing: 2024 trends and insights</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Discover how AI is revolutionising digital marketing with success stories and key strategies. Learn about personalisation, predictive analytics, content creation, and more.</p>
+
+
+
+<p>The rapid evolution of AI is revolutionising digital marketing, offering unprecedented opportunities for personalisation, efficiency, and customer engagement.</p>
+
+
+
+<p>By leveraging advanced algorithms and machine learning techniques, AI is transforming how marketers interact with their audiences, predict customer behaviour, and optimise their strategies for better results. This article delves into the multifaceted impact of AI on digital marketing, highlighting success stories and key strategies that are shaping the future of the industry.</p>
+
+
+
+<h3 class="wp-block-heading">AI’s influence on digital marketing careers and education</h3>
+
+
+
+<p>AI is reshaping digital marketing careers, requiring new skills and knowledge. As AI continues to integrate into marketing practices, professionals must adapt by acquiring expertise in data analysis, machine learning, and AI tools. Visit <a href="https://digiportal.com/">DigiPortal</a> to learn about career opportunities and educational resources. Killian Smith, the mind behind DigiPortal, has over a decade of experience in software development and cybersecurity.</p>
+
+
+
+<h4 class="wp-block-heading">Personalisation and customer insights</h4>
+
+
+
+<p>AI helps in creating highly personalised marketing campaigns by analysing vast amounts of data to derive customer insights. Machine learning algorithms can identify patterns and preferences, allowing marketers to tailor their messages to individual customers. For instance, Netflix and Amazon use AI to recommend products and content based on user behaviour, resulting in higher engagement and satisfaction.</p>
+
+
+
+<h4 class="wp-block-heading">Predictive analytics and decision-making</h4>
+
+
+
+<p>AI-driven predictive analytics enable marketers to anticipate customer behaviour and make informed decisions. By analysing historical data, AI can forecast future trends, helping businesses to plan their strategies effectively. For example, retailers use predictive analytics to optimise inventory levels and marketing efforts, reducing costs and improving customer satisfaction.</p>
+
+
+
+<h3 class="wp-block-heading">AI-driven content creation and curation</h3>
+
+
+
+<p>AI tools are revolutionising content creation and curation, allowing marketers to produce high-quality content efficiently.</p>
+
+
+
+<p>Tools like GPT-4 are capable of generating high-quality text content, from blog posts to social media updates. These tools can create content that is engaging and relevant, saving time and resources for marketers. For example, The Washington Post uses AI to write news articles, freeing up journalists to focus on in-depth reporting.</p>
+
+
+
+<h4 class="wp-block-heading">Content optimisation and SEO</h4>
+
+
+
+<p>AI helps optimise content for search engines by analysing keywords, recommending improvements, and tracking performance. AI-driven SEO tools can identify the most effective keywords, suggest content structure, and monitor rankings. A table comparing traditional vs. AI-driven SEO strategies highlights the efficiency and accuracy of AI in optimising content.</p>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td><strong>Traditional SEO Strategies</strong></td><td><strong>AI-Driven SEO Strategies</strong></td></tr><tr><td>Manual keyword research</td><td>Automated keyword analysis</td></tr><tr><td>Basic performance tracking</td><td>Advanced performance insights</td></tr><tr><td>Static optimisation methods</td><td>Dynamic content recommendations</td></tr></tbody></table></figure>
+
+
+
+<h3 class="wp-block-heading">AI in customer engagement and support</h3>
+
+
+
+<p>AI significantly improves customer engagement and support through advanced technologies like chatbots and virtual assistants.</p>
+
+
+
+<h4 class="wp-block-heading">AI-powered chatbots</h4>
+
+
+
+<p>AI-powered chatbots provide 24/7 customer support, offering personalised responses and handling multiple queries simultaneously. Companies like H&amp;M and Sephora use chatbots to assist customers with product recommendations, order tracking, and more, enhancing the overall customer experience.</p>
+
+
+
+<h4 class="wp-block-heading">Virtual assistants</h4>
+
+
+
+<p>Virtual assistants streamline customer interactions by providing seamless and personalised services. Technologies like Google Assistant and Amazon Alexa are examples of AI-driven virtual assistants that help businesses engage with customers through voice commands and smart interactions.</p>
+
+
+
+<h3 class="wp-block-heading">AI in advertising and campaign management</h3>
+
+
+
+<p>AI is transforming advertising by enabling precise targeting, real-time bidding, and campaign optimisation.</p>
+
+
+
+<h4 class="wp-block-heading">Programmatic advertising</h4>
+
+
+
+<p>Programmatic advertising uses AI to automate the buying and selling of ad space in real time. This method ensures that ads are shown to the right audience at the right time, maximising ROI. Case studies show that businesses using programmatic advertising see significant improvements in ad performance and cost-efficiency.</p>
+
+
+
+<h4 class="wp-block-heading">Audience targeting and segmentation</h4>
+
+
+
+<p>AI helps in segmenting audiences based on behaviour, demographics, and preferences. AI tools like Google Ads and Facebook Ads Manager allow marketers to target ads more effectively, resulting in higher engagement rates. A list of top AI tools for audience targeting includes platforms like AdRoll, Quantcast, and Smartly.io.</p>
+
+
+
+<h3 class="wp-block-heading">Ethical considerations and challenges in AI marketing</h3>
+
+
+
+<p>Despite its benefits, AI in marketing also raises ethical concerns and challenges that need to be addressed.</p>
+
+
+
+<h4 class="wp-block-heading">Data privacy concerns</h4>
+
+
+
+<p>AI&#8217;s reliance on data poses significant privacy concerns. Companies must ensure compliance with data protection regulations like GDPR to protect customer information. Best practices for data privacy include data anonymisation, secure data storage, and transparent data usage policies.</p>
+
+
+
+<h4 class="wp-block-heading">Addressing algorithmic bias</h4>
+
+
+
+<p>Algorithmic bias can lead to unfair and discriminatory outcomes in AI-driven marketing tools. Identifying and mitigating bias is crucial to ensure ethical AI usage. Examples of biased algorithms and corrective steps include regular audits, diverse data sets, and inclusive algorithm design.</p>
+
+
+
+<h3 class="wp-block-heading">Trends and future of AI in digital marketing</h3>
+
+
+
+<p>The future of AI in digital marketing is promising, with emerging trends set to further revolutionise the industry.</p>
+
+
+
+<h4 class="wp-block-heading">AI and augmented reality (AR)</h4>
+
+
+
+<p>AI is being integrated with AR to create immersive marketing experiences. Brands like IKEA and L&#8217;Oreal use AR to allow customers to visualise products in their own environment, enhancing engagement and purchase decisions.</p>
+
+
+
+<h4 class="wp-block-heading">Voice search and AI</h4>
+
+
+
+<p>The rise of voice search is changing how content is optimised for voice-based queries. AI tools optimise content for voice search by focusing on natural language processing and conversational keywords. Statistics show that voice search is becoming increasingly popular, with tips for voice search optimisation including the use of long-tail keywords and local SEO.</p>
+
+
+
+<h3 class="wp-block-heading">Conclusion</h3>
+
+
+
+<p>AI is undeniably transforming digital marketing, offering innovative solutions for personalisation, efficiency, and customer engagement. As AI continues to evolve, staying updated with the latest trends and technologies is essential for businesses to remain competitive. Embrace the power of AI to drive your marketing strategies and achieve unparalleled success in the digital landscape</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/how-ai-is-transforming-digital-marketing-2024-trends-and-insights/">How AI is transforming digital marketing: 2024 trends and insights</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/how-ai-is-transforming-digital-marketing-2024-trends-and-insights/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ChatGPT Prompt Generator: Unleashing the power of AI conversations</title>
+		<link>https://www.artificialintelligence-news.com/news/chatgpt-prompt-generator-unleashing-the-power-of-ai-conversations/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=chatgpt-prompt-generator-unleashing-the-power-of-ai-conversations</link>
+					<comments>https://www.artificialintelligence-news.com/news/chatgpt-prompt-generator-unleashing-the-power-of-ai-conversations/#respond</comments>
+		
+		<dc:creator><![CDATA[Duncan MacRae]]></dc:creator>
+		<pubDate>Wed, 12 Jun 2024 08:25:10 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=14972</guid>
+
+					<description><![CDATA[<p>In the ever-evolving digital landscape, where AI is rapidly transforming the way we interact and communicate, WebUtility&#8217;s ChatGPT Prompt Generator emerges as a game-changer. This innovative tool empowers users to harness the full potential of ChatGPT, one of the most advanced language models developed by OpenAI. At its core, the ChatGPT Prompt Generator is designed<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/chatgpt-prompt-generator-unleashing-the-power-of-ai-conversations/" title="ReadChatGPT Prompt Generator: Unleashing the power of AI conversations">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/chatgpt-prompt-generator-unleashing-the-power-of-ai-conversations/">ChatGPT Prompt Generator: Unleashing the power of AI conversations</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>In the ever-evolving digital landscape, where AI is rapidly transforming the way we interact and communicate, <a href="https://webutility.io/chatgpt-prompt-generator">WebUtility&#8217;s ChatGPT Prompt Generator</a> emerges as a game-changer. This innovative tool empowers users to harness the full potential of ChatGPT, one of the most advanced language models developed by OpenAI.</p>
+
+
+
+<p>At its core, the ChatGPT Prompt Generator is designed to simplify the process of crafting tailored prompts for ChatGPT. By leveraging the tool&#8217;s intuitive interface, users can effortlessly create prompts that align with their specific needs, whether they&#8217;re seeking assistance with customer support, content creation, or creative writing endeavors.</p>
+
+
+
+<p><strong>ChatGPT prompt generator tool features and benefits</strong></p>
+
+
+
+<p>The beauty of this tool lies in its user-friendly approach. With just a few clicks, users can select the desired action, such as &#8216;Create&#8217;, &#8216;Explain&#8217;, &#8216;Analyse&#8217; or &#8216;Write&#8217;, and then specify the focus area. This level of customization ensures that the generated prompts are contextually relevant and tailored to the user&#8217;s requirements.</p>
+
+
+
+<p>But the true power of the ChatGPT Prompt Generator extends beyond mere convenience. By automating the prompt creation process, the tool saves users valuable time and effort, enabling them to engage with ChatGPT in a more efficient and productive manner. Gone are the days of generic or irrelevant responses – every conversation is now tailored to the user&#8217;s specific needs.</p>
+
+
+
+<p>One of the standout features of this tool is its ability to understand natural language and adapt to various contexts. Powered by cutting-edge AI technology, the ChatGPT Prompt Generator ensures that the generated prompts are thoughtful, contextually appropriate, and designed to elicit meaningful responses from ChatGPT.</p>
+
+
+
+<p>Whether you&#8217;re a business professional seeking to streamline customer interactions, a content creator looking to generate engaging material, or a writer exploring new creative avenues, the ChatGPT Prompt Generator is your ultimate companion. By harnessing the power of AI, this tool empowers you to unlock the limitless potential of ChatGPT and elevate your conversations to new heights.</p>
+
+
+
+<p>For those seeking to explore the vast realm of AI tools further, the <a href="https://aiparabellum.com/">AI Tools Directory</a> at AI Parabellum is a treasure trove of resources. This comprehensive directory curates a wide range of AI-powered tools, spanning various domains and applications, ensuring that users can find the perfect solution for their specific needs.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="666" src="https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2024/06/webutility-chatgpt-prompt-generator-1024x666.png" alt="" class="wp-image-14975" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2024/06/webutility-chatgpt-prompt-generator-1024x666.png 1024w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/06/webutility-chatgpt-prompt-generator-300x195.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/06/webutility-chatgpt-prompt-generator-768x499.png 768w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/06/webutility-chatgpt-prompt-generator-1536x999.png 1536w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/06/webutility-chatgpt-prompt-generator-2048x1332.png 2048w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/06/webutility-chatgpt-prompt-generator-308x200.png 308w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/06/webutility-chatgpt-prompt-generator-380x247.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/06/webutility-chatgpt-prompt-generator-350x228.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/06/webutility-chatgpt-prompt-generator-100x65.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2024/06/webutility-chatgpt-prompt-generator-60x39.png 60w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>Final words</strong></p>
+
+
+
+<p>In the rapidly evolving world of AI, the <a href="https://webutility.io/">WebUtiliy</a>’s ChatGPT Prompt Generator stand as beacon of innovation, empowering users to harness the power of cutting-edge technology and unlock new realms of possibility. Embrace the future of AI-driven conversations.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/chatgpt-prompt-generator-unleashing-the-power-of-ai-conversations/">ChatGPT Prompt Generator: Unleashing the power of AI conversations</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/chatgpt-prompt-generator-unleashing-the-power-of-ai-conversations/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Gil Pekelman, Atera: How businesses can harness the power of AI</title>
+		<link>https://www.artificialintelligence-news.com/news/gil-pekelman-atera-how-businesses-can-harness-the-power-of-ai/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gil-pekelman-atera-how-businesses-can-harness-the-power-of-ai</link>
+					<comments>https://www.artificialintelligence-news.com/news/gil-pekelman-atera-how-businesses-can-harness-the-power-of-ai/#respond</comments>
+		
+		<dc:creator><![CDATA[Duncan MacRae]]></dc:creator>
+		<pubDate>Tue, 28 May 2024 15:32:37 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Industries]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[Atera]]></category>
+		<category><![CDATA[automation]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[IT support]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=14888</guid>
+
+					<description><![CDATA[<p>TechForge recently caught up with Gil Pekelman, CEO of all-in-one IT management platform, Atera, to discuss how AI is becoming the IT professionals’ number one companion. Can you tell us a little bit about Atera and what it does? We launched the Atera all-in-one platform for IT management in 2016, so quite a few years<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/gil-pekelman-atera-how-businesses-can-harness-the-power-of-ai/" title="ReadGil Pekelman, Atera: How businesses can harness the power of AI">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/gil-pekelman-atera-how-businesses-can-harness-the-power-of-ai/">Gil Pekelman, Atera: How businesses can harness the power of AI</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong><em>TechForge recently caught up with Gil Pekelman, CEO of all-in-one IT management platform, Atera, to discuss how AI is becoming the IT professionals’ number one companion.</em></strong></p>
+
+
+
+<p><strong>Can you tell us a little bit about Atera and what it does?</strong></p>
+
+
+
+<p>We launched the Atera all-in-one platform for IT management in 2016, so quite a few years ago. And it&#8217;s very broad. It&#8217;s everything from technical things like patching and security to ongoing support, alerts, automations, ticket management, reports, and analytics, etc.&nbsp;</p>
+
+
+
+<p>Atera is a single platform that manages all your IT in a single pane of glass. The power of it – and we’re the only company that does this – is it&#8217;s a single codebase and single database for all of that. The alternative, for many years now, has been to buy four or five different products, and have them all somehow connected, which is usually very difficult.&nbsp;</p>
+
+
+
+<p>Here, the fact is it&#8217;s a single codebase and a single database. Everything is connected and streamlined and very intuitive. So, in essence, you sign up or start a trial and within five minutes, you&#8217;re already running with it and onboarding. It&#8217;s that intuitive.</p>
+
+
+
+<p>We have 12,000+ customers in 120 countries around the world. The UK is our second-largest country in terms of business, currently. The US is the first, but the UK is right behind them.</p>
+
+
+
+<p><strong>What are the latest trends you’re seeing develop in AI this year?</strong></p>
+
+
+
+<p>From the start, we&#8217;ve been dedicated to integrating AI into our company’s DNA. Our goal has always been to use data to identify problems and alert humans so they can fix or avoid issues. Initially, we focused on leveraging data to provide solutions.</p>
+
+
+
+<p>Over the past nine years, we’ve aimed to let AI handle mundane IT tasks, freeing up professionals for more engaging work. With early access to Chat GPT and Open AI tools a year and a half ago, we&#8217;ve been pioneering a new trend we call Action AI.</p>
+
+
+
+<p>Unlike generic Generative AI, which creates content like songs or emails, Action AI operates in the real world, interacting with hardware and software to perform tasks autonomously. Our AI can understand IT problems and resolve them on its own, moving beyond mere dialogue to real-world action.</p>
+
+
+
+<p><strong>Atera offers Copilot and Autopilot. Could you explain what these are?</strong></p>
+
+
+
+<p>Autopilot is autonomous. It understands a problem you might have on your computer. It&#8217;s a widget on your computer, and it will communicate with you and fix the problem autonomously. However, it has boundaries on what it&#8217;s allowed to fix and what it&#8217;s not allowed to fix. And everything it&#8217;s allowed to deal with has to be bulletproof. 100% secure or private. No opportunity to do any damage or anything like that.&nbsp;</p>
+
+
+
+<p>So if a ticket is opened up, or a complaint is raised, if it&#8217;s outside of these boundaries, it will then activate the Copilot. The Copilot augments the IT professional.</p>
+
+
+
+<p>They’re both companions. The Autopilot is a companion that takes away password resets, printer issues, installs software, etc. – mundane and repetitive issues – and the Copilot is a companion that will help the IT professional deal with the issues they deal with on a day-to-day basis. And it has all kinds of different tools.&nbsp;</p>
+
+
+
+<p>The Copilot is very elaborate. If you have a problem, you can ask it and it will not only give you an answer like ChatGPT, but it will research and run all kinds of tests on the network, the computer, and the printer, and it will come to a conclusion, and create the action that is required to solve it. But it won&#8217;t solve it. It will still leave that to the IT professional to think about the different information and decide what they want to do.&nbsp;</p>
+
+
+
+<p>Copilot can save IT professionals nearly half of their workday. While it&#8217;s been tested in the field for some time, we&#8217;re excited to officially launch it now. Meanwhile, Autopilot is still in the beta phase.</p>
+
+
+
+<p><strong>What advice would you give to any companies that are thinking about integrating AI technologies into their business operations?</strong></p>
+
+
+
+<p>I strongly recommend that companies begin integrating AI technologies immediately, but it is crucial to research and select the right and secure generative AI tools. Incorporating AI offers numerous advantages: it automates routine tasks, enhances efficiency and productivity, improves accuracy by reducing human error, and speeds up problem resolution. That being said, it’s important to pick the right generative AI tool to help you reap the benefits without compromising on security. For example, with our collaboration with Microsoft, our customers’ data is secure—it stays within the system, and the AI doesn’t use it for training or expanding its database. This ensures safety while delivering substantial benefits.</p>
+
+
+
+<p>Our incorporation of AI into our product focuses on two key aspects. First, your IT team no longer has to deal with mundane, frustrating tasks. Second, for end users, issues like non-working printers, forgotten passwords, or slow internet are resolved in seconds or minutes instead of hours. This provides a measurable and significant improvement in efficiency.</p>
+
+
+
+<p>There are all kinds of AIs out there. Some of them are more beneficial, some are less. Some are just Chat GPT in disguise, and it&#8217;s a very thin layer. What we do literally changes the whole interaction with IT. And we know, when IT has a problem things stop working, and you stop working. Our solution ensures everything keeps running smoothly.</p>
+
+
+
+<p><strong>What can we expect from AI over the next few years?</strong></p>
+
+
+
+<p>AI is set to become significantly more intelligent and aware. One remarkable development is its growing ability to reason, predict, and understand data. This capability enables AI to foresee issues and autonomously resolve them, showcasing an astonishing level of reasoning.</p>
+
+
+
+<p>We anticipate a dual advancement: a rapid acceleration in AI&#8217;s intelligence and a substantial enhancement in its empathetic interactions, as demonstrated in the latest OpenAI release. This evolution will transform how humans engage with AI.</p>
+
+
+
+<p>Our work exemplifies this shift. When non-technical users interact with our software to solve problems, AI responds with a highly empathetic, human-like approach. Users feel as though they are speaking to a real IT professional, ensuring a seamless and comforting experience.</p>
+
+
+
+<p>As AI continues to evolve, it will become increasingly powerful and capable. Recent breakthroughs in understanding AI&#8217;s mechanisms will not only enhance its functionality but also ensure its security and ethical use, reinforcing its role as a force for good.</p>
+
+
+
+<p><strong>What plans does Atera have for the next year?</strong></p>
+
+
+
+<p>We are excited to announce the upcoming launch of Autopilot, scheduled for release in a few months. While Copilot, our comprehensive suite of advanced tools designed specifically for IT professionals, has already been instrumental in enhancing efficiency and effectiveness, Autopilot represents the next significant advancement.</p>
+
+
+
+<p>Currently in beta so whoever wants to try it already can, Autopilot directly interacts with end users, automating and resolving common IT issues that typically burden IT staff, such as password resets and printer malfunctions. By addressing these routine tasks, Autopilot allows IT professionals to focus on more strategic and rewarding activities, ultimately improving overall productivity and job satisfaction.</p>
+
+
+
+<p><strong><em>For more information, visit <a href="https://www.atera.com/hp/">atera.com</a></em></strong></p>
+
+
+
+<p><strong><em><a href="https://www.atera.com/events/techex/">Atera is a sponsor of TechEx North America 2024</a> on June 5-6 in Santa Clara, US. Visit the Atera team at booth 237 for a personalised demo, or to test your IT skills with the company’s first-of-kind AIT game, APOLLO IT, for a chance to win a prize.</em></strong></p>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong>&nbsp;Check out<a href="https://www.ai-expo.net/">&nbsp;AI &amp; Big Data Expo</a>&nbsp;taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including&nbsp;<a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>,&nbsp;<a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/">&nbsp;Digital Transformation Week</a>, and&nbsp;<a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge&nbsp;<a href="https://techforge.pub/upcoming-events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/gil-pekelman-atera-how-businesses-can-harness-the-power-of-ai/">Gil Pekelman, Atera: How businesses can harness the power of AI</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/gil-pekelman-atera-how-businesses-can-harness-the-power-of-ai/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Is AI going to upend the face of gambling?</title>
+		<link>https://www.artificialintelligence-news.com/news/is-ai-going-to-upend-the-face-of-gambling/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=is-ai-going-to-upend-the-face-of-gambling</link>
+					<comments>https://www.artificialintelligence-news.com/news/is-ai-going-to-upend-the-face-of-gambling/#respond</comments>
+		
+		<dc:creator><![CDATA[Duncan MacRae]]></dc:creator>
+		<pubDate>Mon, 20 May 2024 14:35:37 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=14862</guid>
+
+					<description><![CDATA[<p>AI has made some &#8211; to put it mildly &#8211; big changes in our world in recent years, and although nobody can say for sure what it’s going to do next or what kind of impact it’s going to have on many aspects of our lives, people are eagerly looking out for those alterations (some<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/is-ai-going-to-upend-the-face-of-gambling/" title="ReadIs AI going to upend the face of gambling?">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/is-ai-going-to-upend-the-face-of-gambling/">Is AI going to upend the face of gambling?</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>AI has made some &#8211; to put it mildly &#8211; big changes in our world in recent years, and although nobody can say for sure what it’s going to do next or what kind of impact it’s going to have on many aspects of our lives, people are eagerly looking out for those alterations (some with slight trepidation). What does it mean for those who love the buzz and thrill of the casino world?</p>
+
+
+
+<p>Precise predictions are, of course, challenging to make, but it’s likely that AI is going to make major alterations soon to the way the gambling world works. Now, we’re going to caveat the whole article by reminding people that AI is a long way from perfect at the moment (and that’s generating some serious concerns and <a href="https://www.artificialintelligence-news.com/2024/04/29/openai-faces-complaint-over-fictional-outputs/">major complaints</a>), but it’s also pretty powerful and has a lot of potential… so let’s unpack that!</p>
+
+
+
+<h2 class="wp-block-heading"><a></a>What’s AI Already Doing?</h2>
+
+
+
+<p>You might (or might not) be surprised to learn that AI is already doing a lot of work in the online casino; it’s responsible for a whole lot of the computing that goes on behind the scenes (where, let’s be honest, most players aren’t looking), and it helps casinos across the planet function effectively, ensuring their games work &#8211; and work well.</p>
+
+
+
+<p>We all know that AI doing a lot of the legwork when it comes to making online games play &#8211; it’s got to be able to respond effectively to player behavior, make intelligent decisions, and present even the best players with worthy opponents that can test their skills. And does it do so? Yes… <a href="https://www.nytimes.com/2022/01/18/magazine/ai-technology-poker.html">staggeringly well at times</a>.</p>
+
+
+
+<p>AI does some other major jobs too, one of them being to analyze player behavior for both safety and personalization reasons. In terms of safety, it’s got some hard-hitting advantages: it can learn how an individual player generally behaves when gambling online and look for discrepancies that could indicate fraud is occurring. The account can then be paused while an investigation takes place &#8211; potentially saving players from losing large amounts of money to scammers! Sounds pretty good to us.</p>
+
+
+
+<p>Next, AI bumps up the relevance of offers and bonuses, again by watching what players do online. They’ll note what promos and deals you click on, respond to your preferences, and create offers that have been honed to exactly match your tastes! This is a great way to enhance the casino experience for players; you’re not just getting any old offer in your inbox, but a proper, useful offer that aligns with the games you play and the things you like (well, most of the time; we all know this isn’t perfect yet!).</p>
+
+
+
+<p>The new power casinos have to analyze player behavior can also lead to better regulations and<a href="https://www.forbes.com/sites/forbestechcouncil/2024/04/26/predictive-ai-and-slot-machines-shaping-the-future-of-casino-gaming/"> more responsible gambling</a>, creating win-wins for everyone involved.</p>
+
+
+
+<h2 class="wp-block-heading"><a></a>What’s Coming Next?</h2>
+
+
+
+<p>Next, let’s turn our sights to that exciting horizon, and the anticipation of what we might see in the future. Well, firstly, it’s going to become better and better at playing games, as mentioned above &#8211; the more we train AIs, the better they become at their various tasks. So even the games where they currently don’t excel are likely to become better in the future.</p>
+
+
+
+<p>We’re also likely to see better graphics hitting the scene, as AIs improve their ability to generate images well. Got a favorite online live poker game, for example? The graphics might already seem swish but wait until a few years down the line… they’ll be unbelievable, especially if they get coupled with VR at some point! We’re looking forward to seeing how <a href="https://www.joefortuneonlinepokies.eu/">Australian online casino games</a> (and other casino games, for that matter!) develop as time passes.</p>
+
+
+
+<p>Their player analysis is likely to improve too. We’ve all laughed at how bad computers seem to be at predicting our likes and dislikes at times (we’re sure you’ve experienced that moment where you get a dozen ads for a product you’ve already purchased, for example), but it is getting better… and we don’t see that trend going away any time soon. Of course, the more data the AI has, the better its predictions become, so it’s likely that casinos are going to bump up their focus on customer loyalty even more, which is no bad thing. It often leads to increased offers and bonuses to encourage you to stick with them, and nobody is complaining about that!</p>
+
+
+
+<p>It’s hard to predict what else may come out of these exciting trends, but one thing is for sure: this isn’t slowing down or going away, and we’re expecting to see some intriguing developments in the next few years as more and more companies adopt and invest in AI. Casinos are just one small element, but they’re a fantastic example of where AI is now and what we might see coming as time progresses!</p>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong>&nbsp;Check out<a href="https://www.ai-expo.net/">&nbsp;AI &amp; Big Data Expo</a>&nbsp;taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including&nbsp;<a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>,&nbsp;<a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/">&nbsp;Digital Transformation Week</a>, and&nbsp;<a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge&nbsp;<a href="https://techforge.pub/upcoming-events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/is-ai-going-to-upend-the-face-of-gambling/">Is AI going to upend the face of gambling?</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/is-ai-going-to-upend-the-face-of-gambling/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>SAS aims to make AI accessible regardless of skill set with packaged AI models</title>
+		<link>https://www.artificialintelligence-news.com/news/sas-aims-to-make-ai-accessible-regardless-of-skill-set-with-packaged-ai-models/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sas-aims-to-make-ai-accessible-regardless-of-skill-set-with-packaged-ai-models</link>
+					<comments>https://www.artificialintelligence-news.com/news/sas-aims-to-make-ai-accessible-regardless-of-skill-set-with-packaged-ai-models/#respond</comments>
+		
+		<dc:creator><![CDATA[Duncan MacRae]]></dc:creator>
+		<pubDate>Wed, 17 Apr 2024 23:37:00 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Chatbots]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Education]]></category>
+		<category><![CDATA[Energy]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Entertainment & Retail]]></category>
+		<category><![CDATA[Face Recognition]]></category>
+		<category><![CDATA[Finance]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Healthcare]]></category>
+		<category><![CDATA[Industries]]></category>
+		<category><![CDATA[Logistics]]></category>
+		<category><![CDATA[Manufacturing]]></category>
+		<category><![CDATA[Military]]></category>
+		<category><![CDATA[Space]]></category>
+		<category><![CDATA[Telecoms]]></category>
+		<category><![CDATA[Virtual Assistants]]></category>
+		<category><![CDATA[Voice Recognition]]></category>
+		<category><![CDATA[AI models]]></category>
+		<category><![CDATA[decision making]]></category>
+		<category><![CDATA[deployment]]></category>
+		<category><![CDATA[llm]]></category>
+		<category><![CDATA[sas]]></category>
+		<category><![CDATA[skills]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=14696</guid>
+
+					<description><![CDATA[<p>SAS, a specialist in data and AI solutions, has unveiled what it describes as a “game-changing approach” for organisations to tackle business challenges head-on. Introducing lightweight, industry-specific AI models for individual licence, SAS hopes to equip organisations with readily deployable AI technology to productionise real-world use cases with unparalleled efficiency. Chandana Gopal, research director, Future<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/sas-aims-to-make-ai-accessible-regardless-of-skill-set-with-packaged-ai-models/" title="ReadSAS aims to make AI accessible regardless of skill set with packaged AI models">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/sas-aims-to-make-ai-accessible-regardless-of-skill-set-with-packaged-ai-models/">SAS aims to make AI accessible regardless of skill set with packaged AI models</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>SAS, a specialist in data and AI solutions, has unveiled what it describes as a “game-changing approach” for organisations to tackle business challenges head-on.</p>
+
+
+
+<p>Introducing lightweight, industry-specific AI models for individual licence, SAS hopes to equip organisations with readily deployable AI technology to productionise real-world use cases with unparalleled efficiency.</p>
+
+
+
+<p>Chandana Gopal, research director, Future of Intelligence, IDC, said: “SAS is evolving its portfolio to meet wider user needs and capture market share with innovative new offerings,</p>
+
+
+
+<p>“An area that is ripe for SAS is productising models built on SAS’ core assets, talent and IP from its wealth of experience working with customers to solve industry problems.”</p>
+
+
+
+<p>In today’s market, the consumption of models is primarily focused on large language models (LLMs) for generative AI. In reality, LLMs are a very small part of the modelling needs of real-world production deployments of AI and decision making for businesses. With the new offering, SAS is moving beyond LLMs and delivering industry-proven deterministic AI models for industries that span use cases such as fraud detection, supply chain optimization, entity management, document conversation and health care payment integrity and more.</p>
+
+
+
+<p>Unlike traditional AI implementations that can be cumbersome and time-consuming, SAS’ industry-specific models are engineered for quick integration, enabling organisations to operationalise trustworthy AI technology and accelerate the realisation of tangible benefits and trusted results.</p>
+
+
+
+<p><strong>Expanding market footprint</strong></p>
+
+
+
+<p>Organisations are facing pressure to compete effectively and are looking to AI to gain an edge. At the same time, staffing data science teams has never been more challenging due to AI skills shortages. Consequently, businesses are demanding agility in using AI to solve problems and require flexible AI solutions to quickly drive business outcomes. SAS’ easy-to-use, yet powerful models tuned for the enterprise enable organisations to benefit from a half-century of SAS’ leadership across industries.</p>
+
+
+
+<p>Delivering industry models as packaged offerings is one outcome of SAS’ commitment of $1 billion to AIpowered industry solutions. As outlined in the May 2023 announcement, the investment in AI builds on SAS’ decades-long focus on providing packaged solutions to address industry challenges in banking, government, health care and more.</p>
+
+
+
+<p>Udo Sglavo, VP for AI and Analytics, SAS, said: “Models are the perfect complement to our existing solutions and SAS Viya platform offerings and cater to diverse business needs across various audiences, ensuring that innovation reaches every corner of our ecosystem.&nbsp;</p>
+
+
+
+<p>“By tailoring our approach to understanding specific industry needs, our frameworks empower businesses to flourish in their distinctive Environments.”</p>
+
+
+
+<p><strong>Bringing AI to the masses</strong></p>
+
+
+
+<p>SAS is democratising AI by offering out-of-the-box, lightweight AI models – making AI accessible regardless of skill set – starting with an AI assistant for warehouse space optimisation. Leveraging technology like large language models, these assistants cater to nontechnical users, translating interactions into optimised workflows seamlessly and aiding in faster planning decisions.</p>
+
+
+
+<p>Sgvalo said: “SAS Models provide organisations with flexible, timely and accessible AI that aligns with industry challenges.</p>
+
+
+
+<p>“Whether you’re embarking on your AI journey or seeking to accelerate the expansion of AI across your enterprise, SAS offers unparalleled depth and breadth in addressing your business’s unique needs.”</p>
+
+
+
+<p>The first SAS Models are expected to be generally available later this year.</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2023/10/image.png" alt="" class="wp-image-13755" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2023/10/image.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/10/image-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/10/image-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/10/image-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/10/image-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/10/image-60x7.png 60w" sizes="(max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong>&nbsp;Check out<a href="https://www.ai-expo.net/">&nbsp;AI &amp; Big Data Expo</a>&nbsp;taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including&nbsp;<a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/">&nbsp;Digital Transformation Week</a>, and&nbsp;<a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge&nbsp;<a href="https://techforge.pub/upcoming-events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/sas-aims-to-make-ai-accessible-regardless-of-skill-set-with-packaged-ai-models/">SAS aims to make AI accessible regardless of skill set with packaged AI models</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/sas-aims-to-make-ai-accessible-regardless-of-skill-set-with-packaged-ai-models/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>80% of AI decision makers are worried about data privacy and security</title>
+		<link>https://www.artificialintelligence-news.com/news/80-of-ai-decision-makers-are-worried-about-data-privacy-and-security/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=80-of-ai-decision-makers-are-worried-about-data-privacy-and-security</link>
+					<comments>https://www.artificialintelligence-news.com/news/80-of-ai-decision-makers-are-worried-about-data-privacy-and-security/#respond</comments>
+		
+		<dc:creator><![CDATA[Duncan MacRae]]></dc:creator>
+		<pubDate>Wed, 17 Apr 2024 22:25:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[llm]]></category>
+		<category><![CDATA[privacy]]></category>
+		<category><![CDATA[productivity]]></category>
+		<category><![CDATA[sas]]></category>
+		<category><![CDATA[security]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=14692</guid>
+
+					<description><![CDATA[<p>Organisations are enthusiastic about generative AI’s potential for increasing their business and people productivity, but lack of strategic planning and talent shortages are preventing them from realising its true value. This is according to a study conducted in early 2024 by Coleman Parkes Research and sponsored by data analytics firm SAS, which surveyed 300 US<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/80-of-ai-decision-makers-are-worried-about-data-privacy-and-security/" title="Read80% of AI decision makers are worried about data privacy and security">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/80-of-ai-decision-makers-are-worried-about-data-privacy-and-security/">80% of AI decision makers are worried about data privacy and security</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Organisations are enthusiastic about generative AI’s potential for increasing their business and people productivity, but lack of strategic planning and talent shortages are preventing them from realising its true value.</p>
+
+
+
+<p>This is according to a study conducted in early 2024 by Coleman Parkes Research and sponsored by data analytics firm SAS, which surveyed 300 US GenAI strategy or data analytics decision makers to pulse check major areas of investment and the hurdles organisations are facing.</p>
+
+
+
+<p>Marinela Profi, strategic AI advisor at SAS, said: “Organisations are realising that large language models (LLMs) alone don’t solve business challenges.&nbsp;</p>
+
+
+
+<p>“GenAI should be treated as an ideal contributor to hyper automation and the acceleration of existing processes and systems rather than the new shiny toy that will help organisations realise all their business aspirations. Time spent developing a progressive strategy and investing in technology that offers integration, governance and explainability of LLMs are crucial steps all organisations should take before jumping in with both feet and getting ‘locked in.’”</p>
+
+
+
+<p>Organisations are hitting stumbling blocks in four key areas of implementation:</p>
+
+
+
+<p>• Increasing trust in data usage and achieving compliance. Only one in 10 organisations has a reliable system in place to measure bias and privacy risk in LLMs. Moreover, 93% of U.S. businesses lack a comprehensive governance framework for GenAI, and the majority are at risk of noncompliance when it comes to regulation.</p>
+
+
+
+<p>• Integrating GenAI into existing systems and processes. Organisations reveal they’re experiencing compatibility issues when trying to combine GenAI with their current systems.</p>
+
+
+
+<p>• Talent and skills. In-house GenAI is lacking. As HR departments encounter a scarcity of suitable hires, organisational leaders worry they don’t have access to the necessary skills to make the most of their GenAI investment.</p>
+
+
+
+<p>• Predicting costs. Leaders cite prohibitive direct and indirect costs associated with using LLMs. Model creators provide a token cost estimate (which organisations now realise is prohibitive). But the costs for private knowledge preparation, training and ModelOps management are lengthy and complex.</p>
+
+
+
+<p>Profi added: “It’s going to come down to identifying real-world use cases that deliver the highest value and solve human needs in a sustainable and scalable manner. </p>
+
+
+
+<p>“Through this study, we’re continuing our commitment to helping organisations stay relevant, invest their money wisely and remain resilient. In an era where AI technology evolves almost daily, competitive advantage is highly dependent on the ability to embrace the resiliency rules.”</p>
+
+
+
+<p>Details of the study were unveiled today at SAS Innovate in Las Vegas, SAS Software&#8217;s AI and analytics conference for business leaders, technical users and&nbsp;<em>SAS</em>&nbsp;partners.</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2023/10/image.png" alt="" class="wp-image-13755" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2023/10/image.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/10/image-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/10/image-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/10/image-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/10/image-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/10/image-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong>&nbsp;Check out<a href="https://www.ai-expo.net/">&nbsp;AI &amp; Big Data Expo</a>&nbsp;taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including&nbsp;<a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/">&nbsp;Digital Transformation Week</a>, and&nbsp;<a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge&nbsp;<a href="https://techforge.pub/upcoming-events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/80-of-ai-decision-makers-are-worried-about-data-privacy-and-security/">80% of AI decision makers are worried about data privacy and security</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/80-of-ai-decision-makers-are-worried-about-data-privacy-and-security/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Kamal Ahluwalia, Ikigai Labs: How to take your business to the next level with generative AI</title>
+		<link>https://www.artificialintelligence-news.com/news/kamal-ahluwalia-ikigai-labs-how-to-take-your-business-to-the-next-level-with-generative-ai/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=kamal-ahluwalia-ikigai-labs-how-to-take-your-business-to-the-next-level-with-generative-ai</link>
+					<comments>https://www.artificialintelligence-news.com/news/kamal-ahluwalia-ikigai-labs-how-to-take-your-business-to-the-next-level-with-generative-ai/#respond</comments>
+		
+		<dc:creator><![CDATA[Duncan MacRae]]></dc:creator>
+		<pubDate>Wed, 17 Apr 2024 12:36:48 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Industries]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[ethics]]></category>
+		<category><![CDATA[generative ai]]></category>
+		<category><![CDATA[Ikigai Labs]]></category>
+		<category><![CDATA[llm]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=14699</guid>
+
+					<description><![CDATA[<p>AI News caught up with president of Ikigai Labs, Kamal Ahluwalia, to discuss all things gen AI, including top tips on how to adopt and utilise the tech, and the importance of embedding ethics into AI design. Could you tell us a little bit about Ikigai Labs and how it can help companies? Ikigai is<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/kamal-ahluwalia-ikigai-labs-how-to-take-your-business-to-the-next-level-with-generative-ai/" title="ReadKamal Ahluwalia, Ikigai Labs: How to take your business to the next level with generative AI">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/kamal-ahluwalia-ikigai-labs-how-to-take-your-business-to-the-next-level-with-generative-ai/">Kamal Ahluwalia, Ikigai Labs: How to take your business to the next level with generative AI</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong><em>AI News</em> caught up with president of Ikigai Labs, Kamal Ahluwalia, to discuss all things gen AI, including top tips on how to adopt and utilise the tech, and the importance of embedding ethics into AI design.</strong></p>
+
+
+
+<p><strong><em>Could you tell us a little bit about Ikigai Labs and how it can help companies?</em></strong></p>
+
+
+
+<p>Ikigai is helping organisations transform sparse, siloed enterprise data into predictive and actionable insights with a generative AI platform specifically designed for structured, tabular data.&nbsp;&nbsp;</p>
+
+
+
+<p>A significant portion of enterprise data is structured, tabular data, residing in systems like SAP and Salesforce. This data drives the planning and forecasting for an entire business. While there is a lot of excitement around Large Language Models (LLMs), which are great for unstructured data like text, Ikigai&#8217;s patented Large Graphical Models (LGMs), developed out of MIT, are focused on solving problems using structured data.&nbsp;&nbsp;</p>
+
+
+
+<p>Ikigai&#8217;s solution focuses particularly on time-series datasets, as enterprises run on four key time series: sales, products, employees, and capital/cash. Understanding how these time series come together in critical moments, such as launching a new product or entering a new geography, is crucial for making better decisions that drive optimal outcomes.&nbsp;</p>
+
+
+
+<p><strong>How would you describe the current generative AI landscape, and how do you envision it developing in the future?</strong>&nbsp;</p>
+
+
+
+<p>The technologies that have captured the imagination, such as LLMs from OpenAI, Anthropic, and others, come from a consumer background. They were trained on internet-scale data, and the training datasets are only getting larger, which requires significant computing power and storage. It took $100m to train GPT4, and GP5 is expected to cost $2.5bn.&nbsp;</p>
+
+
+
+<p>This reality works in a consumer setting, where costs can be shared across a very large user set, and some mistakes are just part of the training process. But in the enterprise, mistakes cannot be tolerated, hallucinations are not an option, and accuracy is paramount. Additionally, the cost of training a model on internet-scale data is just not affordable, and companies that leverage a foundational model risk exposure of their IP and other sensitive data.&nbsp;&nbsp;</p>
+
+
+
+<p>While some companies have gone the route of building their own tech stack so LLMs can be used in a safe environment, most organisations lack the talent and resources to build it themselves.&nbsp;</p>
+
+
+
+<p>In spite of the challenges, enterprises want the kind of experience that LLMs provide. But the results need to be accurate – even when the data is sparse &#8211; and there must be a way to keep confidential data out of a foundational model. It’s also critical to find ways to lower the total cost of ownership, including the cost to train and upgrade the models, reliance on GPUs, and other issues related to governance and data retention. All of this leads to a very different set of solutions than what we currently have.&nbsp;</p>
+
+
+
+<p><strong>How can companies create a strategy to maximise the benefits of generative AI?</strong>&nbsp;</p>
+
+
+
+<p>While much has been written about Large Language Models (LLMs) and their potential applications, many customers are asking &#8220;how do I build differentiation?&#8221;&nbsp;&nbsp;</p>
+
+
+
+<p>With LLMs, nearly everyone will have access to the same capabilities, such as chatbot experiences or generating marketing emails and content – if everyone has the same use cases, it&#8217;s not a differentiator.&nbsp;</p>
+
+
+
+<p>The key is to shift the focus from generic use cases to finding areas of optimisation and understanding specific to your business and circumstances. For example, if you&#8217;re in manufacturing and need to move operations out of China, how do you plan for uncertainty in logistics, labour, and other factors? Or, if you want to build more eco-friendly products, materials, vendors, and cost structures will change. How do you model this?&nbsp;</p>
+
+
+
+<p>These use cases are some of the ways companies are attempting to use AI to run their business and plan in an uncertain world. Finding specificity and tailoring the technology to your unique needs is probably the best way to use AI to find true competitive advantage.&nbsp;&nbsp;</p>
+
+
+
+<p><strong>What are the main challenges companies face when deploying generative AI and how can these be overcome?</strong>&nbsp;</p>
+
+
+
+<p>Listening to customers, we&#8217;ve learned that while many have experimented with generative AI, only a fraction have pushed things through to production due to prohibitive costs and security concerns. But what if your models could be trained just on your own data, running on CPUs rather than requiring GPUs, with accurate results and transparency around how you&#8217;re getting those results? What if all the regulatory and compliance issues were addressed, leaving no questions about where the data came from or how much data is being retrained? This is what Ikigai is bringing to the table with Large Graphical Models.&nbsp;&nbsp;</p>
+
+
+
+<p>One challenge we’ve helped businesses address is the data problem. Nearly 100% of organisations are working with limited or imperfect data, and in many cases, this is a barrier to doing anything with AI. Companies often talk about data clean-up, but in reality, waiting for perfect data can hinder progress. AI solutions that can work with limited, sparse data are essential, as they allow companies to learn from what they have and account for change management.&nbsp;</p>
+
+
+
+<p>The other challenge is how internal teams can partner with the technology for better outcomes. Especially in regulated industries, human oversight, validation, and reinforcement learning are necessary. Adding an expert in the loop ensures that AI is not making decisions in a vacuum, so finding solutions that incorporate human expertise is key.&nbsp;</p>
+
+
+
+<p><strong>To what extent do you think adopting generative AI successfully requires a shift in company culture and mindset?</strong>&nbsp;</p>
+
+
+
+<p>Successfully adopting generative AI requires a significant shift in company culture and mindset, with strong commitment from executive and continuous education. I saw this firsthand at Eightfold when we were bringing our AI platform to companies in over 140 countries. I always recommend that teams first educate executives on what&#8217;s possible, how to do it, and how to get there. They need to have the commitment to see it through, which involves some experimentation and some committed course of action. They must also understand the expectations placed on colleagues, so they can be prepared for AI becoming a part of daily life.&nbsp;</p>
+
+
+
+<p>Top-down commitment, and communication from executives goes a long way, as there&#8217;s a lot of fear-mongering suggesting that AI will take jobs, and executives need to set the tone that, while AI won’t eliminate jobs outright, everyone&#8217;s job is going to change in the next couple of years, not just for people at the bottom or middle levels, but for everyone. Ongoing education throughout the deployment is key for teams learning how to get value from the tools, and adapt the way they work to incorporate the new skillsets.&nbsp;&nbsp;</p>
+
+
+
+<p>It&#8217;s also important to adopt technologies that play to the reality of the enterprise. For example, you have to let go of the idea that you need to get all your data in order to take action. In time-series forecasting, by the time you&#8217;ve taken four quarters to clean up data, there&#8217;s more data available, and it’s probably a mess. If you keep waiting for perfect data, you won&#8217;t be able to use your data at all. So AI solutions that can work with limited, sparse data are crucial, as you have to be able to learn from what you have.&nbsp;</p>
+
+
+
+<p>Another important aspect is adding an expert in the loop. It would be a mistake to assume AI is magic. There are a lot of decisions, especially in regulated industries, where you can&#8217;t have AI just make the decision. You need oversight, validation, and reinforcement learning – this is exactly how consumer solutions became so good.&nbsp;&nbsp;</p>
+
+
+
+<p><strong>Are there any case studies you could share with us regarding companies successfully utilising generative AI?</strong>&nbsp;</p>
+
+
+
+<p>One interesting example is a Marketplace customer that is using us to rationalise their product catalogue. They’re looking to understand the optimal number of SKUs to carry, so they can reduce their inventory carrying costs while still meeting customer needs. Another partner does workforce planning, forecasting, and scheduling, using us for labour balancing in hospitals, retail, and hospitality companies. In their case, all their data is sitting in different systems, and they must bring it into one view so they can balance employee wellness with operational excellence. But because we can support a wide variety of use cases, we work with clients doing everything from forecasting product usage as part of a move to a consumption-based model, to fraud detection.&nbsp;</p>
+
+
+
+<p>You <strong>recently launched an AI Ethics Council. What kind of people are on this council and what is its purpose?</strong>&nbsp;</p>
+
+
+
+<p>Our AI Ethics Council is all about making sure that the AI technology we&#8217;re building is grounded in ethics and responsible design. It&#8217;s a core part of who we are as a company, and I&#8217;m humbled and honoured to be a part of it alongside such an impressive group of individuals. Our council includes luminaries like Dr. Munther Dahleh, the Founding Director of the Institute for Data Systems and Society (IDSS) and a Professor at MIT; Aram A. Gavoor, Associate Dean at George Washington University and a recognised scholar in administrative law and national security; Dr. Michael Kearns, the National Center Chair for Computer and Information Science at the University of Pennsylvania; and Dr. Michael I. Jordan, a Distinguished Professor at UC Berkeley in the Departments of Electrical Engineering and Computer Science, and Statistics. I am also honoured to serve on this council alongside these esteemed individuals.&nbsp;&nbsp;</p>
+
+
+
+<p>The purpose of our AI Ethics Council is to tackle pressing ethical and security issues impacting AI development and usage. As AI rapidly becomes central to consumers and businesses across nearly every industry, we believe it is crucial to prioritise responsible development and cannot ignore the need for ethical considerations. The council will convene quarterly to discuss important topics such as AI governance, data minimisation, confidentiality, lawfulness, accuracy and more. Following each meeting, the council will publish recommendations for actions and next steps that organisations should consider moving forward. As part of Ikigai Labs&#8217; commitment to ethical AI deployment and innovation, we will implement the action items recommended by the council.&nbsp;</p>
+
+
+
+<p><strong>Ikigai Labs raised $25m funding in August last year. How will this help develop the company, its offerings and, ultimately, your customers?</strong>&nbsp;</p>
+
+
+
+<p>We have a strong foundation of research and innovation coming out of our core team with MIT, so the funding this time is focused on making the solution more robust, as well as bringing on the team that works with the clients and partners.&nbsp;&nbsp;</p>
+
+
+
+<p>We can solve a lot of problems but are staying focused on solving just a few meaningful ones through time-series super apps. We know that every company runs on four time series, so the goal is covering these in depth and with speed: things like sales forecasting, consumption forecasting, discount forecasting, how to sunset products, catalogue optimisation, etc. We’re excited and looking forward to putting GenAI for tabular data into the hands of as many customers as possible. </p>
+
+
+
+<p><strong><em>Kamal will take part in a panel discussion titled ‘Barriers to Overcome: People, Processes and Technology’ at the AI &amp; Big Data Expo in Santa Clara on June 5, 2024. You can find all the details <a href="https://www.ai-expo.net/northamerica/track/day-1-free-data-democratisation/">here</a>.</em></strong></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2023/10/image.png" alt="" class="wp-image-13755" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2023/10/image.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/10/image-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/10/image-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/10/image-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/10/image-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2023/10/image-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong>&nbsp;Check out<a href="https://www.ai-expo.net/">&nbsp;AI &amp; Big Data Expo</a>&nbsp;taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including&nbsp;<a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/">&nbsp;Digital Transformation Week</a>, and&nbsp;<a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge&nbsp;<a href="https://techforge.pub/upcoming-events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/kamal-ahluwalia-ikigai-labs-how-to-take-your-business-to-the-next-level-with-generative-ai/">Kamal Ahluwalia, Ikigai Labs: How to take your business to the next level with generative AI</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/kamal-ahluwalia-ikigai-labs-how-to-take-your-business-to-the-next-level-with-generative-ai/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,1078 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Muhammad Zulhusni, Author at AI News</title>
+	<atom:link href="https://www.artificialintelligence-news.com/news/author/muhammadzulhusni/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.artificialintelligence-news.com/news/author/muhammadzulhusni/</link>
+	<description>Artificial Intelligence News</description>
+	<lastBuildDate>Mon, 23 Dec 2024 14:09:30 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://www.artificialintelligence-news.com/wp-content/uploads/2020/09/ai-icon-60x60.png</url>
+	<title>Muhammad Zulhusni, Author at AI News</title>
+	<link>https://www.artificialintelligence-news.com/news/author/muhammadzulhusni/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>OpenAI funds $1 million study on AI and morality at Duke University</title>
+		<link>https://www.artificialintelligence-news.com/news/openai-funds-1-million-study-on-ai-and-morality-at-duke-university/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=openai-funds-1-million-study-on-ai-and-morality-at-duke-university</link>
+					<comments>https://www.artificialintelligence-news.com/news/openai-funds-1-million-study-on-ai-and-morality-at-duke-university/#respond</comments>
+		
+		<dc:creator><![CDATA[Muhammad Zulhusni]]></dc:creator>
+		<pubDate>Mon, 23 Dec 2024 14:09:26 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Industries]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[ethical AI]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16784</guid>
+
+					<description><![CDATA[<p>OpenAI is awarding a $1 million grant to a Duke University research team to look at how AI could predict human moral judgments. The initiative highlights the growing focus on the intersection of technology and ethics, and raises critical questions: Can AI handle the complexities of morality, or should ethical decisions remain the domain of<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/openai-funds-1-million-study-on-ai-and-morality-at-duke-university/" title="ReadOpenAI funds $1 million study on AI and morality at Duke University">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/openai-funds-1-million-study-on-ai-and-morality-at-duke-university/">OpenAI funds $1 million study on AI and morality at Duke University</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>OpenAI is awarding a $1 million grant to a Duke University research team to look at how AI could predict human moral judgments.</p>
+
+
+
+<p>The <a href="https://www.eweek.com/news/openai-funding-ai-morality-research/" target="_blank" rel="noreferrer noopener">initiative</a> highlights the growing focus on the intersection of technology and ethics, and raises critical questions: Can AI handle the complexities of morality, or should ethical decisions remain the domain of humans?</p>
+
+
+
+<p>Duke University’s Moral Attitudes and Decisions Lab (MADLAB), led by ethics professor Walter Sinnott-Armstrong and co-investigator Jana Schaich Borg, is in charge of the “Making Moral AI” project. The team envisions a “moral GPS,” a tool that could guide ethical decision-making.</p>
+
+
+
+<p>Its research spans diverse fields, including computer science, philosophy, psychology, and neuroscience, to understand how moral attitudes and decisions are formed and how AI can contribute to the process.</p>
+
+
+
+<h3 class="wp-block-heading">The role of AI in morality</h3>
+
+
+
+<p>MADLAB’s work examines how AI might predict or influence moral judgments. Imagine an algorithm assessing ethical dilemmas, such as deciding between two unfavourable outcomes in autonomous vehicles or providing guidance on ethical business practices. Such scenarios underscore AI’s potential but also raise fundamental questions: Who determines the moral framework guiding these types of tools, and should AI be trusted to make decisions with ethical implications?</p>
+
+
+
+<h3 class="wp-block-heading">OpenAI’s vision</h3>
+
+
+
+<p>The grant supports the development of algorithms that forecast human moral judgments in areas such as medical, law, and business, which frequently involve complex ethical trade-offs. While promising, AI still struggles to grasp the emotional and cultural nuances of morality. Current systems excel at recognising patterns but lack the deeper understanding required for ethical reasoning.</p>
+
+
+
+<p>Another concern is how this technology might be applied. While AI could assist in life-saving decisions, its use in defence strategies or surveillance introduces moral dilemmas. Can unethical AI actions be justified if they serve national interests or align with societal goals? These questions emphasise the difficulties of embedding morality into AI systems.</p>
+
+
+
+<h3 class="wp-block-heading">Challenges and opportunities</h3>
+
+
+
+<p>Integrating ethics into AI is a formidable challenge that requires collaboration across disciplines. Morality is not universal; it is shaped by cultural, personal, and societal values, making it difficult to encode into algorithms. Additionally, without safeguards such as transparency and accountability, there is a risk of perpetuating biases or enabling harmful applications.</p>
+
+
+
+<p>OpenAI’s investment in Duke’s research marks at step toward understanding the role of AI in ethical decision-making. However, the journey is far from over. Developers and policymakers must work together to ensure that AI tools align with social values, and emphasise fairness and inclusivity while addressing biases and unintended consequences.</p>
+
+
+
+<p>As AI becomes more integral to decision-making, its ethical implications demand attention. Projects like “Making Moral AI” offer a starting point for navigating a complex landscape, balancing innovation with responsibility in order to shape a future where technology serves the greater good.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/photos/a-cell-phone-sitting-on-top-of-a-laptop-computer-7q-kE4SZzvQ?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a>)</em></p>
+
+
+
+<p><strong>See also: <a target="_blank" href="https://www.artificialintelligence-news.com/news/ai-governance-analysing-emerging-global-regulations/" rel="noreferrer noopener">AI governance: Analysing emerging global regulations</a></strong></p>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a target="_blank" href="https://www.ai-expo.net/" rel="noreferrer noopener"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a target="_blank" href="https://intelligentautomation-conference.com/northamerica/" rel="noreferrer noopener">Intelligent Automation Conference</a>, <a target="_blank" href="https://www.blockchain-expo.com/" rel="noreferrer noopener">BlockX</a>,<a target="_blank" href="https://digitaltransformation-week.com/" rel="noreferrer noopener"> Digital Transformation Week</a>, and <a target="_blank" href="https://www.cybersecuritycloudexpo.com/" rel="noreferrer noopener">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a target="_blank" href="https://techforge.pub/events/" rel="noreferrer noopener">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/openai-funds-1-million-study-on-ai-and-morality-at-duke-university/">OpenAI funds $1 million study on AI and morality at Duke University</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/openai-funds-1-million-study-on-ai-and-morality-at-duke-university/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How blockchain, IoT, and AI are shaping the future of digital transformation</title>
+		<link>https://www.artificialintelligence-news.com/news/how-blockchain-iot-and-ai-are-shaping-the-future-of-digital-transformation/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-blockchain-iot-and-ai-are-shaping-the-future-of-digital-transformation</link>
+					<comments>https://www.artificialintelligence-news.com/news/how-blockchain-iot-and-ai-are-shaping-the-future-of-digital-transformation/#respond</comments>
+		
+		<dc:creator><![CDATA[Muhammad Zulhusni]]></dc:creator>
+		<pubDate>Mon, 23 Dec 2024 10:48:44 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[blockchain]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16754</guid>
+
+					<description><![CDATA[<p>When devices, networks, and AI work together seamlessly, it creates a smarter, more connected ecosystem. This isn&#8217;t a distant dream; it&#8217;s a reality rapidly emerging as blockchain, IoT, and AI come together. These technologies are no longer working in isolation – they form a trio that redefines how industries could function. David Palmer, chief product<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/how-blockchain-iot-and-ai-are-shaping-the-future-of-digital-transformation/" title="ReadHow blockchain, IoT, and AI are shaping the future of digital transformation">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/how-blockchain-iot-and-ai-are-shaping-the-future-of-digital-transformation/">How blockchain, IoT, and AI are shaping the future of digital transformation</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>When devices, networks, and AI work together seamlessly, it creates a smarter, more connected ecosystem.</p>
+
+
+
+<p>This isn&#8217;t a distant dream; it&#8217;s a reality rapidly emerging as blockchain, IoT, and AI come together. These technologies are no longer working in isolation – they form a trio that redefines how industries could function.</p>
+
+
+
+<p>David Palmer, chief product officer of Pairpoint by Vodafone, captures this shift: “Blockchain is providing trust. It gave us tokenisation, it gave us smart contracts, and it gave us a new way of automating, which is now spilling over into the wider business landscape.”</p>
+
+
+
+<h3 class="wp-block-heading" id="org5c0797e">Building trust with blockchain</h3>
+
+
+
+<p>At its core, blockchain has matured from experimental concepts to practical tools for industries. Its early potential is now manifest in real-world applications like supply chain management and decentralised finance (DeFi). Blockchain not only ensures trust through transparency but lets organisations streamline operations and gain new efficiencies.</p>
+
+
+
+<p>Palmer described blockchain&#8217;s evolution: “It&#8217;s been years in the past where we&#8217;ve done a lot of proof of concepts, we&#8217;ve done a lot of training. It&#8217;s been a lot of headlines. But today I really want to explore how blockchain and IoT and AI can work together to really be a part of the new business digital infrastructure that&#8217;s emerging.”</p>
+
+
+
+<h3 class="wp-block-heading" id="orgc99eded">IoT&#8217;s expanding role in data generation</h3>
+
+
+
+<p>IoT devices have become omnipresent, embedded in everything from cars and drones to household sensors. Experts expect that by 2030, there will be around 30 billion IoT devices worldwide. These devices generate massive amounts of data, which AI systems capitalise on to provide actionable insights. According to Palmer, “By 2030, we&#8217;re expecting over 30 billion IoT devices. These are cars, drones, cabinets, sensors, all woven into the business process and business industry.”</p>
+
+
+
+<p>But IoT isn&#8217;t just about data collection. It introduces the concept of the “economy of things,” where devices transact autonomously. To make this work, however, these devices need secure and reliable connectivity – a role blockchain is uniquely equipped to fulfil.</p>
+
+
+
+<h3 class="wp-block-heading" id="org9374375">AI&#8217;s appetite for reliable data</h3>
+
+
+
+<p>AI thrives on data, but the quality and security of that data are paramount. Public datasets have reached their limits, pushing businesses to tap into proprietary data generated by IoT devices. This creates a two-way relationship: IoT devices supply data for AI, while AI enhances these devices with real-time intelligence.</p>
+
+
+
+<p>Palmer emphasises the importance of data trustworthiness in this ecosystem: “You need an identity which gives you origin of data. So we know the data is coming from a certain source, is signed, but then we also need to trust the AI that&#8217;s coming back.”</p>
+
+
+
+<p>Blockchain plays an impartant role in ensuring trust. It guarantees the legitimacy of both the data given to AI systems and the intelligence delivered back to IoT devices through verified digital identities and cryptographic signing.</p>
+
+
+
+<h3 class="wp-block-heading" id="orgd93a44f">Digital wallets and the adoption of blockchain</h3>
+
+
+
+<p>Digital wallets are becoming a cornerstone of this evolving ecosystem. Their global numbers are expected to grow from 4 billion today to 5.6 billion by 2030. Unlike traditional wallets, blockchain-enabled wallets go beyond cryptocurrencies, supporting functionalities like account abstraction and integration with tools like WalletConnect.</p>
+
+
+
+<p>One breakthrough is the integration of tokenised bank deposits. These bridge traditional banking with blockchain, encouraging businesses to use blockchain for their transaction needs. As a result, blockchain is making its way into broader business applications.</p>
+
+
+
+<h3 class="wp-block-heading" id="org9594b76">Finance meets IoT</h3>
+
+
+
+<p>The integration of finance into IoT devices is another forward step. Using smart contracts and AI, devices as disparate as cars and drones can now handle payments autonomously. Toll payments, EV charging, and retail purchases are just the beginning of this embedded finance ecosystem.</p>
+
+
+
+<p>Palmer illustrated the potential: “By linking EV chargers and vehicles to blockchain, you can then relate that to their payment credential and their payment preferences. And then you can have a peer-to-peer transaction.”</p>
+
+
+
+<p>The same principle applies to energy grids, where vehicles can sell energy during peak times and recharge during off-peak hours, thereby enhancing sustainability.</p>
+
+
+
+<h3 class="wp-block-heading" id="org333fe0d">Decentralised infrastructure networks</h3>
+
+
+
+<p>Another interesting development is the rise of decentralised physical infrastructure networks (DePIN). These networks allow shared or tokenised resources to create community-driven infrastructures. For instance, protocols like Render pool GPU resources for gaming, while Filecoin decentralises storage.</p>
+
+
+
+<p>According to Palmer, “It&#8217;s about how communities can build specific AI and specific connectivity infrastructure, specific payments infrastructure for their businesses.”</p>
+
+
+
+<h3 class="wp-block-heading" id="orge26512d">Blockchain and the role of CBDCs</h3>
+
+
+
+<p>Governments are also noting blockchain&#8217;s potential. Central Bank Digital Currencies (CBDCs) are being explored as a way to integrate blockchain into macroeconomic policies, such as managing money supply and redistributing income. Tokenised deposits further extend blockchain&#8217;s role by digitising traditional monetary systems.</p>
+
+
+
+<p>With CBDCs and tokenised deposits, blockchain is moving beyond niche applications to become an important part of financial ecosystems worldwide.</p>
+
+
+
+<h3 class="wp-block-heading" id="orgb76c455">The metaverse and its evolution</h3>
+
+
+
+<p>The metaverse, once a far-off concept, is rapidly evolving. Innovations like AI-enabled smart glasses change how users interact with immersive digital content. Palmer noted: “This year, the introduction of the glasses by Meta […] allow you to […] access your content but also have access to AI agents.”</p>
+
+
+
+<p>AI robots are also adding a new dimension to the metaverse by bridging virtual and physical experiences. These same technologies and methods open up opportunities in a variety of industries, including manufacturing and healthcare.</p>
+
+
+
+<h3 class="wp-block-heading" id="org7073b77">A seamless digital ecosystem</h3>
+
+
+
+<p>The convergence of blockchain, IoT, and AI marks a turning point in digital transformation. Blockchain ensures trust, IoT generates data, and AI delivers intelligence. Together, these technologies promise to create a digital operating system capable of reshaping industries and economies by 2030.</p>
+
+
+
+<p>Palmer concludes, “If we can link billions of devices to blockchain and AI through secure infrastructure, we unlock the potential of a truly interconnected digital economy.”</p>
+
+
+
+<p><strong>See also: <a href="https://www.artificialintelligence-news.com/news/ai-governance-analysing-emerging-global-regulations/">AI meets blockchain and decentralised data</a></strong></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img fetchpriority="high" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:844px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="(max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a target="_blank" href="https://www.ai-expo.net/" rel="noreferrer noopener"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a target="_blank" href="https://intelligentautomation-conference.com/northamerica/" rel="noreferrer noopener">Intelligent Automation Conference</a>, <a target="_blank" href="https://www.blockchain-expo.com/" rel="noreferrer noopener">BlockX</a>,<a target="_blank" href="https://digitaltransformation-week.com/" rel="noreferrer noopener"> Digital Transformation Week</a>, and <a target="_blank" href="https://www.cybersecuritycloudexpo.com/" rel="noreferrer noopener">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a target="_blank" href="https://techforge.pub/events/" rel="noreferrer noopener">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/how-blockchain-iot-and-ai-are-shaping-the-future-of-digital-transformation/">How blockchain, IoT, and AI are shaping the future of digital transformation</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/how-blockchain-iot-and-ai-are-shaping-the-future-of-digital-transformation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NJ cops demand protections against data brokers</title>
+		<link>https://www.artificialintelligence-news.com/news/nj-cops-demand-protections-against-data-brokers/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=nj-cops-demand-protections-against-data-brokers</link>
+					<comments>https://www.artificialintelligence-news.com/news/nj-cops-demand-protections-against-data-brokers/#respond</comments>
+		
+		<dc:creator><![CDATA[Muhammad Zulhusni]]></dc:creator>
+		<pubDate>Mon, 16 Dec 2024 18:25:08 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[security]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16711</guid>
+
+					<description><![CDATA[<p>Privacy laws in the United States are a patchwork at best. More often than not, they miss the mark, leaving most people with little actual privacy. When such laws are enacted, they can seem tailored to protect those in positions of power. Even laws designed to protect crime victims might end up protecting the names<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/nj-cops-demand-protections-against-data-brokers/" title="ReadNJ cops demand protections against data brokers">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/nj-cops-demand-protections-against-data-brokers/">NJ cops demand protections against data brokers</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Privacy laws in the United States are a patchwork at best. More often than not, they miss the mark, leaving most people with little actual privacy. When <a target="_blank" href="https://www.techdirt.com/2024/11/26/nj-cops-are-suing-to-protect-their-exclusive-right-to-keep-their-data-out-of-data-brokers-databases/" rel="noreferrer noopener">such laws are enacted</a>, they can seem tailored to protect those in positions of power.</p>
+
+
+
+<p>Even laws designed to protect crime victims might end up protecting the names of abusive officers by labelling them as victims of crime in cases like resisting arrest or <a target="_blank" href="https://www.techdirt.com/2019/12/24/alabama-lawmakers-think-time-is-right-to-make-assaulting-cop-hate-crime/" rel="noreferrer noopener">assaulting an officer</a>. Such accusations are often used in cases of excessive force, keeping cops’ names out of the spotlight.</p>
+
+
+
+<p>For example, a recent New Jersey law emerged from a tragic event in which a government employee faced violence, sparking a legislative response. Known as “Daniel’s Law,” it was created after the personal information of a federal judge’s family was used by a murderer to track them down. Instead of a broader privacy law that could protect all residents of New Jersey, it focused exclusively on safeguarding certain public employees.</p>
+
+
+
+<p>Under the law, judges, prosecutors, and police officers can request that their personal information (addresses and phone numbers, for example) be scrubbed from public databases. Popular services that people use to look up information, such as Whitepages or Spokeo, must comply. While this sounds like a win for privacy, the protections stop there. The average citizen is still left exposed, with no legal recourse if their personal data is misused or sold.</p>
+
+
+
+<p>At the centre of the debate is a lawyer who’s taken up the cause of protecting cops’ personal data. He’s suing numerous companies for making this type of information accessible. While noble at first glance, a deeper look raises questions.</p>
+
+
+
+<p>It transpires that the lawyer&#8217;s company has previously collected and monetised personal <a target="_blank" href="https://www.artificialintelligence-news.com/news/machine-unlearning-researchers-ai-models-forget-data/" rel="noreferrer noopener">data</a>. And when a data service responded to his demands by freezing access to some of the firm&#8217;s databases, he and his clients cried foul — despite specifically requesting restrictions on how their information could be used.</p>
+
+
+
+<p>It’s also worth noting how unevenly data protection measures are to be applied. Cops, for instance, frequently rely on the same tools and databases they’re now asking to be restricted. These services have long been used by law enforcement for investigations and running background checks. Yet, when law enforcement data appears in such systems, special treatment is required.</p>
+
+
+
+<p>A recent anecdote involved a police union leader who was shown a simple property record pulled from an online database. The record displayed basic details like his home address and his property&#8217;s square footage — information anyone could find with a few clicks. His reaction was one of shock and anger – an obvious disconnect.</p>
+
+
+
+<p>For everyday citizens, this level of data exposure is a given. But for law enforcement, it requires a level of granular exclusion that&#8217;s not practical.</p>
+
+
+
+<p>Perhaps everyone, including law enforcement personnel deserves better safeguards against data harvesting and misuse? But what Daniel&#8217;s law and later events involving police officers point to is the need for the type of improvements to the way data is treated for all, not just one group of society.</p>
+
+
+
+<p>Instead of expanding privacy rights to all New Jersey residents, the law carves out exceptions for the powerful — leaving the rest of the population as vulnerable as ever.</p>
+
+
+
+<p><em>(Photo by<a href="https://unsplash.com/photos/a-police-car-parked-in-the-grass-near-palm-trees-E1lR_C-IGdo?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash"> Unsplash</a>)</em></p>
+
+
+
+<p><strong>See also: <a href="https://www.artificialintelligence-news.com/news/eu-ai-legislation-sparks-controversy-over-data-transparency/">EU AI legislation sparks controversy over data transparency</a></strong></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:1139px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="(max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a target="_blank" href="https://www.ai-expo.net/" rel="noreferrer noopener"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a target="_blank" href="https://intelligentautomation-conference.com/northamerica/" rel="noreferrer noopener">Intelligent Automation Conference</a>, <a target="_blank" href="https://www.blockchain-expo.com/" rel="noreferrer noopener">BlockX</a>,<a target="_blank" href="https://digitaltransformation-week.com/" rel="noreferrer noopener"> Digital Transformation Week</a>, and <a target="_blank" href="https://www.cybersecuritycloudexpo.com/" rel="noreferrer noopener">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a target="_blank" href="https://techforge.pub/events/" rel="noreferrer noopener">here</a>.</p>
+
+<p>The post <a href="https://www.artificialintelligence-news.com/news/nj-cops-demand-protections-against-data-brokers/">NJ cops demand protections against data brokers</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/nj-cops-demand-protections-against-data-brokers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Why QwQ-32B-Preview is the reasoning AI to watch</title>
+		<link>https://www.artificialintelligence-news.com/news/why-qwq-32b-preview-is-the-reasoning-ai-to-watch/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-qwq-32b-preview-is-the-reasoning-ai-to-watch</link>
+					<comments>https://www.artificialintelligence-news.com/news/why-qwq-32b-preview-is-the-reasoning-ai-to-watch/#respond</comments>
+		
+		<dc:creator><![CDATA[Muhammad Zulhusni]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2024 09:19:46 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[alibaba cloud]]></category>
+		<category><![CDATA[China]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16636</guid>
+
+					<description><![CDATA[<p>There’s a new contender in the AI space that’s making waves: QwQ-32B-Preview. This so-called “reasoning” AI model is being compared to OpenAI o1, and it’s one of the few you can download under a permissive license. For developers and researchers eager to experiment, that’s a significant bonus. Built by Alibaba’s Qwen team, QwQ-32B-Preview is anything<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/why-qwq-32b-preview-is-the-reasoning-ai-to-watch/" title="ReadWhy QwQ-32B-Preview is the reasoning AI to watch">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/why-qwq-32b-preview-is-the-reasoning-ai-to-watch/">Why QwQ-32B-Preview is the reasoning AI to watch</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>There’s a new contender in the AI space that’s making waves: QwQ-32B-Preview. </p>
+
+
+
+<p>This so-called “reasoning” AI model is being compared to OpenAI o1, and it’s one of the few you can download under a permissive license. For developers and researchers eager to experiment, that’s a significant bonus.</p>
+
+
+
+<p>Built by Alibaba’s Qwen team, QwQ-32B-Preview is anything but lightweight. It packs 32.5 billion parameters—think of these as the building blocks of its problem-solving abilities—and can handle prompts of up to 32,000 words; longer than some novels! Tests show it outperforms OpenAI o1-preview and o1-mini on benchmarks like AIME and MATH. For context, AIME uses other AI models to assess performance, while MATH is a collection of  word problems.</p>
+
+
+
+<p>But the model isn’t just about maths problems or logic puzzles. What sets it apart is how it approaches tasks. QwQ-32B-Preview plans ahead, fact-checks its work, and avoids common AI mistakes. Of course, it’s not flawless—Alibaba acknowledges issues like language switching, occasional loops, and difficulties with “common sense” reasoning. Even so, it represents a step toward more intelligent AI systems.</p>
+
+
+
+<p>QwQ-32B-Preview is accessible: You can run or download it via Hugging Face. However, like other Chinese-developed AI, it operates within regulatory boundaries. That means it carefully avoids politically sensitive topics to comply with China’s rules, ensuring it aligns with “core socialist values.”</p>
+
+
+
+<p>Alibaba isn’t alone in this space. Meta’s Llama 3.1 is another open-source option, though it takes a different approach by focusing on generative AI rather than reasoning. While both models are innovative, QwQ-32B-Preview specialises in problem-solving with what the company describes as a human-like approach, putting it in the reasoning category.</p>
+
+
+
+<p>The competition in AI inside China is intensifying. Companies such as DeepSeek, Shanghai AI Lab, and Kunlun Tech have entered the reasoning AI race, releasing their models at pace. For example, DeepSeek’s r1 claims to outperform OpenAI’s o1 on half of its benchmark tests, particularly in maths and programming. Shanghai AI Lab’s InternThinker takes a structured approach to problem-solving, incorporating steps such as understanding queries, recalling knowledge, planning solutions, and reflecting on its answers.</p>
+
+
+
+<p>This surge of activity highlights how quickly Chinese companies are catching up with US tech giants. Xu Liang, an AI entrepreneur from Hangzhou, <a href="https://www.scmp.com/tech/big-tech/article/3289022/chinese-ai-firms-rush-out-costly-reasoning-models-take-openais-o1" target="_blank" rel="noreferrer noopener">summed it up</a>: “OpenAI gave the direction; with research, Chinese tech firms are making progress.” The release of QwQ-32B-Preview and its competitors shows how much ground they’re covering.</p>
+
+
+
+<p>But this goes beyond just catching up. Reasoning AI marks a change in how models are designed and used. Unlike older AI systems that relied on brute force to generate answers, reasoning models like QwQ-32B-Preview aim to mimic human problem-solving. The approach not only makes them more effective for complex tasks but also expands their potential use cases, like tackling advanced maths or providing detailed financial advice.</p>
+
+
+
+<p>Whether it’s solving puzzles, reasoning through intricate problems, or expanding what open-source AI can achieve, one thing is clear: the evolution of AI is accelerating. Buckle up—this is only the beginning.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/photos/a-group-of-people-riding-scooters-in-front-of-a-tall-building-GoJ5By4jCfI?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a>)</em></p>
+
+
+
+<p><strong>See also: <a target="_blank" href="https://www.artificialintelligence-news.com/news/alibaba-cloud-overhauls-ai-partner-initiative/" rel="noreferrer noopener">Alibaba Cloud overhauls AI partner initiative</a></strong></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:969px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="(max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a target="_blank" href="https://www.ai-expo.net/" rel="noreferrer noopener"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a target="_blank" href="https://intelligentautomation-conference.com/northamerica/" rel="noreferrer noopener">Intelligent Automation Conference</a>, <a target="_blank" href="https://www.blockchain-expo.com/" rel="noreferrer noopener">BlockX</a>,<a target="_blank" href="https://digitaltransformation-week.com/" rel="noreferrer noopener"> Digital Transformation Week</a>, and <a target="_blank" href="https://www.cybersecuritycloudexpo.com/" rel="noreferrer noopener">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a target="_blank" href="https://techforge.pub/events/" rel="noreferrer noopener">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/why-qwq-32b-preview-is-the-reasoning-ai-to-watch/">Why QwQ-32B-Preview is the reasoning AI to watch</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/why-qwq-32b-preview-is-the-reasoning-ai-to-watch/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Generative AI use soars among Brits, but is it sustainable?</title>
+		<link>https://www.artificialintelligence-news.com/news/generative-ai-use-soars-among-brits-but-is-it-sustainable/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=generative-ai-use-soars-among-brits-but-is-it-sustainable</link>
+					<comments>https://www.artificialintelligence-news.com/news/generative-ai-use-soars-among-brits-but-is-it-sustainable/#respond</comments>
+		
+		<dc:creator><![CDATA[Muhammad Zulhusni]]></dc:creator>
+		<pubDate>Wed, 27 Nov 2024 20:19:15 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[Data Center]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[generative ai]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[uk]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16560</guid>
+
+					<description><![CDATA[<p>A survey by CloudNine PR shows that 83% of UK adults are aware of generative AI tools, and 45% of those familiar with them want companies to be transparent about the environmental costs associated with the technologies. With data centres burning vast amounts of energy, the growing demand for GenAI has sparked a debate about<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/generative-ai-use-soars-among-brits-but-is-it-sustainable/" title="ReadGenerative AI use soars among Brits, but is it sustainable?">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/generative-ai-use-soars-among-brits-but-is-it-sustainable/">Generative AI use soars among Brits, but is it sustainable?</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>A <a href="https://www.cloudninepr.com/genai-technology-climate-consumers-survey/" target="_blank" rel="noreferrer noopener">survey by CloudNine PR</a> shows that 83% of UK adults are aware of generative AI tools, and 45% of those familiar with them want companies to be transparent about the environmental costs associated with the technologies.</p>
+
+
+
+<p>With data centres burning vast amounts of energy, the growing demand for GenAI has sparked a debate about its sustainability.</p>
+
+
+
+<h3 class="wp-block-heading">The cost of intelligence: Generative AI’s carbon footprint</h3>
+
+
+
+<p>Behind every AI-generated email, idea, or recommendation are data centres running thousands of energy-hungry servers. Data centres are responsible for both training the large language models that power generative AI and processing individual user queries. Unlike a simple Google search, which uses relatively little energy, a single generative AI request can consume up to ten times as much electricity.</p>
+
+
+
+<p>The numbers are staggering. If all nine billion daily Google searches worldwide were replaced with generative AI tasks, the additional electricity demand would match the annual energy consumption of 1.5 million EU residents. According to consultants Morgan Stanley, the energy demands of generative AI are expected to grow by 70% annually until 2027. By that point, the energy required to support generative AI systems could rival the electricity needs of an entire country—Spain, for example, based on its 2022 usage.</p>
+
+
+
+<h3 class="wp-block-heading">UK consumers want greener AI practices</h3>
+
+
+
+<p>The survey also highlights growing awareness among UK consumers about the environmental implications of generative AI. Nearly one in five respondents said they don’t trust generative AI providers to manage their environmental impact responsibly. Among regular users of these tools, 10% expressed a willingness to pay a premium for products or services that prioritise energy efficiency and sustainability.</p>
+
+
+
+<p>Interestingly, over a third (35%) of respondents think generative AI tools should &#8220;actively remind&#8221; users of their environmental impact. While this appears like a small step, it has the potential to encourage more mindful usage and place pressure on companies to adopt greener technologies.</p>
+
+
+
+<h3 class="wp-block-heading">Efforts to tackle the environmental challenge</h3>
+
+
+
+<p>Fortunately, some companies and policymakers are beginning to address these concerns. In the United States, the Artificial Intelligence Environmental Impacts Act was introduced earlier this year. The legislation aims to standardise how AI companies measure and report carbon emissions. It also provides a voluntary framework for developers to evaluate and disclose their systems’ environmental impact, pushing the industry towards greater transparency.</p>
+
+
+
+<p>Major players in the tech industry are also stepping up. Companies like Salesforce have voiced support for legislation requiring standardised methods to measure and report AI’s carbon footprint. Experts point to several practical ways to reduce generative AI’s environmental impact, including adopting energy-efficient hardware, using sustainable cooling methods in data centres, and transitioning to renewable energy sources.</p>
+
+
+
+<p>Despite these efforts, the urgency to address generative AI’s environmental impact remains critical. As Uday Radia, owner of CloudNine PR, puts it: “Generative AI has huge potential to make our lives better, but there is a race against time to make it more sustainable before it gets out of control.”</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/photos/red-and-white-striped-flag-vuV25OfnGa8?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a>)</em></p>
+
+
+
+<p><strong>See also: <a target="_blank" href="https://www.artificialintelligence-news.com/news/the-ai-revolution-reshaping-data-centres-and-the-digital-landscape/" rel="noreferrer noopener">The AI revolution: Reshaping data centres and the digital landscape&nbsp;</a></strong></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:969px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a target="_blank" href="https://www.ai-expo.net/" rel="noreferrer noopener"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a target="_blank" href="https://intelligentautomation-conference.com/northamerica/" rel="noreferrer noopener">Intelligent Automation Conference</a>, <a target="_blank" href="https://www.blockchain-expo.com/" rel="noreferrer noopener">BlockX</a>,<a target="_blank" href="https://digitaltransformation-week.com/" rel="noreferrer noopener"> Digital Transformation Week</a>, and <a target="_blank" href="https://www.cybersecuritycloudexpo.com/" rel="noreferrer noopener">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a target="_blank" href="https://techforge.pub/events/" rel="noreferrer noopener">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/generative-ai-use-soars-among-brits-but-is-it-sustainable/">Generative AI use soars among Brits, but is it sustainable?</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/generative-ai-use-soars-among-brits-but-is-it-sustainable/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Big tech’s AI spending hits new heights</title>
+		<link>https://www.artificialintelligence-news.com/news/big-tech-ai-spending-hits-new-heights/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=big-tech-ai-spending-hits-new-heights</link>
+					<comments>https://www.artificialintelligence-news.com/news/big-tech-ai-spending-hits-new-heights/#respond</comments>
+		
+		<dc:creator><![CDATA[Muhammad Zulhusni]]></dc:creator>
+		<pubDate>Fri, 22 Nov 2024 12:02:34 +0000</pubDate>
+				<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[meta]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16537</guid>
+
+					<description><![CDATA[<p>In 2024, Big Tech is all-in on artificial intelligence, with companies like Microsoft, Amazon, Alphabet, and Meta leading the way. Their combined spending on AI is projected to exceed a jaw-dropping $240 billion. Why? Because AI isn’t just the future—it’s the present, and the demand for AI-powered tools and infrastructure has never been higher. The<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/big-tech-ai-spending-hits-new-heights/" title="ReadBig tech’s AI spending hits new heights">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/big-tech-ai-spending-hits-new-heights/">Big tech’s AI spending hits new heights</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>In 2024, Big Tech is all-in on artificial intelligence, with companies like Microsoft, Amazon, Alphabet, and Meta leading the way.</p>
+
+
+
+<p>Their combined spending on AI is projected to exceed a jaw-dropping $240 billion. Why? Because AI isn’t just the future—it’s the present, and the demand for AI-powered tools and infrastructure has never been higher. The companies aren’t just keeping up; they’re setting the pace for the industry.</p>
+
+
+
+<p>The <a href="https://dataconomy.com/2024/11/18/big-tech-ai-spending-in-2024/" target="_blank" rel="noreferrer noopener">scale of their investment</a> is hard to ignore. In the first half of 2023, tech giants poured $74 billion into capital expenditure. By Q3, that number had jumped to $109 billion. In mid-2024, spending reached $104 billion, a remarkable 47% rise over the same period a year earlier. By Q3, the total hit $171 billion.</p>
+
+
+
+<p>If this pattern continues, Q4 might add another $70 billion, bringing the total to a truly staggering $240 billion for the year.</p>
+
+
+
+<h3 class="wp-block-heading">Why so much spending?</h3>
+
+
+
+<p>AI’s potential is immense, and companies are making sure they’re positioned to reap the rewards.</p>
+
+
+
+<ul class="wp-block-list">
+<li>A growing market: AI is projected to create $20 trillion in global economic impact by 2030. In countries like India, AI could contribute $500 billion to GDP by 2025. With stakes this high, big tech isn’t hesitating to invest heavily.</li>
+
+
+
+<li>Infrastructure demands: Training and running AI models require massive investment in infrastructure, from data centres to high-performance GPUs. Alphabet increased its capital expenditures by 62% last quarter compared to the previous year, even as it cut its workforce by 9,000 employees to manage costs.</li>
+
+
+
+<li>Revenue potential: AI is already proving its value. Microsoft’s AI products are expected to generate $10 billion annually—the fastest-growing segment in the company’s history. Alphabet, meanwhile, uses AI to write over 25% of its new code, streamlining operations.</li>
+</ul>
+
+
+
+<p>Amazon is also ramping up, with plans to spend $75 billion on capital expenditure in 2024. Meta’s forecast is not far behind, with estimates between $38 and $40 billion. Across the board, organisations recognise that maintaining their edge in AI requires sustained and significant investment.</p>
+
+
+
+<h3 class="wp-block-heading">Supporting revenue streams</h3>
+
+
+
+<p>What keeps the massive investments keep on coming is the strength of big tech’s core businesses. Last quarter, Alphabet’s digital advertising machine, which is powered by Google’s search engine, generated $49.39 billion in ad revenue, a 12% year-over-year increase. This as a solid foundation that allows Alphabet to pour resources into building out its AI arsenal without destabilising the bottom line.</p>
+
+
+
+<p>Microsoft’s diversified revenue streams are another example. While the company spent $20 billion on AI and cloud infrastructure last quarter, its productivity segment, which includes Office, grew by 12% to $28.3 billion, and its personal computing business, boosted by <a href="https://tech.slashdot.org/story/24/11/18/0022217/google-microsoft-are-spending-massively-on-ai-quarterly-earnings-show" target="_blank" rel="noreferrer noopener">Xbox and the Activision Blizzard acquisition</a>, grew 17% to $13.2 billion. These successes demonstrate how AI investments can support broader growth strategies.</p>
+
+
+
+<h3 class="wp-block-heading">The financial payoff</h3>
+
+
+
+<p>Big tech is already seeing the benefits of its heavy spending. Microsoft’s Azure platform has seen substantial growth, with its AI income approaching $6 billion. Amazon’s AI business is growing at triple-digit rates, and Alphabet reported a 34% jump in profits last quarter, with cloud revenue playing a major role.</p>
+
+
+
+<p>Meta, while primarily focused on advertising, is leveraging AI to make its platforms more engaging. AI-driven tools, such as improved feeds and search features keep users on its platforms longer, resulting in new revenue growth.</p>
+
+
+
+<p>AI spending shows no signs of slowing down. Tech leaders at Microsoft and Alphabet view AI as a long-term investment critical to their future success. And the results speak for themselves: Alphabet’s cloud revenue is up 35%, while Microsoft’s cloud business grew 20% last quarter.</p>
+
+
+
+<p>For the time being, the focus is on scaling up infrastructure and meeting demand. However, the real transformation will come when big tech unlocks AI’s full potential, transforming industries and redefining how we work and live.</p>
+
+
+
+<p>By investing in high-quality, centralised data strategies, businesses can ensure trustworthy and accurate AI implementations, and unlock AI’s full potential to drive innovation, improve decision-making, and gain competitive edge. AI’s revolutionary promise is within reach—but only for companies prepared to lay the groundwork for sustainable growth and long-term results.</p>
+
+
+
+<p>(Photo by <a href="https://unsplash.com/photos/black-and-white-smartphone-displaying-google-search-yp-BBMj_4wM?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a>)</p>
+
+
+
+<p><strong>See also: <a href="https://www.artificialintelligence-news.com/news/microsoft-tries-to-convert-google-chrome-users/">Microsoft tries to convert Google Chrome users</a></strong></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:1291px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a target="_blank" href="https://www.ai-expo.net/" rel="noreferrer noopener"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a target="_blank" href="https://intelligentautomation-conference.com/northamerica/" rel="noreferrer noopener">Intelligent Automation Conference</a>, <a target="_blank" href="https://www.blockchain-expo.com/" rel="noreferrer noopener">BlockX</a>,<a target="_blank" href="https://digitaltransformation-week.com/" rel="noreferrer noopener"> Digital Transformation Week</a>, and <a target="_blank" href="https://www.cybersecuritycloudexpo.com/" rel="noreferrer noopener">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a target="_blank" href="https://techforge.pub/events/" rel="noreferrer noopener">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/big-tech-ai-spending-hits-new-heights/">Big tech’s AI spending hits new heights</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/big-tech-ai-spending-hits-new-heights/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Salesforce launches AI platform for automated task management</title>
+		<link>https://www.artificialintelligence-news.com/news/salesforce-launches-ai-platform-for-automated-task-management/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=salesforce-launches-ai-platform-for-automated-task-management</link>
+					<comments>https://www.artificialintelligence-news.com/news/salesforce-launches-ai-platform-for-automated-task-management/#respond</comments>
+		
+		<dc:creator><![CDATA[Muhammad Zulhusni]]></dc:creator>
+		<pubDate>Wed, 20 Nov 2024 09:18:18 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[gpt]]></category>
+		<category><![CDATA[salesforce]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16512</guid>
+
+					<description><![CDATA[<p>Business Insider’s “CXO AI Playbook” looks at how firms are utilising AI to tackle challenges, scale operations, and plan for the future. The Playbook looks at stories from various industries to see what problems AI is solving, who’s driving these initiatives, and how it’s reshaping strategies. Salesforce, well known for its CRM software used by<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/salesforce-launches-ai-platform-for-automated-task-management/" title="ReadSalesforce launches AI platform for automated task management">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/salesforce-launches-ai-platform-for-automated-task-management/">Salesforce launches AI platform for automated task management</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><em><a target="_blank" href="https://www.businessinsider.com/salesforce-agentforce-ai-tool-automate-tasks-boost-productivity-2024-11" rel="noreferrer noopener">Business Insider’s</a></em> “CXO AI Playbook” looks at how firms are utilising AI to tackle challenges, scale operations, and plan for the future.</p>
+
+
+
+<p>The Playbook looks at stories from various industries to see what problems AI is solving, who’s driving these initiatives, and how it’s reshaping strategies.</p>
+
+
+
+<p>Salesforce, well known for its CRM software used by over 150,000 companies like Amazon and Walmart, is no stranger to innovation. It also owns Slack, the popular workplace communication app. Salesforce is now stepping up its AI game with Agentforce, a platform that lets businesses to build and deploy digital agents to automate tasks such as creating sales reports and summarising Slack conversations.</p>
+
+
+
+<h3 class="wp-block-heading">What problem is it solving?</h3>
+
+
+
+<p>Salesforce has been working with AI for years. In 2016, it launched Einstein, an AI feature baked into its CRM platform. Einstein handled basic scriptable tasks, but the rise of generative AI brought a chance to do more. Smarter tools could now make better decisions and understand natural language.</p>
+
+
+
+<p>This sparked a transformation. First came Einstein GPT, then Einstein Copilot, and now Agentforce—a platform designed for flexibility with prebuilt and customisable agents to handle diverse business needs.</p>
+
+
+
+<p>“Our customers wanted more. Some wanted to tweak the agents we offer, while others wanted to create their own,” said Tyler Carlson, Salesforce’s VP of Business Development.</p>
+
+
+
+<h3 class="wp-block-heading">The tech behind it</h3>
+
+
+
+<p>Agentforce is powered by Salesforce’s Atlas Reasoning Engine, developed in-house. The platform connects with AI models from major players like OpenAI, Anthropic, Amazon, and Google, giving businesses access to a variety of tools.</p>
+
+
+
+<p>Slack has become a testing ground for these AI agents. Currently in beta, Agentforce’s Slack integration puts automations where employees already spend their time. “Slack makes these tools easy to use and accessible,” Carlson added.</p>
+
+
+
+<h3 class="wp-block-heading">Smarter, more flexible AI</h3>
+
+
+
+<p>Agentforce uses ReAct prompting, a technique that helps agents break down problems into smaller steps and adjust their approach as they go. This leads to more accurate responses and hands-off task management, from answering questions to scheduling meetings.</p>
+
+
+
+<p>Agentforce works with Salesforce’s proprietary LLMs and third-party models, giving clients plenty of options. To ensure security, Salesforce enforces strict data privacy policies, including limits on data retention.</p>
+
+
+
+<h3 class="wp-block-heading">Making it work for businesses</h3>
+
+
+
+<p>With tools like Agentbuilder, companies can design AI agents tailored to their needs. For example, an agent could sort emails or answer specific HR questions using internal data. One example is Salesforce’s collaboration with Workday to create an AI service agent for employee queries.</p>
+
+
+
+<p>Salesforce is already seeing results, with Agentforce resolving 90% of customer inquiries in early trials. The goal? Broader adoption, more capabilities, and higher workloads handled by these agents.</p>
+
+
+
+<p>“We’re building a bigger ecosystem of partners and skills,” Carlson said. “By next year, we want Agentforce to be a must-have for businesses.”</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/photos/a-large-open-office-space-with-many-desks-and-chairs-Mgm6aq1UYpI?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a>)</em></p>
+
+
+
+<p><strong>See also: <a target="_blank" href="https://www.artificialintelligence-news.com/news/paul-osullivan-salesforce-transforming-work-genai-era/" rel="noreferrer noopener">Paul O&#8217;Sullivan, Salesforce: Transforming work in the GenAI era</a></strong></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" style="width:2239px;height:auto" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a target="_blank" href="https://www.ai-expo.net/" rel="noreferrer noopener"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a target="_blank" href="https://intelligentautomation-conference.com/northamerica/" rel="noreferrer noopener">Intelligent Automation Conference</a>, <a target="_blank" href="https://www.blockchain-expo.com/" rel="noreferrer noopener">BlockX</a>,<a target="_blank" href="https://digitaltransformation-week.com/" rel="noreferrer noopener"> Digital Transformation Week</a>, and <a target="_blank" href="https://www.cybersecuritycloudexpo.com/" rel="noreferrer noopener">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a target="_blank" href="https://techforge.pub/events/" rel="noreferrer noopener">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/salesforce-launches-ai-platform-for-automated-task-management/">Salesforce launches AI platform for automated task management</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/salesforce-launches-ai-platform-for-automated-task-management/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft tries to convert Google Chrome users</title>
+		<link>https://www.artificialintelligence-news.com/news/microsoft-tries-to-convert-google-chrome-users/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=microsoft-tries-to-convert-google-chrome-users</link>
+					<comments>https://www.artificialintelligence-news.com/news/microsoft-tries-to-convert-google-chrome-users/#respond</comments>
+		
+		<dc:creator><![CDATA[Muhammad Zulhusni]]></dc:creator>
+		<pubDate>Fri, 15 Nov 2024 09:08:51 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16490</guid>
+
+					<description><![CDATA[<p>Microsoft Edge has evolved into more than simply a browser; it is a critical component of Microsoft’s ecosystem, meant to integrate smoothly with Windows and highlight the company’s latest innovations, such as its AI assistant, Copilot. While these interconnections make Edge a viable choice, Microsoft’s methods for persuading consumers to choose it have been far<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/microsoft-tries-to-convert-google-chrome-users/" title="ReadMicrosoft tries to convert Google Chrome users">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/microsoft-tries-to-convert-google-chrome-users/">Microsoft tries to convert Google Chrome users</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Microsoft Edge has evolved into more than simply a browser; it is a critical component of Microsoft’s ecosystem, meant to integrate smoothly with Windows and highlight the company’s latest innovations, such as its AI assistant, Copilot. </p>
+
+
+
+<p>While these interconnections make Edge a viable choice, Microsoft’s methods for persuading consumers to choose it have been far from covert.</p>
+
+
+
+<p>From default settings that prioritise Edge to persistent prompts at startup, Microsoft has made it clear they want Edge to be the go-to for Windows users. And lately, it&#8217;s upped the ante: now, Edge can launch automatically when your computer boots up, instantly nudging you to bring over your data from other browsers.</p>
+
+
+
+<p>The most recent update includes an auto-checked option to import browsing data from Chrome, such as history, bookmarks, and open tabs, in the name of users leveraging the features of AI assistant, Copilot. Although AI features may be appealing to some, the aggressive approach has left many users feeling annoyed rather than tempted.</p>
+
+
+
+<p><em><a href="https://www.theverge.com/2024/11/12/24294454/microsoft-edge-chrome-tabs-prompt-trick">The Verge</a></em> recently noticed that when you start up your PC, Edge might decide to open on its own, promptly displaying a pop-up for its AI assistant, Copilot. Right next to Copilot, there’s a conveniently checked box allowing Edge to import data from other browsers automatically. For some users, this seems like an overreach, raising doubts about how far Microsoft is ready to go to make Edge the browser of choice.</p>
+
+
+
+<p>Microsoft has confirmed this setup and stated that customers have the option to opt-out. Still, with default settings that favour data imports and an eye-catching import button, it’s easy for users to unintentionally make the switch, especially if they’re not paying attention. For those who prefer sticking with their existing browsers without interruption, the approach can feel unwelcome.</p>
+
+
+
+<p>But even if users dodge the pop-ups, Edge isn’t exactly shy. Uninstalling it is a complex process, and it often gets reinstalled by Windows updates, much to the frustration of users who would rather go without. For many, this persistence feels more like a forceful sales pitch rather than a friendly suggestion.</p>
+
+
+
+<p>Interestingly, this isn’t the first time Microsoft has tried this type of strategy. A similar message appeared to users earlier this year but was pulled back after strong objections. Now, it’s back, with Microsoft’s Caitlin Roulston stating the notification is meant to “give users the choice to import data from other browsers.”</p>
+
+
+
+<p>In fact, Microsoft’s bold tactics go back some years. In 2022, it introduced a feature that could automatically pull data from Chrome into Edge – although users had the option to decline. In 2021, the company made it practically impossible to set any browser other than Edge as the default, resulting in enough outcry for Microsoft to back down.</p>
+
+
+
+<p>While Microsoft promotes its intrusive pop-ups as a way to give users more control, others who value choice without constant nudges. The relentless push for Edge usage could actually be detrimental, as the company&#8217;s persistence may drive users toward other browsers rather than away. To truly compete, Microsoft might benefit from letting Edge’s strengths speak for themselves rather than relying on aggressive prompts to change hearts and minds.</p>
+
+
+
+<p><em>(Photo by <a href="https://unsplash.com/@surface?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Surface</a>)</em></p>
+
+
+
+<p><strong>See also: <a href="https://www.artificialintelligence-news.com/news/eu-probes-microsoft-openai-and-google-samsung-ai-deals/">EU probes Microsoft-OpenAI and Google-Samsung AI deals</a></strong></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/microsoft-tries-to-convert-google-chrome-users/">Microsoft tries to convert Google Chrome users</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/microsoft-tries-to-convert-google-chrome-users/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NVIDIA AI Summit Japan: NVIDIA’s role in Japan’s big AI ambitions</title>
+		<link>https://www.artificialintelligence-news.com/news/nvidia-ai-summit-japan-nvidia-role-in-japans-big-ai-ambitions/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=nvidia-ai-summit-japan-nvidia-role-in-japans-big-ai-ambitions</link>
+					<comments>https://www.artificialintelligence-news.com/news/nvidia-ai-summit-japan-nvidia-role-in-japans-big-ai-ambitions/#respond</comments>
+		
+		<dc:creator><![CDATA[Muhammad Zulhusni]]></dc:creator>
+		<pubDate>Wed, 13 Nov 2024 09:01:41 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[Nvidia]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16475</guid>
+
+					<description><![CDATA[<p>Japan is on a mission to become a global AI powerhouse, and it’s starting with some impressive advances in AI-driven language models. Japanese technology experts are developing advanced models that grasp the unique nuances of the Japanese language and culture—essential for industries such as healthcare, finance, and manufacturing – where precision is key. But this<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/nvidia-ai-summit-japan-nvidia-role-in-japans-big-ai-ambitions/" title="ReadNVIDIA AI Summit Japan: NVIDIA’s role in Japan’s big AI ambitions">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/nvidia-ai-summit-japan-nvidia-role-in-japans-big-ai-ambitions/">NVIDIA AI Summit Japan: NVIDIA’s role in Japan’s big AI ambitions</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Japan is on a mission to become a global AI powerhouse, and it’s starting with some impressive advances in AI-driven language models. </p>
+
+
+
+<p>Japanese technology experts are developing advanced models that grasp the unique nuances of the Japanese language and culture—essential for industries such as healthcare, finance, and manufacturing – where precision is key.</p>
+
+
+
+<p>But this effort isn’t Japan’s alone. Consulting giants like Accenture, Deloitte, EY Japan, FPT, Kyndryl, and TCS Japan are partnering with NVIDIA to create AI innovation hubs across the country. The centres are using NVIDIA’s AI software and specialised Japanese language models to build tailored AI solutions, helping industries boost productivity in a digital workforce. The goal? To get Japanese companies fully on board with enterprise and physical AI.</p>
+
+
+
+<p>One standout technology supporting the drive is NVIDIA’s Omniverse platform. With Omniverse, Japanese companies can create digital twins—virtual replicas of real-world assets—and test complex AI systems safely before implementing them. This is a game-changer for industries such as manufacturing and robotics, allowing businesses to fine-tune processes without the risk of real-world trial and error. This use of AI is more than just innovation; it represents Japan’s plan for addressing some major challenges ahead.</p>
+
+
+
+<p>Japan faces a shrinking workforce presence as its population ages. With its strengths in robotics and automation, Japan is well-positioned to use AI solutions to bridge the gap. In fact, Japan’s government recently shared its vision of becoming “the world’s most AI-friendly country,” underscoring the perceived role AI will play in the nation’s future.</p>
+
+
+
+<p>Supporting this commitment, Japan’s AI market hit $5.9 billion in value this year; a 31.2% growth rate according to IDC. New AI-focused consulting centres in Tokyo and Kansai give Japanese businesses hands-on access to NVIDIA’s latest technologies, equipping them to solve social challenges and aid economic growth.</p>
+
+
+
+<p>Top cloud providers like SoftBank, GMO Internet Group, KDDI, Highreso, Rutilea, and SAKURA Internet are also involved, working with NVIDIA to build AI infrastructure. Backed by Japan’s Ministry of Economy, Trade and Industry, they’re establishing AI data centres across Japan to accelerate growth in robotics, automotive, healthcare, and telecoms.</p>
+
+
+
+<p>NVIDIA and SoftBank have also formed a remarkable partnership to build Japan’s most powerful AI supercomputer using <a href="https://www.nvidia.com/en-us/data-center/technologies/blackwell-architecture/" target="_blank" rel="noreferrer noopener">NVIDIA’s Blackwell platform</a>. Additionally, SoftBank has tested the world’s first AI and 5G hybrid telecoms network with NVIDIA’s AI Aerial platform, allowing Japan to set a worldwide standard. With these developments, Japan is taking big strides toward establishing itself as a leader in the AI-powered industrial revolution.</p>
+
+
+
+<p>(Photo by <a href="https://unsplash.com/@zelebb?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Andrey Matveev</a>)</p>
+
+
+
+<p><strong>See also: <a target="_blank" href="https://www.artificialintelligence-news.com/news/nvidia-share-price-nosedives-antitrust-clouds-gather/" rel="noreferrer noopener">NVIDIA&#8217;s share price nosedives as antitrust clouds gather</a></strong></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/nvidia-ai-summit-japan-nvidia-role-in-japans-big-ai-ambitions/">NVIDIA AI Summit Japan: NVIDIA’s role in Japan’s big AI ambitions</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/nvidia-ai-summit-japan-nvidia-role-in-japans-big-ai-ambitions/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>AI courses to boost your skills and stay ahead</title>
+		<link>https://www.artificialintelligence-news.com/news/ai-courses-to-boost-your-skills-and-stay-ahead-in-a-rapidly-evolving-field/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ai-courses-to-boost-your-skills-and-stay-ahead-in-a-rapidly-evolving-field</link>
+					<comments>https://www.artificialintelligence-news.com/news/ai-courses-to-boost-your-skills-and-stay-ahead-in-a-rapidly-evolving-field/#respond</comments>
+		
+		<dc:creator><![CDATA[Muhammad Zulhusni]]></dc:creator>
+		<pubDate>Wed, 13 Nov 2024 08:56:51 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Education]]></category>
+		<category><![CDATA[Ethics & Society]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[ethic]]></category>
+		<guid isPermaLink="false">https://www.artificialintelligence-news.com/?p=16465</guid>
+
+					<description><![CDATA[<p>AI continues to transform industries, and having the right skills can make a significant difference to your career. Professionals wishing to get into this evolving field can take advantage of a variety of specialised courses that teach how to use AI in business, creativity, and data analysis. Artificial Intelligence: Preparing Your Career for AI Artificial<a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/ai-courses-to-boost-your-skills-and-stay-ahead-in-a-rapidly-evolving-field/" title="ReadAI courses to boost your skills and stay ahead">... Read more &#187;</a></p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ai-courses-to-boost-your-skills-and-stay-ahead-in-a-rapidly-evolving-field/">AI courses to boost your skills and stay ahead</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://www.artificialintelligence-news.com/news/ai-sector-study-record-growth-masks-serious-challenges/" target="_blank" rel="noreferrer noopener">AI</a> continues to transform industries, and having the right skills can make a significant difference to your career. </p>
+
+
+
+<p>Professionals wishing to get into this evolving field can take advantage of a variety of specialised courses that teach how to use AI in business, creativity, and data analysis.</p>
+
+
+
+<p><strong>Artificial Intelligence: Preparing Your Career for AI</strong></p>
+
+
+
+<p><a href="https://www.udemy.com/course/artificial-intelligence-preparing-your-career-for-ai/?ranMID=39197&amp;ranEAID=50DJ9wK%2FdbY&amp;ranSiteID=50DJ9wK_dbY-Y7M.YyCTNkTxexqIclo55g&amp;LSNPUBID=50DJ9wK%2FdbY&amp;utm_source=aff-campaign&amp;utm_medium=udemyads" target="_blank" rel="noreferrer noopener">Artificial Intelligence: Preparing Your Career for AI</a> is an option for those wanting to future-proof their careers in an AI-centric workplace. The course outlines five essential steps for preparing for AI’s impact on job roles and skill requirements. Participants learn the basics of AI, strategies for aligning their career paths with AI advancements, and how to use AI responsibly.</p>
+
+
+
+<p>The course is ideal for individuals at any career stage who wish to understand AI’s impact on the job market and adapt proactively.</p>
+
+
+
+<p><strong>Generative AI for Leaders</strong></p>
+
+
+
+<p>For business leaders, <a href="https://www.udemy.com/course/generative-ai-for-leaders-x/?ranMID=39197&amp;ranEAID=50DJ9wK%2FdbY&amp;ranSiteID=50DJ9wK_dbY-_qTIQ526UGltZ2ZWtNfsfQ&amp;LSNPUBID=50DJ9wK%2FdbY&amp;utm_source=aff-campaign&amp;utm_medium=udemyads" target="_blank" rel="noreferrer noopener">Generative AI for Leaders</a> focuses on integrating AI into organisation&#8217;s strategy. AI’s rapid advancement offers both opportunities and challenges for business leaders, who must balance innovation with ethical and operational concerns.</p>
+
+
+
+<p>In this course, participants learn strategies for building AI-driven business initiatives and fostering collaboration, and learn how to address compliance and ethical considerations.</p>
+
+
+
+<p>With a practical look at AI trends, this course prepares leaders to develop a culture that supports AI adoption and equips them with the tools needed to make informed decisions.</p>
+
+
+
+<p><strong>Business Analyst: Digital Director for AI and Data Science</strong></p>
+
+
+
+<p><a href="https://www.udemy.com/course/an-overview-of-business-analysis-data-analytics-and-ai/?ranMID=39197&amp;ranEAID=50DJ9wK%2FdbY&amp;ranSiteID=50DJ9wK_dbY-bjHR.AMh_p_dphPm6xjVsQ&amp;LSNPUBID=50DJ9wK%2FdbY&amp;utm_source=aff-campaign&amp;utm_medium=udemyads" target="_blank" rel="noreferrer noopener">Business Analyst: Digital Director for AI and Data Science</a> is a course designed for business analysts and professionals explaining how to define requirements for data science and artificial intelligence projects. The course covers the requirements elicitation process for AI applications and teaches participants how to work closely with data scientists and machine learning engineers to ensure that AI projects meet business goals.</p>
+
+
+
+<p>Learners gain insights into conversational AI tools, the differences between Natural Language Understanding (NLU) bots and rule-based bots, and best practices in conversation flow analysis. For business analysts, the course provides essential skills to guide AI initiatives that deliver real business value.</p>
+
+
+
+<p><strong>Prompt Engineering+: Master Speaking to AI</strong></p>
+
+
+
+<p>One valuable course is <a href="https://www.udemy.com/course/mastering-prompt-engineering-learn-to-how-to-talk-to-ai/?ranMID=39197&amp;ranEAID=50DJ9wK%2FdbY&amp;ranSiteID=50DJ9wK_dbY-2iw6FVISZouFLcoFu20mTg&amp;LSNPUBID=50DJ9wK%2FdbY&amp;utm_source=aff-campaign&amp;utm_medium=udemyads" target="_blank" rel="noreferrer noopener">Prompt Engineering+: Master Speaking to AI</a>, which teaches the art of creating precise instructions for generative AI models. &#8216;Prompt engineering&#8217; is essential for situations in which human intent must be accurately translated into AI output.</p>
+
+
+
+<p>The course covers prompt structure, including one-shot, few-shot, and zero-shot learning, as well as fundamental skills like natural language processing and Python programming. Students work with leading models including ChatGPT, Google Gemini, and DALL-E, and learn practical methods to refine and test prompts, control model output, and tackle inaccuracies.</p>
+
+
+
+<p>For those looking to work directly with generative AI, this course provides a foundational skill set to optimise AI interactions.</p>
+
+
+
+<p><strong>Canva AI: Master Canva AI Tools and Apps 2024</strong></p>
+
+
+
+<p>Content creators can benefit from <a href="https://www.udemy.com/course/canva-ai-master-canva-ai-tools-and-apps-chatgpt/?ranMID=39197&amp;ranEAID=50DJ9wK%2FdbY&amp;ranSiteID=50DJ9wK_dbY-U9ZbbJt_xmxPIrijzIWkbg&amp;LSNPUBID=50DJ9wK%2FdbY&amp;utm_source=aff-campaign&amp;utm_medium=udemyads&amp;couponCode=ST20MT111124B" target="_blank" rel="noreferrer noopener">Canva AI: Master Canva AI Tools and Apps 2024</a>, a course focused on using Canva’s AI-driven tools to streamline and enhance content production. This course introduces participants to Canva’s Magic Studio, where they explore tools for creating engaging social media posts, PDFs, videos, and presentations. From text-to-image conversions to speaking avatars, the course delves into AI tools that help creators produce content efficiently.</p>
+
+
+
+<p>Through hands-on projects, learners experience Canva AI’s capabilities, enabling them to produce a wide variety of content quickly and effectively—a valuable skill for social media, marketing, and creative professionals.</p>
+
+
+
+<h2 class="wp-block-heading">Conclusion</h2>
+
+
+
+<p>These courses offer a comprehensive toolkit for mastering AI skills in various fields. Embracing these opportunities can empower professionals to lead, create, and adapt in an AI-driven organisations. Whether you’re a business leader, a content creator, or a data professional, investing in AI skills prepares you to navigate the future with confidence and purpose.</p>
+
+
+
+<p><strong>See also: <a target="_blank" href="https://www.artificialintelligence-news.com/news/understanding-ai-impact-on-the-workforce/" rel="noreferrer noopener">Understanding AI&#8217;s impact on the workforce</a></strong></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.ai-expo.net/"><img loading="lazy" decoding="async" width="728" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" alt="" class="wp-image-11874" srcset="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png 728w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-300x37.png 300w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-380x47.png 380w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-350x43.png 350w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-100x12.png 100w, https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01-60x7.png 60w" sizes="auto, (max-width: 728px) 100vw, 728px" /></a></figure>
+
+
+
+<p><strong>Want to learn more about AI and big data from industry leaders?</strong> Check out<a href="https://www.ai-expo.net/"> AI &amp; Big Data Expo</a> taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including <a href="https://intelligentautomation-conference.com/northamerica/">Intelligent Automation Conference</a>, <a href="https://www.blockchain-expo.com/">BlockX</a>,<a href="https://digitaltransformation-week.com/"> Digital Transformation Week</a>, and <a href="https://www.cybersecuritycloudexpo.com/">Cyber Security &amp; Cloud Expo</a>.</p>
+
+
+
+<p>Explore other upcoming enterprise technology events and webinars powered by TechForge <a href="https://techforge.pub/events/">here</a>.</p>
+<p>The post <a href="https://www.artificialintelligence-news.com/news/ai-courses-to-boost-your-skills-and-stay-ahead-in-a-rapidly-evolving-field/">AI courses to boost your skills and stay ahead</a> appeared first on <a href="https://www.artificialintelligence-news.com">AI News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.artificialintelligence-news.com/news/ai-courses-to-boost-your-skills-and-stay-ahead-in-a-rapidly-evolving-field/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
